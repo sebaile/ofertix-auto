@@ -13,6 +13,7 @@ import { env, raiz, datos, chile, chileAUtc, tg, avisar, botones, enviarFotos, c
 import { candidatas, sigueVigente, elegirConImagen, nombreNorm } from './ofertas-db.mjs';
 import { renderizar, htmlHistoria, htmlHistoriaResumen, htmlCarrusel1, htmlCarrusel2, horaVisto, htmlTopPortada, htmlTopLista, htmlTopCierre, EDUCATIVOS, htmlEducativo } from './plantillas.mjs';
 import { renderizar as renderizarReel } from './reel-motor.mjs';
+import { medir } from './medir.mjs';
 import { PLAN, HORARIO_HIST, enVentana, temaDelDia, numeroSemana } from './plan.mjs';
 
 const [, , cmd, ...resto] = process.argv;
@@ -225,6 +226,7 @@ async function tickUna() {
   }
   // 2. Vencidos
   for (const i of abiertos(estado)) if (i.estado === 'pendiente' && new Date(i.limite).getTime() < ahoraMs) { i.estado = 'descartado'; await quitarBotones(i); await avisar(`⌛ Pasó la hora límite sin respuesta: ${i.tipo} de hoy descartado. No se publicó nada.`); }
+  try { await medir(estado); } catch (e) { console.error('Medición:', e.message); }
   guardarEstado(estado); subirCambios('Estado y comandos');
   if (flags.has('--sin-publicar')) { console.log('Modo prueba (--sin-publicar): no se publica nada.'); for (const [k, i] of Object.entries(estado.items)) console.log(' ', k, '->', i.estado); return false; }
 
@@ -316,5 +318,6 @@ try {
     for (const s of slots) { const nombre = s.id ?? s; try { if (s === 'prueba-historia') await pruebaHistoria(); else await preparar(s); } catch (e) { console.error(`${nombre}:`, e.message); if (!simulacro) await avisar(`⚠️ No pude preparar ${nombre}: ${String(e.message).slice(0, 200)}`).catch(() => {}); } }
     if (!simulacro) { subirCambios('Borradores'); relanzarRevision(); }
   } else if (cmd === 'tick') await tick();
+  else if (cmd === 'medir') { const e = leerEstado(); await medir(e, { forzar: true }); guardarEstado(e); subirCambios('Informe de medición'); }
   else console.log('Uso: node tools/nube.mjs preparar [historias|carrusel|reel|prueba-historia] [--forzar] [--simulacro] | tick [--bucle] [--sin-publicar]');
 } catch (e) { console.error(e); process.exit(1); }

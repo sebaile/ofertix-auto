@@ -1,300 +1,309 @@
 {
- "offset": 44460906,
- "usadas": {
-  "67319": "2026-10-09T21:07:47.598Z",
-  "67333": "2026-10-09T21:13:30.796Z",
-  "279009": "2026-10-09T22:32:10.226Z",
-  "300139": "2026-10-09T20:48:53.988Z",
-  "333546": "2026-10-09T21:13:30.796Z",
-  "333563": "2026-10-09T21:13:30.795Z",
-  "468623": "2026-10-09T21:18:26.992Z",
-  "716674": "2026-10-09T22:32:10.226Z",
-  "718625": "2026-10-09T22:32:10.226Z",
-  "912406": "2026-10-09T21:56:01.891Z",
-  "912408": "2026-10-09T22:32:10.226Z",
-  "955741": "2026-10-09T22:32:10.226Z"
- },
- "nombres": {
-  "encimera a gas 5 quemadores gris": "2026-10-09T21:07:47.599Z",
-  "hyperx audifonos hyperx cloud mini ultraliviano multiplataforma 3 5mm": "2026-10-09T21:13:30.796Z",
-  "horno xl rotisserie oster 60 l manual gris tssttv60mns": "2026-10-09T21:13:30.796Z",
-  "marshall parlante bluetooth acton iii negro marshall": "2026-10-09T21:13:30.796Z",
-  "primaterm estufa calefactor electrico alumax 500w primaterm": "2026-10-09T21:18:26.992Z",
-  "edicion digital de lujo de returnal ps5": "2026-10-09T21:56:01.891Z",
-  "europa universalis iv ultimate bundle": "2026-10-09T22:32:10.226Z",
-  "atomic heart ps4 ps5 ps4 ps5": "2026-10-09T22:32:10.226Z",
-  "kit master g monitor parlante mgmg2730 mgsbg2": "2026-10-09T22:32:10.226Z",
-  "gorro animal mixvans": "2026-10-09T22:32:10.226Z",
-  "ralph lauren polo sport fresh edt 125 ml h": "2026-10-09T22:32:10.226Z"
- },
- "items": {
-  "2026-10-09-carrusel": {
-   "tipo": "carrusel",
-   "fecha": "2026-10-09",
-   "estado": "descartado",
-   "ofertas": [
-    {
-     "id": "67319",
-     "nombre": "Encimera A Gas 5 Quemadores Gris",
-     "tienda": "Mercado Libre",
-     "ahora": 179990,
-     "antes": 359990,
-     "pct": 50,
-     "rubro": "hogar",
-     "esMinimo": true,
-     "dias": 59,
-     "visto": "17:21"
-    }
-   ],
-   "archivos": [
-    "datos/borrador/2026-10-09/carrusel-1.jpg",
-    "datos/borrador/2026-10-09/carrusel-2.jpg"
-   ],
-   "texto": "🔥 OFERTA DEL DÍA\nEncimera A Gas 5 Quemadores Gris\nAhora: $179.990 (-50%)\nReferencia: $359.990\n🏪 Mercado Libre\n\n✅ Precio visto hoy a las 17:21 en nuestro sistema.\n📉 Es el precio más bajo de los últimos 59 días.\n⏰ Puede cambiar o agotarse sin aviso.\n📲 Enlace directo en Telegram: t.me/ofertixcl\n\n#ofertaschile #hogar #descuentoschile #ofertix #ofertasdeldia",
-   "limite": "2026-10-10T01:52:42.767Z",
-   "nonce": "82222e7a",
-   "mensajeId": 19
+  "offset": 44460906,
+  "usadas": {
+    "67319": "2026-10-09T21:07:47.598Z",
+    "67333": "2026-10-09T21:13:30.796Z",
+    "279009": "2026-10-09T22:32:10.226Z",
+    "300139": "2026-10-09T20:48:53.988Z",
+    "333546": "2026-10-09T21:13:30.796Z",
+    "333563": "2026-10-09T21:13:30.795Z",
+    "468623": "2026-10-09T21:18:26.992Z",
+    "716674": "2026-10-09T22:32:10.226Z",
+    "718625": "2026-10-09T22:32:10.226Z",
+    "912406": "2026-10-09T21:56:01.891Z",
+    "912408": "2026-10-09T22:32:10.226Z",
+    "955741": "2026-10-09T22:32:10.226Z"
   },
-  "2026-10-09-prueba-1791580037776": {
-   "tipo": "historias",
-   "fecha": "2026-10-09",
-   "estado": "terminado",
-   "prueba": true,
-   "ofertas": [
-    {
-     "id": "67319",
-     "nombre": "Encimera A Gas 5 Quemadores Gris",
-     "tienda": "Mercado Libre",
-     "ahora": 179990,
-     "antes": 359990,
-     "pct": 50,
-     "rubro": "hogar",
-     "esMinimo": true,
-     "dias": 59,
-     "visto": "17:21"
-    }
-   ],
-   "limite": "2026-10-09T22:07:17.777Z",
-   "plan": [
-    {
-     "hora": "ahora",
-     "etiqueta": "PRUEBA",
-     "objetivo": "2026-10-09T21:07:17.777Z",
-     "oferta": {
-      "id": "67319",
-      "nombre": "Encimera A Gas 5 Quemadores Gris",
-      "tienda": "Mercado Libre",
-      "ahora": 179990,
-      "antes": 359990,
-      "pct": 50,
-      "rubro": "hogar",
-      "esMinimo": true,
-      "dias": 59,
-      "visto": "17:21"
-     },
-     "archivo": "datos/borrador/2026-10-09/prueba-historia-1791580037776.jpg",
-     "hecho": "publicada",
-     "id": "17976233010128609"
-    }
-   ]
+  "nombres": {
+    "encimera a gas 5 quemadores gris": "2026-10-09T21:07:47.599Z",
+    "hyperx audifonos hyperx cloud mini ultraliviano multiplataforma 3 5mm": "2026-10-09T21:13:30.796Z",
+    "horno xl rotisserie oster 60 l manual gris tssttv60mns": "2026-10-09T21:13:30.796Z",
+    "marshall parlante bluetooth acton iii negro marshall": "2026-10-09T21:13:30.796Z",
+    "primaterm estufa calefactor electrico alumax 500w primaterm": "2026-10-09T21:18:26.992Z",
+    "edicion digital de lujo de returnal ps5": "2026-10-09T21:56:01.891Z",
+    "europa universalis iv ultimate bundle": "2026-10-09T22:32:10.226Z",
+    "atomic heart ps4 ps5 ps4 ps5": "2026-10-09T22:32:10.226Z",
+    "kit master g monitor parlante mgmg2730 mgsbg2": "2026-10-09T22:32:10.226Z",
+    "gorro animal mixvans": "2026-10-09T22:32:10.226Z",
+    "ralph lauren polo sport fresh edt 125 ml h": "2026-10-09T22:32:10.226Z"
   },
-  "2026-10-09-reel-prueba-1791580276303": {
-   "tipo": "reel",
-   "fecha": "2026-10-09",
-   "ofertas": [
-    {
-     "id": "333563",
-     "nombre": "HYPERX Audífonos HyperX Cloud Mini Ultraliviano Multiplataforma 3.5mm",
-     "tienda": "Falabella",
-     "ahora": 19990,
-     "antes": 54990,
-     "pct": 63,
-     "rubro": "gamer",
-     "esMinimo": true,
-     "dias": 64,
-     "visto": "17:21"
+  "items": {
+    "2026-10-09-carrusel": {
+      "tipo": "carrusel",
+      "fecha": "2026-10-09",
+      "estado": "descartado",
+      "ofertas": [
+        {
+          "id": "67319",
+          "nombre": "Encimera A Gas 5 Quemadores Gris",
+          "tienda": "Mercado Libre",
+          "ahora": 179990,
+          "antes": 359990,
+          "pct": 50,
+          "rubro": "hogar",
+          "esMinimo": true,
+          "dias": 59,
+          "visto": "17:21"
+        }
+      ],
+      "archivos": [
+        "datos/borrador/2026-10-09/carrusel-1.jpg",
+        "datos/borrador/2026-10-09/carrusel-2.jpg"
+      ],
+      "texto": "🔥 OFERTA DEL DÍA\nEncimera A Gas 5 Quemadores Gris\nAhora: $179.990 (-50%)\nReferencia: $359.990\n🏪 Mercado Libre\n\n✅ Precio visto hoy a las 17:21 en nuestro sistema.\n📉 Es el precio más bajo de los últimos 59 días.\n⏰ Puede cambiar o agotarse sin aviso.\n📲 Enlace directo en Telegram: t.me/ofertixcl\n\n#ofertaschile #hogar #descuentoschile #ofertix #ofertasdeldia",
+      "limite": "2026-10-10T01:52:42.767Z",
+      "nonce": "82222e7a",
+      "mensajeId": 19
     },
-    {
-     "id": "67333",
-     "nombre": "Horno Xl Rotisserie Oster, 60 L, Manual, Gris, Tssttv60mns",
-     "tienda": "Mercado Libre",
-     "ahora": 87990,
-     "antes": 159990,
-     "pct": 45,
-     "rubro": "hogar",
-     "esMinimo": true,
-     "dias": 74,
-     "visto": "17:21"
+    "2026-10-09-prueba-1791580037776": {
+      "tipo": "historias",
+      "fecha": "2026-10-09",
+      "estado": "terminado",
+      "prueba": true,
+      "ofertas": [
+        {
+          "id": "67319",
+          "nombre": "Encimera A Gas 5 Quemadores Gris",
+          "tienda": "Mercado Libre",
+          "ahora": 179990,
+          "antes": 359990,
+          "pct": 50,
+          "rubro": "hogar",
+          "esMinimo": true,
+          "dias": 59,
+          "visto": "17:21"
+        }
+      ],
+      "limite": "2026-10-09T22:07:17.777Z",
+      "plan": [
+        {
+          "hora": "ahora",
+          "etiqueta": "PRUEBA",
+          "objetivo": "2026-10-09T21:07:17.777Z",
+          "oferta": {
+            "id": "67319",
+            "nombre": "Encimera A Gas 5 Quemadores Gris",
+            "tienda": "Mercado Libre",
+            "ahora": 179990,
+            "antes": 359990,
+            "pct": 50,
+            "rubro": "hogar",
+            "esMinimo": true,
+            "dias": 59,
+            "visto": "17:21"
+          },
+          "archivo": "datos/borrador/2026-10-09/prueba-historia-1791580037776.jpg",
+          "hecho": "publicada",
+          "id": "17976233010128609"
+        }
+      ]
     },
-    {
-     "id": "333546",
-     "nombre": "MARSHALL Parlante Bluetooth Acton III Negro Marshall",
-     "tienda": "Falabella",
-     "ahora": 199990,
-     "antes": 339990,
-     "pct": 41,
-     "rubro": "tecnologia",
-     "esMinimo": true,
-     "dias": 87,
-     "visto": "17:21"
+    "2026-10-09-reel-prueba-1791580276303": {
+      "tipo": "reel",
+      "fecha": "2026-10-09",
+      "ofertas": [
+        {
+          "id": "333563",
+          "nombre": "HYPERX Audífonos HyperX Cloud Mini Ultraliviano Multiplataforma 3.5mm",
+          "tienda": "Falabella",
+          "ahora": 19990,
+          "antes": 54990,
+          "pct": 63,
+          "rubro": "gamer",
+          "esMinimo": true,
+          "dias": 64,
+          "visto": "17:21"
+        },
+        {
+          "id": "67333",
+          "nombre": "Horno Xl Rotisserie Oster, 60 L, Manual, Gris, Tssttv60mns",
+          "tienda": "Mercado Libre",
+          "ahora": 87990,
+          "antes": 159990,
+          "pct": 45,
+          "rubro": "hogar",
+          "esMinimo": true,
+          "dias": 74,
+          "visto": "17:21"
+        },
+        {
+          "id": "333546",
+          "nombre": "MARSHALL Parlante Bluetooth Acton III Negro Marshall",
+          "tienda": "Falabella",
+          "ahora": 199990,
+          "antes": 339990,
+          "pct": 41,
+          "rubro": "tecnologia",
+          "esMinimo": true,
+          "dias": 87,
+          "visto": "17:21"
+        }
+      ],
+      "archivos": [
+        "datos/borrador/2026-10-09/reel.mp4"
+      ],
+      "texto": "🔥 3 ofertas de hoy\n1. HYPERX Audífonos HyperX Cloud Mini Ultraliviano Multiplataforma 3.5mm: $19.990 (-63%, referencia $54.990) en Falabella · 📉 mínimo de 64 días\n2. Horno Xl Rotisserie Oster, 60 L, Manual, Gris, Tssttv60mns: $87.990 (-45%, referencia $159.990) en Mercado Libre · 📉 mínimo de 74 días\n3. MARSHALL Parlante Bluetooth Acton III Negro Marshall: $199.990 (-41%, referencia $339.990) en Falabella · 📉 mínimo de 87 días\n\n⏰ Precios vistos hoy (9/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar",
+      "limite": "2026-10-10T01:42:12.051Z",
+      "nonce": "48c5fa24",
+      "estado": "publicado",
+      "prueba": true,
+      "mensajeId": 23,
+      "id": "18411676381091713",
+      "enlace": "https://www.instagram.com/reel/DeScpcfEhcc/"
+    },
+    "2026-10-09-carrusel-prueba-1791580608729": {
+      "tipo": "carrusel",
+      "fecha": "2026-10-09",
+      "ofertas": [
+        {
+          "id": "468623",
+          "nombre": "PRIMATERM Estufa Calefactor Eléctrico Alumax 500w PRIMATERM",
+          "tienda": "Falabella Marketplace",
+          "ahora": 49990,
+          "antes": 89990,
+          "pct": 44,
+          "rubro": "hogar",
+          "esMinimo": true,
+          "dias": 71,
+          "visto": "17:21"
+        }
+      ],
+      "archivos": [
+        "datos/borrador/2026-10-09/carrusel-1.jpg",
+        "datos/borrador/2026-10-09/carrusel-2.jpg"
+      ],
+      "texto": "🔥 OFERTA DEL DÍA\nPRIMATERM Estufa Calefactor Eléctrico Alumax 500w PRIMATERM\nAhora: $49.990 (-44%)\nReferencia: $89.990\n🏪 Falabella Marketplace\n\n✅ Precio visto hoy a las 17:21 en nuestro sistema.\n📉 Es el precio más bajo de los últimos 71 días.\n⏰ Puede cambiar o agotarse sin aviso.\n📲 Enlace directo en Telegram: t.me/ofertixcl\n\n#ofertaschile #hogar #descuentoschile #ofertix #ofertasdeldia",
+      "limite": "2026-10-10T02:17:29.399Z",
+      "nonce": "d45b8627",
+      "estado": "publicado",
+      "prueba": true,
+      "mensajeId": 30,
+      "id": "18105247496572235",
+      "enlace": "https://www.instagram.com/p/DeSdOIsgRWt/"
+    },
+    "2026-10-09-carrusel-b": {
+      "tipo": "carrusel",
+      "slot": "carrusel-b",
+      "fecha": "2026-10-09",
+      "ofertas": [
+        {
+          "id": "912406",
+          "nombre": "Edición digital de lujo de Returnal (PS5)",
+          "tienda": "PlayStation Store",
+          "ahora": 19622,
+          "antes": 78519,
+          "pct": 75,
+          "rubro": "gamer",
+          "esMinimo": false,
+          "dias": 0,
+          "visto": "17:57"
+        }
+      ],
+      "archivos": [
+        "datos/borrador/2026-10-09/carrusel-b-1.jpg",
+        "datos/borrador/2026-10-09/carrusel-b-2.jpg"
+      ],
+      "texto": "🔥 OFERTA DEL DÍA\nEdición digital de lujo de Returnal (PS5)\nAhora: $19.622 (-75%)\nReferencia: $78.519\n🏪 PlayStation Store\n\n✅ Precio visto hoy a las 17:57 en nuestro sistema.\n⏰ Puede cambiar o agotarse sin aviso.\n📲 Enlace directo en Telegram: t.me/ofertixcl\n\n#ofertaschile #gamer #descuentoschile #ofertix #ofertasdeldia",
+      "limite": "2026-10-10T00:30:00.000Z",
+      "nonce": "2b0011f1",
+      "estado": "publicado",
+      "publicarDesde": "2026-10-09T21:55:03.855Z",
+      "mensajeId": 34,
+      "id": "18092881679446109",
+      "enlace": "https://www.instagram.com/p/DeShhyHgdkX/",
+      "medidas": {
+        "reach": 1,
+        "saved": 0,
+        "shares": 0,
+        "likes": 0,
+        "comments": 0,
+        "al": "2026-10-09T22:37:00.015Z"
+      }
+    },
+    "2026-10-09-carrusel-b-prueba-1791584991078": {
+      "tipo": "carrusel",
+      "slot": "carrusel-b",
+      "fecha": "2026-10-09",
+      "ofertas": [
+        {
+          "id": "955741",
+          "nombre": "Europa Universalis IV: Ultimate Bundle",
+          "tienda": "GOG",
+          "ahora": 49071,
+          "antes": 196312,
+          "pct": 75,
+          "rubro": "otros",
+          "esMinimo": false,
+          "dias": 0,
+          "visto": "17:58"
+        },
+        {
+          "id": "912408",
+          "nombre": "Atomic Heart (PS4 & PS5) (PS4/PS5)",
+          "tienda": "PlayStation Store",
+          "ahora": 17168,
+          "antes": 68703,
+          "pct": 75,
+          "rubro": "gamer",
+          "esMinimo": false,
+          "dias": 0,
+          "visto": "19:19"
+        },
+        {
+          "id": "279009",
+          "nombre": "Kit Master-G Monitor + Parlante MGMG2730 + MGSBG2",
+          "tienda": "Reuse",
+          "ahora": 149990,
+          "antes": 299990,
+          "pct": 50,
+          "rubro": "tecnologia",
+          "esMinimo": false,
+          "dias": 3,
+          "visto": "18:41"
+        },
+        {
+          "id": "718625",
+          "nombre": "Gorro Animal MixVans",
+          "tienda": "Vans",
+          "ahora": 16990,
+          "antes": 39990,
+          "pct": 57,
+          "rubro": "moda",
+          "esMinimo": false,
+          "dias": 1,
+          "visto": "18:40"
+        },
+        {
+          "id": "716674",
+          "nombre": "Ralph Lauren Polo Sport Fresh EDT 125 ML (H)",
+          "tienda": "Perfumes Chile",
+          "ahora": 25900,
+          "antes": 59900,
+          "pct": 56,
+          "rubro": "perfumes",
+          "esMinimo": false,
+          "dias": 1,
+          "visto": "18:36"
+        }
+      ],
+      "archivos": [
+        "datos/borrador/2026-10-09/carrusel-b-1.jpg",
+        "datos/borrador/2026-10-09/carrusel-b-2.jpg",
+        "datos/borrador/2026-10-09/carrusel-b-3.jpg"
+      ],
+      "texto": "🏆 Ofertas para el fin de semana\n1. Europa Universalis IV: Ultimate Bundle: $49.071 (-75%) en GOG\n2. Atomic Heart (PS4 & PS5) (PS4/PS5): $17.168 (-75%) en PlayStation Store\n3. Kit Master-G Monitor + Parlante MGMG2730 + MGSBG2: $149.990 (-50%) en Reuse\n4. Gorro Animal MixVans: $16.990 (-57%) en Vans\n5. Ralph Lauren Polo Sport Fresh EDT 125 ML (H): $25.900 (-56%) en Perfumes Chile\n\n⏰ Precios vistos hoy (9/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #top5 #descuentoschile #ofertix #ahorrar",
+      "limite": "2026-10-10T00:30:00.000Z",
+      "nonce": "f83a52bb",
+      "estado": "publicado",
+      "prueba": true,
+      "mensajeId": 39,
+      "id": "18117785632966566",
+      "enlace": "https://www.instagram.com/p/DeSlqWZkedR/"
     }
-   ],
-   "archivos": [
-    "datos/borrador/2026-10-09/reel.mp4"
-   ],
-   "texto": "🔥 3 ofertas de hoy\n1. HYPERX Audífonos HyperX Cloud Mini Ultraliviano Multiplataforma 3.5mm: $19.990 (-63%, referencia $54.990) en Falabella · 📉 mínimo de 64 días\n2. Horno Xl Rotisserie Oster, 60 L, Manual, Gris, Tssttv60mns: $87.990 (-45%, referencia $159.990) en Mercado Libre · 📉 mínimo de 74 días\n3. MARSHALL Parlante Bluetooth Acton III Negro Marshall: $199.990 (-41%, referencia $339.990) en Falabella · 📉 mínimo de 87 días\n\n⏰ Precios vistos hoy (9/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar",
-   "limite": "2026-10-10T01:42:12.051Z",
-   "nonce": "48c5fa24",
-   "estado": "publicado",
-   "prueba": true,
-   "mensajeId": 23,
-   "id": "18411676381091713",
-   "enlace": "https://www.instagram.com/reel/DeScpcfEhcc/"
   },
-  "2026-10-09-carrusel-prueba-1791580608729": {
-   "tipo": "carrusel",
-   "fecha": "2026-10-09",
-   "ofertas": [
-    {
-     "id": "468623",
-     "nombre": "PRIMATERM Estufa Calefactor Eléctrico Alumax 500w PRIMATERM",
-     "tienda": "Falabella Marketplace",
-     "ahora": 49990,
-     "antes": 89990,
-     "pct": 44,
-     "rubro": "hogar",
-     "esMinimo": true,
-     "dias": 71,
-     "visto": "17:21"
-    }
-   ],
-   "archivos": [
-    "datos/borrador/2026-10-09/carrusel-1.jpg",
-    "datos/borrador/2026-10-09/carrusel-2.jpg"
-   ],
-   "texto": "🔥 OFERTA DEL DÍA\nPRIMATERM Estufa Calefactor Eléctrico Alumax 500w PRIMATERM\nAhora: $49.990 (-44%)\nReferencia: $89.990\n🏪 Falabella Marketplace\n\n✅ Precio visto hoy a las 17:21 en nuestro sistema.\n📉 Es el precio más bajo de los últimos 71 días.\n⏰ Puede cambiar o agotarse sin aviso.\n📲 Enlace directo en Telegram: t.me/ofertixcl\n\n#ofertaschile #hogar #descuentoschile #ofertix #ofertasdeldia",
-   "limite": "2026-10-10T02:17:29.399Z",
-   "nonce": "d45b8627",
-   "estado": "publicado",
-   "prueba": true,
-   "mensajeId": 30,
-   "id": "18105247496572235",
-   "enlace": "https://www.instagram.com/p/DeSdOIsgRWt/"
+  "config": {
+    "modo": "auto",
+    "pausado": false
   },
-  "2026-10-09-carrusel-b": {
-   "tipo": "carrusel",
-   "slot": "carrusel-b",
-   "fecha": "2026-10-09",
-   "ofertas": [
-    {
-     "id": "912406",
-     "nombre": "Edición digital de lujo de Returnal (PS5)",
-     "tienda": "PlayStation Store",
-     "ahora": 19622,
-     "antes": 78519,
-     "pct": 75,
-     "rubro": "gamer",
-     "esMinimo": false,
-     "dias": 0,
-     "visto": "17:57"
-    }
-   ],
-   "archivos": [
-    "datos/borrador/2026-10-09/carrusel-b-1.jpg",
-    "datos/borrador/2026-10-09/carrusel-b-2.jpg"
-   ],
-   "texto": "🔥 OFERTA DEL DÍA\nEdición digital de lujo de Returnal (PS5)\nAhora: $19.622 (-75%)\nReferencia: $78.519\n🏪 PlayStation Store\n\n✅ Precio visto hoy a las 17:57 en nuestro sistema.\n⏰ Puede cambiar o agotarse sin aviso.\n📲 Enlace directo en Telegram: t.me/ofertixcl\n\n#ofertaschile #gamer #descuentoschile #ofertix #ofertasdeldia",
-   "limite": "2026-10-10T00:30:00.000Z",
-   "nonce": "2b0011f1",
-   "estado": "publicado",
-   "publicarDesde": "2026-10-09T21:55:03.855Z",
-   "mensajeId": 34,
-   "id": "18092881679446109",
-   "enlace": "https://www.instagram.com/p/DeShhyHgdkX/"
-  },
-  "2026-10-09-carrusel-b-prueba-1791584991078": {
-   "tipo": "carrusel",
-   "slot": "carrusel-b",
-   "fecha": "2026-10-09",
-   "ofertas": [
-    {
-     "id": "955741",
-     "nombre": "Europa Universalis IV: Ultimate Bundle",
-     "tienda": "GOG",
-     "ahora": 49071,
-     "antes": 196312,
-     "pct": 75,
-     "rubro": "otros",
-     "esMinimo": false,
-     "dias": 0,
-     "visto": "17:58"
-    },
-    {
-     "id": "912408",
-     "nombre": "Atomic Heart (PS4 & PS5) (PS4/PS5)",
-     "tienda": "PlayStation Store",
-     "ahora": 17168,
-     "antes": 68703,
-     "pct": 75,
-     "rubro": "gamer",
-     "esMinimo": false,
-     "dias": 0,
-     "visto": "19:19"
-    },
-    {
-     "id": "279009",
-     "nombre": "Kit Master-G Monitor + Parlante MGMG2730 + MGSBG2",
-     "tienda": "Reuse",
-     "ahora": 149990,
-     "antes": 299990,
-     "pct": 50,
-     "rubro": "tecnologia",
-     "esMinimo": false,
-     "dias": 3,
-     "visto": "18:41"
-    },
-    {
-     "id": "718625",
-     "nombre": "Gorro Animal MixVans",
-     "tienda": "Vans",
-     "ahora": 16990,
-     "antes": 39990,
-     "pct": 57,
-     "rubro": "moda",
-     "esMinimo": false,
-     "dias": 1,
-     "visto": "18:40"
-    },
-    {
-     "id": "716674",
-     "nombre": "Ralph Lauren Polo Sport Fresh EDT 125 ML (H)",
-     "tienda": "Perfumes Chile",
-     "ahora": 25900,
-     "antes": 59900,
-     "pct": 56,
-     "rubro": "perfumes",
-     "esMinimo": false,
-     "dias": 1,
-     "visto": "18:36"
-    }
-   ],
-   "archivos": [
-    "datos/borrador/2026-10-09/carrusel-b-1.jpg",
-    "datos/borrador/2026-10-09/carrusel-b-2.jpg",
-    "datos/borrador/2026-10-09/carrusel-b-3.jpg"
-   ],
-   "texto": "🏆 Ofertas para el fin de semana\n1. Europa Universalis IV: Ultimate Bundle: $49.071 (-75%) en GOG\n2. Atomic Heart (PS4 & PS5) (PS4/PS5): $17.168 (-75%) en PlayStation Store\n3. Kit Master-G Monitor + Parlante MGMG2730 + MGSBG2: $149.990 (-50%) en Reuse\n4. Gorro Animal MixVans: $16.990 (-57%) en Vans\n5. Ralph Lauren Polo Sport Fresh EDT 125 ML (H): $25.900 (-56%) en Perfumes Chile\n\n⏰ Precios vistos hoy (9/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #top5 #descuentoschile #ofertix #ahorrar",
-   "limite": "2026-10-10T00:30:00.000Z",
-   "nonce": "f83a52bb",
-   "estado": "publicado",
-   "prueba": true,
-   "mensajeId": 39,
-   "id": "18117785632966566",
-   "enlace": "https://www.instagram.com/p/DeSlqWZkedR/"
-  }
- },
- "config": {
-  "modo": "auto",
-  "pausado": false
- }
+  "seguidores": 35
 }
