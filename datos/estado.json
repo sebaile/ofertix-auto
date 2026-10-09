@@ -77,6 +77,57 @@
      "id": "17976233010128609"
     }
    ]
+  },
+  "2026-10-09-reel-prueba-1791580276303": {
+   "tipo": "reel",
+   "fecha": "2026-10-09",
+   "ofertas": [
+    {
+     "id": "333563",
+     "nombre": "HYPERX Audífonos HyperX Cloud Mini Ultraliviano Multiplataforma 3.5mm",
+     "tienda": "Falabella",
+     "ahora": 19990,
+     "antes": 54990,
+     "pct": 63,
+     "rubro": "gamer",
+     "esMinimo": true,
+     "dias": 64,
+     "visto": "17:21"
+    },
+    {
+     "id": "67333",
+     "nombre": "Horno Xl Rotisserie Oster, 60 L, Manual, Gris, Tssttv60mns",
+     "tienda": "Mercado Libre",
+     "ahora": 87990,
+     "antes": 159990,
+     "pct": 45,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 74,
+     "visto": "17:21"
+    },
+    {
+     "id": "333546",
+     "nombre": "MARSHALL Parlante Bluetooth Acton III Negro Marshall",
+     "tienda": "Falabella",
+     "ahora": 199990,
+     "antes": 339990,
+     "pct": 41,
+     "rubro": "tecnologia",
+     "esMinimo": true,
+     "dias": 87,
+     "visto": "17:21"
+    }
+   ],
+   "archivos": [
+    "datos/borrador/2026-10-09/reel.mp4"
+   ],
+   "texto": "🔥 3 ofertas de hoy\n1. HYPERX Audífonos HyperX Cloud Mini Ultraliviano Multiplataforma 3.5mm: $19.990 (-63%, referencia $54.990) en Falabella · 📉 mínimo de 64 días\n2. Horno Xl Rotisserie Oster, 60 L, Manual, Gris, Tssttv60mns: $87.990 (-45%, referencia $159.990) en Mercado Libre · 📉 mínimo de 74 días\n3. MARSHALL Parlante Bluetooth Acton III Negro Marshall: $199.990 (-41%, referencia $339.990) en Falabella · 📉 mínimo de 87 días\n\n⏰ Precios vistos hoy (9/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar",
+   "limite": "2026-10-10T01:42:12.051Z",
+   "nonce": "48c5fa24",
+   "estado": "aprobado",
+   "prueba": true,
+   "mensajeId": 23
   }
  },
  "config": {
