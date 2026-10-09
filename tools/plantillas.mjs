@@ -32,14 +32,16 @@ const chips = o => `<span class="ok">VISTO A LAS ${horaVisto(o)} ✔</span>${o.e
 // ---------- Historias (1080x1920; zonas seguras: sin texto clave en los 270 px de arriba ni en los 400 de abajo) ----------
 const CSS_H = `${COMUN}html,body{width:1080px;height:1920px}body{padding:270px 90px 400px;display:flex;flex-direction:column;justify-content:center}
 .tag{font-size:42px;font-weight:700;letter-spacing:6px}.chip{font-size:46px}.ok,.min{font-size:36px}.pie{margin-top:40px;font-size:40px;font-weight:600;opacity:.92}`;
-export const htmlHistoria = (etiqueta, o) => `${FUENTE}<style>${CSS_H}</style><body class="dark"><div class="tag acc">${etiqueta}</div>
-  <div style="font-size:74px;font-weight:800;line-height:1.1;letter-spacing:-2px;margin-top:30px">${esc(o.nombre)}</div>
-  <div style="margin-top:24px"><span class="chip">${esc(o.tienda)}</span></div>
-  <div style="margin-top:44px"><div style="font-size:52px;text-decoration:line-through;opacity:.6">${fmt(o.antes)}</div>
-  <div class="acc" style="font-size:185px;font-weight:800;letter-spacing:-7px;line-height:1.1">${fmt(o.ahora)}</div>
-  <div style="display:inline-block;background:#fff;color:#FF2E63;font-size:70px;font-weight:800;border-radius:28px;padding:4px 38px;margin-top:14px">-${o.pct}%</div></div>
-  <div style="margin-top:34px;line-height:2.1">${chips(o)}</div>
-  <div class="pie">Enlace directo en Telegram: t.me/ofertixcl</div></body>`;
+const FOTO = `.foto{background:#fff;border-radius:36px;display:flex;align-items:center;justify-content:center;overflow:hidden}.foto img{max-width:100%;max-height:100%;object-fit:contain}`;
+export const htmlHistoria = (etiqueta, o) => `${FUENTE}<style>${CSS_H}${FOTO}</style><body class="dark"><div class="tag acc">${etiqueta}</div>
+  <div style="font-size:58px;font-weight:800;line-height:1.1;letter-spacing:-1px;margin-top:22px">${esc(o.nombre)}</div>
+  <div style="margin-top:16px"><span class="chip" style="font-size:38px;padding:6px 28px">${esc(o.tienda)}</span></div>
+  ${o.img ? `<div class="foto" style="width:900px;height:330px;margin-top:26px"><img src="${o.img}"></div>` : ''}
+  <div style="margin-top:22px"><div style="font-size:44px;text-decoration:line-through;opacity:.6">${fmt(o.antes)}</div>
+  <div class="acc" style="font-size:140px;font-weight:800;letter-spacing:-5px;line-height:1.1">${fmt(o.ahora)}</div>
+  <div style="display:inline-block;background:#fff;color:#FF2E63;font-size:58px;font-weight:800;border-radius:24px;padding:2px 32px;margin-top:8px">-${o.pct}%</div></div>
+  <div style="margin-top:20px;line-height:2">${chips(o)}</div>
+  <div class="pie" style="margin-top:22px;font-size:36px">Enlace directo en Telegram: t.me/ofertixcl</div></body>`;
 export const htmlHistoriaResumen = ofertas => `${FUENTE}<style>${CSS_H}</style><body class="grad"><div class="tag">RESUMEN DEL DÍA</div>
   <div style="font-size:100px;font-weight:800;line-height:1.05;letter-spacing:-3px;margin-top:30px">Las ofertas de hoy</div>
   <div style="margin-top:44px;font-size:42px;font-weight:600;line-height:1.35">${ofertas.map(o => `• ${esc(o.nombre.length > 44 ? o.nombre.slice(0, 42) + '…' : o.nombre)}`).join('<br>')}</div>
@@ -52,13 +54,14 @@ const CSS_C = `${COMUN}html,body{width:1080px;height:1350px}body{display:flex;fl
 .big{font-size:104px;font-weight:800;line-height:1.08;letter-spacing:-3px}.sub{font-size:44px;font-weight:500;line-height:1.4;margin-top:50px;opacity:.9}.ok,.min{font-size:30px}`;
 export const htmlCarrusel1 = o => {
   const hoy = new Date().toLocaleDateString('es-CL', { day: 'numeric', month: 'long', timeZone: 'America/Santiago' });
-  return `${FUENTE}<style>${CSS_C}</style><body class="grad"><div class="eyebrow">Oferta del día · ${hoy}</div>
-  <div style="font-size:78px;font-weight:800;line-height:1.1;letter-spacing:-2px;margin-top:34px">${esc(o.nombre)}</div>
-  <div style="font-size:38px;font-weight:500;margin-top:24px;opacity:.9">${esc(o.tienda)}</div>
-  <div style="margin-top:48px"><div style="font-size:48px;text-decoration:line-through;opacity:.75">${fmt(o.antes)}</div>
-  <div style="font-size:160px;font-weight:800;letter-spacing:-5px;line-height:1.05">${fmt(o.ahora)}</div>
-  <div style="display:inline-block;background:#fff;color:#FF2E63;font-size:54px;font-weight:800;border-radius:24px;padding:8px 30px;margin-top:16px">-${o.pct}%</div></div>
-  <div style="margin-top:34px;line-height:2.1">${chips(o)}</div>
+  return `${FUENTE}<style>${CSS_C}${FOTO}</style><body class="grad"><div class="eyebrow">Oferta del día · ${hoy}</div>
+  ${o.img ? `<div class="foto" style="width:900px;height:390px;margin-top:24px"><img src="${o.img}"></div>` : ''}
+  <div style="font-size:58px;font-weight:800;line-height:1.1;letter-spacing:-1px;margin-top:24px">${esc(o.nombre)}</div>
+  <div style="font-size:34px;font-weight:500;margin-top:10px;opacity:.9">${esc(o.tienda)}</div>
+  <div style="margin-top:20px;display:flex;align-items:flex-end;gap:30px"><div><div style="font-size:42px;text-decoration:line-through;opacity:.75">${fmt(o.antes)}</div>
+  <div style="font-size:124px;font-weight:800;letter-spacing:-4px;line-height:1.05">${fmt(o.ahora)}</div></div>
+  <div style="background:#fff;color:#FF2E63;font-size:54px;font-weight:800;border-radius:24px;padding:8px 28px;margin-bottom:16px">-${o.pct}%</div></div>
+  <div style="margin-top:18px;line-height:2.1">${chips(o)}</div>
   <div class="foot">@ofertixcl.oficial</div><div class="pg">1/2</div></body>`;
 };
 export const htmlCarrusel2 = o => `${FUENTE}<style>${CSS_C}</style><body class="dark"><div class="eyebrow acc">Cómo conseguirla</div>

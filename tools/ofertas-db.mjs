@@ -28,7 +28,7 @@ export async function candidatas({ excluirIds = [], edadMin = 120, minDesc = 40,
   try {
     const { rows } = await c.query(`
       WITH base AS (
-        SELECT o.id, o.name, o.brand, o.category, o.url, o.original_price AS antes, o.current_price AS ahora, o.discount_pct AS pct,
+        SELECT o.id, o.name, o.brand, o.category, o.url, o.image_url, o.original_price AS antes, o.current_price AS ahora, o.discount_pct AS pct,
                o.last_seen_at, o.updated_at, s.name AS tienda, ${RUBRO_SQL} AS rubro
         FROM offers o JOIN stores s ON s.id = o.store_id
         WHERE o.is_active AND NOT o.price_inflated AND s.enabled
@@ -74,5 +74,34 @@ export function elegirVariadas(cands, n, { maxPorRubro = 1, permitirLibros = tru
   const elegidas = [], cuenta = new Map();
   for (const o of orden) { if (elegidas.length === n) break; if ((cuenta.get(o.rubro) ?? 0) >= maxPorRubro) continue; elegidas.push(o); cuenta.set(o.rubro, (cuenta.get(o.rubro) ?? 0) + 1); }
   if (elegidas.length < n) for (const o of orden) { if (elegidas.length === n) break; if (!elegidas.includes(o) && (cuenta.get(o.rubro) ?? 0) < maxPorRubro + 1) { elegidas.push(o); cuenta.set(o.rubro, (cuenta.get(o.rubro) ?? 0) + 1); } }
+  return elegidas;
+}
+
+// ---------- Selección autónoma con foto de referencia ----------
+// Productos que no se publican solos (alcohol, tabaco, armas, adultos, salud y similares).
+const PROHIBIDAS = /licor|\bvinos?\b|cerveza|whisk|vodka|\bron\b|pisco|tabaco|cigarr|vape|arma\b|pistola|escopeta|rifle|sexual|er[oó]tic|cond[oó]n|preservativ|lubricante|medicament|suplemento|esteroid|kratom|cbd|cannabis|apuesta/i;
+const normTxt = s => s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/[^a-z0-9 ]/g, ' ').replace(/\s+/g, ' ').trim();
+const tokens = s => new Set(normTxt(s).split(' ').filter(w => w.length > 2));
+export const nombreNorm = s => normTxt(s);
+export function parecido(a, b) {                                   // mismo producto aunque lo liste otra tienda
+  const A = tokens(a), B = tokens(b); if (A.size < 3 || B.size < 3) return false;
+  let i = 0; A.forEach(w => B.has(w) && i++); return i / Math.min(A.size, B.size) >= 0.8;
+}
+export async function elegirConImagen(cands, n, { traerImagen, nombresUsados = [], maxPorRubro = 1, permitirLibros = true, maxIntentos = 60 } = {}) {
+  const puntaje = o => Math.min(o.pct, 60) + (o.esMinimo ? 30 : 0) + (o.antes - o.ahora >= 50000 ? 10 : 0);
+  const orden = cands.filter(o => o.image_url && o.nombre.length <= 70 && o.pct <= 75 && !PROHIBIDAS.test(`${o.name} ${o.category ?? ''}`)
+      && !/open box|reacondicionad|usado|outlet|�/i.test(o.name) && !/[a-záéíóúñ]\.[a-záéíóúñ]/i.test(o.name)
+      && !nombresUsados.some(u => parecido(u, o.name)) && (permitirLibros || o.rubro !== 'libros')).sort((a, b) => puntaje(b) - puntaje(a));
+  const elegidas = [], cuenta = new Map(), fallidas = new Set(); let intentos = 0;
+  for (const tope of [maxPorRubro, maxPorRubro + 1]) {
+    for (const o of orden) {
+      if (elegidas.length === n) return elegidas;
+      if (fallidas.has(o.id) || elegidas.some(e => e.id === o.id || parecido(e.name, o.name)) || (cuenta.get(o.rubro) ?? 0) >= tope) continue;
+      if (++intentos > maxIntentos) return elegidas;
+      const img = await traerImagen(o.image_url);
+      if (!img) { fallidas.add(o.id); continue; }
+      elegidas.push({ ...o, img }); cuenta.set(o.rubro, (cuenta.get(o.rubro) ?? 0) + 1);
+    }
+  }
   return elegidas;
 }

@@ -1,6 +1,8 @@
 // Utilidades comunes: entorno, hora de Chile, Telegram, API de Instagram, estado y repositorio.
 import { readFileSync, writeFileSync, existsSync, mkdirSync } from 'node:fs';
 import { join, resolve } from 'node:path';
+import { execFileSync } from 'node:child_process';
+import sharp from 'sharp';
 
 export const raiz = resolve(import.meta.dirname, '..');
 // Local: lee .env o tools/.env. En GitHub Actions las variables llegan como secretos.
@@ -65,6 +67,21 @@ export async function contenedor(params, intentos = 60, cada = 5000) {   // crea
 export const publicarContenedor = async id => (await ig(`${env.IG_USER_ID}/media_publish`, { creation_id: id })).id;
 export async function enlacePublicacion(id) { try { return (await ig(id, { fields: 'permalink' }, 'GET')).permalink ?? ''; } catch { return ''; } }
 
+// ---------- Foto de referencia del producto ----------
+// Descarga la imagen de la oferta (desde el servidor, no desde el navegador), la valida y la deja lista para incrustar en la plantilla.
+export async function traerImagen(url) {
+  if (!url || !/^https?:\/\//i.test(url)) return null;
+  try {
+    const r = await fetch(url, { headers: { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/124 Safari/537.36', Accept: 'image/avif,image/webp,image/*,*/*;q=0.8' }, signal: AbortSignal.timeout(15000) });
+    if (!r.ok || !(r.headers.get('content-type') ?? '').startsWith('image/')) return null;
+    const buf = Buffer.from(await r.arrayBuffer());
+    if (buf.length < 3000 || buf.length > 10e6) return null;
+    const out = await sharp(buf).rotate().resize({ width: 900, height: 900, fit: 'inside' }).flatten({ background: '#ffffff' }).jpeg({ quality: 86 }).toBuffer();
+    const m = await sharp(out).metadata();
+    return m.width >= 200 && m.height >= 200 ? 'data:image/jpeg;base64,' + out.toString('base64') : null;
+  } catch { return null; }
+}
+
 // ---------- Archivos públicos del repositorio ----------
 export const urlPublica = ruta => `https://raw.githubusercontent.com/${REPO}/main/${ruta.replace(/\\/g, '/')}`;
 export async function esperarPublica(url, intentos = 25) {
@@ -75,5 +92,24 @@ export async function esperarPublica(url, intentos = 25) {
 // ---------- Estado (datos/estado.json, versionado en el repositorio) ----------
 export const datos = join(raiz, 'datos');
 const estadoFile = join(datos, 'estado.json');
-export function leerEstado() { return existsSync(estadoFile) ? JSON.parse(readFileSync(estadoFile, 'utf8')) : { offset: 0, usadas: {}, items: {} }; }
+export function leerEstado() {
+  const base = { offset: 0, usadas: {}, nombres: {}, items: {}, config: { modo: 'auto', pausado: false } };      // modo: auto | manual
+  const e = existsSync(estadoFile) ? JSON.parse(readFileSync(estadoFile, 'utf8')) : {};
+  return { ...base, ...e, config: { ...base.config, ...(e.config ?? {}) } };
+}
 export function guardarEstado(e) { mkdirSync(datos, { recursive: true }); writeFileSync(estadoFile, JSON.stringify(e, null, 1)); }
+// En GitHub Actions: sube el estado y los archivos nuevos al repositorio en el momento (así una caída no duplica una publicación).
+export function subirCambios(msg = 'Estado') {
+  if (env.GITHUB_ACTIONS !== 'true') return;
+  const git = (...a) => execFileSync('git', a, { cwd: raiz, stdio: 'pipe' });
+  try {
+    git('config', 'user.name', 'ofertix-bot'); git('config', 'user.email', 'ofertix-bot@users.noreply.github.com'); git('add', 'datos');
+    try { git('diff', '--cached', '--quiet'); return; } catch { /* hay cambios */ }
+    git('commit', '-q', '-m', msg); git('pull', '--rebase', '-q'); git('push', '-q');
+  } catch (e) { console.error('No se pudo subir el estado:', String(e.message).slice(0, 200)); }
+}
+// Vuelve a lanzar la revisión (cadena de ejecuciones) mientras haya trabajo pendiente.
+export function relanzarRevision() {
+  if (env.GITHUB_ACTIONS !== 'true') return;
+  try { execFileSync('gh', ['workflow', 'run', 'tick.yml', '--repo', REPO], { cwd: raiz, stdio: 'pipe', env: { ...process.env, GH_TOKEN: env.GH_TOKEN || env.GITHUB_TOKEN } }); } catch (e) { console.error('No se pudo relanzar la revisión:', String(e.message).slice(0, 160)); }
+}

@@ -67,13 +67,14 @@
     const llamas = [0, 1, 2, 3, 4].map(i => `<div class="fl" style="left:${120 + i * 200}px">🔥</div>`).join('');
     const el = html(`<div class="sc dark"><div class="glow g2"></div>${llamas}
       <div class="pills">${D.ofertas.map(() => '<div class="pill"><b></b></div>').join('')}</div>
-      <div class="abs lab" style="left:90px;top:220px;font-size:44px;font-weight:700;letter-spacing:6px">OFERTA ${k + 1} DE ${NOF}</div>
-      <div class="abs nm" style="left:90px;top:310px;width:900px;font-size:88px;font-weight:800;line-height:1.1;letter-spacing:-2px">${palabras}</div>
-      <div class="abs st" style="left:90px;top:760px;font-size:46px;font-weight:600"><span class="chip">${esc(o.tienda)}</span></div>
-      <div class="abs old" style="left:90px;top:880px;font-size:72px;font-weight:600;color:#9A97A8"><span class="ov">${fmt(o.antes)}</span><i class="strike"></i></div>
-      <div class="abs nw" style="left:90px;top:945px;font-size:215px;font-weight:800;letter-spacing:-8px;line-height:1.1"><span class="acc">${fmt(o.ahora)}</span></div>
-      <div class="abs ver" style="left:90px;top:1235px;font-size:54px;font-weight:700"><span class="chip2">PRECIO VERIFICADO ✔</span></div>
-      <div class="ring"></div><div class="abs bdg" style="left:90px;top:1230px"><span>-${o.pct}%</span></div>
+      <div class="abs lab" style="left:90px;top:205px;font-size:42px;font-weight:700;letter-spacing:6px">OFERTA ${k + 1} DE ${NOF}</div>
+      <div class="abs pic" style="left:90px;top:265px;width:900px;height:330px">${o.img ? `<img src="${o.img}">` : ''}</div>
+      <div class="abs nm" style="left:90px;top:625px;width:900px;font-size:64px;font-weight:800;line-height:1.1;letter-spacing:-1px">${palabras}</div>
+      <div class="abs st" style="left:90px;top:865px;font-size:42px;font-weight:600"><span class="chip">${esc(o.tienda)}</span></div>
+      <div class="abs old" style="left:90px;top:955px;font-size:62px;font-weight:600;color:#9A97A8"><span class="ov">${fmt(o.antes)}</span><i class="strike"></i></div>
+      <div class="abs nw" style="left:90px;top:1010px;font-size:190px;font-weight:800;letter-spacing:-7px;line-height:1.1"><span class="acc">${fmt(o.ahora)}</span></div>
+      <div class="abs ver" style="left:90px;top:1245px;font-size:50px;font-weight:700"><span class="chip2">PRECIO VISTO HOY ✔</span></div>
+      <div class="ring"></div><div class="abs bdg" style="left:90px;top:1245px"><span>-${o.pct}%</span></div>
       <div class="handle">@ofertixcl.oficial</div></div>`);
     const $ = s => el.querySelector(s), words = [...el.querySelectorAll('.w')];
     const pills = [...el.querySelectorAll('.pill b')];
@@ -83,6 +84,8 @@
       el.querySelectorAll('.fl').forEach((f, i) => { const a = (lt + i * 0.7) % 3.4; f.style.transform = `translate(${Math.sin(a * 2 + i) * 30}px,${1700 - a * 380}px) scale(${0.7 + (i % 3) * 0.2})`; f.style.opacity = Math.min(1, a * 2) * (1 - prog(a, 2.6, 0.8)) * 0.55; });
       const lab = $('.lab'); lab.style.opacity = prog(lt, 0.15, 0.3); lab.style.transform = `translateX(${(1 - out3(prog(lt, 0.15, 0.4))) * -200}px)`;
       lab.style.color = '#FF8A00';
+      const pic = $('.pic'), pp = back(prog(lt, 0.2, 0.55));
+      pic.style.opacity = prog(lt, 0.2, 0.2); pic.style.transform = `translateY(${(1 - out3(prog(lt, 0.2, 0.5))) * 120}px) scale(${0.85 + 0.15 * pp})`;
       words.forEach((w, i) => { const a = 0.35 + i * 0.09; w.style.opacity = prog(lt, a, 0.2); w.style.transform = `translateY(${(1 - back(prog(lt, a, 0.35))) * 70}px)`; });
       const ta = 0.35 + words.length * 0.09 + 0.1, st = $('.chip');
       st.style.transform = `scale(${back(prog(lt, ta, 0.4))})`; st.style.opacity = prog(lt, ta, 0.1);
@@ -103,7 +106,7 @@
         r.style.opacity = rp > 0 && rp < 1 ? 0.8 * (1 - rp) : 0; r.style.transform = `scale(${0.3 + rp * 2.6})`;
       } else {
         $('.old').style.display = 'none'; $('.bdg').style.display = 'none'; $('.ring').style.display = 'none';
-        nw.style.top = '935px'; nw.style.opacity = prog(lt, 1.0, 0.2); nw.style.transformOrigin = 'left center';
+        nw.style.top = '1010px'; nw.style.opacity = prog(lt, 1.0, 0.2); nw.style.transformOrigin = 'left center';
         nw.style.transform = `scale(${back(prog(lt, 1.0, 0.5))})`;
         const v = $('.ver'); v.style.opacity = prog(lt, 1.7, 0.3); v.style.transform = `translateY(${(1 - out3(prog(lt, 1.7, 0.4))) * 40}px)`;
       }
