@@ -139,6 +139,7 @@ async function tick() {
   // 2. Vencidos
   for (const i of Object.values(estado.items)) if (i.estado === 'pendiente' && new Date(i.limite).getTime() < ahoraMs) { i.estado = 'descartado'; await quitarBotones(i); await avisar(`⌛ Pasó la hora límite sin respuesta: ${i.tipo} de hoy descartado. No se publicó nada.`); }
   guardarEstado(estado);
+  if (flags.has('--sin-publicar')) { console.log('Modo prueba (--sin-publicar): botones procesados, no se publica nada.'); for (const [k, i] of Object.entries(estado.items)) console.log(' ', k, '->', i.estado); return; }
 
   // 3. Publicar lo aprobado
   for (const i of Object.values(estado.items).filter(x => x.estado === 'aprobado')) {
