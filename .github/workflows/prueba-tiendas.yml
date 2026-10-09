@@ -21,3 +21,7 @@ jobs:
           node tools/armar-top5.mjs > /dev/null
       - name: Verificar precios en las tiendas
         run: node tools/prueba-nube.mjs
+      - name: Probar con Chrome real
+        run: |
+          npm install puppeteer-core --no-audit --no-fund --silent
+          node tools/prueba-chrome.mjs
