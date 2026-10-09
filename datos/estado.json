@@ -201,6 +201,84 @@
    "mensajeId": 34,
    "id": "18092881679446109",
    "enlace": "https://www.instagram.com/p/DeShhyHgdkX/"
+  },
+  "2026-10-09-carrusel-b-prueba-1791584991078": {
+   "tipo": "carrusel",
+   "slot": "carrusel-b",
+   "fecha": "2026-10-09",
+   "ofertas": [
+    {
+     "id": "955741",
+     "nombre": "Europa Universalis IV: Ultimate Bundle",
+     "tienda": "GOG",
+     "ahora": 49071,
+     "antes": 196312,
+     "pct": 75,
+     "rubro": "otros",
+     "esMinimo": false,
+     "dias": 0,
+     "visto": "17:58"
+    },
+    {
+     "id": "912408",
+     "nombre": "Atomic Heart (PS4 & PS5) (PS4/PS5)",
+     "tienda": "PlayStation Store",
+     "ahora": 17168,
+     "antes": 68703,
+     "pct": 75,
+     "rubro": "gamer",
+     "esMinimo": false,
+     "dias": 0,
+     "visto": "19:19"
+    },
+    {
+     "id": "279009",
+     "nombre": "Kit Master-G Monitor + Parlante MGMG2730 + MGSBG2",
+     "tienda": "Reuse",
+     "ahora": 149990,
+     "antes": 299990,
+     "pct": 50,
+     "rubro": "tecnologia",
+     "esMinimo": false,
+     "dias": 3,
+     "visto": "18:41"
+    },
+    {
+     "id": "718625",
+     "nombre": "Gorro Animal MixVans",
+     "tienda": "Vans",
+     "ahora": 16990,
+     "antes": 39990,
+     "pct": 57,
+     "rubro": "moda",
+     "esMinimo": false,
+     "dias": 1,
+     "visto": "18:40"
+    },
+    {
+     "id": "716674",
+     "nombre": "Ralph Lauren Polo Sport Fresh EDT 125 ML (H)",
+     "tienda": "Perfumes Chile",
+     "ahora": 25900,
+     "antes": 59900,
+     "pct": 56,
+     "rubro": "perfumes",
+     "esMinimo": false,
+     "dias": 1,
+     "visto": "18:36"
+    }
+   ],
+   "archivos": [
+    "datos/borrador/2026-10-09/carrusel-b-1.jpg",
+    "datos/borrador/2026-10-09/carrusel-b-2.jpg",
+    "datos/borrador/2026-10-09/carrusel-b-3.jpg"
+   ],
+   "texto": "🏆 Ofertas para el fin de semana\n1. Europa Universalis IV: Ultimate Bundle: $49.071 (-75%) en GOG\n2. Atomic Heart (PS4 & PS5) (PS4/PS5): $17.168 (-75%) en PlayStation Store\n3. Kit Master-G Monitor + Parlante MGMG2730 + MGSBG2: $149.990 (-50%) en Reuse\n4. Gorro Animal MixVans: $16.990 (-57%) en Vans\n5. Ralph Lauren Polo Sport Fresh EDT 125 ML (H): $25.900 (-56%) en Perfumes Chile\n\n⏰ Precios vistos hoy (9/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #top5 #descuentoschile #ofertix #ahorrar",
+   "limite": "2026-10-10T00:30:00.000Z",
+   "nonce": "f83a52bb",
+   "estado": "aprobado",
+   "prueba": true,
+   "mensajeId": 39
   }
  },
  "config": {
