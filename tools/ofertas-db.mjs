@@ -23,7 +23,7 @@ async function conectar() {
 }
 
 // Ofertas frescas (vistas hace menos de `edadMin` minutos) con su historial de precios de hasta 90 días.
-export async function candidatas({ excluirIds = [], edadMin = 120, minDesc = 40, minAhorro = 15000, minPrecio = 8000, maxPrecio = 250000, porRubro = 12 } = {}) {
+export async function candidatas({ excluirIds = [], edadMin = 120, minDesc = 40, minAhorro = 15000, minPrecio = 8000, maxPrecio = 250000, porRubro = 15 } = {}) {
   const c = await conectar();
   try {
     const { rows } = await c.query(`
@@ -32,7 +32,8 @@ export async function candidatas({ excluirIds = [], edadMin = 120, minDesc = 40,
                o.last_seen_at, o.updated_at, s.name AS tienda, ${RUBRO_SQL} AS rubro
         FROM offers o JOIN stores s ON s.id = o.store_id
         WHERE o.is_active AND NOT o.price_inflated AND s.enabled
-          AND o.discount_pct >= $1 AND o.original_price - o.current_price >= $2
+          AND o.discount_pct >= $1 AND o.discount_pct <= 75 AND o.original_price - o.current_price >= $2
+          AND o.name !~* 'open box|reacondicionad|usado|outlet' AND o.name !~ '[a-zA-Záéíóúñ]\\.[a-záéíóúñ]'
           AND o.current_price BETWEEN $3 AND $4
           AND o.last_seen_at > now() - make_interval(mins => $5)
           AND o.id <> ALL($6::bigint[])
@@ -69,7 +70,7 @@ export async function sigueVigente(id, precio, edadMin = 180) {
 // Elige `n` ofertas con variedad de rubros. Prefiere mínimos históricos y mayor descuento; limita libros.
 export function elegirVariadas(cands, n, { maxPorRubro = 1, permitirLibros = true } = {}) {
   const puntaje = o => Math.min(o.pct, 60) + (o.esMinimo ? 30 : 0) + (o.antes - o.ahora >= 50000 ? 10 : 0);   // descuentos extremos no suman más
-  const orden = [...cands].filter(o => o.nombre.length <= 70 && o.pct <= 75 && !/open box|reacondicionad|usado|outlet/i.test(o.name) && !/[a-záéíóúñ].[a-záéíóúñ]/i.test(o.name) && !/�/.test(o.name) && (permitirLibros || o.rubro !== 'libros')).sort((a, b) => puntaje(b) - puntaje(a));
+  const orden = [...cands].filter(o => o.nombre.length <= 70 && o.pct <= 75 && !/open box|reacondicionad|usado|outlet/i.test(o.name) && !/[a-záéíóúñ]\.[a-záéíóúñ]/i.test(o.name) && !/�/.test(o.name) && (permitirLibros || o.rubro !== 'libros')).sort((a, b) => puntaje(b) - puntaje(a));
   const elegidas = [], cuenta = new Map();
   for (const o of orden) { if (elegidas.length === n) break; if ((cuenta.get(o.rubro) ?? 0) >= maxPorRubro) continue; elegidas.push(o); cuenta.set(o.rubro, (cuenta.get(o.rubro) ?? 0) + 1); }
   if (elegidas.length < n) for (const o of orden) { if (elegidas.length === n) break; if (!elegidas.includes(o) && (cuenta.get(o.rubro) ?? 0) < maxPorRubro + 1) { elegidas.push(o); cuenta.set(o.rubro, (cuenta.get(o.rubro) ?? 0) + 1); } }
