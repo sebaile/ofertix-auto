@@ -26,6 +26,8 @@ jobs:
       DB_URL_LECTURA: ${{ secrets.DB_URL_LECTURA }}
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main      # siempre la última versión del estado, aunque la ejecución haya esperado en cola
       - uses: actions/setup-node@v4
         with:
           node-version: 22
