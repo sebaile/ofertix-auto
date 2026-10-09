@@ -1,0 +1,38 @@
+name: Revisar aprobaciones y publicar
+# Cada 10 minutos: lee tus botones de Telegram y publica en Instagram lo aprobado cuando toca.
+on:
+  schedule:
+    - cron: '*/10 * * * *'
+  workflow_dispatch:
+
+concurrency:
+  group: ofertix-estado
+  cancel-in-progress: false
+permissions:
+  contents: write
+
+jobs:
+  tick:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      TZ: America/Santiago
+      IG_USER_ID: ${{ secrets.IG_USER_ID }}
+      IG_TOKEN: ${{ secrets.IG_TOKEN }}
+      TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
+      TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
+      DB_URL_LECTURA: ${{ secrets.DB_URL_LECTURA }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci --no-audit --no-fund
+      - name: Revisar
+        run: node tools/nube.mjs tick
+      - name: Guardar estado
+        run: |
+          git config user.name "ofertix-bot"; git config user.email "ofertix-bot@users.noreply.github.com"
+          git add datos
+          git diff --cached --quiet || { git commit -q -m "Estado $(date -u +'%F %H:%M')" && git pull --rebase -q && git push -q; }

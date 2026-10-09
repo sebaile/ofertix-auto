@@ -1,0 +1,58 @@
+name: Preparar borradores
+# Genera el borrador de historias (9:30), carrusel (11:00) y Reel (17:00), hora de Chile, y lo manda a Telegram para aprobar.
+# GitHub programa en UTC: cada hora tiene dos entradas (UTC-3 en verano, UTC-4 en invierno); el script decide si es su momento.
+on:
+  schedule:
+    - cron: '35 12,13 * * *'
+    - cron: '5 14,15 * * *'
+    - cron: '5 20,21 * * *'
+  workflow_dispatch:
+    inputs:
+      tipo:
+        description: 'historias, carrusel o reel (vacío = los que toquen por hora)'
+        required: false
+        default: ''
+      forzar:
+        description: 'Ignorar la hora (true/false)'
+        required: false
+        default: 'false'
+
+concurrency:
+  group: ofertix-estado
+  cancel-in-progress: false
+permissions:
+  contents: write
+
+jobs:
+  preparar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    env:
+      TZ: America/Santiago
+      IG_USER_ID: ${{ secrets.IG_USER_ID }}
+      IG_TOKEN: ${{ secrets.IG_TOKEN }}
+      TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
+      TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
+      DB_URL_LECTURA: ${{ secrets.DB_URL_LECTURA }}
+      TIPO: ${{ inputs.tipo }}
+      FORZAR: ${{ inputs.forzar }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - name: Herramientas del sistema (ffmpeg y emojis)
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg fonts-noto-color-emoji
+      - run: npm ci --no-audit --no-fund
+      - name: Preparar
+        run: |
+          ARGS=""
+          case "$TIPO" in historias|carrusel|reel) ARGS="$TIPO";; esac
+          [ "$FORZAR" = "true" ] && ARGS="$ARGS --forzar"
+          node tools/nube.mjs preparar $ARGS
+      - name: Guardar estado y borradores
+        run: |
+          git config user.name "ofertix-bot"; git config user.email "ofertix-bot@users.noreply.github.com"
+          git add datos
+          git diff --cached --quiet || { git commit -q -m "Borradores y estado $(date -u +'%F %H:%M')" && git pull --rebase -q && git push -q; }
