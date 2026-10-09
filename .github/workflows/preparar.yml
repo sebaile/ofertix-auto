@@ -16,6 +16,10 @@ on:
         description: 'Ignorar la hora (true/false)'
         required: false
         default: 'false'
+      prueba:
+        description: 'Publicación de prueba aparte de las del día (true/false)'
+        required: false
+        default: 'false'
 
 concurrency:
   group: ofertix-estado
@@ -38,6 +42,7 @@ jobs:
       DB_URL_LECTURA: ${{ secrets.DB_URL_LECTURA }}
       TIPO: ${{ inputs.tipo }}
       FORZAR: ${{ inputs.forzar }}
+      PRUEBA: ${{ inputs.prueba }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -52,6 +57,7 @@ jobs:
           ARGS=""
           case "$TIPO" in historias|carrusel|reel|prueba-historia) ARGS="$TIPO";; esac
           [ "$FORZAR" = "true" ] && ARGS="$ARGS --forzar"
+          [ "$PRUEBA" = "true" ] && ARGS="$ARGS --prueba"
           node tools/nube.mjs preparar $ARGS
       - name: Guardar estado y borradores
         run: |

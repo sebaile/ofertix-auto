@@ -57,10 +57,11 @@ ${os.map((o, i) => `${i + 1}. ${o.nombre}: ${fmt(o.ahora)} (-${o.pct}%, referenc
 
 // ====================================================================== PREPARAR
 async function preparar(tipo) {
-  const c = chile(), key = `${c.fecha}-${tipo}`, cfg = CFG[tipo], estado = leerEstado(), auto = estado.config.modo === 'auto';
+  const prueba = flags.has('--prueba');                                  // publicación de prueba: aparte de las del día, sin horario y sin tiempo de espera
+  const c = chile(), key = prueba ? `${chile().fecha}-${tipo}-prueba-${Date.now()}` : `${c.fecha}-${tipo}`, cfg = CFG[tipo], estado = leerEstado(), auto = estado.config.modo === 'auto';
   if (!simulacro && estado.config.pausado) return console.log(`${tipo}: el sistema está en pausa (/reanudar para activarlo).`);
-  if (!simulacro && !forzar && (c.min < mins(cfg.a) - 10 || c.min > mins(cfg.a) + 55)) return console.log(`${tipo}: no es su hora (${c.hhmm}, toca a las ${cfg.a}).`);
-  if (!simulacro && estado.items[key]) return console.log(`${tipo}: ya preparado hoy (${estado.items[key].estado}).`);
+  if (!simulacro && !forzar && !prueba && (c.min < mins(cfg.a) - 10 || c.min > mins(cfg.a) + 55)) return console.log(`${tipo}: no es su hora (${c.hhmm}, toca a las ${cfg.a}).`);
+  if (!simulacro && !prueba && estado.items[key]) return console.log(`${tipo}: ya preparado hoy (${estado.items[key].estado}).`);
   const delDia = Object.values(estado.items).filter(i => i.fecha === c.fecha && i.estado !== 'descartado');
   const reservadas = delDia.flatMap(i => i.ofertas.map(o => o.id));
   const nombresUsados = [...Object.keys(estado.nombres), ...delDia.flatMap(i => i.ofertas.map(o => nombreNorm(o.nombre)))];
@@ -96,7 +97,7 @@ async function preparar(tipo) {
     if (simulacro) return console.log('\n' + texto);
     enviar = async (markup, nota) => {
       const f = new FormData(); f.append('chat_id', env.TG_CHAT_ID); f.append('caption', `📝 Reel para Instagram:\n\n${texto.slice(0, 780)}\n\n${nota}`); f.append('supports_streaming', 'true');
-      f.append('reply_markup', JSON.stringify(markup)); f.append('video', new Blob([readFileSync(salida)], { type: 'video/mp4' }), 'reel.mp4');
+      if (markup) f.append('reply_markup', JSON.stringify(markup)); f.append('video', new Blob([readFileSync(salida)], { type: 'video/mp4' }), 'reel.mp4');
       return (await tg('sendVideo', f)).message_id;
     };
   }
@@ -118,11 +119,11 @@ async function preparar(tipo) {
   }
 
   const nonce = randomBytes(4).toString('hex');                      // código único de ESTE borrador: un botón viejo no puede aprobarlo
-  item.nonce = nonce; item.estado = auto ? 'aprobado' : 'pendiente';
-  if (auto) item.publicarDesde = new Date(Date.now() + COOLING_MIN * 60e3).toISOString();
-  const markup = auto ? { inline_keyboard: [[{ text: '⏸ Cancelar esta publicación', callback_data: `${PREF_NO[tipo]}:${c.fecha}:${nonce}` }]] }
+  item.nonce = nonce; item.estado = prueba || auto ? 'aprobado' : 'pendiente';
+  if (prueba) item.prueba = true; else if (auto) item.publicarDesde = new Date(Date.now() + COOLING_MIN * 60e3).toISOString();
+  const markup = prueba ? undefined : auto ? { inline_keyboard: [[{ text: '⏸ Cancelar esta publicación', callback_data: `${PREF_NO[tipo]}:${c.fecha}:${nonce}` }]] }
     : botones(`${PREF_OK[tipo]}:${c.fecha}:${nonce}`, `${PREF_NO[tipo]}:${c.fecha}:${nonce}`, tipo === 'historias' ? '✅ Aprobar todas' : undefined);
-  const nota = auto ? `🤖 Modo autónomo: se publica solo en unos minutos. Si no lo quieres, pulsa Cancelar. (/pausa detiene todo)` : (tipo === 'historias' ? `Aprueba antes de las ${cfg.limite}.` : '¿Publico?');
+  const nota = prueba ? '🧪 Publicación de prueba: se publica en unos minutos.' : auto ? `🤖 Modo autónomo: se publica solo en unos minutos. Si no lo quieres, pulsa Cancelar. (/pausa detiene todo)` : (tipo === 'historias' ? `Aprueba antes de las ${cfg.limite}.` : '¿Publico?');
   item.mensajeId = await enviar(markup, nota);
   estado.items[key] = item; guardarEstado(estado);
   console.log(`${tipo}: ${auto ? 'aprobado automáticamente (publica en ~' + COOLING_MIN + ' min)' : 'enviado para aprobación'}.`);
