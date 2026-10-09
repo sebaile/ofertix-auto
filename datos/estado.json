@@ -3,11 +3,16 @@
  "usadas": {
   "67319": "2026-10-09T21:07:47.598Z",
   "67333": "2026-10-09T21:13:30.796Z",
+  "279009": "2026-10-09T22:32:10.226Z",
   "300139": "2026-10-09T20:48:53.988Z",
   "333546": "2026-10-09T21:13:30.796Z",
   "333563": "2026-10-09T21:13:30.795Z",
   "468623": "2026-10-09T21:18:26.992Z",
-  "912406": "2026-10-09T21:56:01.891Z"
+  "716674": "2026-10-09T22:32:10.226Z",
+  "718625": "2026-10-09T22:32:10.226Z",
+  "912406": "2026-10-09T21:56:01.891Z",
+  "912408": "2026-10-09T22:32:10.226Z",
+  "955741": "2026-10-09T22:32:10.226Z"
  },
  "nombres": {
   "encimera a gas 5 quemadores gris": "2026-10-09T21:07:47.599Z",
@@ -15,7 +20,12 @@
   "horno xl rotisserie oster 60 l manual gris tssttv60mns": "2026-10-09T21:13:30.796Z",
   "marshall parlante bluetooth acton iii negro marshall": "2026-10-09T21:13:30.796Z",
   "primaterm estufa calefactor electrico alumax 500w primaterm": "2026-10-09T21:18:26.992Z",
-  "edicion digital de lujo de returnal ps5": "2026-10-09T21:56:01.891Z"
+  "edicion digital de lujo de returnal ps5": "2026-10-09T21:56:01.891Z",
+  "europa universalis iv ultimate bundle": "2026-10-09T22:32:10.226Z",
+  "atomic heart ps4 ps5 ps4 ps5": "2026-10-09T22:32:10.226Z",
+  "kit master g monitor parlante mgmg2730 mgsbg2": "2026-10-09T22:32:10.226Z",
+  "gorro animal mixvans": "2026-10-09T22:32:10.226Z",
+  "ralph lauren polo sport fresh edt 125 ml h": "2026-10-09T22:32:10.226Z"
  },
  "items": {
   "2026-10-09-carrusel": {
@@ -276,9 +286,11 @@
    "texto": "🏆 Ofertas para el fin de semana\n1. Europa Universalis IV: Ultimate Bundle: $49.071 (-75%) en GOG\n2. Atomic Heart (PS4 & PS5) (PS4/PS5): $17.168 (-75%) en PlayStation Store\n3. Kit Master-G Monitor + Parlante MGMG2730 + MGSBG2: $149.990 (-50%) en Reuse\n4. Gorro Animal MixVans: $16.990 (-57%) en Vans\n5. Ralph Lauren Polo Sport Fresh EDT 125 ML (H): $25.900 (-56%) en Perfumes Chile\n\n⏰ Precios vistos hoy (9/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #top5 #descuentoschile #ofertix #ahorrar",
    "limite": "2026-10-10T00:30:00.000Z",
    "nonce": "f83a52bb",
-   "estado": "aprobado",
+   "estado": "publicado",
    "prueba": true,
-   "mensajeId": 39
+   "mensajeId": 39,
+   "id": "18117785632966566",
+   "enlace": "https://www.instagram.com/p/DeSlqWZkedR/"
   }
  },
  "config": {
