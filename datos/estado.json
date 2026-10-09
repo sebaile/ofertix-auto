@@ -136,6 +136,34 @@
    "mensajeId": 23,
    "id": "18411676381091713",
    "enlace": "https://www.instagram.com/reel/DeScpcfEhcc/"
+  },
+  "2026-10-09-carrusel-prueba-1791580608729": {
+   "tipo": "carrusel",
+   "fecha": "2026-10-09",
+   "ofertas": [
+    {
+     "id": "468623",
+     "nombre": "PRIMATERM Estufa Calefactor Eléctrico Alumax 500w PRIMATERM",
+     "tienda": "Falabella Marketplace",
+     "ahora": 49990,
+     "antes": 89990,
+     "pct": 44,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 71,
+     "visto": "17:21"
+    }
+   ],
+   "archivos": [
+    "datos/borrador/2026-10-09/carrusel-1.jpg",
+    "datos/borrador/2026-10-09/carrusel-2.jpg"
+   ],
+   "texto": "🔥 OFERTA DEL DÍA\nPRIMATERM Estufa Calefactor Eléctrico Alumax 500w PRIMATERM\nAhora: $49.990 (-44%)\nReferencia: $89.990\n🏪 Falabella Marketplace\n\n✅ Precio visto hoy a las 17:21 en nuestro sistema.\n📉 Es el precio más bajo de los últimos 71 días.\n⏰ Puede cambiar o agotarse sin aviso.\n📲 Enlace directo en Telegram: t.me/ofertixcl\n\n#ofertaschile #hogar #descuentoschile #ofertix #ofertasdeldia",
+   "limite": "2026-10-10T02:17:29.399Z",
+   "nonce": "d45b8627",
+   "estado": "aprobado",
+   "prueba": true,
+   "mensajeId": 30
   }
  },
  "config": {
