@@ -1,0 +1,4 @@
+.env
+tools/.env
+node_modules/
+tools/cache/

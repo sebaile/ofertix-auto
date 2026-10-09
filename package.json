@@ -1,0 +1,7 @@
+{
+  "name": "ofertix-auto",
+  "private": true,
+  "type": "module",
+  "description": "Automatización de Ofertix: ofertas verificadas -> Instagram con aprobación por Telegram",
+  "dependencies": { "puppeteer-core": "^24.0.0", "sharp": "^0.34.0" }
+}

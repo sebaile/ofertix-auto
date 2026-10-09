@@ -1,0 +1,23 @@
+name: Prueba de tiendas
+on: workflow_dispatch
+jobs:
+  prueba:
+    runs-on: ubuntu-latest
+    env:
+      TZ: America/Santiago
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22 }
+      - name: Entorno
+        run: |
+          echo "Node $(node -v)"; date; echo "IP de salida: $(curl -s https://api.ipify.org)"
+          (google-chrome --version || chromium --version) 2>&1 | head -1
+          (ffmpeg -version 2>&1 | head -1) || echo "ffmpeg no instalado"
+      - name: Leer canales de Telegram
+        run: |
+          mkdir -p tools/cache
+          node tools/leer-canales.mjs ofertixcl ofertix_tecnologia ofertix_gamer ofertix_hogar ofertix_belleza ofertix_libros ofertix_cupones ofertix_perfumes
+          node tools/armar-top5.mjs > /dev/null
+      - name: Verificar precios en las tiendas
+        run: node tools/prueba-nube.mjs
