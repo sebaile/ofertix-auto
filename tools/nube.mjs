@@ -11,9 +11,9 @@ import { randomBytes } from 'node:crypto';
 import { env, raiz, datos, chile, chileAUtc, tg, avisar, botones, enviarFotos, contenedor, publicarContenedor, enlacePublicacion, urlPublica, esperarPublica,
   leerEstado, guardarEstado, subirCambios, relanzarRevision, traerImagen, fmt, dormir } from './lib.mjs';
 import { candidatas, sigueVigente, elegirConImagen, nombreNorm } from './ofertas-db.mjs';
-import { renderizar, htmlHistoria, htmlHistoriaResumen, htmlCarrusel1, htmlCarrusel2, horaVisto } from './plantillas.mjs';
+import { renderizar, htmlHistoria, htmlHistoriaResumen, htmlCarrusel1, htmlCarrusel2, horaVisto, htmlTopPortada, htmlTopLista, htmlTopCierre, EDUCATIVOS, htmlEducativo } from './plantillas.mjs';
 import { renderizar as renderizarReel } from './reel-motor.mjs';
-import { PLAN, HORARIO_HIST, enVentana, rubroDelDia } from './plan.mjs';
+import { PLAN, HORARIO_HIST, enVentana, temaDelDia, numeroSemana } from './plan.mjs';
 
 const [, , cmd, ...resto] = process.argv;
 const flags = new Set(resto.filter(a => a.startsWith('--'))), tipoArg = resto.find(a => !a.startsWith('--'));
@@ -42,9 +42,19 @@ ${o.esMinimo ? `📉 Es el precio más bajo de los últimos ${o.dias} días.\n` 
 
 #ofertaschile ${HASHTAG[o.rubro] ?? ''} #descuentoschile #ofertix #ofertasdeldia`.replace(/ {2,}/g, ' ');
 }
-function textoReel(os, rubro) {
+function textoTop(titulo, os, rubro) {
   const c = chile();
-  return `🔥 3 ofertas ${rubro ? 'de ' + TEMA[rubro] : 'de hoy'}
+  return `🏆 ${titulo}
+${os.map((o, i) => `${i + 1}. ${o.nombre}: ${fmt(o.ahora)} (-${o.pct}%) en ${o.tienda}${o.esMinimo ? ' · 📉 mínimo de ' + o.dias + ' días' : ''}`).join('\n')}
+
+⏰ Precios vistos hoy (${+c.fecha.slice(8)}/${+c.fecha.slice(5, 7)}) en nuestro sistema. Pueden cambiar o agotarse sin aviso.
+📲 Enlaces directos en Telegram: t.me/ofertixcl
+
+#ofertaschile ${rubro ? HASHTAG[rubro] : ''} #top5 #descuentoschile #ofertix #ahorrar`.replace(/ {2,}/g, ' ');
+}
+function textoReel(os, rubro, minimos) {
+  const c = chile();
+  return `🔥 3 ofertas ${minimos ? 'en su precio más bajo de los últimos días' : rubro ? 'de ' + TEMA[rubro] : 'de hoy'}
 ${os.map((o, i) => `${i + 1}. ${o.nombre}: ${fmt(o.ahora)} (-${o.pct}%, referencia ${fmt(o.antes)}) en ${o.tienda}${o.esMinimo ? ' · 📉 mínimo de ' + o.dias + ' días' : ''}`).join('\n')}
 
 ⏰ Precios vistos hoy (${+c.fecha.slice(8)}/${+c.fecha.slice(5, 7)}) en nuestro sistema. Pueden cambiar o agotarse sin aviso.
@@ -57,7 +67,7 @@ ${os.map((o, i) => `${i + 1}. ${o.nombre}: ${fmt(o.ahora)} (-${o.pct}%, referenc
 async function preparar(slot) {
   const tipo = slot.tipo, prueba = flags.has('--prueba');                // prueba: aparte de las del día, sin horario y sin tiempo de espera
   const c = chile(), key = prueba ? `${c.fecha}-${slot.id}-prueba-${Date.now()}` : `${c.fecha}-${slot.id}`, estado = leerEstado(), auto = estado.config.modo === 'auto';
-  const rubroTema = rubroDelDia(slot, c.fecha);
+  const temaDia = temaDelDia(slot, c.fecha), rubroTema = temaDia?.rubro ?? null;     // tema del día (Top 5, mínimos, educativo, rubro del Reel)
   const publicaEn = chileAUtc(c.fecha, slot.hora);                       // hora exacta de publicación (carrusel/Reel)
   if (!simulacro && estado.config.pausado) return console.log(`${slot.id}: el sistema está en pausa (/reanudar para activarlo).`);
   if (!simulacro && !forzar && !prueba && !enVentana(slot, c.min)) return console.log(`${slot.id}: no es su hora (${c.hhmm}, toca a las ${slot.hora}).`);
@@ -75,26 +85,43 @@ async function preparar(slot) {
   let item, enviar;                                  // enviar(markup, nota) manda el borrador a Telegram y devuelve el id del mensaje
 
   if (tipo === 'carrusel') {
-    let [o] = await elegir(1, { permitirLibros: false }); if (!o) [o] = await elegir(1);
-    if (!o) return falta('No hay una oferta fresca, con foto, que cumpla los criterios para el carrusel de hoy.');
-    const jpgs = await renderizar([htmlCarrusel1(o), htmlCarrusel2(o)], 1080, 1350);
+    let jpgs, texto, ofertas = [];
+    const tt = temaDia?.tipo;
+    if (tt === 'educativo') {                                                          // contenido fijo, rota por semana
+      const set = EDUCATIVOS[(numeroSemana(c.fecha) + 1) % EDUCATIVOS.length];
+      jpgs = await renderizar(htmlEducativo(set), 1080, 1350); texto = set.texto;
+    } else if (tt === 'top5' || tt === 'minimos') {                                    // 5 ofertas en una lista, con foto
+      const pedir = extra => elegir(5, { permitirLibros: false, maxPorRubro: extra.rubro || tt === 'minimos' ? 5 : 1, maxPorTienda: 2, soloMinimos: tt === 'minimos', ...extra });
+      let os = await pedir(temaDia.rubro ? { rubro: temaDia.rubro } : {}), titulo = temaDia.titulo, rubro = temaDia.rubro ?? null;
+      if (os.length < 4 && rubro) { os = await pedir({}); titulo = 'Top 5 ofertas de hoy'; rubro = null; }   // el rubro del día no alcanza
+      if (os.length >= (tt === 'minimos' ? 3 : 4)) {
+        const sub = tt === 'minimos' ? 'Precios en su punto más bajo registrado' : 'Las mejores ofertas, con precio visto hoy';
+        jpgs = await renderizar([htmlTopPortada(titulo, sub, 1, 3), htmlTopLista(titulo, os, 2, 3), htmlTopCierre(3, 3)], 1080, 1350);
+        texto = textoTop(titulo, os, rubro); ofertas = os.map(resumenOferta);
+      }
+    }
+    if (!jpgs) {                                                                       // oferta del día (también si el tema no tiene suficientes ofertas)
+      let [o] = await elegir(1, { permitirLibros: false }); if (!o) [o] = await elegir(1);
+      if (!o) return falta('No hay una oferta fresca, con foto, que cumpla los criterios para el carrusel de hoy.');
+      jpgs = await renderizar([htmlCarrusel1(o), htmlCarrusel2(o)], 1080, 1350); texto = textoCarrusel(o); ofertas = [resumenOferta(o)];
+    }
     jpgs.forEach((b, i) => writeFileSync(join(carpeta, `${slot.id}-${i + 1}.jpg`), b));
-    const texto = textoCarrusel(o);
-    item = { tipo, slot: slot.id, fecha: c.fecha, ofertas: [resumenOferta(o)], archivos: jpgs.map((_, i) => rel(`${slot.id}-${i + 1}.jpg`)), texto, limite: limiteIso() };
+    item = { tipo, slot: slot.id, fecha: c.fecha, ofertas, archivos: jpgs.map((_, i) => rel(`${slot.id}-${i + 1}.jpg`)), texto, limite: limiteIso() };
     if (simulacro) return console.log('\n' + texto);
     enviar = async (markup, nota) => { await enviarFotos(jpgs, 'carrusel'); return (await tg('sendMessage', { chat_id: env.TG_CHAT_ID, text: `📝 Carrusel para Instagram:\n\n${texto}\n\n${nota}`, reply_markup: markup })).message_id; };
   }
 
   if (tipo === 'reel') {
-    let os = rubroTema ? await elegir(3, { permitirLibros: false, rubro: rubroTema }) : [];
-    const tema = os.length === 3 ? rubroTema : null;                                  // si el rubro del día no alcanza, sale un Reel general
-    if (!tema) os = await elegir(3, { permitirLibros: false });
+    let os = [], tema = null, minimos = false;
+    if (temaDia?.minimos) { os = await elegir(3, { permitirLibros: false, soloMinimos: true }); minimos = os.length === 3; }   // 3 ofertas en su precio más bajo registrado
+    if (!minimos && rubroTema) { os = await elegir(3, { permitirLibros: false, rubro: rubroTema }); tema = os.length === 3 ? rubroTema : null; }
+    if (!minimos && !tema) os = await elegir(3, { permitirLibros: false });          // si el tema del día no alcanza, sale un Reel general
     if (os.length < 3) return falta(`Solo hay ${os.length} ofertas frescas con foto para el Reel (${slot.id}). No se prepara.`);
     const corto = (s, n = 50) => (s.length <= n ? s : s.slice(0, s.lastIndexOf(' ', n)) + '…');   // en el video caben ~3 líneas
-    const data = { hoy: c.fecha, sufijo: tema ? 'DE ' + TEMA[tema].toUpperCase() : 'DE HOY', ofertas: os.map(o => ({ nombre: corto(o.nombre), tienda: o.tienda, ahora: o.ahora, antes: o.antes, pct: o.pct, antesOk: true, img: o.img })) };
+    const data = { hoy: c.fecha, sufijo: minimos ? 'EN SU MÍNIMO' : tema ? 'DE ' + TEMA[tema].toUpperCase() : 'DE HOY', ofertas: os.map(o => ({ nombre: corto(o.nombre), tienda: o.tienda, ahora: o.ahora, antes: o.antes, pct: o.pct, antesOk: true, img: o.img })) };
     const salida = join(carpeta, `${slot.id}.mp4`);
     await renderizarReel({ css: REEL_CSS, pagina: readFileSync(join(raiz, 'tools', 'reel-pagina.js'), 'utf8'), data, eventos: eventosReel, salida });
-    const texto = textoReel(os, tema);
+    const texto = textoReel(os, tema, minimos);
     item = { tipo, slot: slot.id, fecha: c.fecha, ofertas: os.map(resumenOferta), archivos: [rel(`${slot.id}.mp4`)], texto, limite: limiteIso() };
     if (simulacro) return console.log('\n' + texto);
     enviar = async (markup, nota) => {
@@ -221,13 +248,13 @@ async function tick() {
 const vigente = o => sigueVigente(o.id, o.ahora);
 const recordar = (estado, o) => { estado.usadas[o.id] = new Date().toISOString(); estado.nombres[nombreNorm(o.nombre)] = new Date().toISOString(); };
 async function publicarCarrusel(i, estado) {
-  const o = i.ofertas[0], v = await vigente(o);
-  if (!v.ok) { i.estado = 'omitido'; return avisar(`⏭ No publiqué el carrusel: ${v.motivo} (${o.nombre.slice(0, 40)}).`); }
+  const bad = []; for (const o of i.ofertas) { const v = await vigente(o); if (!v.ok) bad.push(`${o.nombre.slice(0, 34)}: ${v.motivo}`); }   // el educativo no tiene ofertas
+  if (bad.length) { i.estado = 'omitido'; return avisar(`⏭ No publiqué el carrusel porque cambiaron ofertas:\n- ${bad.join('\n- ')}`); }
   const urls = i.archivos.map(urlPublica); for (const u of urls) await esperarPublica(u);
   const hijos = []; for (const u of urls) hijos.push(await contenedor({ image_url: u, is_carousel_item: 'true' }));
   const car = await contenedor({ media_type: 'CAROUSEL', children: hijos.join(','), caption: i.texto });
   const id = await publicarContenedor(car), enlace = await enlacePublicacion(id);
-  Object.assign(i, { estado: 'publicado', id, enlace }); recordar(estado, o); await quitarBotones(i);
+  Object.assign(i, { estado: 'publicado', id, enlace }); i.ofertas.forEach(o => recordar(estado, o)); await quitarBotones(i);
   await avisar(`✅ Carrusel publicado en Instagram.\n${enlace}`);
 }
 async function publicarReel(i, estado) {

@@ -23,7 +23,7 @@ async function conectar() {
 }
 
 // Ofertas frescas (vistas hace menos de `edadMin` minutos) con su historial de precios de hasta 90 días.
-export async function candidatas({ excluirIds = [], edadMin = 120, minDesc = 40, minAhorro = 15000, minPrecio = 8000, maxPrecio = 250000, porRubro = 15 } = {}) {
+export async function candidatas({ excluirIds = [], edadMin = 120, minDesc = 40, minAhorro = 15000, minPrecio = 8000, maxPrecio = 250000, porRubro = 30 } = {}) {
   const c = await conectar();
   try {
     const { rows } = await c.query(`
@@ -33,7 +33,7 @@ export async function candidatas({ excluirIds = [], edadMin = 120, minDesc = 40,
         FROM offers o JOIN stores s ON s.id = o.store_id
         WHERE o.is_active AND NOT o.price_inflated AND s.enabled
           AND o.discount_pct >= $1 AND o.discount_pct <= 75 AND o.original_price - o.current_price >= $2
-          AND o.name !~* 'open box|reacondicionad|usado|outlet' AND o.name !~ '[a-zA-Záéíóúñ]\\.[a-záéíóúñ]'
+          AND o.name !~* 'open ?box|reacondicionad|usado|outlet' AND o.name !~ '[a-zA-Záéíóúñ]\\.[a-záéíóúñ]'
           AND o.current_price BETWEEN $3 AND $4
           AND o.last_seen_at > now() - make_interval(mins => $5)
           AND o.id <> ALL($6::bigint[])
@@ -70,7 +70,7 @@ export async function sigueVigente(id, precio, edadMin = 180) {
 // Elige `n` ofertas con variedad de rubros. Prefiere mínimos históricos y mayor descuento; limita libros.
 export function elegirVariadas(cands, n, { maxPorRubro = 1, permitirLibros = true } = {}) {
   const puntaje = o => Math.min(o.pct, 60) + (o.esMinimo ? 30 : 0) + (o.antes - o.ahora >= 50000 ? 10 : 0);   // descuentos extremos no suman más
-  const orden = [...cands].filter(o => o.nombre.length <= 70 && o.pct <= 75 && !/open box|reacondicionad|usado|outlet/i.test(o.name) && !/[a-záéíóúñ]\.[a-záéíóúñ]/i.test(o.name) && !/�/.test(o.name) && (permitirLibros || o.rubro !== 'libros')).sort((a, b) => puntaje(b) - puntaje(a));
+  const orden = [...cands].filter(o => o.nombre.length <= 70 && o.pct <= 75 && !/open ?box|reacondicionad|usado|outlet/i.test(o.name) && !/[a-záéíóúñ]\.[a-záéíóúñ]/i.test(o.name) && !/�/.test(o.name) && (permitirLibros || o.rubro !== 'libros')).sort((a, b) => puntaje(b) - puntaje(a));
   const elegidas = [], cuenta = new Map();
   for (const o of orden) { if (elegidas.length === n) break; if ((cuenta.get(o.rubro) ?? 0) >= maxPorRubro) continue; elegidas.push(o); cuenta.set(o.rubro, (cuenta.get(o.rubro) ?? 0) + 1); }
   if (elegidas.length < n) for (const o of orden) { if (elegidas.length === n) break; if (!elegidas.includes(o) && (cuenta.get(o.rubro) ?? 0) < maxPorRubro + 1) { elegidas.push(o); cuenta.set(o.rubro, (cuenta.get(o.rubro) ?? 0) + 1); } }
@@ -87,21 +87,21 @@ export function parecido(a, b) {                                   // mismo prod
   const A = tokens(a), B = tokens(b); if (A.size < 3 || B.size < 3) return false;
   let i = 0; A.forEach(w => B.has(w) && i++); return i / Math.min(A.size, B.size) >= 0.8;
 }
-export async function elegirConImagen(cands, n, { traerImagen, nombresUsados = [], maxPorRubro = 1, permitirLibros = true, maxIntentos = 60, rubro = null } = {}) {
+export async function elegirConImagen(cands, n, { traerImagen, nombresUsados = [], maxPorRubro = 1, permitirLibros = true, maxIntentos = 60, rubro = null, soloMinimos = false, maxPorTienda = 99 } = {}) {
   if (rubro) maxPorRubro = n;                                       // si se pide un rubro, todas las ofertas son de ese rubro
   const puntaje = o => Math.min(o.pct, 60) + (o.esMinimo ? 30 : 0) + (o.antes - o.ahora >= 50000 ? 10 : 0);
   const orden = cands.filter(o => o.image_url && o.nombre.length <= 70 && o.pct <= 75 && !PROHIBIDAS.test(`${o.name} ${o.category ?? ''}`)
-      && !/open box|reacondicionad|usado|outlet|�/i.test(o.name) && !/[a-záéíóúñ]\.[a-záéíóúñ]/i.test(o.name)
-      && !nombresUsados.some(u => parecido(u, o.name)) && (permitirLibros || o.rubro !== 'libros') && (!rubro || o.rubro === rubro)).sort((a, b) => puntaje(b) - puntaje(a));
-  const elegidas = [], cuenta = new Map(), fallidas = new Set(); let intentos = 0;
+      && !/open ?box|reacondicionad|usado|outlet|�/i.test(o.name) && !/[a-záéíóúñ]\.[a-záéíóúñ]/i.test(o.name)
+      && !nombresUsados.some(u => parecido(u, o.name)) && (permitirLibros || o.rubro !== 'libros') && (!rubro || o.rubro === rubro) && (!soloMinimos || o.esMinimo)).sort((a, b) => puntaje(b) - puntaje(a));
+  const elegidas = [], cuenta = new Map(), porTienda = new Map(), fallidas = new Set(); let intentos = 0;
   for (const tope of [maxPorRubro, maxPorRubro + 1]) {
     for (const o of orden) {
       if (elegidas.length === n) return elegidas;
-      if (fallidas.has(o.id) || elegidas.some(e => e.id === o.id || parecido(e.name, o.name)) || (cuenta.get(o.rubro) ?? 0) >= tope) continue;
+      if (fallidas.has(o.id) || elegidas.some(e => e.id === o.id || parecido(e.name, o.name)) || (cuenta.get(o.rubro) ?? 0) >= tope || (porTienda.get(o.tienda) ?? 0) >= maxPorTienda) continue;
       if (++intentos > maxIntentos) return elegidas;
       const img = await traerImagen(o.image_url);
       if (!img) { fallidas.add(o.id); continue; }
-      elegidas.push({ ...o, img }); cuenta.set(o.rubro, (cuenta.get(o.rubro) ?? 0) + 1);
+      elegidas.push({ ...o, img }); cuenta.set(o.rubro, (cuenta.get(o.rubro) ?? 0) + 1); porTienda.set(o.tienda, (porTienda.get(o.tienda) ?? 0) + 1);
     }
   }
   return elegidas;

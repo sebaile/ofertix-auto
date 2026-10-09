@@ -69,3 +69,51 @@ export const htmlCarrusel2 = o => `${FUENTE}<style>${CSS_C}</style><body class="
   <div class="sub">Entra a <span class="acc" style="font-weight:700">t.me/ofertixcl</span> y busca la oferta de ${esc(o.tienda)}.</div>
   <div class="sub" style="font-size:34px;opacity:.7">Los precios pueden cambiar o agotarse sin aviso.</div>
   <div class="foot">@ofertixcl.oficial</div><div class="pg">2/2</div></body>`;
+
+// ---------- Carruseles temáticos (1080x1350): Top 5, mínimos y educativos ----------
+const CSS_T = `${CSS_C}${FOTO}
+body.lista{justify-content:flex-start;padding:64px 70px 110px}.fila{display:flex;align-items:center;gap:22px;padding:13px 0;border-bottom:2px solid rgba(255,255,255,.12)}
+.fila .n{font-size:70px;font-weight:800;width:52px;text-align:center;flex:none}.mini{width:148px;height:148px;border-radius:24px;flex:none}.info{flex:1;min-width:0}
+.nom{font-size:33px;font-weight:700;line-height:1.15;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}.sub2{font-size:25px;opacity:.78;margin-top:6px}
+.pre{text-align:right;flex:none}.ant{font-size:25px;text-decoration:line-through;opacity:.6}.ahora{font-size:44px;font-weight:800;letter-spacing:-1px}
+.pct{display:inline-block;background:#fff;color:#FF2E63;font-weight:800;font-size:27px;border-radius:14px;padding:2px 12px;margin-top:4px}
+.minchip{display:inline-block;background:#FFD166;color:#3a2a00;border-radius:20px;padding:0 12px;font-weight:700;font-size:23px;margin-left:8px}`;
+export const htmlTopPortada = (titulo, subtitulo, pagina, total) => `${FUENTE}<style>${CSS_T}</style><body class="grad"><div class="eyebrow">Ofertix · precios vistos hoy</div>
+  <div class="big" style="margin-top:36px">${esc(titulo)}</div><div class="sub">${esc(subtitulo)}</div>
+  <div class="foot">@ofertixcl.oficial</div><div class="pg">${pagina}/${total}</div></body>`;
+export const htmlTopLista = (titulo, os, pagina, total) => `${FUENTE}<style>${CSS_T}</style><body class="dark lista"><div class="eyebrow acc" style="margin-bottom:6px">${esc(titulo)}</div>
+  ${os.map((o, i) => `<div class="fila"><div class="n acc">${i + 1}</div><div class="foto mini">${o.img ? `<img src="${o.img}">` : ''}</div>
+    <div class="info"><div class="nom">${esc(o.nombre)}</div><div class="sub2">${esc(o.tienda)}${o.esMinimo ? `<span class="minchip">mín. ${o.dias} días</span>` : ''}</div></div>
+    <div class="pre"><div class="ant">${fmt(o.antes)}</div><div class="ahora">${fmt(o.ahora)}</div><div class="pct">-${o.pct}%</div></div></div>`).join('')}
+  <div class="foot">@ofertixcl.oficial</div><div class="pg">${pagina}/${total}</div></body>`;
+export const htmlTopCierre = (pagina, total) => `${FUENTE}<style>${CSS_T}</style><body class="grad"><div class="eyebrow">Cómo conseguirlas</div>
+  <div class="big" style="margin-top:40px">Los enlaces directos están en Telegram.</div><div class="sub">Entra a <b>t.me/ofertixcl</b> y busca cada oferta.</div>
+  <div class="sub" style="font-size:34px;opacity:.8">Los precios pueden cambiar o agotarse sin aviso.</div>
+  <div class="foot">@ofertixcl.oficial</div><div class="pg">${pagina}/${total}</div></body>`;
+
+export const EDUCATIVOS = [
+  { titulo: 'No todo descuento es descuento', sub: '5 trucos para saber si una oferta es real.',
+    items: [['Revisa el historial de precios', 'Un precio "rebajado" puede ser el mismo de hace un mes. Mira cuánto costaba antes de comprar.'],
+      ['Compara en 2 o 3 tiendas', 'La misma oferta suele estar más barata en otra tienda. Tarda 2 minutos y se nota.'],
+      ['Desconfía del "solo por hoy"', 'Si la misma urgencia aparece todas las semanas, no es urgencia. Es una táctica de venta.'],
+      ['Mira el precio final con envío', 'Un producto barato con despacho caro puede salir más caro que otro sin descuento.'],
+      ['Lee los reclamos recientes', 'Antes de pagar, busca opiniones de los últimos meses sobre el producto y la tienda.']],
+    cierre: 'Ahorrar es comparar.',
+    texto: `No todo descuento es descuento 👀\n5 trucos para saber si una oferta es real:\n1. Revisa el historial de precios\n2. Compara en 2 o 3 tiendas\n3. Desconfía del "solo por hoy"\n4. Mira el precio final con envío\n5. Lee los reclamos recientes\n\nGuárdalo para tu próxima compra 📌\n📲 Más ofertas en Telegram: t.me/ofertixcl\n\n#ofertaschile #ahorrar #consejosdeahorro #comprasinteligentes #ofertix` },
+  { titulo: 'Cómo leer una oferta de Ofertix', sub: '4 datos que te mostramos en cada publicación.',
+    items: [['Referencia', 'Es el precio habitual con el que comparamos: la mediana de los últimos 60 días o el precio de lista de la tienda.'],
+      ['Visto a las HH:MM', 'Es la última vez que nuestro sistema leyó ese precio. Los precios cambian durante el día, por eso te damos la hora.'],
+      ['Mínimo de N días', 'Solo lo decimos si el precio de hoy es el más bajo que hemos registrado en ese período. Si no, no lo decimos.'],
+      ['Enlace en Telegram', 'El enlace directo a la tienda va en nuestro canal, a un toque, para que no pierdas la oferta.']],
+    cierre: 'Compara antes de comprar.',
+    texto: `Cómo leer una oferta de Ofertix 🧐\n1. Referencia: el precio habitual con el que comparamos.\n2. Visto a las HH:MM: la última vez que leímos ese precio.\n3. Mínimo de N días: solo si hoy es el más bajo que hemos registrado.\n4. Enlace en Telegram: directo a la tienda, a un toque.\n\nGuárdalo y compártelo con alguien que compra online 📌\n📲 t.me/ofertixcl\n\n#ofertaschile #ahorrar #comprasinteligentes #ofertix #descuentoschile` },
+];
+export function htmlEducativo(set) {
+  const total = set.items.length + 2, base = i => `${FUENTE}<style>${CSS_T}.num{font-size:240px;font-weight:800;line-height:1;letter-spacing:-8px}</style>`;
+  const portada = `${base()}<body class="grad"><div class="eyebrow">Guarda este post</div><div class="big" style="margin-top:40px">${esc(set.titulo)}</div><div class="sub">${esc(set.sub)}</div><div class="foot">@ofertixcl.oficial</div><div class="pg">1/${total}</div></body>`;
+  const items = set.items.map(([t, d], i) => `${base()}<body class="${i % 2 ? 'light' : 'dark'}"><div class="num acc">${i + 1}</div>
+    <div style="font-size:72px;font-weight:800;line-height:1.12;letter-spacing:-2px;margin-top:10px">${esc(t)}</div><div class="sub" style="opacity:.8;font-size:40px">${esc(d)}</div>
+    <div class="foot">@ofertixcl.oficial</div><div class="pg">${i + 2}/${total}</div></body>`);
+  const cierre = `${base()}<body class="grad"><div class="big">${esc(set.cierre)}</div><div class="sub">Guarda este post y sigue la cuenta para ver las ofertas del día.</div><div class="foot">@ofertixcl.oficial</div><div class="pg">${total}/${total}</div></body>`;
+  return [portada, ...items, cierre];
+}
