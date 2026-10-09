@@ -87,11 +87,12 @@ export function parecido(a, b) {                                   // mismo prod
   const A = tokens(a), B = tokens(b); if (A.size < 3 || B.size < 3) return false;
   let i = 0; A.forEach(w => B.has(w) && i++); return i / Math.min(A.size, B.size) >= 0.8;
 }
-export async function elegirConImagen(cands, n, { traerImagen, nombresUsados = [], maxPorRubro = 1, permitirLibros = true, maxIntentos = 60 } = {}) {
+export async function elegirConImagen(cands, n, { traerImagen, nombresUsados = [], maxPorRubro = 1, permitirLibros = true, maxIntentos = 60, rubro = null } = {}) {
+  if (rubro) maxPorRubro = n;                                       // si se pide un rubro, todas las ofertas son de ese rubro
   const puntaje = o => Math.min(o.pct, 60) + (o.esMinimo ? 30 : 0) + (o.antes - o.ahora >= 50000 ? 10 : 0);
   const orden = cands.filter(o => o.image_url && o.nombre.length <= 70 && o.pct <= 75 && !PROHIBIDAS.test(`${o.name} ${o.category ?? ''}`)
       && !/open box|reacondicionad|usado|outlet|�/i.test(o.name) && !/[a-záéíóúñ]\.[a-záéíóúñ]/i.test(o.name)
-      && !nombresUsados.some(u => parecido(u, o.name)) && (permitirLibros || o.rubro !== 'libros')).sort((a, b) => puntaje(b) - puntaje(a));
+      && !nombresUsados.some(u => parecido(u, o.name)) && (permitirLibros || o.rubro !== 'libros') && (!rubro || o.rubro === rubro)).sort((a, b) => puntaje(b) - puntaje(a));
   const elegidas = [], cuenta = new Map(), fallidas = new Set(); let intentos = 0;
   for (const tope of [maxPorRubro, maxPorRubro + 1]) {
     for (const o of orden) {

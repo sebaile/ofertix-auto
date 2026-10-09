@@ -1,15 +1,14 @@
 name: Preparar borradores
-# Genera el borrador de historias (9:30), carrusel (11:00) y Reel (17:00), hora de Chile, y lo manda a Telegram para aprobar.
-# GitHub programa en UTC: cada hora tiene dos entradas (UTC-3 en verano, UTC-4 en invierno); el script decide si es su momento.
+# Plan diario (tools/plan.mjs, hora de Chile): historias 08:00, carrusel 11:00 y 18:30, Reel 13:00 y 20:30.
+# Revisa cada 15 minutos entre las 07:00 y las 23:30 de Chile (en UTC, con margen para el cambio de horario).
+# Una comprobación rápida decide si toca preparar algo; si no, la ejecución termina en segundos.
 on:
   schedule:
-    - cron: '35 12,13 * * *'
-    - cron: '5 14,15 * * *'
-    - cron: '5 20,21 * * *'
+    - cron: '*/15 10-23,0-3 * * *'
   workflow_dispatch:
     inputs:
       tipo:
-        description: 'historias, carrusel, reel o prueba-historia (vacío = los que toquen por hora)'
+        description: 'id del plan (historias, carrusel-a, reel-a, carrusel-b, reel-b), tipo (carrusel, reel) o prueba-historia'
         required: false
         default: ''
       forzar:
@@ -50,18 +49,26 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 22
-          cache: npm
+      - name: ¿Toca preparar algo?
+        id: due
+        run: |
+          if [ -n "$TIPO" ]; then echo "hay=true" >> "$GITHUB_OUTPUT"; echo "Lanzado a mano: $TIPO"; else node tools/due.mjs; fi
       - name: Herramientas del sistema (ffmpeg y emojis)
+        if: steps.due.outputs.hay == 'true'
         run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg fonts-noto-color-emoji
-      - run: npm ci --no-audit --no-fund
+      - name: Dependencias
+        if: steps.due.outputs.hay == 'true'
+        run: npm ci --no-audit --no-fund
       - name: Preparar
+        if: steps.due.outputs.hay == 'true'
         run: |
           ARGS=""
-          case "$TIPO" in historias|carrusel|reel|prueba-historia) ARGS="$TIPO";; esac
+          case "$TIPO" in historias|carrusel|reel|carrusel-a|carrusel-b|reel-a|reel-b|prueba-historia) ARGS="$TIPO";; esac
           [ "$FORZAR" = "true" ] && ARGS="$ARGS --forzar"
           [ "$PRUEBA" = "true" ] && ARGS="$ARGS --prueba"
           node tools/nube.mjs preparar $ARGS
       - name: Guardar estado y borradores
+        if: steps.due.outputs.hay == 'true'
         run: |
           git config user.name "ofertix-bot"; git config user.email "ofertix-bot@users.noreply.github.com"
           git add datos

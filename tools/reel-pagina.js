@@ -39,10 +39,11 @@
   // ---------- Escena 0: portada ----------
   {
     const c = confeti(40, 11);
+    const suf = esc(D.sufijo ?? 'DE HOY'), sufFs = suf.length > 8 ? Math.floor(900 / (suf.length * 0.66)) : 190;   // "DE TECNOLOGÍA" es más largo que "DE HOY"
     const el = html(`<div class="sc grad"><div class="glow g1"></div><div class="ico" id="i-ico">${ICON}</div>
       <div class="abs" id="i-n" style="left:70px;top:330px;font-size:560px;font-weight:800;line-height:1;letter-spacing:-20px">${NOF}</div>
       <div class="abs" id="i-a" style="left:90px;top:900px;font-size:190px;font-weight:800;letter-spacing:-6px;line-height:1">OFERTAS</div>
-      <div class="abs" id="i-b" style="left:90px;top:1090px;font-size:190px;font-weight:800;letter-spacing:-6px;line-height:1">DE HOY</div>
+      <div class="abs" id="i-b" style="left:90px;top:1090px;font-size:${sufFs}px;font-weight:800;letter-spacing:-4px;line-height:1.5">${suf}</div>
       <div class="abs" id="i-s" style="left:90px;top:1330px;font-size:54px;font-weight:600">precios vistos hoy ✔</div>
       <div class="handle">@ofertixcl.oficial</div></div>`);
     el.insertBefore(c.el, el.querySelector('.ico'));

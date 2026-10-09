@@ -13,15 +13,13 @@ import { env, raiz, datos, chile, chileAUtc, tg, avisar, botones, enviarFotos, c
 import { candidatas, sigueVigente, elegirConImagen, nombreNorm } from './ofertas-db.mjs';
 import { renderizar, htmlHistoria, htmlHistoriaResumen, htmlCarrusel1, htmlCarrusel2, horaVisto } from './plantillas.mjs';
 import { renderizar as renderizarReel } from './reel-motor.mjs';
+import { PLAN, HORARIO_HIST, enVentana, rubroDelDia } from './plan.mjs';
 
 const [, , cmd, ...resto] = process.argv;
 const flags = new Set(resto.filter(a => a.startsWith('--'))), tipoArg = resto.find(a => !a.startsWith('--'));
 const simulacro = flags.has('--simulacro'), forzar = flags.has('--forzar');
 const HASHTAG = { libros: '#libros', perfumes: '#perfumes', gamer: '#gamer', tecnologia: '#tecnologia', hogar: '#hogar', belleza: '#belleza', moda: '#moda' };
-const HORARIO_HIST = [['10:00', 'OFERTA DE LA MAÑANA'], ['13:00', 'OFERTA RELÁMPAGO'], ['16:00', 'OFERTA DE LA TARDE'], ['19:00', 'OFERTA DE LA NOCHE'], ['21:30', 'RESUMEN DEL DÍA']];
-const CFG = {   // hora de Chile a la que se prepara cada contenido y cuánto tiempo queda abierto
-  historias: { a: '09:30', limite: '12:30' }, carrusel: { a: '11:00', horas: 5 }, reel: { a: '17:00', horas: 4.5 },
-};
+const TEMA = { tecnologia: 'tecnología', gamer: 'gamer', perfumes: 'perfumes', hogar: 'hogar', belleza: 'belleza', moda: 'moda', libros: 'libros' };
 const COOLING_MIN = 5;                                                              // en modo autónomo: minutos para cancelar antes de publicar
 const PREF_OK = { carrusel: 'ok', reel: 'rok', historias: 'hok' }, PREF_NO = { carrusel: 'no', reel: 'rno', historias: 'hno' };
 const PREFIJO = { ok: 'carrusel', no: 'carrusel', rok: 'reel', rno: 'reel', hok: 'historias', hno: 'historias' };
@@ -44,24 +42,26 @@ ${o.esMinimo ? `📉 Es el precio más bajo de los últimos ${o.dias} días.\n` 
 
 #ofertaschile ${HASHTAG[o.rubro] ?? ''} #descuentoschile #ofertix #ofertasdeldia`.replace(/ {2,}/g, ' ');
 }
-function textoReel(os) {
+function textoReel(os, rubro) {
   const c = chile();
-  return `🔥 3 ofertas de hoy
+  return `🔥 3 ofertas ${rubro ? 'de ' + TEMA[rubro] : 'de hoy'}
 ${os.map((o, i) => `${i + 1}. ${o.nombre}: ${fmt(o.ahora)} (-${o.pct}%, referencia ${fmt(o.antes)}) en ${o.tienda}${o.esMinimo ? ' · 📉 mínimo de ' + o.dias + ' días' : ''}`).join('\n')}
 
 ⏰ Precios vistos hoy (${+c.fecha.slice(8)}/${+c.fecha.slice(5, 7)}) en nuestro sistema. Pueden cambiar o agotarse sin aviso.
 📲 Enlaces directos en Telegram: t.me/ofertixcl
 
-#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar`;
+#ofertaschile ${rubro ? HASHTAG[rubro] : ''} #descuentoschile #ofertix #ofertasdeldia #ahorrar`.replace(/ {2,}/g, ' ');
 }
 
 // ====================================================================== PREPARAR
-async function preparar(tipo) {
-  const prueba = flags.has('--prueba');                                  // publicación de prueba: aparte de las del día, sin horario y sin tiempo de espera
-  const c = chile(), key = prueba ? `${chile().fecha}-${tipo}-prueba-${Date.now()}` : `${c.fecha}-${tipo}`, cfg = CFG[tipo], estado = leerEstado(), auto = estado.config.modo === 'auto';
-  if (!simulacro && estado.config.pausado) return console.log(`${tipo}: el sistema está en pausa (/reanudar para activarlo).`);
-  if (!simulacro && !forzar && !prueba && (c.min < mins(cfg.a) - 10 || c.min > mins(cfg.a) + 55)) return console.log(`${tipo}: no es su hora (${c.hhmm}, toca a las ${cfg.a}).`);
-  if (!simulacro && !prueba && estado.items[key]) return console.log(`${tipo}: ya preparado hoy (${estado.items[key].estado}).`);
+async function preparar(slot) {
+  const tipo = slot.tipo, prueba = flags.has('--prueba');                // prueba: aparte de las del día, sin horario y sin tiempo de espera
+  const c = chile(), key = prueba ? `${c.fecha}-${slot.id}-prueba-${Date.now()}` : `${c.fecha}-${slot.id}`, estado = leerEstado(), auto = estado.config.modo === 'auto';
+  const rubroTema = rubroDelDia(slot, c.fecha);
+  const publicaEn = chileAUtc(c.fecha, slot.hora);                       // hora exacta de publicación (carrusel/Reel)
+  if (!simulacro && estado.config.pausado) return console.log(`${slot.id}: el sistema está en pausa (/reanudar para activarlo).`);
+  if (!simulacro && !forzar && !prueba && !enVentana(slot, c.min)) return console.log(`${slot.id}: no es su hora (${c.hhmm}, toca a las ${slot.hora}).`);
+  if (!simulacro && !prueba && estado.items[key]) return console.log(`${slot.id}: ya preparado hoy (${estado.items[key].estado}).`);
   const delDia = Object.values(estado.items).filter(i => i.fecha === c.fecha && i.estado !== 'descartado');
   const reservadas = delDia.flatMap(i => i.ofertas.map(o => o.id));
   const nombresUsados = [...Object.keys(estado.nombres), ...delDia.flatMap(i => i.ofertas.map(o => nombreNorm(o.nombre)))];
@@ -71,29 +71,31 @@ async function preparar(tipo) {
   const carpeta = join(datos, 'borrador', c.fecha); mkdirSync(carpeta, { recursive: true });
   const rel = f => relative(raiz, join(carpeta, f)).replace(/\\/g, '/');
   const falta = async msg => { console.log(msg); if (!simulacro) await avisar('ℹ️ ' + msg); };
-  const limiteIso = h => new Date(Date.now() + h * 3600e3).toISOString();
+  const limiteIso = () => new Date(publicaEn.getTime() + (slot.horasAbierto ?? 3) * 3600e3).toISOString();
   let item, enviar;                                  // enviar(markup, nota) manda el borrador a Telegram y devuelve el id del mensaje
 
   if (tipo === 'carrusel') {
     let [o] = await elegir(1, { permitirLibros: false }); if (!o) [o] = await elegir(1);
     if (!o) return falta('No hay una oferta fresca, con foto, que cumpla los criterios para el carrusel de hoy.');
     const jpgs = await renderizar([htmlCarrusel1(o), htmlCarrusel2(o)], 1080, 1350);
-    jpgs.forEach((b, i) => writeFileSync(join(carpeta, `carrusel-${i + 1}.jpg`), b));
+    jpgs.forEach((b, i) => writeFileSync(join(carpeta, `${slot.id}-${i + 1}.jpg`), b));
     const texto = textoCarrusel(o);
-    item = { tipo, fecha: c.fecha, ofertas: [resumenOferta(o)], archivos: jpgs.map((_, i) => rel(`carrusel-${i + 1}.jpg`)), texto, limite: limiteIso(cfg.horas) };
+    item = { tipo, slot: slot.id, fecha: c.fecha, ofertas: [resumenOferta(o)], archivos: jpgs.map((_, i) => rel(`${slot.id}-${i + 1}.jpg`)), texto, limite: limiteIso() };
     if (simulacro) return console.log('\n' + texto);
     enviar = async (markup, nota) => { await enviarFotos(jpgs, 'carrusel'); return (await tg('sendMessage', { chat_id: env.TG_CHAT_ID, text: `📝 Carrusel para Instagram:\n\n${texto}\n\n${nota}`, reply_markup: markup })).message_id; };
   }
 
   if (tipo === 'reel') {
-    const os = await elegir(3, { permitirLibros: false });
-    if (os.length < 3) return falta(`Solo hay ${os.length} ofertas frescas con foto para el Reel de hoy. No se prepara.`);
+    let os = rubroTema ? await elegir(3, { permitirLibros: false, rubro: rubroTema }) : [];
+    const tema = os.length === 3 ? rubroTema : null;                                  // si el rubro del día no alcanza, sale un Reel general
+    if (!tema) os = await elegir(3, { permitirLibros: false });
+    if (os.length < 3) return falta(`Solo hay ${os.length} ofertas frescas con foto para el Reel (${slot.id}). No se prepara.`);
     const corto = (s, n = 50) => (s.length <= n ? s : s.slice(0, s.lastIndexOf(' ', n)) + '…');   // en el video caben ~3 líneas
-    const data = { hoy: c.fecha, ofertas: os.map(o => ({ nombre: corto(o.nombre), tienda: o.tienda, ahora: o.ahora, antes: o.antes, pct: o.pct, antesOk: true, img: o.img })) };
-    const salida = join(carpeta, 'reel.mp4');
+    const data = { hoy: c.fecha, sufijo: tema ? 'DE ' + TEMA[tema].toUpperCase() : 'DE HOY', ofertas: os.map(o => ({ nombre: corto(o.nombre), tienda: o.tienda, ahora: o.ahora, antes: o.antes, pct: o.pct, antesOk: true, img: o.img })) };
+    const salida = join(carpeta, `${slot.id}.mp4`);
     await renderizarReel({ css: REEL_CSS, pagina: readFileSync(join(raiz, 'tools', 'reel-pagina.js'), 'utf8'), data, eventos: eventosReel, salida });
-    const texto = textoReel(os);
-    item = { tipo, fecha: c.fecha, ofertas: os.map(resumenOferta), archivos: [rel('reel.mp4')], texto, limite: limiteIso(cfg.horas) };
+    const texto = textoReel(os, tema);
+    item = { tipo, slot: slot.id, fecha: c.fecha, ofertas: os.map(resumenOferta), archivos: [rel(`${slot.id}.mp4`)], texto, limite: limiteIso() };
     if (simulacro) return console.log('\n' + texto);
     enviar = async (markup, nota) => {
       const f = new FormData(); f.append('chat_id', env.TG_CHAT_ID); f.append('caption', `📝 Reel para Instagram:\n\n${texto.slice(0, 780)}\n\n${nota}`); f.append('supports_streaming', 'true');
@@ -113,20 +115,22 @@ async function preparar(tipo) {
       return { hora: hh, etiqueta: resumen ? HORARIO_HIST[4][1] : etiqueta, objetivo: new Date(chileAUtc(c.fecha, hh).getTime() + jitter * 60e3).toISOString(), oferta: resumen ? null : resumenOferta(os[i]), archivo: rel(`historia-${i + 1}.jpg`), hecho: null };
     });
     const resumen = plan.map(p => `${p.hora}  ${p.etiqueta}${p.oferta ? ` — ${p.oferta.nombre.slice(0, 38)} ${fmt(p.oferta.ahora)}` : ''}`).join('\n');
-    item = { tipo, fecha: c.fecha, ofertas: os.map(resumenOferta), plan, limite: chileAUtc(c.fecha, cfg.limite).toISOString() };
+    item = { tipo, slot: slot.id, fecha: c.fecha, ofertas: os.map(resumenOferta), plan, limite: chileAUtc(c.fecha, slot.limite).toISOString() };
     if (simulacro) return console.log('\n' + resumen);
     enviar = async (markup, nota) => { await enviarFotos(jpgs, 'historia'); return (await tg('sendMessage', { chat_id: env.TG_CHAT_ID, text: `📝 Historias de hoy (${plan.length}):\n\n${resumen}\n\nAntes de publicar cada una compruebo que el precio siga igual; si cambió, la omito.\n\n${nota}`, reply_markup: markup })).message_id; };
   }
 
   const nonce = randomBytes(4).toString('hex');                      // código único de ESTE borrador: un botón viejo no puede aprobarlo
   item.nonce = nonce; item.estado = prueba || auto ? 'aprobado' : 'pendiente';
-  if (prueba) item.prueba = true; else if (auto) item.publicarDesde = new Date(Date.now() + COOLING_MIN * 60e3).toISOString();
+  if (prueba) item.prueba = true;
+  else if (auto) item.publicarDesde = new Date(tipo === 'historias' ? Date.now() + COOLING_MIN * 60e3 : Math.max(publicaEn.getTime(), Date.now() + COOLING_MIN * 60e3)).toISOString();   // carrusel/Reel salen a su hora exacta
   const markup = prueba ? undefined : auto ? { inline_keyboard: [[{ text: '⏸ Cancelar esta publicación', callback_data: `${PREF_NO[tipo]}:${c.fecha}:${nonce}` }]] }
     : botones(`${PREF_OK[tipo]}:${c.fecha}:${nonce}`, `${PREF_NO[tipo]}:${c.fecha}:${nonce}`, tipo === 'historias' ? '✅ Aprobar todas' : undefined);
-  const nota = prueba ? '🧪 Publicación de prueba: se publica en unos minutos.' : auto ? `🤖 Modo autónomo: se publica solo en unos minutos. Si no lo quieres, pulsa Cancelar. (/pausa detiene todo)` : (tipo === 'historias' ? `Aprueba antes de las ${cfg.limite}.` : '¿Publico?');
+  const cuando = tipo === 'historias' ? 'a lo largo del día, cada una a su hora' : `a las ${slot.hora}`;
+  const nota = prueba ? '🧪 Publicación de prueba: se publica en unos minutos.' : auto ? `🤖 Modo autónomo: se publica ${cuando}. Si no lo quieres, pulsa Cancelar. (/pausa detiene todo)` : (tipo === 'historias' ? `Aprueba antes de las ${slot.limite}.` : '¿Publico?');
   item.mensajeId = await enviar(markup, nota);
   estado.items[key] = item; guardarEstado(estado);
-  console.log(`${tipo}: ${auto ? 'aprobado automáticamente (publica en ~' + COOLING_MIN + ' min)' : 'enviado para aprobación'}.`);
+  console.log(`${slot.id}: ${auto ? 'aprobado automáticamente (publica ' + cuando + ')' : 'enviado para aprobación'}.`);
 }
 
 // Historia de prueba: una oferta real con foto, publicada ya (sin esperar aprobación).
@@ -151,7 +155,8 @@ async function pruebaHistoria() {
 // ====================================================================== TICK
 async function procesarBoton(cb, estado) {
   if (String(cb.from.id) !== String(env.TG_CHAT_ID)) return;
-  const [pref, fecha, nonce] = (cb.data ?? '').split(':'), tipo = PREFIJO[pref], item = estado.items[`${fecha}-${tipo}`];
+  const [pref, , nonce] = (cb.data ?? '').split(':');
+  const item = nonce ? Object.values(estado.items).find(i => i.nonce === nonce) : undefined, tipo = item?.slot ?? item?.tipo;   // el código único identifica el borrador (hay varios del mismo tipo al día)
   // Solo vale el botón de ESTE borrador: mismo código único y el mismo mensaje. Los botones viejos se ignoran.
   if (!item || !item.nonce || nonce !== item.nonce || (item.mensajeId && cb.message?.message_id !== item.mensajeId)) {
     await tg('answerCallbackQuery', { callback_query_id: cb.id, text: 'Ese botón es de un borrador antiguo y ya no vale.', show_alert: true }).catch(() => {});
@@ -174,7 +179,7 @@ async function procesarMensaje(m, estado) {
   else if (orden === '/reanudar') { conf.pausado = false; await avisar('▶️ Sistema reanudado. El próximo borrador saldrá a su hora.'); }
   else if (orden === '/modo' && ['auto', 'manual'].includes(arg)) { conf.modo = arg; await avisar(arg === 'auto' ? '🤖 Modo autónomo: se publica solo, con unos minutos para cancelar.' : '👤 Modo manual: cada publicación espera tu aprobación.'); }
   else if (orden === '/estado') {
-    const l = Object.entries(estado.items).filter(([, i]) => i.fecha === chile().fecha).map(([k, i]) => `• ${i.tipo}${i.prueba ? ' (prueba)' : ''}: ${i.estado}`);
+    const l = Object.entries(estado.items).filter(([, i]) => i.fecha === chile().fecha).map(([k, i]) => `• ${i.slot ?? i.tipo}${i.prueba ? ' (prueba)' : ''}: ${i.estado}`);
     await avisar(`📊 Modo: ${conf.modo === 'auto' ? 'autónomo' : 'manual'} · ${conf.pausado ? '⏸ en pausa' : '▶️ activo'}\nHoy:\n${l.join('\n') || '• (nada todavía)'}`);
   } else if (['/start', '/ayuda', '/help'].includes(orden)) await avisar('Comandos:\n/pausa — cancela lo pendiente y detiene todo\n/reanudar — vuelve a activar\n/modo auto | manual — publicar solo o con tu aprobación\n/estado — ver cómo va el día');
 }
@@ -280,8 +285,8 @@ function eventosReel(S, d) {
 // ====================================================================== Entrada
 try {
   if (cmd === 'preparar') {
-    const tipos = tipoArg ? [tipoArg] : ['historias', 'carrusel', 'reel'];
-    for (const t of tipos) { try { if (t === 'prueba-historia') await pruebaHistoria(); else await preparar(t); } catch (e) { console.error(`${t}:`, e.message); if (!simulacro) await avisar(`⚠️ No pude preparar ${t}: ${String(e.message).slice(0, 200)}`).catch(() => {}); } }
+    const slots = tipoArg === 'prueba-historia' ? ['prueba-historia'] : tipoArg ? [PLAN.find(s => s.id === tipoArg) ?? PLAN.find(s => s.tipo === tipoArg)].filter(Boolean) : PLAN;
+    for (const s of slots) { const nombre = s.id ?? s; try { if (s === 'prueba-historia') await pruebaHistoria(); else await preparar(s); } catch (e) { console.error(`${nombre}:`, e.message); if (!simulacro) await avisar(`⚠️ No pude preparar ${nombre}: ${String(e.message).slice(0, 200)}`).catch(() => {}); } }
     if (!simulacro) { subirCambios('Borradores'); relanzarRevision(); }
   } else if (cmd === 'tick') await tick();
   else console.log('Uso: node tools/nube.mjs preparar [historias|carrusel|reel|prueba-historia] [--forzar] [--simulacro] | tick [--bucle] [--sin-publicar]');
