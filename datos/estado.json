@@ -3,6 +3,7 @@
  "usadas": {
   "300139": "2026-10-09T20:48:53.988Z"
  },
+ "nombres": {},
  "items": {
   "2026-10-09-carrusel": {
    "tipo": "carrusel",
@@ -30,6 +31,52 @@
    "limite": "2026-10-10T01:52:42.767Z",
    "nonce": "82222e7a",
    "mensajeId": 19
+  },
+  "2026-10-09-prueba-1791580037776": {
+   "tipo": "historias",
+   "fecha": "2026-10-09",
+   "estado": "aprobado",
+   "prueba": true,
+   "ofertas": [
+    {
+     "id": "67319",
+     "nombre": "Encimera A Gas 5 Quemadores Gris",
+     "tienda": "Mercado Libre",
+     "ahora": 179990,
+     "antes": 359990,
+     "pct": 50,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 59,
+     "visto": "17:21"
+    }
+   ],
+   "limite": "2026-10-09T22:07:17.777Z",
+   "plan": [
+    {
+     "hora": "ahora",
+     "etiqueta": "PRUEBA",
+     "objetivo": "2026-10-09T21:07:17.777Z",
+     "oferta": {
+      "id": "67319",
+      "nombre": "Encimera A Gas 5 Quemadores Gris",
+      "tienda": "Mercado Libre",
+      "ahora": 179990,
+      "antes": 359990,
+      "pct": 50,
+      "rubro": "hogar",
+      "esMinimo": true,
+      "dias": 59,
+      "visto": "17:21"
+     },
+     "archivo": "datos/borrador/2026-10-09/prueba-historia-1791580037776.jpg",
+     "hecho": null
+    }
+   ]
   }
+ },
+ "config": {
+  "modo": "auto",
+  "pausado": false
  }
 }
