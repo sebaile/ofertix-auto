@@ -5,6 +5,7 @@
 //       Lee tus botones de Telegram, descarta lo vencido y publica lo aprobado cuando toca.
 import { mkdirSync, writeFileSync, readFileSync, rmSync, readdirSync } from 'node:fs';
 import { join, relative } from 'node:path';
+import { randomBytes } from 'node:crypto';
 import { env, raiz, datos, chile, chileAUtc, tg, avisar, botones, enviarFotos, contenedor, publicarContenedor, enlacePublicacion, urlPublica, esperarPublica, leerEstado, guardarEstado, fmt, dormir } from './lib.mjs';
 import { candidatas, sigueVigente, elegirVariadas } from './ofertas-db.mjs';
 import { renderizar, htmlHistoria, htmlHistoriaResumen, htmlCarrusel1, htmlCarrusel2, horaVisto } from './plantillas.mjs';
@@ -57,7 +58,8 @@ async function preparar(tipo) {
   const carpeta = join(datos, 'borrador', c.fecha); mkdirSync(carpeta, { recursive: true });
   const rel = f => relative(raiz, join(carpeta, f)).replace(/\\/g, '/');
   const falta = async msg => { console.log(msg); if (!simulacro) await avisar('ℹ️ ' + msg); };
-  let item;
+  let item, mensajeId;
+  const nonce = randomBytes(4).toString('hex');                      // código único de ESTE borrador: un botón viejo no puede aprobarlo
 
   if (tipo === 'carrusel') {
     const o = elegirVariadas(cands, 1, { permitirLibros: false })[0] ?? elegirVariadas(cands, 1)[0];
@@ -68,7 +70,7 @@ async function preparar(tipo) {
     item = { tipo, fecha: c.fecha, estado: 'pendiente', ofertas: [resumenOferta(o)], archivos: jpgs.map((_, i) => rel(`carrusel-${i + 1}.jpg`)), texto, limite: new Date(ahora.getTime() + cfg.horas * 3600e3).toISOString() };
     if (simulacro) return console.log('\n' + texto);
     await enviarFotos(jpgs, 'carrusel');
-    await tg('sendMessage', { chat_id: env.TG_CHAT_ID, text: `📝 Carrusel para Instagram:\n\n${texto}\n\n¿Publico?`, reply_markup: botones(`ok:${c.fecha}`, `no:${c.fecha}`) });
+    mensajeId = (await tg('sendMessage', { chat_id: env.TG_CHAT_ID, text: `📝 Carrusel para Instagram:\n\n${texto}\n\n¿Publico?`, reply_markup: botones(`ok:${c.fecha}:${nonce}`, `no:${c.fecha}:${nonce}`) })).message_id;
   }
 
   if (tipo === 'reel') {
@@ -81,8 +83,8 @@ async function preparar(tipo) {
     item = { tipo, fecha: c.fecha, estado: 'pendiente', ofertas: os.map(resumenOferta), archivos: [rel('reel.mp4')], texto, limite: new Date(ahora.getTime() + cfg.horas * 3600e3).toISOString() };
     if (simulacro) return console.log('\n' + texto);
     const f = new FormData(); f.append('chat_id', env.TG_CHAT_ID); f.append('caption', `📝 Reel para Instagram:\n\n${texto}`.slice(0, 1000)); f.append('supports_streaming', 'true');
-    f.append('reply_markup', JSON.stringify(botones(`rok:${c.fecha}`, `rno:${c.fecha}`))); f.append('video', new Blob([readFileSync(salida)], { type: 'video/mp4' }), 'reel.mp4');
-    await tg('sendVideo', f);
+    f.append('reply_markup', JSON.stringify(botones(`rok:${c.fecha}:${nonce}`, `rno:${c.fecha}:${nonce}`))); f.append('video', new Blob([readFileSync(salida)], { type: 'video/mp4' }), 'reel.mp4');
+    mensajeId = (await tg('sendVideo', f)).message_id;
   }
 
   if (tipo === 'historias') {
@@ -99,8 +101,9 @@ async function preparar(tipo) {
     item = { tipo, fecha: c.fecha, estado: 'pendiente', ofertas: os.map(resumenOferta), plan, limite: chileAUtc(c.fecha, cfg.limite).toISOString() };
     if (simulacro) return console.log('\n' + resumen);
     await enviarFotos(jpgs, 'historia');
-    await tg('sendMessage', { chat_id: env.TG_CHAT_ID, text: `📝 Historias de hoy (${plan.length}):\n\n${resumen}\n\nAntes de publicar cada una compruebo que el precio siga igual; si cambió, la omito.\nAprueba antes de las ${cfg.limite}; las historias cuya hora ya pasó se omiten.`, reply_markup: botones(`hok:${c.fecha}`, `hno:${c.fecha}`, '✅ Aprobar todas') });
+    mensajeId = (await tg('sendMessage', { chat_id: env.TG_CHAT_ID, text: `📝 Historias de hoy (${plan.length}):\n\n${resumen}\n\nAntes de publicar cada una compruebo que el precio siga igual; si cambió, la omito.\nAprueba antes de las ${cfg.limite}; las historias cuya hora ya pasó se omiten.`, reply_markup: botones(`hok:${c.fecha}:${nonce}`, `hno:${c.fecha}:${nonce}`, '✅ Aprobar todas') })).message_id;
   }
+  item.nonce = nonce; item.mensajeId = mensajeId;
   estado.items[key] = item; guardarEstado(estado);
   console.log(`${tipo}: borrador enviado a Telegram.`);
 }
@@ -120,16 +123,21 @@ async function tick() {
   for (const u of ups) {
     estado.offset = Math.max(estado.offset, u.update_id + 1);
     const cb = u.callback_query; if (!cb || String(cb.from.id) !== String(env.TG_CHAT_ID)) continue;
-    const [pref, fecha] = (cb.data ?? '').split(':'), tipo = PREFIJO[pref], item = estado.items[`${fecha}-${tipo}`];
+    const [pref, fecha, nonce] = (cb.data ?? '').split(':'), tipo = PREFIJO[pref], item = estado.items[`${fecha}-${tipo}`];
+    // Solo vale el botón de ESTE borrador: mismo código único y el mismo mensaje. Los botones viejos se ignoran.
+    if (!item || !item.nonce || nonce !== item.nonce || (item.mensajeId && cb.message?.message_id !== item.mensajeId)) {
+      await tg('answerCallbackQuery', { callback_query_id: cb.id, text: 'Ese botón es de un borrador antiguo y ya no vale.', show_alert: true }).catch(() => {});
+      console.log('Botón ignorado (borrador antiguo o código distinto).'); continue;
+    }
     await tg('answerCallbackQuery', { callback_query_id: cb.id }).catch(() => {});
-    if (!item) continue;
-    if (item.estado !== 'pendiente') { await avisar(`ℹ️ Ese ${tipo} ya estaba ${item.estado}.`); continue; }
-    if (new Date(item.limite).getTime() < ahoraMs) { item.estado = 'descartado'; await avisar(`⌛ Ese ${tipo} ya venció (pasó la hora límite). No se publicará.`); continue; }
-    if (pref.endsWith('ok')) { item.estado = 'aprobado'; await avisar(`✅ ${tipo[0].toUpperCase() + tipo.slice(1)} aprobado. Se publicará en la próxima revisión (hasta 10 min).`); }
-    else { item.estado = 'descartado'; await avisar(`🗑 ${tipo[0].toUpperCase() + tipo.slice(1)} descartado. No se publicó nada.`); }
+    const nombre = tipo[0].toUpperCase() + tipo.slice(1);
+    if (item.estado !== 'pendiente') { await avisar(`ℹ️ ${nombre}: ya estaba ${item.estado}.`); continue; }
+    if (new Date(item.limite).getTime() < ahoraMs) { item.estado = 'descartado'; await quitarBotones(item); await avisar(`⌛ ${nombre}: ya venció (pasó la hora límite). No se publicará.`); continue; }
+    if (pref.endsWith('ok')) { item.estado = 'aprobado'; await quitarBotones(item); await avisar(`✅ ${nombre} aprobado. Se publicará en la próxima revisión (hasta 10 min).`); }
+    else { item.estado = 'descartado'; await quitarBotones(item); await avisar(`🗑 ${nombre} descartado. No se publicó nada.`); }
   }
   // 2. Vencidos
-  for (const i of Object.values(estado.items)) if (i.estado === 'pendiente' && new Date(i.limite).getTime() < ahoraMs) { i.estado = 'descartado'; await avisar(`⌛ Pasó la hora límite sin respuesta: ${i.tipo} de hoy descartado. No se publicó nada.`); }
+  for (const i of Object.values(estado.items)) if (i.estado === 'pendiente' && new Date(i.limite).getTime() < ahoraMs) { i.estado = 'descartado'; await quitarBotones(i); await avisar(`⌛ Pasó la hora límite sin respuesta: ${i.tipo} de hoy descartado. No se publicó nada.`); }
   guardarEstado(estado);
 
   // 3. Publicar lo aprobado
@@ -144,6 +152,7 @@ async function tick() {
   limpiar(estado);
 }
 
+const quitarBotones = item => item.mensajeId ? tg('editMessageReplyMarkup', { chat_id: env.TG_CHAT_ID, message_id: item.mensajeId, reply_markup: { inline_keyboard: [] } }).catch(() => {}) : Promise.resolve();
 async function vigente(o) { const v = await sigueVigente(o.id, o.ahora); return v; }
 async function publicarCarrusel(i, estado) {
   const o = i.ofertas[0], v = await vigente(o);
