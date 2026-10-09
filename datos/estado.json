@@ -1,5 +1,5 @@
 {
- "offset": 44460905,
+ "offset": 44460906,
  "usadas": {
   "300139": "2026-10-09T20:48:53.988Z"
  },
@@ -7,7 +7,7 @@
   "2026-10-09-carrusel": {
    "tipo": "carrusel",
    "fecha": "2026-10-09",
-   "estado": "pendiente",
+   "estado": "descartado",
    "ofertas": [
     {
      "id": "67319",
