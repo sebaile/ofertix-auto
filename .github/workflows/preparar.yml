@@ -9,7 +9,7 @@ on:
   workflow_dispatch:
     inputs:
       tipo:
-        description: 'historias, carrusel o reel (vacío = los que toquen por hora)'
+        description: 'historias, carrusel, reel o prueba-historia (vacío = los que toquen por hora)'
         required: false
         default: ''
       forzar:
@@ -22,6 +22,7 @@ concurrency:
   cancel-in-progress: false
 permissions:
   contents: write
+  actions: write
 
 jobs:
   preparar:
@@ -29,6 +30,7 @@ jobs:
     timeout-minutes: 25
     env:
       TZ: America/Santiago
+      GH_TOKEN: ${{ github.token }}
       IG_USER_ID: ${{ secrets.IG_USER_ID }}
       IG_TOKEN: ${{ secrets.IG_TOKEN }}
       TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
@@ -48,7 +50,7 @@ jobs:
       - name: Preparar
         run: |
           ARGS=""
-          case "$TIPO" in historias|carrusel|reel) ARGS="$TIPO";; esac
+          case "$TIPO" in historias|carrusel|reel|prueba-historia) ARGS="$TIPO";; esac
           [ "$FORZAR" = "true" ] && ARGS="$ARGS --forzar"
           node tools/nube.mjs preparar $ARGS
       - name: Guardar estado y borradores

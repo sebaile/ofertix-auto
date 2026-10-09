@@ -1,0 +1,35 @@
+{
+ "offset": 44460906,
+ "usadas": {
+  "300139": "2026-10-09T20:48:53.988Z"
+ },
+ "items": {
+  "2026-10-09-carrusel": {
+   "tipo": "carrusel",
+   "fecha": "2026-10-09",
+   "estado": "descartado",
+   "ofertas": [
+    {
+     "id": "67319",
+     "nombre": "Encimera A Gas 5 Quemadores Gris",
+     "tienda": "Mercado Libre",
+     "ahora": 179990,
+     "antes": 359990,
+     "pct": 50,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 59,
+     "visto": "17:21"
+    }
+   ],
+   "archivos": [
+    "datos/borrador/2026-10-09/carrusel-1.jpg",
+    "datos/borrador/2026-10-09/carrusel-2.jpg"
+   ],
+   "texto": "🔥 OFERTA DEL DÍA\nEncimera A Gas 5 Quemadores Gris\nAhora: $179.990 (-50%)\nReferencia: $359.990\n🏪 Mercado Libre\n\n✅ Precio visto hoy a las 17:21 en nuestro sistema.\n📉 Es el precio más bajo de los últimos 59 días.\n⏰ Puede cambiar o agotarse sin aviso.\n📲 Enlace directo en Telegram: t.me/ofertixcl\n\n#ofertaschile #hogar #descuentoschile #ofertix #ofertasdeldia",
+   "limite": "2026-10-10T01:52:42.767Z",
+   "nonce": "82222e7a",
+   "mensajeId": 19
+  }
+ }
+}
