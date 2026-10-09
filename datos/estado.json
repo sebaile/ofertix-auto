@@ -1,9 +1,12 @@
 {
  "offset": 44460906,
  "usadas": {
+  "67319": "2026-10-09T21:07:47.598Z",
   "300139": "2026-10-09T20:48:53.988Z"
  },
- "nombres": {},
+ "nombres": {
+  "encimera a gas 5 quemadores gris": "2026-10-09T21:07:47.599Z"
+ },
  "items": {
   "2026-10-09-carrusel": {
    "tipo": "carrusel",
@@ -70,7 +73,8 @@
       "visto": "17:21"
      },
      "archivo": "datos/borrador/2026-10-09/prueba-historia-1791580037776.jpg",
-     "hecho": null
+     "hecho": "publicada",
+     "id": "17976233010128609"
     }
    ]
   }
