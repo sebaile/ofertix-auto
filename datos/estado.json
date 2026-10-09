@@ -2,10 +2,16 @@
  "offset": 44460906,
  "usadas": {
   "67319": "2026-10-09T21:07:47.598Z",
-  "300139": "2026-10-09T20:48:53.988Z"
+  "67333": "2026-10-09T21:13:30.796Z",
+  "300139": "2026-10-09T20:48:53.988Z",
+  "333546": "2026-10-09T21:13:30.796Z",
+  "333563": "2026-10-09T21:13:30.795Z"
  },
  "nombres": {
-  "encimera a gas 5 quemadores gris": "2026-10-09T21:07:47.599Z"
+  "encimera a gas 5 quemadores gris": "2026-10-09T21:07:47.599Z",
+  "hyperx audifonos hyperx cloud mini ultraliviano multiplataforma 3 5mm": "2026-10-09T21:13:30.796Z",
+  "horno xl rotisserie oster 60 l manual gris tssttv60mns": "2026-10-09T21:13:30.796Z",
+  "marshall parlante bluetooth acton iii negro marshall": "2026-10-09T21:13:30.796Z"
  },
  "items": {
   "2026-10-09-carrusel": {
@@ -125,9 +131,11 @@
    "texto": "🔥 3 ofertas de hoy\n1. HYPERX Audífonos HyperX Cloud Mini Ultraliviano Multiplataforma 3.5mm: $19.990 (-63%, referencia $54.990) en Falabella · 📉 mínimo de 64 días\n2. Horno Xl Rotisserie Oster, 60 L, Manual, Gris, Tssttv60mns: $87.990 (-45%, referencia $159.990) en Mercado Libre · 📉 mínimo de 74 días\n3. MARSHALL Parlante Bluetooth Acton III Negro Marshall: $199.990 (-41%, referencia $339.990) en Falabella · 📉 mínimo de 87 días\n\n⏰ Precios vistos hoy (9/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar",
    "limite": "2026-10-10T01:42:12.051Z",
    "nonce": "48c5fa24",
-   "estado": "aprobado",
+   "estado": "publicado",
    "prueba": true,
-   "mensajeId": 23
+   "mensajeId": 23,
+   "id": "18411676381091713",
+   "enlace": "https://www.instagram.com/reel/DeScpcfEhcc/"
   }
  },
  "config": {
