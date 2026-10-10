@@ -34,7 +34,7 @@ jobs:
           cache: npm
       - run: npm ci --no-audit --no-fund
       - name: Revisar
-        run: node tools/nube.mjs tick --bucle
+        run: node tools/nube.mjs tick
       - name: Guardar estado
         run: |
           git config user.name "ofertix-bot"; git config user.email "ofertix-bot@users.noreply.github.com"
