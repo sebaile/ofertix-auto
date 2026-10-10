@@ -12,7 +12,8 @@
   "718625": "2026-10-09T22:32:10.226Z",
   "912406": "2026-10-09T21:56:01.891Z",
   "912408": "2026-10-09T22:32:10.226Z",
-  "955741": "2026-10-09T22:32:10.226Z"
+  "955741": "2026-10-09T22:32:10.226Z",
+  "1064880": "2026-10-10T19:03:13.969Z"
  },
  "nombres": {
   "encimera a gas 5 quemadores gris": "2026-10-09T21:07:47.599Z",
@@ -25,7 +26,8 @@
   "atomic heart ps4 ps5 ps4 ps5": "2026-10-09T22:32:10.226Z",
   "kit master g monitor parlante mgmg2730 mgsbg2": "2026-10-09T22:32:10.226Z",
   "gorro animal mixvans": "2026-10-09T22:32:10.226Z",
-  "ralph lauren polo sport fresh edt 125 ml h": "2026-10-09T22:32:10.226Z"
+  "ralph lauren polo sport fresh edt 125 ml h": "2026-10-09T22:32:10.226Z",
+  "nutribullet freidora de aire digital nutribullet twin drawer": "2026-10-10T19:03:13.969Z"
  },
  "items": {
   "2026-10-09-carrusel": {
@@ -410,7 +412,8 @@
       "visto": "14:00"
      },
      "archivo": "datos/borrador/2026-10-10/historia-3.jpg",
-     "hecho": null
+     "hecho": "publicada",
+     "id": "18167839495483953"
     },
     {
      "hora": "19:30",
