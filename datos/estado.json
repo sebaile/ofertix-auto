@@ -497,6 +497,35 @@
    "estado": "aprobado",
    "publicarDesde": "2026-10-10T18:31:39.676Z",
    "mensajeId": 48
+  },
+  "2026-10-10-carrusel-a": {
+   "tipo": "carrusel",
+   "slot": "carrusel-a",
+   "fecha": "2026-10-10",
+   "ofertas": [
+    {
+     "id": "955874",
+     "nombre": "Endless Legend - Definitive Edition",
+     "tienda": "Humble Store",
+     "ahora": 24923,
+     "antes": 99732,
+     "pct": 75,
+     "rubro": "otros",
+     "esMinimo": false,
+     "dias": 0,
+     "visto": "15:59"
+    }
+   ],
+   "archivos": [
+    "datos/borrador/2026-10-10/carrusel-a-1.jpg",
+    "datos/borrador/2026-10-10/carrusel-a-2.jpg"
+   ],
+   "texto": "🔥 OFERTA DEL DÍA\nEndless Legend - Definitive Edition\nAhora: $24.923 (-75%)\nReferencia: $99.732\n🏪 Humble Store\n\n✅ Precio visto hoy a las 15:59 en nuestro sistema.\n⏰ Puede cambiar o agotarse sin aviso.\n📲 Enlace directo en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia",
+   "limite": "2026-10-10T17:00:00.000Z",
+   "nonce": "842c9a1a",
+   "estado": "aprobado",
+   "publicarDesde": "2026-10-10T19:07:41.115Z",
+   "mensajeId": 51
   }
  },
  "config": {
