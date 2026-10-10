@@ -541,6 +541,84 @@
    "mensajeId": 51,
    "id": "18076081103484450",
    "enlace": "https://www.instagram.com/p/DeUzlV0lMh6/"
+  },
+  "2026-10-10-carrusel-b": {
+   "tipo": "carrusel",
+   "slot": "carrusel-b",
+   "fecha": "2026-10-10",
+   "ofertas": [
+    {
+     "id": "1128340",
+     "nombre": "Scanner PANASONIC KV-S1015C-X",
+     "tienda": "Ágil Store",
+     "ahora": 45990,
+     "antes": 186990,
+     "pct": 75,
+     "rubro": "tecnologia",
+     "esMinimo": true,
+     "dias": 89,
+     "visto": "16:56"
+    },
+    {
+     "id": "825840",
+     "nombre": "SONY Death Stranding 2 On The Beach Ps5 Sony",
+     "tienda": "Falabella",
+     "ahora": 30990,
+     "antes": 75990,
+     "pct": 59,
+     "rubro": "gamer",
+     "esMinimo": true,
+     "dias": 68,
+     "visto": "16:56"
+    },
+    {
+     "id": "1157346",
+     "nombre": "KARCHER Aspiradora Inalámbrica 223.14 W 17 Litros WD 3-18",
+     "tienda": "Sodimac",
+     "ahora": 149990,
+     "antes": 267050,
+     "pct": 43,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 57,
+     "visto": "16:56"
+    },
+    {
+     "id": "1063781",
+     "nombre": "CALVIN KLEIN Calvin Klein CK One Eau De Toilette Unisex 50 Ml",
+     "tienda": "Falabella",
+     "ahora": 24990,
+     "antes": 52990,
+     "pct": 52,
+     "rubro": "perfumes",
+     "esMinimo": true,
+     "dias": 70,
+     "visto": "16:56"
+    },
+    {
+     "id": "827619",
+     "nombre": "CONAIR Secador Profesional con Infusión de Ácido Hialurónico 650BRB",
+     "tienda": "Falabella Marketplace",
+     "ahora": 44990,
+     "antes": 79990,
+     "pct": 43,
+     "rubro": "belleza",
+     "esMinimo": true,
+     "dias": 77,
+     "visto": "16:56"
+    }
+   ],
+   "archivos": [
+    "datos/borrador/2026-10-10/carrusel-b-1.jpg",
+    "datos/borrador/2026-10-10/carrusel-b-2.jpg",
+    "datos/borrador/2026-10-10/carrusel-b-3.jpg"
+   ],
+   "texto": "🏆 Top 5 ofertas de la semana\n1. Scanner PANASONIC KV-S1015C-X: $45.990 (-75%) en Ágil Store · 📉 mínimo de 89 días\n2. SONY Death Stranding 2 On The Beach Ps5 Sony: $30.990 (-59%) en Falabella · 📉 mínimo de 68 días\n3. KARCHER Aspiradora Inalámbrica 223.14 W 17 Litros WD 3-18: $149.990 (-43%) en Sodimac · 📉 mínimo de 57 días\n4. CALVIN KLEIN Calvin Klein CK One Eau De Toilette Unisex 50 Ml: $24.990 (-52%) en Falabella · 📉 mínimo de 70 días\n5. CONAIR Secador Profesional con Infusión de Ácido Hialurónico 650BRB: $44.990 (-43%) en Falabella Marketplace · 📉 mínimo de 77 días\n\n⏰ Precios vistos hoy (10/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #top5 #descuentoschile #ofertix #ahorrar",
+   "limite": "2026-10-11T00:30:00.000Z",
+   "nonce": "16831b88",
+   "estado": "aprobado",
+   "publicarDesde": "2026-10-10T21:30:00.000Z",
+   "mensajeId": 64
   }
  },
  "config": {
