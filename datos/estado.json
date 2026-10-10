@@ -13,7 +13,10 @@
   "912406": "2026-10-09T21:56:01.891Z",
   "912408": "2026-10-09T22:32:10.226Z",
   "955741": "2026-10-09T22:32:10.226Z",
-  "1064880": "2026-10-10T19:03:13.969Z"
+  "1064880": "2026-10-10T19:03:13.969Z",
+  "1118971": "2026-10-10T19:03:42.062Z",
+  "1147916": "2026-10-10T19:03:42.062Z",
+  "1151385": "2026-10-10T19:03:42.062Z"
  },
  "nombres": {
   "encimera a gas 5 quemadores gris": "2026-10-09T21:07:47.599Z",
@@ -27,7 +30,10 @@
   "kit master g monitor parlante mgmg2730 mgsbg2": "2026-10-09T22:32:10.226Z",
   "gorro animal mixvans": "2026-10-09T22:32:10.226Z",
   "ralph lauren polo sport fresh edt 125 ml h": "2026-10-09T22:32:10.226Z",
-  "nutribullet freidora de aire digital nutribullet twin drawer": "2026-10-10T19:03:13.969Z"
+  "nutribullet freidora de aire digital nutribullet twin drawer": "2026-10-10T19:03:13.969Z",
+  "blik parlante blik bass 300": "2026-10-10T19:03:42.062Z",
+  "dolce gabbana perfume mujer light blue edt 200ml dolce gabbana": "2026-10-10T19:03:42.062Z",
+  "encimera a gas 5 quemadores silver na75d3030as zs": "2026-10-10T19:03:42.062Z"
  },
  "items": {
   "2026-10-09-carrusel": {
@@ -497,9 +503,11 @@
    "texto": "🔥 3 ofertas de hoy\n1. Blik PARLANTE BLIK BASS 300: $69.990 (-56%, referencia $159.990) en Lider Marketplace · 📉 mínimo de 36 días\n2. DOLCE&GABBANA Perfume Mujer Light Blue Edt 200Ml Dolce&Gabbana: $89.990 (-52%, referencia $189.990) en Falabella · 📉 mínimo de 25 días\n3. Encimera a Gas 5 quemadores (Silver) (NA75D3030AS/ZS): $179.990 (-50%, referencia $359.990) en Samsung Shop · 📉 mínimo de 60 días\n\n⏰ Precios vistos hoy (10/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar",
    "limite": "2026-10-10T19:00:00.000Z",
    "nonce": "0f4d4b66",
-   "estado": "aprobado",
+   "estado": "publicado",
    "publicarDesde": "2026-10-10T18:31:39.676Z",
-   "mensajeId": 48
+   "mensajeId": 48,
+   "id": "17994121023051873",
+   "enlace": "https://www.instagram.com/reel/DeUylmYAFWo/"
   },
   "2026-10-10-carrusel-a": {
    "tipo": "carrusel",
