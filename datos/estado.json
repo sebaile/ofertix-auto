@@ -19,6 +19,7 @@
   "1063781": "2026-10-10T21:31:20.651Z",
   "1064880": "2026-10-10T19:03:13.969Z",
   "1118971": "2026-10-10T19:03:42.062Z",
+  "1124006": "2026-10-10T22:30:40.432Z",
   "1128340": "2026-10-10T21:31:20.650Z",
   "1147916": "2026-10-10T19:03:42.062Z",
   "1151385": "2026-10-10T19:03:42.062Z",
@@ -45,7 +46,8 @@
   "sony death stranding 2 on the beach ps5 sony": "2026-10-10T21:31:20.651Z",
   "karcher aspiradora inalambrica 223 14 w 17 litros wd 3 18": "2026-10-10T21:31:20.651Z",
   "calvin klein calvin klein ck one eau de toilette unisex 50 ml": "2026-10-10T21:31:20.651Z",
-  "conair secador profesional con infusion de acido hialuronico 650brb": "2026-10-10T21:31:20.651Z"
+  "conair secador profesional con infusion de acido hialuronico 650brb": "2026-10-10T21:31:20.651Z",
+  "jimmy choo perfume mujer floral edt 90 ml jimmy choo": "2026-10-10T22:30:40.432Z"
  },
  "items": {
   "2026-10-09-carrusel": {
@@ -450,7 +452,8 @@
       "visto": "14:00"
      },
      "archivo": "datos/borrador/2026-10-10/historia-4.jpg",
-     "hecho": null
+     "hecho": "publicada",
+     "id": "18355651477169727"
     },
     {
      "hora": "22:00",
