@@ -3,7 +3,10 @@
  "usadas": {
   "67319": "2026-10-09T21:07:47.598Z",
   "67333": "2026-10-09T21:13:30.796Z",
+  "266260": "2026-10-10T23:31:46.966Z",
   "279009": "2026-10-09T22:32:10.226Z",
+  "279052": "2026-10-10T23:31:46.966Z",
+  "299940": "2026-10-10T23:31:46.966Z",
   "300139": "2026-10-09T20:48:53.988Z",
   "333546": "2026-10-09T21:13:30.796Z",
   "333563": "2026-10-09T21:13:30.795Z",
@@ -47,7 +50,10 @@
   "karcher aspiradora inalambrica 223 14 w 17 litros wd 3 18": "2026-10-10T21:31:20.651Z",
   "calvin klein calvin klein ck one eau de toilette unisex 50 ml": "2026-10-10T21:31:20.651Z",
   "conair secador profesional con infusion de acido hialuronico 650brb": "2026-10-10T21:31:20.651Z",
-  "jimmy choo perfume mujer floral edt 90 ml jimmy choo": "2026-10-10T22:30:40.432Z"
+  "jimmy choo perfume mujer floral edt 90 ml jimmy choo": "2026-10-10T22:30:40.432Z",
+  "flexus100 soundbar flexus core 100": "2026-10-10T23:31:46.966Z",
+  "sony god of war ragnarok ps5 sony": "2026-10-10T23:31:46.966Z",
+  "lattafa fakhar edp 100 ml h": "2026-10-10T23:31:46.966Z"
  },
  "items": {
   "2026-10-09-carrusel": {
@@ -683,9 +689,11 @@
    "texto": "🔥 3 ofertas de hoy\n1. Flexus100 Soundbar Flexus Core 100: $209.990 (-65%, referencia $614.975) en Reuse\n2. SONY God Of War Ragnarok Ps5 Sony: $39.990 (-55%, referencia $89.990) en Falabella\n3. Lattafa Fakhar EDP 100 ML (H): $19.500 (-51%, referencia $39.900) en Perfumes Chile\n\n⏰ Precios vistos hoy (10/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar",
    "limite": "2026-10-11T01:30:00.000Z",
    "nonce": "fc1ec518",
-   "estado": "aprobado",
+   "estado": "publicado",
    "publicarDesde": "2026-10-10T23:30:00.000Z",
-   "mensajeId": 66
+   "mensajeId": 66,
+   "id": "17949006540309682",
+   "enlace": "https://www.instagram.com/reel/DeVRP4zCTvu/"
   }
  },
  "config": {
