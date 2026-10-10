@@ -23,6 +23,7 @@ jobs:
       IG_TOKEN: ${{ secrets.IG_TOKEN }}
       TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
       TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
+      TG_CANAL_IG: '@ofertix_instagram'   # canal público donde se replica lo que se publica en Instagram (el id no es secreto)
       DB_URL_LECTURA: ${{ secrets.DB_URL_LECTURA }}
     steps:
       - uses: actions/checkout@v4
