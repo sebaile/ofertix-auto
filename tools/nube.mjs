@@ -10,6 +10,7 @@ import { join, relative } from 'node:path';
 import { randomBytes } from 'node:crypto';
 import { env, raiz, datos, chile, chileAUtc, tg, avisar, botones, enviarFotos, contenedor, publicarContenedor, enlacePublicacion, urlPublica, esperarPublica,
   leerEstado, guardarEstado, subirCambios, relanzarRevision, traerImagen, fmt, dormir } from './lib.mjs';
+import { espejarCarrusel, espejarReel, espejarHistoria } from './espejo.mjs';
 import { candidatas, sigueVigente, elegirConImagen, nombreNorm } from './ofertas-db.mjs';
 import { renderizar, htmlHistoria, htmlHistoriaResumen, htmlCarrusel1, htmlCarrusel2, horaVisto, htmlTopPortada, htmlTopLista, htmlTopCierre, EDUCATIVOS, htmlEducativo } from './plantillas.mjs';
 import { renderizar as renderizarReel } from './reel-motor.mjs';
@@ -258,6 +259,7 @@ async function publicarCarrusel(i, estado) {
   const id = await publicarContenedor(car), enlace = await enlacePublicacion(id);
   Object.assign(i, { estado: 'publicado', id, enlace }); i.ofertas.forEach(o => recordar(estado, o)); await quitarBotones(i);
   await avisar(`✅ Carrusel publicado en Instagram.\n${enlace}`);
+  await espejarCarrusel(i);                                                       // réplica en el canal de Telegram (nunca interrumpe)
 }
 async function publicarReel(i, estado) {
   const bad = []; for (const o of i.ofertas) { const v = await vigente(o); if (!v.ok) bad.push(`${o.nombre.slice(0, 30)}: ${v.motivo}`); }
@@ -267,6 +269,7 @@ async function publicarReel(i, estado) {
   const id = await publicarContenedor(cont), enlace = await enlacePublicacion(id);
   Object.assign(i, { estado: 'publicado', id, enlace }); i.ofertas.forEach(o => recordar(estado, o)); await quitarBotones(i);
   await avisar(`✅ Reel publicado en Instagram.\n${enlace}`);
+  await espejarReel(i);
 }
 async function publicarHistorias(i, estado) {
   for (const p of i.plan) {
@@ -279,6 +282,7 @@ async function publicarHistorias(i, estado) {
       const url = urlPublica(p.archivo); await esperarPublica(url);
       const id = await publicarContenedor(await contenedor({ media_type: 'STORIES', image_url: url }, 40, 4000));
       p.hecho = 'publicada'; p.id = id; if (p.oferta) recordar(estado, p.oferta);
+      await espejarHistoria(p);
       guardarEstado(estado); subirCambios('Historia publicada');
     } catch (e) { p.hecho = `omitida: error (${String(e.message).slice(0, 80)})`; }
   }
