@@ -445,6 +445,58 @@
    "estado": "aprobado",
    "publicarDesde": "2026-10-10T18:08:09.546Z",
    "mensajeId": 47
+  },
+  "2026-10-10-reel-a": {
+   "tipo": "reel",
+   "slot": "reel-a",
+   "fecha": "2026-10-10",
+   "ofertas": [
+    {
+     "id": "1151385",
+     "nombre": "Blik PARLANTE BLIK BASS 300",
+     "tienda": "Lider Marketplace",
+     "ahora": 69990,
+     "antes": 159990,
+     "pct": 56,
+     "rubro": "tecnologia",
+     "esMinimo": true,
+     "dias": 36,
+     "visto": "14:00"
+    },
+    {
+     "id": "1118971",
+     "nombre": "DOLCE&GABBANA Perfume Mujer Light Blue Edt 200Ml Dolce&Gabbana",
+     "tienda": "Falabella",
+     "ahora": 89990,
+     "antes": 189990,
+     "pct": 52,
+     "rubro": "perfumes",
+     "esMinimo": true,
+     "dias": 25,
+     "visto": "14:00"
+    },
+    {
+     "id": "1147916",
+     "nombre": "Encimera a Gas 5 quemadores (Silver) (NA75D3030AS/ZS)",
+     "tienda": "Samsung Shop",
+     "ahora": 179990,
+     "antes": 359990,
+     "pct": 50,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 60,
+     "visto": "14:00"
+    }
+   ],
+   "archivos": [
+    "datos/borrador/2026-10-10/reel-a.mp4"
+   ],
+   "texto": "🔥 3 ofertas de hoy\n1. Blik PARLANTE BLIK BASS 300: $69.990 (-56%, referencia $159.990) en Lider Marketplace · 📉 mínimo de 36 días\n2. DOLCE&GABBANA Perfume Mujer Light Blue Edt 200Ml Dolce&Gabbana: $89.990 (-52%, referencia $189.990) en Falabella · 📉 mínimo de 25 días\n3. Encimera a Gas 5 quemadores (Silver) (NA75D3030AS/ZS): $179.990 (-50%, referencia $359.990) en Samsung Shop · 📉 mínimo de 60 días\n\n⏰ Precios vistos hoy (10/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar",
+   "limite": "2026-10-10T19:00:00.000Z",
+   "nonce": "0f4d4b66",
+   "estado": "aprobado",
+   "publicarDesde": "2026-10-10T18:31:39.676Z",
+   "mensajeId": 48
   }
  },
  "config": {
