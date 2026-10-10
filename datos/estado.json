@@ -299,6 +299,152 @@
    "mensajeId": 39,
    "id": "18117785632966566",
    "enlace": "https://www.instagram.com/p/DeSlqWZkedR/"
+  },
+  "2026-10-10-historias": {
+   "tipo": "historias",
+   "slot": "historias",
+   "fecha": "2026-10-10",
+   "ofertas": [
+    {
+     "id": "1147873",
+     "nombre": "JUST HOME COLLECTION Silla Gamer Escritorio Negro",
+     "tienda": "Sodimac",
+     "ahora": 54990,
+     "antes": 179990,
+     "pct": 69,
+     "rubro": "gamer",
+     "esMinimo": true,
+     "dias": 72,
+     "visto": "14:00"
+    },
+    {
+     "id": "181591",
+     "nombre": "Mouse Lenovo 300 Wireless Compact - Cloud Grey",
+     "tienda": "Mercado Libre",
+     "ahora": 36990,
+     "antes": 99990,
+     "pct": 63,
+     "rubro": "tecnologia",
+     "esMinimo": true,
+     "dias": 65,
+     "visto": "14:00"
+    },
+    {
+     "id": "1064880",
+     "nombre": "NUTRIBULLET Freidora de Aire Digital Nutribullet Twin Drawer",
+     "tienda": "Falabella Marketplace",
+     "ahora": 89990,
+     "antes": 199990,
+     "pct": 55,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 77,
+     "visto": "14:00"
+    },
+    {
+     "id": "1124006",
+     "nombre": "JIMMY CHOO Perfume Mujer Floral EDT 90 Ml Jimmy Choo",
+     "tienda": "Falabella",
+     "ahora": 49990,
+     "antes": 111990,
+     "pct": 55,
+     "rubro": "perfumes",
+     "esMinimo": true,
+     "dias": 24,
+     "visto": "14:00"
+    }
+   ],
+   "plan": [
+    {
+     "hora": "08:30",
+     "etiqueta": "OFERTA DE LA MAÑANA",
+     "objetivo": "2026-10-10T11:31:00.000Z",
+     "oferta": {
+      "id": "1147873",
+      "nombre": "JUST HOME COLLECTION Silla Gamer Escritorio Negro",
+      "tienda": "Sodimac",
+      "ahora": 54990,
+      "antes": 179990,
+      "pct": 69,
+      "rubro": "gamer",
+      "esMinimo": true,
+      "dias": 72,
+      "visto": "14:00"
+     },
+     "archivo": "datos/borrador/2026-10-10/historia-1.jpg",
+     "hecho": null
+    },
+    {
+     "hora": "12:30",
+     "etiqueta": "OFERTA RELÁMPAGO",
+     "objetivo": "2026-10-10T15:29:00.000Z",
+     "oferta": {
+      "id": "181591",
+      "nombre": "Mouse Lenovo 300 Wireless Compact - Cloud Grey",
+      "tienda": "Mercado Libre",
+      "ahora": 36990,
+      "antes": 99990,
+      "pct": 63,
+      "rubro": "tecnologia",
+      "esMinimo": true,
+      "dias": 65,
+      "visto": "14:00"
+     },
+     "archivo": "datos/borrador/2026-10-10/historia-2.jpg",
+     "hecho": null
+    },
+    {
+     "hora": "15:30",
+     "etiqueta": "OFERTA DE LA TARDE",
+     "objetivo": "2026-10-10T18:37:00.000Z",
+     "oferta": {
+      "id": "1064880",
+      "nombre": "NUTRIBULLET Freidora de Aire Digital Nutribullet Twin Drawer",
+      "tienda": "Falabella Marketplace",
+      "ahora": 89990,
+      "antes": 199990,
+      "pct": 55,
+      "rubro": "hogar",
+      "esMinimo": true,
+      "dias": 77,
+      "visto": "14:00"
+     },
+     "archivo": "datos/borrador/2026-10-10/historia-3.jpg",
+     "hecho": null
+    },
+    {
+     "hora": "19:30",
+     "etiqueta": "OFERTA DE LA NOCHE",
+     "objetivo": "2026-10-10T22:27:00.000Z",
+     "oferta": {
+      "id": "1124006",
+      "nombre": "JIMMY CHOO Perfume Mujer Floral EDT 90 Ml Jimmy Choo",
+      "tienda": "Falabella",
+      "ahora": 49990,
+      "antes": 111990,
+      "pct": 55,
+      "rubro": "perfumes",
+      "esMinimo": true,
+      "dias": 24,
+      "visto": "14:00"
+     },
+     "archivo": "datos/borrador/2026-10-10/historia-4.jpg",
+     "hecho": null
+    },
+    {
+     "hora": "22:00",
+     "etiqueta": "RESUMEN DEL DÍA",
+     "objetivo": "2026-10-11T01:02:00.000Z",
+     "oferta": null,
+     "archivo": "datos/borrador/2026-10-10/historia-5.jpg",
+     "hecho": null
+    }
+   ],
+   "limite": "2026-10-10T13:30:00.000Z",
+   "nonce": "c66f322d",
+   "estado": "aprobado",
+   "publicarDesde": "2026-10-10T18:08:09.546Z",
+   "mensajeId": 47
   }
  },
  "config": {
