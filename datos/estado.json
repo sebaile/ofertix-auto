@@ -634,6 +634,58 @@
    "mensajeId": 64,
    "id": "18113775176121245",
    "enlace": "https://www.instagram.com/p/DeVDgZVlgQq/"
+  },
+  "2026-10-10-reel-b": {
+   "tipo": "reel",
+   "slot": "reel-b",
+   "fecha": "2026-10-10",
+   "ofertas": [
+    {
+     "id": "279052",
+     "nombre": "Flexus100 Soundbar Flexus Core 100",
+     "tienda": "Reuse",
+     "ahora": 209990,
+     "antes": 614975,
+     "pct": 65,
+     "rubro": "otros",
+     "esMinimo": false,
+     "dias": 4,
+     "visto": "19:16"
+    },
+    {
+     "id": "299940",
+     "nombre": "SONY God Of War Ragnarok Ps5 Sony",
+     "tienda": "Falabella",
+     "ahora": 39990,
+     "antes": 89990,
+     "pct": 55,
+     "rubro": "gamer",
+     "esMinimo": false,
+     "dias": 74,
+     "visto": "19:42"
+    },
+    {
+     "id": "266260",
+     "nombre": "Lattafa Fakhar EDP 100 ML (H)",
+     "tienda": "Perfumes Chile",
+     "ahora": 19500,
+     "antes": 39900,
+     "pct": 51,
+     "rubro": "perfumes",
+     "esMinimo": false,
+     "dias": 4,
+     "visto": "20:12"
+    }
+   ],
+   "archivos": [
+    "datos/borrador/2026-10-10/reel-b.mp4"
+   ],
+   "texto": "🔥 3 ofertas de hoy\n1. Flexus100 Soundbar Flexus Core 100: $209.990 (-65%, referencia $614.975) en Reuse\n2. SONY God Of War Ragnarok Ps5 Sony: $39.990 (-55%, referencia $89.990) en Falabella\n3. Lattafa Fakhar EDP 100 ML (H): $19.500 (-51%, referencia $39.900) en Perfumes Chile\n\n⏰ Precios vistos hoy (10/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar",
+   "limite": "2026-10-11T01:30:00.000Z",
+   "nonce": "fc1ec518",
+   "estado": "aprobado",
+   "publicarDesde": "2026-10-10T23:30:00.000Z",
+   "mensajeId": 66
   }
  },
  "config": {
