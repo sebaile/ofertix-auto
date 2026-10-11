@@ -2277,6 +2277,11 @@
   "rafaga": {
    "activo": true,
    "desde": "2026-10-11"
+  },
+  "rafagaBloqueo": {
+   "desde": "2026-10-11T18:38:55.099Z",
+   "hasta": "2026-10-11T21:38:55.099Z",
+   "veces": 1
   }
  },
  "seguidores": 48,
