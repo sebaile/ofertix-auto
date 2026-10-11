@@ -320,10 +320,10 @@ function eventosReel(S, d) {
 // El día se divide en 4 bloques con su propia meta y su propio tema. Cada ejecución (cada 15 min) publica lo que va atrasado respecto al ritmo del bloque.
 // Variedad: rota rubros y formatos, cada oferta sale una sola vez al día en carruseles/Reels (y una vez cada 12 h en historias), y se revalida el precio justo antes.
 const BLOQUES = [
-  { ini: 8, fin: 11, reel: 7, carrusel: 5, historia: 12, tema: 'nuevas' },
-  { ini: 11, fin: 15, reel: 8, carrusel: 5, historia: 13, tema: 'comparativas' },
-  { ini: 15, fin: 19, reel: 8, carrusel: 5, historia: 13, tema: 'populares' },
-  { ini: 19, fin: 23, reel: 7, carrusel: 5, historia: 12, tema: 'recopilaciones' },
+  { ini: 8, fin: 11, reel: 4, carrusel: 4, historia: 17, tema: 'nuevas' },
+  { ini: 11, fin: 15, reel: 4, carrusel: 4, historia: 18, tema: 'comparativas' },
+  { ini: 15, fin: 19, reel: 4, carrusel: 4, historia: 18, tema: 'populares' },
+  { ini: 19, fin: 23, reel: 3, carrusel: 3, historia: 17, tema: 'recopilaciones' },
 ];
 const TOPE_API = 96, POR_EJECUCION = { carrusel: 2, reel: 2, historia: 4 };       // el límite de Instagram es 100 publicaciones por 24 h
 const bloqueDe = min => BLOQUES.find(b => min >= b.ini * 60 && min < b.fin * 60) ?? (min >= 23 * 60 ? BLOQUES[3] : null);
@@ -498,7 +498,7 @@ async function rafaga() {
   };
 
   // Ritmo suave: como máximo 2 piezas por ejecución (1 si Instagram ya limitó hoy), siempre del formato más atrasado respecto a su meta diaria
-  const totales = { carrusel: 20, reel: 30, historia: 50 }, restante = { ...falta }, contador = { ...hechos }, maxTotal = suave ? 1 : 2, fns = { carrusel, reel, historia };
+  const totales = { carrusel: 15, reel: 15, historia: 70 }, restante = { ...falta }, contador = { ...hechos }, maxTotal = suave ? 1 : 2, fns = { carrusel, reel, historia };
   for (let hechasRun = 0; hechasRun < maxTotal && !parar() && errores < 3;) {
     const t = Object.keys(restante).filter(x => restante[x] > 0).sort((x, y) => restante[y] / totales[y] - restante[x] / totales[x])[0]; if (!t) break;
     restante[t]--; if (await publicando(t, () => fns[t](contador[t]))) { contador[t]++; hechasRun++; } else restante[t] = 0;

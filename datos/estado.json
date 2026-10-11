@@ -2276,7 +2276,12 @@
   "pausado": false,
   "rafaga": {
    "activo": true,
-   "desde": "2026-10-11"
+   "desde": "2026-10-11",
+   "metas": {
+    "carrusel": 15,
+    "reel": 15,
+    "historia": 70
+   }
   },
   "rafagaBloqueo": {
    "desde": "2026-10-11T18:38:55.099Z",
