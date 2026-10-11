@@ -22,6 +22,7 @@
   "718625": "2026-10-09T22:32:10.226Z",
   "824616": "2026-10-11T13:03:35.550Z",
   "824734": "2026-10-11T13:03:35.550Z",
+  "825803": "2026-10-11T13:35:20.093Z",
   "825810": "2026-10-11T13:32:53.570Z",
   "825834": "2026-10-11T11:49:12.493Z",
   "825840": "2026-10-10T21:31:20.651Z",
@@ -33,6 +34,7 @@
   "955741": "2026-10-09T22:32:10.226Z",
   "955874": "2026-10-10T19:12:16.865Z",
   "1000952": "2026-10-11T11:17:41.617Z",
+  "1039102": "2026-10-11T13:35:20.093Z",
   "1063781": "2026-10-10T21:31:20.651Z",
   "1063788": "2026-10-11T11:47:51.716Z",
   "1064616": "2026-10-11T11:17:41.617Z",
@@ -44,6 +46,7 @@
   "1123998": "2026-10-11T12:47:40.229Z",
   "1124006": "2026-10-10T22:30:40.432Z",
   "1124685": "2026-10-11T11:47:51.715Z",
+  "1126606": "2026-10-11T13:35:20.093Z",
   "1126670": "2026-10-11T11:02:39.475Z",
   "1128340": "2026-10-10T21:31:20.650Z",
   "1131276": "2026-10-11T12:17:20.366Z",
@@ -99,7 +102,10 @@
   "parlante portatil emberton iii black and brass": "2026-10-11T13:05:04.668Z",
   "audifonos jbl tune 530 conector 3 5mm negro": "2026-10-11T13:05:04.668Z",
   "barra de sonido 2 1 ksb 050 klip xtreme 120 watts bluetooth": "2026-10-11T13:05:04.668Z",
-  "nescafe cafetera nescafe dolce gusto piccolo xs": "2026-10-11T13:32:53.570Z"
+  "nescafe cafetera nescafe dolce gusto piccolo xs": "2026-10-11T13:32:53.570Z",
+  "sony juego saros ps5 sony": "2026-10-11T13:35:20.093Z",
+  "gucci gucci flora gorgeous jasmine eau de parfum para mujer 100 ml": "2026-10-11T13:35:20.093Z",
+  "siegen ondulador waver sg b2601 siegen generador de iones 230 c": "2026-10-11T13:35:20.093Z"
  },
  "items": {
   "2026-10-09-carrusel": {
@@ -1551,6 +1557,57 @@
     "tmp-medios/1791725539116-c4-2.jpg"
    ],
    "texto": "🔥 NOVEDAD\nNESCAFE Cafetera Nescafé Dolce Gusto Piccolo XS\nAhora: $39.990 (-41%)\nReferencia: $67.990\n🏪 Falabella\n\n✅ Precio visto hoy a las 10:00 en nuestro sistema.\n📉 Es el precio más bajo de los últimos 73 días.\n⏰ Puede cambiar o agotarse sin aviso.\n📲 Enlace directo en Telegram: t.me/ofertixcl\n\n#ofertaschile #hogar #descuentoschile #ofertix #ofertasdeldia"
+  },
+  "2026-10-11-r-reel-1791725720094": {
+   "tipo": "reel",
+   "fecha": "2026-10-11",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "hora": "10:35",
+   "id": "18652789468037896",
+   "enlace": "https://www.instagram.com/reel/DeWxyByiuGO/",
+   "ofertas": [
+    {
+     "id": "1126606",
+     "nombre": "SONY Juego Saros Ps5 Sony",
+     "tienda": "Falabella",
+     "ahora": 39990,
+     "antes": 79990,
+     "pct": 50,
+     "rubro": "gamer",
+     "esMinimo": true,
+     "dias": 68,
+     "visto": "10:00"
+    },
+    {
+     "id": "1039102",
+     "nombre": "GUCCI Gucci Flora Gorgeous Jasmine Eau De Parfum Para Mujer 100 Ml",
+     "tienda": "Falabella",
+     "ahora": 125990,
+     "antes": 209990,
+     "pct": 40,
+     "rubro": "perfumes",
+     "esMinimo": true,
+     "dias": 85,
+     "visto": "10:00"
+    },
+    {
+     "id": "825803",
+     "nombre": "SIEGEN Ondulador Waver SG-B2601 Siegen Generador de Iones 230° C",
+     "tienda": "Falabella",
+     "ahora": 39990,
+     "antes": 69990,
+     "pct": 42,
+     "rubro": "belleza",
+     "esMinimo": true,
+     "dias": 44,
+     "visto": "10:00"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1791725582772-r5.mp4"
+   ],
+   "texto": "🔥 3 ofertas nuevas de hoy\n1. SONY Juego Saros Ps5 Sony: $39.990 (-50%, referencia $79.990) en Falabella · 📉 mínimo de 68 días\n2. GUCCI Gucci Flora Gorgeous Jasmine Eau De Parfum Para Mujer 100 Ml: $125.990 (-40%, referencia $209.990) en Falabella · 📉 mínimo de 85 días\n3. SIEGEN Ondulador Waver SG-B2601 Siegen Generador de Iones 230° C: $39.990 (-42%, referencia $69.990) en Falabella · 📉 mínimo de 44 días\n\n⏰ Precios vistos hoy (11/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
   }
  },
  "config": {
