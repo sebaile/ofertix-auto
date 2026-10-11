@@ -467,7 +467,8 @@
      "objetivo": "2026-10-11T01:02:00.000Z",
      "oferta": null,
      "archivo": "datos/borrador/2026-10-10/historia-5.jpg",
-     "hecho": null
+     "hecho": "publicada",
+     "id": "18071617952742065"
     }
    ],
    "limite": "2026-10-10T13:30:00.000Z",
