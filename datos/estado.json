@@ -49,25 +49,27 @@
   "912408": "2026-10-09T22:32:10.226Z",
   "955741": "2026-10-09T22:32:10.226Z",
   "955874": "2026-10-10T19:12:16.865Z",
+  "978442": "2026-10-11T22:48:01.730Z",
   "979599": "2026-10-11T14:05:03.736Z",
   "1000952": "2026-10-11T11:17:41.617Z",
   "1039102": "2026-10-11T13:35:20.093Z",
   "1063781": "2026-10-10T21:31:20.651Z",
   "1063788": "2026-10-11T11:47:51.716Z",
   "1064616": "2026-10-11T11:17:41.617Z",
-  "1064880": "2026-10-10T19:03:13.969Z",
+  "1064880": "2026-10-11T22:48:01.730Z",
   "1087230": "2026-10-11T14:33:04.465Z",
   "1087642": "2026-10-11T11:17:41.617Z",
   "1110715": "2026-10-11T11:49:12.493Z",
-  "1118971": "2026-10-10T19:03:42.062Z",
+  "1118971": "2026-10-11T22:48:01.730Z",
   "1119447": "2026-10-11T11:49:12.493Z",
   "1123998": "2026-10-11T12:47:40.229Z",
   "1124006": "2026-10-10T22:30:40.432Z",
   "1124685": "2026-10-11T11:47:51.715Z",
   "1126606": "2026-10-11T13:35:20.093Z",
   "1126670": "2026-10-11T11:02:39.475Z",
-  "1128340": "2026-10-10T21:31:20.650Z",
+  "1128340": "2026-10-11T22:48:01.730Z",
   "1131276": "2026-10-11T12:17:20.366Z",
+  "1147873": "2026-10-11T22:48:01.730Z",
   "1147916": "2026-10-10T19:03:42.062Z",
   "1151385": "2026-10-10T19:03:42.062Z",
   "1157346": "2026-10-10T21:31:20.651Z"
@@ -84,12 +86,12 @@
   "kit master g monitor parlante mgmg2730 mgsbg2": "2026-10-11T15:04:19.293Z",
   "gorro animal mixvans": "2026-10-11T14:47:31.662Z",
   "ralph lauren polo sport fresh edt 125 ml h": "2026-10-11T14:47:31.662Z",
-  "nutribullet freidora de aire digital nutribullet twin drawer": "2026-10-10T19:03:13.969Z",
+  "nutribullet freidora de aire digital nutribullet twin drawer": "2026-10-11T22:48:01.730Z",
   "blik parlante blik bass 300": "2026-10-10T19:03:42.062Z",
-  "dolce gabbana perfume mujer light blue edt 200ml dolce gabbana": "2026-10-10T19:03:42.062Z",
+  "dolce gabbana perfume mujer light blue edt 200ml dolce gabbana": "2026-10-11T22:48:01.730Z",
   "encimera a gas 5 quemadores silver na75d3030as zs": "2026-10-10T19:03:42.062Z",
   "endless legend definitive edition": "2026-10-10T19:12:16.865Z",
-  "scanner panasonic kv s1015c x": "2026-10-10T21:31:20.651Z",
+  "scanner panasonic kv s1015c x": "2026-10-11T22:48:01.730Z",
   "sony death stranding 2 on the beach ps5 sony": "2026-10-10T21:31:20.651Z",
   "karcher aspiradora inalambrica 223 14 w 17 litros wd 3 18": "2026-10-10T21:31:20.651Z",
   "calvin klein calvin klein ck one eau de toilette unisex 50 ml": "2026-10-10T21:31:20.651Z",
@@ -141,7 +143,9 @@
   "zapatilla assert 10 ac pre escolar nina rosado": "2026-10-11T15:17:46.266Z",
   "lattafa asad edp 100 ml h": "2026-10-11T15:50:06.762Z",
   "hugo boss xy edt 100 ml h": "2026-10-11T15:50:06.762Z",
-  "lattafa yara edp 100 ml m": "2026-10-11T15:50:06.762Z"
+  "lattafa yara edp 100 ml m": "2026-10-11T15:50:06.762Z",
+  "just home collection silla gamer escritorio negro": "2026-10-11T22:48:01.730Z",
+  "far cry silver pack": "2026-10-11T22:48:01.730Z"
  },
  "items": {
   "2026-10-09-carrusel": {
@@ -2357,6 +2361,84 @@
      "visto": "18:10"
     }
    ]
+  },
+  "2026-10-11-r-carrusel-1791758881730": {
+   "tipo": "carrusel",
+   "fecha": "2026-10-11",
+   "estado": "publicado",
+   "bloque": "recopilaciones",
+   "formato": "top5",
+   "hora": "19:48",
+   "id": "17896448301608684",
+   "enlace": "https://www.instagram.com/p/DeXxETQGV_l/",
+   "ofertas": [
+    {
+     "id": "1128340",
+     "nombre": "Scanner PANASONIC KV-S1015C-X",
+     "tienda": "Ágil Store",
+     "ahora": 45990,
+     "antes": 186990,
+     "pct": 75,
+     "rubro": "tecnologia",
+     "esMinimo": true,
+     "dias": 71,
+     "visto": "19:03"
+    },
+    {
+     "id": "1147873",
+     "nombre": "JUST HOME COLLECTION Silla Gamer Escritorio Negro",
+     "tienda": "Sodimac",
+     "ahora": 54990,
+     "antes": 179990,
+     "pct": 69,
+     "rubro": "gamer",
+     "esMinimo": true,
+     "dias": 73,
+     "visto": "19:03"
+    },
+    {
+     "id": "1064880",
+     "nombre": "NUTRIBULLET Freidora de Aire Digital Nutribullet Twin Drawer",
+     "tienda": "Falabella Marketplace",
+     "ahora": 89990,
+     "antes": 199990,
+     "pct": 55,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 78,
+     "visto": "19:03"
+    },
+    {
+     "id": "1118971",
+     "nombre": "DOLCE&GABBANA Perfume Mujer Light Blue Edt 200Ml Dolce&Gabbana",
+     "tienda": "Falabella",
+     "ahora": 89990,
+     "antes": 189990,
+     "pct": 52,
+     "rubro": "perfumes",
+     "esMinimo": true,
+     "dias": 26,
+     "visto": "19:03"
+    },
+    {
+     "id": "978442",
+     "nombre": "Far Cry Silver Pack",
+     "tienda": "Ubisoft Store",
+     "ahora": 19878,
+     "antes": 73611,
+     "pct": 72,
+     "rubro": "otros",
+     "esMinimo": false,
+     "dias": 2,
+     "visto": "18:49"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1791758836475-c8-1.jpg",
+    "tmp-medios/1791758836475-c8-2.jpg",
+    "tmp-medios/1791758836475-c8-3.jpg"
+   ],
+   "texto": "🏆 Recopilación del día\n1. Scanner PANASONIC KV-S1015C-X: $45.990 (-75%) en Ágil Store · 📉 mínimo de 71 días\n2. JUST HOME COLLECTION Silla Gamer Escritorio Negro: $54.990 (-69%) en Sodimac · 📉 mínimo de 73 días\n3. NUTRIBULLET Freidora de Aire Digital Nutribullet Twin Drawer: $89.990 (-55%) en Falabella Marketplace · 📉 mínimo de 78 días\n4. DOLCE&GABBANA Perfume Mujer Light Blue Edt 200Ml Dolce&Gabbana: $89.990 (-52%) en Falabella · 📉 mínimo de 26 días\n5. Far Cry Silver Pack: $19.878 (-72%) en Ubisoft Store\n\n⏰ Precios vistos hoy (11/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #top5 #descuentoschile #ofertix #ahorrar"
   }
  },
  "config": {
@@ -2376,7 +2458,7 @@
    "hasta": "2026-10-11T21:38:55.099Z",
    "veces": 1
   },
-  "ultimaPub": "2026-10-11T22:31:14.555Z"
+  "ultimaPub": "2026-10-11T22:48:01.730Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-10",
