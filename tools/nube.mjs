@@ -347,7 +347,7 @@ const ESPEC = {
   comparativas: {
     carrusel: [{ m: 'comp', rubro: 'tecnologia' }, { m: 'top5', titulo: 'Descuentos destacados', bonus: 'pct' }, { m: 'minimos', titulo: 'Recomendados: en su precio más bajo' }, { m: 'comp', rubro: 'hogar' }, { m: 'oferta', bonus: 'pct', etq: 'DESCUENTO DESTACADO' }],
     reel: [{ rubro: 'tecnologia', bonus: 'pct', sufijo: 'EN COMPARATIVA', etq: 'en comparativa: mismo tipo de producto' }, { bonus: 'pct', sufijo: 'CON MÁS DESCUENTO', etq: 'con los descuentos más altos' }, { minimos: true }, { rubro: 'perfumes', bonus: 'pct', sufijo: 'EN COMPARATIVA', etq: 'de perfumes en comparativa' }],
-    historia: { etq: ['DESCUENTO DESTACADO', 'RECOMENDADO', 'COMPARA PRECIOS'], bonus: 'pct', rubros: ['tecnologia', 'perfumes', 'hogar', 'gamer'], resumen: 'COMPARATIVA RÁPIDA' },
+    historia: { etq: ['DESCUENTO DESTACADO', 'RECOMENDADO', 'BUEN PRECIO'], bonus: 'pct', rubros: ['tecnologia', 'perfumes', 'hogar', 'gamer'], resumen: 'COMPARATIVA RÁPIDA' },
   },
   populares: {
     carrusel: [{ m: 'top5', titulo: 'Los más populares', bonus: 'popular' }, { m: 'oferta', bonus: 'popular', etq: 'PRODUCTO POPULAR' }, { m: 'top5', titulo: 'Lista de ofertas del momento', bonus: 'pct' }, { m: 'oferta', bonus: 'nuevo', etq: 'NOVEDAD' }, { m: 'top5', titulo: 'Novedades en ofertas', bonus: 'nuevo' }],
@@ -357,7 +357,7 @@ const ESPEC = {
   recopilaciones: {
     carrusel: [{ m: 'top5', titulo: 'Recopilación del día', bonus: 'pct' }, { m: 'top5', titulo: 'Mejores ofertas del día', bonus: 'pct' }, { m: 'oferta', bonus: 'popular', etq: 'PRODUCTO POPULAR' }, { m: 'minimos', titulo: 'Mejores precios del día' }, { m: 'top5', titulo: 'Los productos más populares', bonus: 'popular' }],
     reel: [{ bonus: 'pct', sufijo: 'LAS MEJORES DEL DÍA', etq: 'las mejores del día' }, { bonus: 'popular', sufijo: 'POPULARES', etq: 'populares' }, { minimos: true }, { rubro: 'tecnologia', bonus: 'pct', sufijo: 'DE TECNOLOGÍA', etq: 'de tecnología' }],
-    historia: { etq: ['MEJOR OFERTA DEL DÍA', 'PRODUCTO POPULAR', 'RECOPILACIÓN'], bonus: 'pct', rubros: [null, 'hogar', 'belleza', 'perfumes'], resumen: 'RECOPILACIÓN DEL DÍA' },
+    historia: { etq: ['MEJOR OFERTA DEL DÍA', 'PRODUCTO POPULAR', 'PRODUCTO DESTACADO'], bonus: 'pct', rubros: [null, 'hogar', 'belleza', 'perfumes'], resumen: 'RECOPILACIÓN DEL DÍA' },
   },
 };
 const publicadosHoy = (estado, fecha) => {
@@ -473,7 +473,7 @@ async function rafaga() {
 
   // ---- Historia
   const historia = async k => {
-    const j = Math.max(0, k - previos(blq, 'historia')), sp = espec.historia, resumen = j % 6 === 5, bonus = BON[sp.bonus];
+    const j = Math.max(0, k - previos(blq, 'historia')), sp = espec.historia, resumen = false, bonus = BON[sp.bonus];
     const rubro = sp.rubros[j % sp.rubros.length];
     const elegirH = (n, o = {}) => elegirConImagen(poolHist(), n, { traerImagen, permitirLibros: false, maxPorRubro: n === 1 ? 1 : 2, bonus, ...o });
     let os = resumen ? await elegirH(4, rubro ? { rubro, maxPorRubro: 4 } : {}) : await elegirH(1, rubro ? { rubro } : {});
