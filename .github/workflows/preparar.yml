@@ -30,7 +30,7 @@ permissions:
 jobs:
   preparar:
     runs-on: ubuntu-latest
-    timeout-minutes: 25
+    timeout-minutes: 40
     env:
       TZ: America/Santiago
       GH_TOKEN: ${{ github.token }}
@@ -62,6 +62,7 @@ jobs:
       - name: Preparar
         if: steps.due.outputs.hay == 'true'
         run: |
+          if [ -z "$TIPO" ] && [ "${{ steps.due.outputs.modo }}" = "rafaga" ]; then node tools/nube.mjs rafaga; exit 0; fi
           ARGS=""
           case "$TIPO" in historias|carrusel|reel|carrusel-a|carrusel-b|reel-a|reel-b|prueba-historia) ARGS="$TIPO";; esac
           [ "$FORZAR" = "true" ] && ARGS="$ARGS --forzar"

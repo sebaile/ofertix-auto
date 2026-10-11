@@ -5,11 +5,11 @@
 //   node tools/nube.mjs tick [--bucle] [--sin-publicar]
 //       Lee tus botones y comandos de Telegram, vence lo caducado y publica lo aprobado cuando toca.
 //   Comandos de Telegram: /pausa  /reanudar  /modo auto|manual  /estado
-import { mkdirSync, writeFileSync, readFileSync, rmSync, readdirSync } from 'node:fs';
+import { mkdirSync, writeFileSync, readFileSync, rmSync, readdirSync, statSync } from 'node:fs';
 import { join, relative } from 'node:path';
 import { randomBytes } from 'node:crypto';
 import { env, raiz, datos, chile, chileAUtc, tg, avisar, botones, enviarFotos, contenedor, publicarContenedor, enlacePublicacion, urlPublica, esperarPublica,
-  leerEstado, guardarEstado, subirCambios, relanzarRevision, traerImagen, fmt, dormir } from './lib.mjs';
+  leerEstado, guardarEstado, subirCambios, relanzarRevision, traerImagen, fmt, dormir, ig, subirMedios } from './lib.mjs';
 import { espejarCarrusel, espejarReel, espejarHistoria } from './espejo.mjs';
 import { candidatas, sigueVigente, elegirConImagen, nombreNorm } from './ofertas-db.mjs';
 import { renderizar, htmlHistoria, htmlHistoriaResumen, htmlCarrusel1, htmlCarrusel2, horaVisto, htmlTopPortada, htmlTopLista, htmlTopCierre, EDUCATIVOS, htmlEducativo } from './plantillas.mjs';
@@ -296,9 +296,10 @@ async function publicarHistorias(i, estado) {
 function limpiar(estado) {                                                      // borra borradores de más de 4 días y estado viejo
   const corte = Date.now() - 4 * 86400e3;
   try { for (const d of readdirSync(join(datos, 'borrador'))) if (new Date(d).getTime() < corte) rmSync(join(datos, 'borrador', d), { recursive: true, force: true }); } catch {}
-  for (const [k, i] of Object.entries(estado.items)) if (new Date(i.fecha).getTime() < Date.now() - 8 * 86400e3) delete estado.items[k];
-  for (const [k, t] of Object.entries(estado.usadas)) if (new Date(t).getTime() < Date.now() - 30 * 86400e3) delete estado.usadas[k];
-  for (const [k, t] of Object.entries(estado.nombres)) if (new Date(t).getTime() < Date.now() - 14 * 86400e3) delete estado.nombres[k];
+  for (const [k, i] of Object.entries(estado.items)) if (new Date(i.fecha).getTime() < Date.now() - 4 * 86400e3) delete estado.items[k];
+  for (const [k, t] of Object.entries(estado.usadas)) if (new Date(t).getTime() < Date.now() - 3 * 86400e3) delete estado.usadas[k];
+  for (const [k, t] of Object.entries(estado.nombres)) if (new Date(t).getTime() < Date.now() - 3 * 86400e3) delete estado.nombres[k];
+  for (const [k, t] of Object.entries(estado.usadasH ?? {})) if (new Date(t).getTime() < Date.now() - 2 * 86400e3) delete estado.usadasH[k];
   guardarEstado(estado);
 }
 
@@ -315,13 +316,152 @@ function eventosReel(S, d) {
   return ev;
 }
 
+// ====================================================================== RÁFAGA (alto volumen: se genera y se publica directo, sin borradores en Telegram)
+// Metas por día (config.rafaga.metas) repartidas de 08:00 a 23:00. Cada ejecución (cada 15 min) publica lo que va atrasado respecto a la curva del día.
+// Variedad: rota rubros y formatos, cada oferta sale una sola vez al día en carruseles/Reels (y una vez cada 12 h en historias), y se revalida el precio justo antes.
+const METAS = { carrusel: 25, reel: 25, historia: 50 };
+const JORNADA_INI = 8 * 60, JORNADA_MIN = 15 * 60, TOPE_API = 96;               // el límite de Instagram es 100 publicaciones por 24 h
+const POR_EJECUCION = { carrusel: 2, reel: 2, historia: 4 };
+const ROT = ['perfumes', 'tecnologia', 'gamer', 'hogar', 'belleza', 'moda', 'libros', null];
+const TIPOS_CARRUSEL = ['oferta', 'oferta', 'top5', 'oferta', 'minimos', 'oferta', 'educativo', 'oferta', 'oferta', 'top5', 'oferta', 'oferta', 'minimos', 'oferta', 'oferta', 'top5', 'oferta', 'oferta', 'educativo', 'oferta', 'oferta', 'minimos', 'oferta', 'top5', 'oferta'];
+const ETIQ_HIST = ['OFERTA DEL MOMENTO', 'OFERTA RELÁMPAGO', 'PRECIO BAJO', 'OFERTA DE HOY', 'NO TE LA PIERDAS', 'OFERTA DESTACADA'];
+const publicadosHoy = (estado, fecha) => {
+  const n = { carrusel: 0, reel: 0, historia: 0 };
+  for (const i of Object.values(estado.items)) {
+    if (i.fecha !== fecha || i.prueba) continue;
+    if (i.tipo === 'historias') n.historia += (i.plan ?? []).filter(p => p.hecho === 'publicada').length;
+    else if (i.estado === 'publicado' && n[i.tipo] !== undefined) n[i.tipo]++;
+  }
+  return n;
+};
+const debeHaber = (total, min, desfase = 0) => {                                // cuántas debería haber publicadas a esta hora
+  const paso = JORNADA_MIN / total; if (min < JORNADA_INI) return 0;
+  return Math.min(total, Math.floor((min - JORNADA_INI - desfase * paso) / paso) + 1);
+};
+async function cuotaApi() { try { return (await ig(`${env.IG_USER_ID}/content_publishing_limit`, { fields: 'quota_usage' }, 'GET')).data?.[0]?.quota_usage ?? 0; } catch { return 0; } }
+
+async function rafaga() {
+  process.on('unhandledRejection', e => console.error('Rechazo no controlado (se sigue):', String(e?.message ?? e).slice(0, 160)));   // p. ej. un fallo de ffmpeg no debe tumbar toda la ejecución
+  const c = chile(), estado = leerEstado(), cfg = estado.config.rafaga;
+  if (process.env.PRUEBA_MIN) c.min = +process.env.PRUEBA_MIN;                // solo para pruebas locales
+  if (!cfg?.activo || c.fecha < (cfg.desde ?? '0000')) return console.log(`Ráfaga: no está activa todavía (${cfg ? 'empieza ' + cfg.desde : 'sin configurar'}).`);
+  if (estado.config.pausado) return console.log('Ráfaga: sistema en pausa.');
+  const metas = { ...METAS, ...(cfg.metas ?? {}) }, hechos = publicadosHoy(estado, c.fecha);
+  const falta = { carrusel: Math.max(0, debeHaber(metas.carrusel, c.min) - hechos.carrusel), reel: Math.max(0, debeHaber(metas.reel, c.min, 0.5) - hechos.reel), historia: Math.max(0, debeHaber(metas.historia, c.min) - hechos.historia) };
+  console.log(`Ráfaga ${c.fecha} ${c.hhmm}: publicado ${JSON.stringify(hechos)} · atrasado ${JSON.stringify(falta)}`);
+  if (!falta.carrusel && !falta.reel && !falta.historia) return;
+  let cuota = await cuotaApi(); console.log(`Cuota de Instagram usada (24 h): ${cuota}/100`);
+  const cands = await candidatas({ edadMin: 180, porRubro: 80 });
+  const ahora = Date.now(), reciente = (t, h) => ahora - new Date(t).getTime() < h * 3600e3;
+  estado.usadasH ??= {};
+  const usadoFeed = id => estado.usadas[id] && reciente(estado.usadas[id], 24), usadoHist = id => estado.usadasH[id] && reciente(estado.usadasH[id], 12);
+  const nombresRec = Object.entries(estado.nombres).filter(([, t]) => reciente(t, 20)).map(([k]) => k);
+  const poolFeed = () => cands.filter(o => !usadoFeed(o.id)), poolHist = () => cands.filter(o => !usadoHist(o.id));
+  const carpeta = join(raiz, 'tmp-medios'); mkdirSync(carpeta, { recursive: true });
+  const rel = f => 'tmp-medios/' + f, abs = f => join(carpeta, f), stamp = () => `${Date.now()}`;
+  const marcarFeed = o => { estado.usadas[o.id] = new Date().toISOString(); estado.nombres[nombreNorm(o.nombre)] = new Date().toISOString(); };
+  const marcarHist = o => { estado.usadasH[o.id] = new Date().toISOString(); };
+  const hacia = (n, o = {}) => elegirConImagen(poolFeed(), n, { traerImagen, nombresUsados: nombresRec, ...o });
+  const rubroTurno = (k, extra = 0) => { for (let j = 0; j < ROT.length; j++) { const r = ROT[(k + extra + j) % ROT.length]; if (r === null || poolFeed().filter(o => o.rubro === r).length >= 3) return r; } return null; };
+  let errores = 0;
+  const guardar = (key, item, msg) => { estado.items[key] = item; guardarEstado(estado); subirCambios(msg); };
+  const parar = () => cuota >= TOPE_API;
+  const publicando = async (tipo, fn) => {
+    if (parar()) { console.log(`Cuota alta (${cuota}): se detiene ${tipo}.`); return false; }
+    try { const ok = await fn(); if (ok) cuota++; return ok; }
+    catch (e) { errores++; console.error(`Ráfaga ${tipo}:`, String(e.message).slice(0, 200)); return false; }
+  };
+
+  // ---- Carrusel
+  const carrusel = async k => {                                                 // k = número de carrusel del día (0, 1, 2…)
+    const tipo = TIPOS_CARRUSEL[k % TIPOS_CARRUSEL.length], rubro = rubroTurno(k);
+    let jpgs, texto, elegidas = [];
+    if (tipo === 'educativo') { const set = EDUCATIVOS[(numeroSemana(c.fecha) + k) % EDUCATIVOS.length]; jpgs = await renderizar(htmlEducativo(set), 1080, 1350); texto = set.texto; }
+    else if (tipo === 'top5' || tipo === 'minimos') {
+      const r = tipo === 'top5' ? rubro : null;
+      let os = await hacia(5, { permitirLibros: false, maxPorRubro: r || tipo === 'minimos' ? 5 : 1, maxPorTienda: 2, soloMinimos: tipo === 'minimos', ...(r ? { rubro: r } : {}) });
+      let titulo = tipo === 'minimos' ? 'Mínimos de los últimos días' : r ? `Top 5 en ${TEMA[r]}` : 'Top 5 ofertas de hoy', rr = r;
+      if (os.length < 4 && r) { os = await hacia(5, { permitirLibros: false, maxPorRubro: 1, maxPorTienda: 2 }); titulo = 'Top 5 ofertas de hoy'; rr = null; }
+      if (os.length >= (tipo === 'minimos' ? 3 : 4)) {
+        const sub = tipo === 'minimos' ? 'Precios en su punto más bajo registrado' : 'Las mejores ofertas, con precio visto hoy';
+        jpgs = await renderizar([htmlTopPortada(titulo, sub, 1, 3), htmlTopLista(titulo, os, 2, 3), htmlTopCierre(3, 3)], 1080, 1350); texto = textoTop(titulo, os, rr); elegidas = os;
+      }
+    }
+    if (!jpgs) {
+      let [o] = await hacia(1, { permitirLibros: false, ...(rubro ? { rubro } : {}) }); if (!o) [o] = await hacia(1, { permitirLibros: false }); if (!o) [o] = await hacia(1);
+      if (!o) { console.log('Carrusel: no queda una oferta fresca y distinta.'); return false; }
+      jpgs = await renderizar([htmlCarrusel1(o), htmlCarrusel2(o)], 1080, 1350); texto = textoCarrusel(o); elegidas = [o];
+    }
+    for (const o of elegidas) { const v = await vigente(o); if (!v.ok) { console.log(`Carrusel omitido: ${o.nombre.slice(0, 30)} ${v.motivo}`); elegidas.forEach(marcarFeed); guardarEstado(estado); return false; } }
+    const base = `${stamp()}-c${k}`, nombres = jpgs.map((b, i) => { const f = `${base}-${i + 1}.jpg`; writeFileSync(abs(f), b); return f; });
+    const urls = subirMedios(nombres.map(abs)); for (const u of urls) await esperarPublica(u);
+    const hijos = []; for (const u of urls) hijos.push(await contenedor({ image_url: u, is_carousel_item: 'true' }));
+    const id = await publicarContenedor(await contenedor({ media_type: 'CAROUSEL', children: hijos.join(','), caption: texto })), enlace = await enlacePublicacion(id);
+    elegidas.forEach(marcarFeed);
+    const item = { tipo: 'carrusel', fecha: c.fecha, estado: 'publicado', formato: tipo, hora: chile().hhmm, id, enlace, ofertas: elegidas.map(resumenOferta), archivos: nombres.map(rel), texto };
+    guardar(`${c.fecha}-r-carrusel-${stamp()}`, item, 'Carrusel publicado'); console.log('Carrusel publicado:', tipo, enlace);
+    await espejarCarrusel(item); return true;
+  };
+
+  // ---- Reel
+  const reel = async k => {
+    const rubro = rubroTurno(k, 3); let os = [], tema = null, minimos = k % 6 === 5;
+    if (minimos) { os = await hacia(3, { permitirLibros: false, soloMinimos: true }); minimos = os.length === 3; }
+    if (!minimos && rubro) { os = await hacia(3, { permitirLibros: false, rubro }); tema = os.length === 3 ? rubro : null; }
+    if (!minimos && !tema) os = await hacia(3, { permitirLibros: false });
+    if (os.length < 3) { console.log(`Reel: solo hay ${os.length} ofertas frescas y distintas.`); return false; }
+    for (const o of os) { const v = await vigente(o); if (!v.ok) { console.log(`Reel omitido: ${o.nombre.slice(0, 30)} ${v.motivo}`); os.forEach(marcarFeed); guardarEstado(estado); return false; } }
+    const corto = (s, n = 50) => (s.length <= n ? s : s.slice(0, s.lastIndexOf(' ', n)) + '…');
+    const data = { hoy: c.fecha, sufijo: minimos ? 'EN SU MÍNIMO' : tema ? 'DE ' + TEMA[tema].toUpperCase() : 'DE HOY', ofertas: os.map(o => ({ nombre: corto(o.nombre), tienda: o.tienda, ahora: o.ahora, antes: o.antes, pct: o.pct, antesOk: true, img: o.img })) };
+    const f = `${stamp()}-r${k}.mp4`;
+    await renderizarReel({ css: REEL_CSS, pagina: readFileSync(join(raiz, 'tools', 'reel-pagina.js'), 'utf8'), data, eventos: eventosReel, salida: abs(f) });
+    const [url] = subirMedios([abs(f)]); await esperarPublica(url);
+    const texto = textoReel(os, tema, minimos);
+    const id = await publicarContenedor(await contenedor({ media_type: 'REELS', video_url: url, caption: texto, share_to_feed: 'true' }, 90, 5000)), enlace = await enlacePublicacion(id);
+    os.forEach(marcarFeed);
+    const item = { tipo: 'reel', fecha: c.fecha, estado: 'publicado', hora: chile().hhmm, id, enlace, ofertas: os.map(resumenOferta), archivos: [rel(f)], texto };
+    guardar(`${c.fecha}-r-reel-${stamp()}`, item, 'Reel publicado'); console.log('Reel publicado:', enlace);
+    await espejarReel(item); return true;
+  };
+
+  // ---- Historia
+  const historia = async k => {
+    const rubro = (() => { for (let j = 0; j < ROT.length; j++) { const r = ROT[(k + j) % ROT.length]; if (r === null || poolHist().some(o => o.rubro === r)) return r; } return null; })();
+    const resumen = k % 10 === 9;
+    const elegirH = (n, o = {}) => elegirConImagen(poolHist(), n, { traerImagen, permitirLibros: false, maxPorRubro: n === 1 ? 1 : 2, ...o });
+    let os = resumen ? await elegirH(4) : await elegirH(1, rubro ? { rubro } : {}); if (!os.length && !resumen) os = await elegirH(1);
+    if (!os.length || (resumen && os.length < 3)) { console.log('Historia: no queda una oferta fresca.'); return false; }
+    for (const o of os) { const v = await vigente(o); if (!v.ok) { os.forEach(marcarHist); guardarEstado(estado); console.log(`Historia omitida: ${v.motivo}`); return false; } }
+    const [jpg] = await renderizar([resumen ? htmlHistoriaResumen(os) : htmlHistoria(ETIQ_HIST[k % ETIQ_HIST.length], os[0])], 1080, 1920);
+    const f = `${stamp()}-h${k}.jpg`; writeFileSync(abs(f), jpg);
+    const [url] = subirMedios([abs(f)]); await esperarPublica(url);
+    const id = await publicarContenedor(await contenedor({ media_type: 'STORIES', image_url: url }, 40, 4000));
+    os.forEach(marcarHist);
+    guardar(`${c.fecha}-r-historia-${stamp()}`, { tipo: 'historia', fecha: c.fecha, estado: 'publicado', hora: chile().hhmm, id, ofertas: os.map(resumenOferta) }, 'Historia publicada'); console.log('Historia publicada:', os.map(o => o.nombre.slice(0, 30)).join(' | '));
+    await espejarHistoria({ archivo: rel(f), oferta: resumen ? null : resumenOferta(os[0]), etiqueta: resumen ? 'RESUMEN' : ETIQ_HIST[k % ETIQ_HIST.length] }); return true;
+  };
+
+  // Se intercalan los formatos para que ninguno espere detrás de otro
+  const n = { carrusel: Math.min(falta.carrusel, POR_EJECUCION.carrusel), reel: Math.min(falta.reel, POR_EJECUCION.reel), historia: Math.min(falta.historia, POR_EJECUCION.historia) };
+  const contador = { ...hechos };
+  while (n.carrusel + n.reel + n.historia > 0 && !parar() && errores < 3) {
+    if (n.historia > 0) { n.historia--; if (await publicando('historia', () => historia(contador.historia))) contador.historia++; else n.historia = 0; }
+    if (n.carrusel > 0) { n.carrusel--; if (await publicando('carrusel', () => carrusel(contador.carrusel))) contador.carrusel++; else n.carrusel = 0; }
+    if (n.reel > 0) { n.reel--; if (await publicando('reel', () => reel(contador.reel))) contador.reel++; else n.reel = 0; }
+  }
+  try { for (const f of readdirSync(carpeta)) if (Date.now() - statSync(join(carpeta, f)).mtimeMs > 20 * 60e3) rmSync(join(carpeta, f), { force: true }); } catch {}   // limpia solo lo viejo (otra ejecución podría estar usando lo reciente)
+  if (errores >= 3) await avisar('⚠️ La ráfaga tuvo 3 errores en esta ejecución. Revisa los registros de GitHub Actions.');
+  guardarEstado(estado); subirCambios('Ráfaga: estado');
+}
+
 // ====================================================================== Entrada
 try {
   if (cmd === 'preparar') {
     const slots = tipoArg === 'prueba-historia' ? ['prueba-historia'] : tipoArg ? [PLAN.find(s => s.id === tipoArg) ?? PLAN.find(s => s.tipo === tipoArg)].filter(Boolean) : PLAN;
     for (const s of slots) { const nombre = s.id ?? s; try { if (s === 'prueba-historia') await pruebaHistoria(); else await preparar(s); } catch (e) { console.error(`${nombre}:`, e.message); if (!simulacro) await avisar(`⚠️ No pude preparar ${nombre}: ${String(e.message).slice(0, 200)}`).catch(() => {}); } }
     if (!simulacro) { subirCambios('Borradores'); relanzarRevision(); }
-  } else if (cmd === 'tick') await tick();
+  } else if (cmd === 'rafaga') await rafaga();
+  else if (cmd === 'tick') await tick();
   else if (cmd === 'medir') { const e = leerEstado(); await medir(e, { forzar: true }); guardarEstado(e); subirCambios('Informe de medición'); }
   else console.log('Uso: node tools/nube.mjs preparar [historias|carrusel|reel|prueba-historia] [--forzar] [--simulacro] | tick [--bucle] [--sin-publicar]');
 } catch (e) { console.error(e); process.exit(1); }

@@ -19,8 +19,8 @@ const prom = a => a.length ? Math.round(a.reduce((s, x) => s + x, 0) / a.length)
 export async function medir(estado, { forzar = false } = {}) {
   const hoy = chile();
   if (!forzar && (estado.informeFecha === hoy.fecha || hoy.min < 21 * 60 + 30)) return false;   // un informe al día, pasadas las 21:30
-  const desde = Date.now() - 14 * 864e5;
-  const reales = Object.entries(estado.items).filter(([, i]) => i.estado === 'publicado' && i.id && !i.prueba && new Date(i.fecha + 'T12:00:00Z').getTime() > desde);
+  const desde = Date.now() - 4 * 864e5;
+  const reales = Object.entries(estado.items).filter(([, i]) => i.estado === 'publicado' && i.id && !i.prueba && (i.tipo === 'carrusel' || i.tipo === 'reel') && new Date(i.fecha + 'T12:00:00Z').getTime() > desde);
   for (const [, i] of reales) { const m = await estadisticas(i); if (m) i.medidas = { ...m, al: new Date().toISOString() }; }
 
   const cuenta = await get(`me?fields=followers_count,media_count`);
@@ -32,8 +32,12 @@ export async function medir(estado, { forzar = false } = {}) {
   const hoyItems = reales.filter(([, i]) => i.fecha === hoy.fecha);
   const L = [`📈 Informe del día (${hoy.fecha})`, `Seguidores: ${seguidores ?? '?'} (${seguidores - previo >= 0 ? '+' : ''}${(seguidores ?? 0) - previo} desde el último informe)`,
     dias.length ? `Alcance de la cuenta, últimos días: ${dias.join(' · ')}` : ''];
-  L.push('', 'Publicado hoy:');
-  for (const [, i] of hoyItems) L.push(`• ${i.slot ?? i.tipo}: alcance ${i.medidas?.reach ?? '–'}, guardados ${i.medidas?.saved ?? 0}, compartidos ${i.medidas?.shares ?? 0}, me gusta ${i.medidas?.likes ?? 0}`);
+  const cont = { carrusel: 0, reel: 0, historia: 0 };
+  for (const i of Object.values(estado.items)) { if (i.fecha !== hoy.fecha || i.prueba) continue; if (i.tipo === 'historias') cont.historia += (i.plan ?? []).filter(p => p.hecho === 'publicada').length; else if (i.estado === 'publicado' && cont[i.tipo] !== undefined) cont[i.tipo]++; }
+  const metas = estado.config?.rafaga?.metas;
+  L.push('', `Hoy: ${cont.carrusel} carruseles, ${cont.reel} Reels y ${cont.historia} historias${metas ? ` (meta ${metas.carrusel}/${metas.reel}/${metas.historia})` : ''}.`);
+  if (hoyItems.length > 12) L.push(`Los ${hoyItems.length} de hoy con mejor alcance:`); else L.push('Publicado hoy:');
+  for (const [, i] of [...hoyItems].sort((x, y) => (y[1].medidas?.reach ?? 0) - (x[1].medidas?.reach ?? 0)).slice(0, 12)) L.push(`• ${i.slot ?? i.tipo}: alcance ${i.medidas?.reach ?? '–'}, guardados ${i.medidas?.saved ?? 0}, compartidos ${i.medidas?.shares ?? 0}, me gusta ${i.medidas?.likes ?? 0}`);
   if (!hoyItems.length) L.push('• nada publicado hoy');
 
   // Comparación de horarios con lo que ya lleva al menos 24 h publicado

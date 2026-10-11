@@ -1,3 +1,4 @@
 .env
 tools/.env
 node_modules/
+tmp-medios/

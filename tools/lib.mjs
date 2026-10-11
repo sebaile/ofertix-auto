@@ -1,6 +1,6 @@
 // Utilidades comunes: entorno, hora de Chile, Telegram, API de Instagram, estado y repositorio.
 import { readFileSync, writeFileSync, existsSync, mkdirSync } from 'node:fs';
-import { join, resolve } from 'node:path';
+import { join, resolve, basename } from 'node:path';
 import { execFileSync } from 'node:child_process';
 import sharp from 'sharp';
 
@@ -87,6 +87,17 @@ export const urlPublica = ruta => `https://raw.githubusercontent.com/${REPO}/mai
 export async function esperarPublica(url, intentos = 25) {
   for (let i = 0; i < intentos; i++) { const r = await fetch(url, { method: 'HEAD' }); if (r.ok) return; await dormir(3000); }
   throw new Error('El archivo no quedó público: ' + url);
+}
+
+// Alto volumen: sube archivos a la rama `medios`, que queda SIEMPRE con un solo commit (se reemplaza en cada subida: el historial no crece).
+// Los archivos solo hacen falta hasta que Instagram los lee; después da igual que desaparezcan. Devuelve las URL públicas, en el mismo orden.
+export function subirMedios(rutas) {
+  const id = { GIT_AUTHOR_NAME: 'ofertix-bot', GIT_AUTHOR_EMAIL: 'ofertix-bot@users.noreply.github.com', GIT_COMMITTER_NAME: 'ofertix-bot', GIT_COMMITTER_EMAIL: 'ofertix-bot@users.noreply.github.com' };
+  const git = (args, input) => execFileSync('git', args, { cwd: raiz, encoding: 'utf8', input, env: { ...process.env, ...id }, stdio: ['pipe', 'pipe', 'pipe'] }).trim();
+  const lineas = rutas.map(r => `100644 blob ${git(['hash-object', '-w', r])}\t${basename(r)}`);
+  const arbol = git(['mktree'], lineas.join('\n') + '\n');
+  git(['push', '-f', 'origin', `${git(['commit-tree', arbol, '-m', 'medios'])}:refs/heads/medios`]);
+  return rutas.map(r => `https://raw.githubusercontent.com/${REPO}/medios/${basename(r)}`);
 }
 
 // ---------- Estado (datos/estado.json, versionado en el repositorio) ----------
