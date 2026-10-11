@@ -1048,6 +1048,28 @@
     "tmp-medios/1791719276976-r1.mp4"
    ],
    "texto": "🔥 3 ofertas nuevas de hoy\n1. DAEWOO Aspiradora De Mano Inalámbrica Portatil Daewoo Davc8v 8v: $21.290 (-46%, referencia $39.990) en Falabella Marketplace · 📉 mínimo de 87 días\n2. MARSHALL Audifono On-ear Major V Marshall Negro: $89.990 (-55%, referencia $199.990) en Falabella · 📉 mínimo de 89 días\n3. DOLCE&GABBANA Set De Tres Regalos Q By Dolce&Gabbana Edp: $86.190 (-42%, referencia $149.990) en Falabella\n\n⏰ Precios vistos hoy (11/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
+  },
+  "2026-10-11-r-historia-1791720091258": {
+   "tipo": "historia",
+   "fecha": "2026-10-11",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "hora": "09:01",
+   "id": "18149524153553854",
+   "ofertas": [
+    {
+     "id": "1112004",
+     "nombre": "MARSHALL Audífonos Bluetooth On Ear Marshall Major V Crema",
+     "tienda": "Falabella Marketplace",
+     "ahora": 89990,
+     "antes": 149990,
+     "pct": 40,
+     "rubro": "tecnologia",
+     "esMinimo": true,
+     "dias": 89,
+     "visto": "07:58"
+    }
+   ]
   }
  },
  "config": {
@@ -1063,6 +1085,7 @@
  "usadasH": {
   "1064616": "2026-10-11T11:31:22.606Z",
   "1064880": "2026-10-11T11:16:17.500Z",
+  "1112004": "2026-10-11T12:01:31.258Z",
   "1124685": "2026-10-11T11:45:56.267Z",
   "1126670": "2026-10-11T11:01:30.428Z"
  }
