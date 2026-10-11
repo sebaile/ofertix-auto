@@ -1608,6 +1608,64 @@
     "tmp-medios/1791725582772-r5.mp4"
    ],
    "texto": "🔥 3 ofertas nuevas de hoy\n1. SONY Juego Saros Ps5 Sony: $39.990 (-50%, referencia $79.990) en Falabella · 📉 mínimo de 68 días\n2. GUCCI Gucci Flora Gorgeous Jasmine Eau De Parfum Para Mujer 100 Ml: $125.990 (-40%, referencia $209.990) en Falabella · 📉 mínimo de 85 días\n3. SIEGEN Ondulador Waver SG-B2601 Siegen Generador de Iones 230° C: $39.990 (-42%, referencia $69.990) en Falabella · 📉 mínimo de 44 días\n\n⏰ Precios vistos hoy (11/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
+  },
+  "2026-10-11-r-historia-1791726376558": {
+   "tipo": "historia",
+   "fecha": "2026-10-11",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "hora": "10:46",
+   "id": "18097451972552286",
+   "ofertas": [
+    {
+     "id": "67319",
+     "nombre": "Encimera A Gas 5 Quemadores Gris",
+     "tienda": "Mercado Libre",
+     "ahora": 179990,
+     "antes": 359990,
+     "pct": 50,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 61,
+     "visto": "10:00"
+    },
+    {
+     "id": "67333",
+     "nombre": "Horno Xl Rotisserie Oster, 60 L, Manual, Gris, Tssttv60mns",
+     "tienda": "Mercado Libre",
+     "ahora": 87990,
+     "antes": 159990,
+     "pct": 45,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 76,
+     "visto": "10:00"
+    },
+    {
+     "id": "181376",
+     "nombre": "Filtro De Agua Triple Para Sedimentos, Sarro, Cloro Splendid",
+     "tienda": "Mercado Libre",
+     "ahora": 39990,
+     "antes": 79990,
+     "pct": 50,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 61,
+     "visto": "10:00"
+    },
+    {
+     "id": "468623",
+     "nombre": "PRIMATERM Estufa Calefactor Eléctrico Alumax 500w PRIMATERM",
+     "tienda": "Falabella Marketplace",
+     "ahora": 49990,
+     "antes": 89990,
+     "pct": 44,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 73,
+     "visto": "10:00"
+    }
+   ]
   }
  },
  "config": {
@@ -1621,7 +1679,11 @@
  "seguidores": 48,
  "informeFecha": "2026-10-10",
  "usadasH": {
+  "67319": "2026-10-11T13:46:16.558Z",
+  "67333": "2026-10-11T13:46:16.558Z",
+  "181376": "2026-10-11T13:46:16.558Z",
   "181591": "2026-10-11T13:31:42.173Z",
+  "468623": "2026-10-11T13:46:16.558Z",
   "1000952": "2026-10-11T12:31:23.901Z",
   "1063781": "2026-10-11T12:16:12.011Z",
   "1064616": "2026-10-11T11:31:22.606Z",
