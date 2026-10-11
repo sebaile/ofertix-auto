@@ -42,7 +42,7 @@
   "827619": "2026-10-10T21:31:20.651Z",
   "831081": "2026-10-11T11:47:51.716Z",
   "894274": "2026-10-11T15:04:19.293Z",
-  "912406": "2026-10-09T21:56:01.891Z",
+  "912406": "2026-10-11T15:47:34.528Z",
   "912408": "2026-10-09T22:32:10.226Z",
   "955741": "2026-10-09T22:32:10.226Z",
   "955874": "2026-10-10T19:12:16.865Z",
@@ -75,7 +75,7 @@
   "horno xl rotisserie oster 60 l manual gris tssttv60mns": "2026-10-11T12:18:44.704Z",
   "marshall parlante bluetooth acton iii negro marshall": "2026-10-11T13:03:35.550Z",
   "primaterm estufa calefactor electrico alumax 500w primaterm": "2026-10-11T12:47:40.229Z",
-  "edicion digital de lujo de returnal ps5": "2026-10-09T21:56:01.891Z",
+  "edicion digital de lujo de returnal ps5": "2026-10-11T15:47:34.528Z",
   "europa universalis iv ultimate bundle": "2026-10-09T22:32:10.226Z",
   "atomic heart ps4 ps5 ps4 ps5": "2026-10-09T22:32:10.226Z",
   "kit master g monitor parlante mgmg2730 mgsbg2": "2026-10-11T15:04:19.293Z",
@@ -2139,6 +2139,35 @@
      "visto": "11:35"
     }
    ]
+  },
+  "2026-10-11-r-carrusel-1791733654528": {
+   "tipo": "carrusel",
+   "fecha": "2026-10-11",
+   "estado": "publicado",
+   "bloque": "comparativas",
+   "formato": "oferta",
+   "hora": "12:47",
+   "id": "18150542725551311",
+   "enlace": "https://www.instagram.com/p/DeXA83HGyVt/",
+   "ofertas": [
+    {
+     "id": "912406",
+     "nombre": "Edición digital de lujo de Returnal (PS5)",
+     "tienda": "PlayStation Store",
+     "ahora": 19622,
+     "antes": 78519,
+     "pct": 75,
+     "rubro": "gamer",
+     "esMinimo": false,
+     "dias": 1,
+     "visto": "12:24"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1791733626078-c7-1.jpg",
+    "tmp-medios/1791733626078-c7-2.jpg"
+   ],
+   "texto": "🔥 OFERTA DEL DÍA\nEdición digital de lujo de Returnal (PS5)\nAhora: $19.622 (-75%)\nReferencia: $78.519\n🏪 PlayStation Store\n\n✅ Precio visto hoy a las 12:24 en nuestro sistema.\n⏰ Puede cambiar o agotarse sin aviso.\n📲 Enlace directo en Telegram: t.me/ofertixcl\n\n#ofertaschile #gamer #descuentoschile #ofertix #ofertasdeldia"
   }
  },
  "config": {
