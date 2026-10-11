@@ -2225,6 +2225,28 @@
     "tmp-medios/1791733668207-r10.mp4"
    ],
    "texto": "🔥 3 ofertas de perfumes en comparativa\n1. Lattafa Asad EDP 100 ML (H): $20.900 (-47%, referencia $39.900) en Perfumes Chile\n2. Hugo Boss Xy EDT 100 ML (H): $24.900 (-45%, referencia $45.900) en Perfumes Chile\n3. Lattafa Yara EDP 100 ML (M): $21.900 (-45%, referencia $39.900) en Perfumes Chile\n\n⏰ Precios vistos hoy (11/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #perfumes #descuentoschile #ofertix #ofertasdeldia #ahorrar"
+  },
+  "2026-10-11-r-historia-1791734491499": {
+   "tipo": "historia",
+   "fecha": "2026-10-11",
+   "estado": "publicado",
+   "bloque": "comparativas",
+   "hora": "13:01",
+   "id": "17978682302920712",
+   "ofertas": [
+    {
+     "id": "122927",
+     "nombre": "Magefesa Nova Capri Cafetera En Acero Inoxidable 18/10 Plateado",
+     "tienda": "Mercado Libre",
+     "ahora": 20990,
+     "antes": 36990,
+     "pct": 43,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 76,
+     "visto": "12:05"
+    }
+   ]
   }
  },
  "config": {
@@ -2240,6 +2262,7 @@
  "usadasH": {
   "67319": "2026-10-11T13:46:16.558Z",
   "67333": "2026-10-11T13:46:16.558Z",
+  "122927": "2026-10-11T16:01:31.499Z",
   "123076": "2026-10-11T15:31:07.538Z",
   "181376": "2026-10-11T13:46:16.558Z",
   "181591": "2026-10-11T13:31:42.173Z",
