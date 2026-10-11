@@ -1498,6 +1498,28 @@
      "visto": "08:54"
     }
    ]
+  },
+  "2026-10-11-r-historia-1791725502174": {
+   "tipo": "historia",
+   "fecha": "2026-10-11",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "hora": "10:31",
+   "id": "18105952129981796",
+   "ofertas": [
+    {
+     "id": "181591",
+     "nombre": "Mouse Lenovo 300 Wireless Compact - Cloud Grey",
+     "tienda": "Mercado Libre",
+     "ahora": 36990,
+     "antes": 99990,
+     "pct": 63,
+     "rubro": "tecnologia",
+     "esMinimo": true,
+     "dias": 66,
+     "visto": "10:00"
+    }
+   ]
   }
  },
  "config": {
@@ -1511,6 +1533,7 @@
  "seguidores": 48,
  "informeFecha": "2026-10-10",
  "usadasH": {
+  "181591": "2026-10-11T13:31:42.173Z",
   "1000952": "2026-10-11T12:31:23.901Z",
   "1063781": "2026-10-11T12:16:12.011Z",
   "1064616": "2026-10-11T11:31:22.606Z",
