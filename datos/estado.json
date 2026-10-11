@@ -13,6 +13,7 @@
   "266260": "2026-10-10T23:31:46.966Z",
   "279009": "2026-10-09T22:32:10.226Z",
   "279052": "2026-10-10T23:31:46.966Z",
+  "299939": "2026-10-11T14:02:50.385Z",
   "299940": "2026-10-10T23:31:46.966Z",
   "300139": "2026-10-09T20:48:53.988Z",
   "333546": "2026-10-11T13:03:35.550Z",
@@ -105,7 +106,8 @@
   "nescafe cafetera nescafe dolce gusto piccolo xs": "2026-10-11T13:32:53.570Z",
   "sony juego saros ps5 sony": "2026-10-11T13:35:20.093Z",
   "gucci gucci flora gorgeous jasmine eau de parfum para mujer 100 ml": "2026-10-11T13:35:20.093Z",
-  "siegen ondulador waver sg b2601 siegen generador de iones 230 c": "2026-10-11T13:35:20.093Z"
+  "siegen ondulador waver sg b2601 siegen generador de iones 230 c": "2026-10-11T13:35:20.093Z",
+  "playstation the last of us part 1 ps5 playstation": "2026-10-11T14:02:50.385Z"
  },
  "items": {
   "2026-10-09-carrusel": {
@@ -1688,6 +1690,35 @@
      "visto": "10:00"
     }
    ]
+  },
+  "2026-10-11-r-carrusel-1791727370385": {
+   "tipo": "carrusel",
+   "fecha": "2026-10-11",
+   "estado": "publicado",
+   "bloque": "comparativas",
+   "formato": "oferta",
+   "hora": "11:02",
+   "id": "18010842530907056",
+   "enlace": "https://www.instagram.com/p/DeW090UFayr/",
+   "ofertas": [
+    {
+     "id": "299939",
+     "nombre": "PLAYSTATION The Last Of Us Part 1 Ps5 Playstation",
+     "tienda": "Falabella",
+     "ahora": 39990,
+     "antes": 89990,
+     "pct": 55,
+     "rubro": "gamer",
+     "esMinimo": false,
+     "dias": 88,
+     "visto": "10:00"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1791727340924-c5-1.jpg",
+    "tmp-medios/1791727340924-c5-2.jpg"
+   ],
+   "texto": "🔥 OFERTA DEL DÍA\nPLAYSTATION The Last Of Us Part 1 Ps5 Playstation\nAhora: $39.990 (-55%)\nReferencia: $89.990\n🏪 Falabella\n\n✅ Precio visto hoy a las 10:00 en nuestro sistema.\n⏰ Puede cambiar o agotarse sin aviso.\n📲 Enlace directo en Telegram: t.me/ofertixcl\n\n#ofertaschile #gamer #descuentoschile #ofertix #ofertasdeldia"
   }
  },
  "config": {
