@@ -782,6 +782,28 @@
     "tmp-medios/1791716527030-c0-2.jpg"
    ],
    "texto": "🔥 OFERTA NUEVA\nSONY Audífonos In-ear Inzone Buds Mdr G700N Negro Sony\nAhora: $99.990 (-52%)\nReferencia: $209.990\n🏪 Falabella\n\n✅ Precio visto hoy a las 06:52 en nuestro sistema.\n📉 Es el precio más bajo de los últimos 80 días.\n⏰ Puede cambiar o agotarse sin aviso.\n📲 Enlace directo en Telegram: t.me/ofertixcl\n\n#ofertaschile #tecnologia #descuentoschile #ofertix #ofertasdeldia"
+  },
+  "2026-10-11-r-historia-1791717377501": {
+   "tipo": "historia",
+   "fecha": "2026-10-11",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "hora": "08:16",
+   "id": "18113039105151081",
+   "ofertas": [
+    {
+     "id": "1064880",
+     "nombre": "NUTRIBULLET Freidora de Aire Digital Nutribullet Twin Drawer",
+     "tienda": "Falabella Marketplace",
+     "ahora": 89990,
+     "antes": 199990,
+     "pct": 55,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 78,
+     "visto": "07:58"
+    }
+   ]
   }
  },
  "config": {
@@ -795,6 +817,7 @@
  "seguidores": 48,
  "informeFecha": "2026-10-10",
  "usadasH": {
+  "1064880": "2026-10-11T11:16:17.500Z",
   "1126670": "2026-10-11T11:01:30.428Z"
  }
 }
