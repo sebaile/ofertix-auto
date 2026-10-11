@@ -883,6 +883,28 @@
      "visto": "07:58"
     }
    ]
+  },
+  "2026-10-11-r-historia-1791719156267": {
+   "tipo": "historia",
+   "fecha": "2026-10-11",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "hora": "08:45",
+   "id": "17937202707392786",
+   "ofertas": [
+    {
+     "id": "1124685",
+     "nombre": "GRONER Campana Empotrada Gröner Inox ST 52 cm",
+     "tienda": "Falabella Marketplace",
+     "ahora": 119990,
+     "antes": 199990,
+     "pct": 40,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 23,
+     "visto": "07:58"
+    }
+   ]
   }
  },
  "config": {
@@ -898,6 +920,7 @@
  "usadasH": {
   "1064616": "2026-10-11T11:31:22.606Z",
   "1064880": "2026-10-11T11:16:17.500Z",
+  "1124685": "2026-10-11T11:45:56.267Z",
   "1126670": "2026-10-11T11:01:30.428Z"
  }
 }
