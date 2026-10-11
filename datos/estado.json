@@ -1,6 +1,8 @@
 {
  "offset": 44460906,
  "usadas": {
+  "1226": "2026-10-11T14:33:04.464Z",
+  "1228": "2026-10-11T14:33:04.465Z",
   "67319": "2026-10-11T12:18:44.704Z",
   "67333": "2026-10-11T12:18:44.704Z",
   "122927": "2026-10-11T13:03:35.550Z",
@@ -43,6 +45,7 @@
   "1063788": "2026-10-11T11:47:51.716Z",
   "1064616": "2026-10-11T11:17:41.617Z",
   "1064880": "2026-10-10T19:03:13.969Z",
+  "1087230": "2026-10-11T14:33:04.465Z",
   "1087642": "2026-10-11T11:17:41.617Z",
   "1110715": "2026-10-11T11:49:12.493Z",
   "1118971": "2026-10-10T19:03:42.062Z",
@@ -113,7 +116,10 @@
   "playstation the last of us part 1 ps5 playstation": "2026-10-11T14:02:50.385Z",
   "playstation spider man miles morales ps5": "2026-10-11T14:05:03.736Z",
   "calefactor quarzo magefesa fenix mgf1740": "2026-10-11T14:05:03.736Z",
-  "sony juego marvels spiderman 2 ps5 std sony": "2026-10-11T14:05:03.736Z"
+  "sony juego marvels spiderman 2 ps5 std sony": "2026-10-11T14:05:03.736Z",
+  "cartera cerutti cuero mujer diletta cross azul": "2026-10-11T14:33:04.465Z",
+  "dolce gabbana perfume hombre edp dolce gabbana": "2026-10-11T14:33:04.465Z",
+  "cartera cerutti cuero mujer ottavia tote blanco": "2026-10-11T14:33:04.465Z"
  },
  "items": {
   "2026-10-09-carrusel": {
@@ -1798,6 +1804,57 @@
      "visto": "10:55"
     }
    ]
+  },
+  "2026-10-11-r-reel-1791729184465": {
+   "tipo": "reel",
+   "fecha": "2026-10-11",
+   "estado": "publicado",
+   "bloque": "comparativas",
+   "hora": "11:33",
+   "id": "17887991472479172",
+   "enlace": "https://www.instagram.com/reel/DeW4aWRk7WI/",
+   "ofertas": [
+    {
+     "id": "1226",
+     "nombre": "Cartera Cerutti Cuero Mujer Diletta Cross Azul",
+     "tienda": "Hush Puppies",
+     "ahora": 144995,
+     "antes": 289990,
+     "pct": 50,
+     "rubro": "moda",
+     "esMinimo": false,
+     "dias": 5,
+     "visto": "11:26"
+    },
+    {
+     "id": "1087230",
+     "nombre": "DOLCE&GABBANA Perfume Hombre EDP Dolce&Gabbana",
+     "tienda": "Falabella",
+     "ahora": 91890,
+     "antes": 159990,
+     "pct": 42,
+     "rubro": "perfumes",
+     "esMinimo": false,
+     "dias": 10,
+     "visto": "10:55"
+    },
+    {
+     "id": "1228",
+     "nombre": "Cartera Cerutti Cuero Mujer Ottavia Tote Blanco",
+     "tienda": "Hush Puppies",
+     "ahora": 124995,
+     "antes": 249990,
+     "pct": 50,
+     "rubro": "moda",
+     "esMinimo": false,
+     "dias": 5,
+     "visto": "11:26"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1791729095986-r7.mp4"
+   ],
+   "texto": "🔥 3 ofertas en comparativa: mismo tipo de producto\n1. Cartera Cerutti Cuero Mujer Diletta Cross Azul: $144.995 (-50%, referencia $289.990) en Hush Puppies\n2. DOLCE&GABBANA Perfume Hombre EDP Dolce&Gabbana: $91.890 (-42%, referencia $159.990) en Falabella\n3. Cartera Cerutti Cuero Mujer Ottavia Tote Blanco: $124.995 (-50%, referencia $249.990) en Hush Puppies\n\n⏰ Precios vistos hoy (11/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
   }
  },
  "config": {
