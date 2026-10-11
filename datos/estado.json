@@ -3,6 +3,8 @@
  "usadas": {
   "67319": "2026-10-11T12:18:44.704Z",
   "67333": "2026-10-11T12:18:44.704Z",
+  "122927": "2026-10-11T13:03:35.550Z",
+  "122930": "2026-10-11T13:03:35.550Z",
   "181376": "2026-10-11T12:18:44.704Z",
   "181591": "2026-10-11T11:47:51.716Z",
   "266260": "2026-10-10T23:31:46.966Z",
@@ -10,11 +12,13 @@
   "279052": "2026-10-10T23:31:46.966Z",
   "299940": "2026-10-10T23:31:46.966Z",
   "300139": "2026-10-09T20:48:53.988Z",
-  "333546": "2026-10-09T21:13:30.796Z",
+  "333546": "2026-10-11T13:03:35.550Z",
   "333563": "2026-10-11T11:47:51.716Z",
   "468623": "2026-10-11T12:47:40.229Z",
   "716674": "2026-10-09T22:32:10.226Z",
   "718625": "2026-10-09T22:32:10.226Z",
+  "824616": "2026-10-11T13:03:35.550Z",
+  "824734": "2026-10-11T13:03:35.550Z",
   "825834": "2026-10-11T11:49:12.493Z",
   "825840": "2026-10-10T21:31:20.651Z",
   "825872": "2026-10-11T12:47:40.229Z",
@@ -47,7 +51,7 @@
   "encimera a gas 5 quemadores gris": "2026-10-11T12:18:44.704Z",
   "hyperx audifonos hyperx cloud mini ultraliviano multiplataforma 3 5mm": "2026-10-11T11:47:51.716Z",
   "horno xl rotisserie oster 60 l manual gris tssttv60mns": "2026-10-11T12:18:44.704Z",
-  "marshall parlante bluetooth acton iii negro marshall": "2026-10-09T21:13:30.796Z",
+  "marshall parlante bluetooth acton iii negro marshall": "2026-10-11T13:03:35.550Z",
   "primaterm estufa calefactor electrico alumax 500w primaterm": "2026-10-11T12:47:40.229Z",
   "edicion digital de lujo de returnal ps5": "2026-10-09T21:56:01.891Z",
   "europa universalis iv ultimate bundle": "2026-10-09T22:32:10.226Z",
@@ -83,7 +87,11 @@
   "teclado hyperx alloy core rgb 4p4f5ai hx kb5me2 la": "2026-10-11T12:17:20.366Z",
   "filtro de agua triple para sedimentos sarro cloro splendid": "2026-10-11T12:18:44.704Z",
   "jbl jbl audifonos live 780nc champan": "2026-10-11T12:47:40.229Z",
-  "sony juego lost soul aside ps5 sony": "2026-10-11T12:47:40.229Z"
+  "sony juego lost soul aside ps5 sony": "2026-10-11T12:47:40.229Z",
+  "teclado gamer mecanico luces rgb kb903l havit blanco": "2026-10-11T13:03:35.550Z",
+  "remington plancha alisador de pelo wet2straight remington": "2026-10-11T13:03:35.550Z",
+  "magefesa nova capri cafetera en acero inoxidable 18 10 plateado": "2026-10-11T13:03:35.550Z",
+  "midea freidora de aire 4 litros mf tn40d2": "2026-10-11T13:03:35.550Z"
  },
  "items": {
   "2026-10-09-carrusel": {
@@ -1333,6 +1341,84 @@
      "visto": "08:54"
     }
    ]
+  },
+  "2026-10-11-r-carrusel-1791723815550": {
+   "tipo": "carrusel",
+   "fecha": "2026-10-11",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "formato": "top5",
+   "hora": "10:03",
+   "id": "17863183590692064",
+   "enlace": "https://www.instagram.com/p/DeWuL3PmwQe/",
+   "ofertas": [
+    {
+     "id": "333546",
+     "nombre": "MARSHALL Parlante Bluetooth Acton III Negro Marshall",
+     "tienda": "Falabella",
+     "ahora": 199990,
+     "antes": 339990,
+     "pct": 41,
+     "rubro": "tecnologia",
+     "esMinimo": true,
+     "dias": 89,
+     "visto": "08:54"
+    },
+    {
+     "id": "122930",
+     "nombre": "Teclado Gamer Mecánico Luces Rgb Kb903l Havit Blanco",
+     "tienda": "Mercado Libre",
+     "ahora": 18440,
+     "antes": 34990,
+     "pct": 47,
+     "rubro": "gamer",
+     "esMinimo": true,
+     "dias": 69,
+     "visto": "08:54"
+    },
+    {
+     "id": "824616",
+     "nombre": "REMINGTON Plancha alisador de pelo Wet2Straight Remington",
+     "tienda": "Falabella",
+     "ahora": 29990,
+     "antes": 52990,
+     "pct": 43,
+     "rubro": "belleza",
+     "esMinimo": true,
+     "dias": 72,
+     "visto": "08:54"
+    },
+    {
+     "id": "122927",
+     "nombre": "Magefesa Nova Capri Cafetera En Acero Inoxidable 18/10 Plateado",
+     "tienda": "Mercado Libre",
+     "ahora": 20990,
+     "antes": 36990,
+     "pct": 43,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 76,
+     "visto": "08:54"
+    },
+    {
+     "id": "824734",
+     "nombre": "MIDEA Freidora de Aire 4 litros MF-TN40D2",
+     "tienda": "Falabella Marketplace",
+     "ahora": 39990,
+     "antes": 69990,
+     "pct": 42,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 88,
+     "visto": "08:54"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1791723774462-c3-1.jpg",
+    "tmp-medios/1791723774462-c3-2.jpg",
+    "tmp-medios/1791723774462-c3-3.jpg"
+   ],
+   "texto": "🏆 Top 5 en tecnología\n1. MARSHALL Parlante Bluetooth Acton III Negro Marshall: $199.990 (-41%) en Falabella · 📉 mínimo de 89 días\n2. Teclado Gamer Mecánico Luces Rgb Kb903l Havit Blanco: $18.440 (-47%) en Mercado Libre · 📉 mínimo de 69 días\n3. REMINGTON Plancha alisador de pelo Wet2Straight Remington: $29.990 (-43%) en Falabella · 📉 mínimo de 72 días\n4. Magefesa Nova Capri Cafetera En Acero Inoxidable 18/10 Plateado: $20.990 (-43%) en Mercado Libre · 📉 mínimo de 76 días\n5. MIDEA Freidora de Aire 4 litros MF-TN40D2: $39.990 (-42%) en Falabella Marketplace · 📉 mínimo de 88 días\n\n⏰ Precios vistos hoy (11/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #top5 #descuentoschile #ofertix #ahorrar"
   }
  },
  "config": {
