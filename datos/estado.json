@@ -1776,6 +1776,28 @@
     "tmp-medios/1791727376626-r6.mp4"
    ],
    "texto": "🔥 3 ofertas en comparativa: mismo tipo de producto\n1. PLAYSTATION Spider-Man Miles Morales PS5: $29.990 (-53%, referencia $64.990) en Falabella\n2. Calefactor Quarzo Magefesa Fenix Mgf1740: $19.990 (-42%, referencia $34.990) en Mercado Libre\n3. SONY Juego Marvels SPIDERMAN 2 PS5 Std Sony: $39.990 (-48%, referencia $76.990) en Falabella\n\n⏰ Precios vistos hoy (11/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
+  },
+  "2026-10-11-r-historia-1791729082635": {
+   "tipo": "historia",
+   "fecha": "2026-10-11",
+   "estado": "publicado",
+   "bloque": "comparativas",
+   "hora": "11:31",
+   "id": "17888834340469404",
+   "ofertas": [
+    {
+     "id": "1124006",
+     "nombre": "JIMMY CHOO Perfume Mujer Floral EDT 90 Ml Jimmy Choo",
+     "tienda": "Falabella",
+     "ahora": 49990,
+     "antes": 111990,
+     "pct": 55,
+     "rubro": "perfumes",
+     "esMinimo": true,
+     "dias": 25,
+     "visto": "10:55"
+    }
+   ]
   }
  },
  "config": {
@@ -1804,6 +1826,7 @@
   "1112004": "2026-10-11T12:01:31.258Z",
   "1118971": "2026-10-11T12:16:12.011Z",
   "1119447": "2026-10-11T12:46:02.629Z",
+  "1124006": "2026-10-11T14:31:22.635Z",
   "1124685": "2026-10-11T11:45:56.267Z",
   "1126670": "2026-10-11T11:01:30.428Z",
   "1128340": "2026-10-11T12:16:12.011Z",
