@@ -5,7 +5,9 @@
   "1228": "2026-10-11T14:33:04.465Z",
   "67319": "2026-10-11T12:18:44.704Z",
   "67333": "2026-10-11T12:18:44.704Z",
+  "74044": "2026-10-11T15:04:19.293Z",
   "82825": "2026-10-11T14:47:31.662Z",
+  "83149": "2026-10-11T15:04:19.293Z",
   "122927": "2026-10-11T13:03:35.550Z",
   "122930": "2026-10-11T13:03:35.550Z",
   "123076": "2026-10-11T13:05:04.668Z",
@@ -16,7 +18,8 @@
   "181591": "2026-10-11T11:47:51.716Z",
   "208823": "2026-10-11T14:05:03.736Z",
   "266260": "2026-10-10T23:31:46.966Z",
-  "279009": "2026-10-09T22:32:10.226Z",
+  "279009": "2026-10-11T15:04:19.293Z",
+  "279051": "2026-10-11T15:04:19.293Z",
   "279052": "2026-10-10T23:31:46.966Z",
   "299939": "2026-10-11T14:02:50.385Z",
   "299940": "2026-10-10T23:31:46.966Z",
@@ -35,6 +38,7 @@
   "825872": "2026-10-11T12:47:40.229Z",
   "827619": "2026-10-10T21:31:20.651Z",
   "831081": "2026-10-11T11:47:51.716Z",
+  "894274": "2026-10-11T15:04:19.293Z",
   "912406": "2026-10-09T21:56:01.891Z",
   "912408": "2026-10-09T22:32:10.226Z",
   "955741": "2026-10-09T22:32:10.226Z",
@@ -71,7 +75,7 @@
   "edicion digital de lujo de returnal ps5": "2026-10-09T21:56:01.891Z",
   "europa universalis iv ultimate bundle": "2026-10-09T22:32:10.226Z",
   "atomic heart ps4 ps5 ps4 ps5": "2026-10-09T22:32:10.226Z",
-  "kit master g monitor parlante mgmg2730 mgsbg2": "2026-10-09T22:32:10.226Z",
+  "kit master g monitor parlante mgmg2730 mgsbg2": "2026-10-11T15:04:19.293Z",
   "gorro animal mixvans": "2026-10-11T14:47:31.662Z",
   "ralph lauren polo sport fresh edt 125 ml h": "2026-10-11T14:47:31.662Z",
   "nutribullet freidora de aire digital nutribullet twin drawer": "2026-10-10T19:03:13.969Z",
@@ -121,7 +125,11 @@
   "cartera cerutti cuero mujer diletta cross azul": "2026-10-11T14:33:04.465Z",
   "dolce gabbana perfume hombre edp dolce gabbana": "2026-10-11T14:33:04.465Z",
   "cartera cerutti cuero mujer ottavia tote blanco": "2026-10-11T14:33:04.465Z",
-  "cartera studio pffr bckt bag mujer negro": "2026-10-11T14:47:31.662Z"
+  "cartera studio pffr bckt bag mujer negro": "2026-10-11T14:47:31.662Z",
+  "microsoft 365 familia licencia digital anual ep2 32295": "2026-10-11T15:04:19.293Z",
+  "zapatilla assrt 10 ufm syn junior nino negro": "2026-10-11T15:04:19.293Z",
+  "maison alhambra amberley ombre blue edp 100 ml u": "2026-10-11T15:04:19.293Z",
+  "peto infinity mid 2 0 verano mujer verde": "2026-10-11T15:04:19.293Z"
  },
  "items": {
   "2026-10-09-carrusel": {
@@ -1952,6 +1960,84 @@
      "visto": "10:55"
     }
    ]
+  },
+  "2026-10-11-r-carrusel-1791731059293": {
+   "tipo": "carrusel",
+   "fecha": "2026-10-11",
+   "estado": "publicado",
+   "bloque": "comparativas",
+   "formato": "top5",
+   "hora": "12:04",
+   "id": "18118291985000357",
+   "enlace": "https://www.instagram.com/p/DeW8AB4EQSG/",
+   "ofertas": [
+    {
+     "id": "279051",
+     "nombre": "Microsoft 365 Familia Licencia Digital Anual (EP2-32295)",
+     "tienda": "Reuse",
+     "ahora": 109990,
+     "antes": 285000,
+     "pct": 61,
+     "rubro": "otros",
+     "esMinimo": false,
+     "dias": 4,
+     "visto": "11:45"
+    },
+    {
+     "id": "279009",
+     "nombre": "Kit Master-G Monitor + Parlante MGMG2730 + MGSBG2",
+     "tienda": "Reuse",
+     "ahora": 149990,
+     "antes": 299990,
+     "pct": 50,
+     "rubro": "tecnologia",
+     "esMinimo": false,
+     "dias": 4,
+     "visto": "11:45"
+    },
+    {
+     "id": "894274",
+     "nombre": "Zapatilla Assrt 10 Ufm Syn Junior Niño Negro",
+     "tienda": "Under Armour",
+     "ahora": 22990,
+     "antes": 46990,
+     "pct": 51,
+     "rubro": "moda",
+     "esMinimo": false,
+     "dias": 1,
+     "visto": "11:39"
+    },
+    {
+     "id": "74044",
+     "nombre": "Maison Alhambra Amberley Ombre Blue EDP 100 ML (U)",
+     "tienda": "Perfumes Chile",
+     "ahora": 24900,
+     "antes": 49990,
+     "pct": 50,
+     "rubro": "perfumes",
+     "esMinimo": false,
+     "dias": 5,
+     "visto": "11:35"
+    },
+    {
+     "id": "83149",
+     "nombre": "Peto Infinity Mid 2 0 Verano Mujer Verde",
+     "tienda": "Under Armour",
+     "ahora": 21990,
+     "antes": 44990,
+     "pct": 51,
+     "rubro": "moda",
+     "esMinimo": false,
+     "dias": 5,
+     "visto": "11:39"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1791731021063-c6-1.jpg",
+    "tmp-medios/1791731021063-c6-2.jpg",
+    "tmp-medios/1791731021063-c6-3.jpg"
+   ],
+   "texto": "🏆 Descuentos destacados\n1. Microsoft 365 Familia Licencia Digital Anual (EP2-32295): $109.990 (-61%) en Reuse\n2. Kit Master-G Monitor + Parlante MGMG2730 + MGSBG2: $149.990 (-50%) en Reuse\n3. Zapatilla Assrt 10 Ufm Syn Junior Niño Negro: $22.990 (-51%) en Under Armour\n4. Maison Alhambra Amberley Ombre Blue EDP 100 ML (U): $24.900 (-50%) en Perfumes Chile\n5. Peto Infinity Mid 2 0 Verano Mujer Verde: $21.990 (-51%) en Under Armour\n\n⏰ Precios vistos hoy (11/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #top5 #descuentoschile #ofertix #ahorrar"
   }
  },
  "config": {
