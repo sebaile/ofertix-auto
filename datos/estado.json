@@ -5,6 +5,7 @@
   "1228": "2026-10-11T14:33:04.465Z",
   "67319": "2026-10-11T12:18:44.704Z",
   "67333": "2026-10-11T12:18:44.704Z",
+  "82825": "2026-10-11T14:47:31.662Z",
   "122927": "2026-10-11T13:03:35.550Z",
   "122930": "2026-10-11T13:03:35.550Z",
   "123076": "2026-10-11T13:05:04.668Z",
@@ -23,8 +24,8 @@
   "333546": "2026-10-11T13:03:35.550Z",
   "333563": "2026-10-11T11:47:51.716Z",
   "468623": "2026-10-11T12:47:40.229Z",
-  "716674": "2026-10-09T22:32:10.226Z",
-  "718625": "2026-10-09T22:32:10.226Z",
+  "716674": "2026-10-11T14:47:31.662Z",
+  "718625": "2026-10-11T14:47:31.662Z",
   "824616": "2026-10-11T13:03:35.550Z",
   "824734": "2026-10-11T13:03:35.550Z",
   "825803": "2026-10-11T13:35:20.093Z",
@@ -71,8 +72,8 @@
   "europa universalis iv ultimate bundle": "2026-10-09T22:32:10.226Z",
   "atomic heart ps4 ps5 ps4 ps5": "2026-10-09T22:32:10.226Z",
   "kit master g monitor parlante mgmg2730 mgsbg2": "2026-10-09T22:32:10.226Z",
-  "gorro animal mixvans": "2026-10-09T22:32:10.226Z",
-  "ralph lauren polo sport fresh edt 125 ml h": "2026-10-09T22:32:10.226Z",
+  "gorro animal mixvans": "2026-10-11T14:47:31.662Z",
+  "ralph lauren polo sport fresh edt 125 ml h": "2026-10-11T14:47:31.662Z",
   "nutribullet freidora de aire digital nutribullet twin drawer": "2026-10-10T19:03:13.969Z",
   "blik parlante blik bass 300": "2026-10-10T19:03:42.062Z",
   "dolce gabbana perfume mujer light blue edt 200ml dolce gabbana": "2026-10-10T19:03:42.062Z",
@@ -119,7 +120,8 @@
   "sony juego marvels spiderman 2 ps5 std sony": "2026-10-11T14:05:03.736Z",
   "cartera cerutti cuero mujer diletta cross azul": "2026-10-11T14:33:04.465Z",
   "dolce gabbana perfume hombre edp dolce gabbana": "2026-10-11T14:33:04.465Z",
-  "cartera cerutti cuero mujer ottavia tote blanco": "2026-10-11T14:33:04.465Z"
+  "cartera cerutti cuero mujer ottavia tote blanco": "2026-10-11T14:33:04.465Z",
+  "cartera studio pffr bckt bag mujer negro": "2026-10-11T14:47:31.662Z"
  },
  "items": {
   "2026-10-09-carrusel": {
@@ -1877,6 +1879,57 @@
      "visto": "10:55"
     }
    ]
+  },
+  "2026-10-11-r-reel-1791730051663": {
+   "tipo": "reel",
+   "fecha": "2026-10-11",
+   "estado": "publicado",
+   "bloque": "comparativas",
+   "hora": "11:47",
+   "id": "18111743093330524",
+   "enlace": "https://www.instagram.com/reel/DeW6DFmD1FO/",
+   "ofertas": [
+    {
+     "id": "718625",
+     "nombre": "Gorro Animal MixVans",
+     "tienda": "Vans",
+     "ahora": 16990,
+     "antes": 39990,
+     "pct": 57,
+     "rubro": "moda",
+     "esMinimo": false,
+     "dias": 2,
+     "visto": "11:43"
+    },
+    {
+     "id": "716674",
+     "nombre": "Ralph Lauren Polo Sport Fresh EDT 125 ML (H)",
+     "tienda": "Perfumes Chile",
+     "ahora": 25900,
+     "antes": 59900,
+     "pct": 56,
+     "rubro": "perfumes",
+     "esMinimo": false,
+     "dias": 2,
+     "visto": "11:35"
+    },
+    {
+     "id": "82825",
+     "nombre": "Cartera Studio Pffr Bckt Bag Mujer Negro",
+     "tienda": "Under Armour",
+     "ahora": 22990,
+     "antes": 46990,
+     "pct": 51,
+     "rubro": "moda",
+     "esMinimo": false,
+     "dias": 5,
+     "visto": "11:39"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1791729980114-r8.mp4"
+   ],
+   "texto": "🔥 3 ofertas con los descuentos más altos\n1. Gorro Animal MixVans: $16.990 (-57%, referencia $39.990) en Vans\n2. Ralph Lauren Polo Sport Fresh EDT 125 ML (H): $25.900 (-56%, referencia $59.900) en Perfumes Chile\n3. Cartera Studio Pffr Bckt Bag Mujer Negro: $22.990 (-51%, referencia $46.990) en Under Armour\n\n⏰ Precios vistos hoy (11/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
   }
  },
  "config": {
