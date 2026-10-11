@@ -1070,6 +1070,64 @@
      "visto": "07:58"
     }
    ]
+  },
+  "2026-10-11-r-historia-1791720972011": {
+   "tipo": "historia",
+   "fecha": "2026-10-11",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "hora": "09:16",
+   "id": "17957533926018204",
+   "ofertas": [
+    {
+     "id": "1128340",
+     "nombre": "Scanner PANASONIC KV-S1015C-X",
+     "tienda": "Ágil Store",
+     "ahora": 45990,
+     "antes": 186990,
+     "pct": 75,
+     "rubro": "tecnologia",
+     "esMinimo": true,
+     "dias": 71,
+     "visto": "08:54"
+    },
+    {
+     "id": "1118971",
+     "nombre": "DOLCE&GABBANA Perfume Mujer Light Blue Edt 200Ml Dolce&Gabbana",
+     "tienda": "Falabella",
+     "ahora": 89990,
+     "antes": 189990,
+     "pct": 52,
+     "rubro": "perfumes",
+     "esMinimo": true,
+     "dias": 26,
+     "visto": "08:54"
+    },
+    {
+     "id": "1063781",
+     "nombre": "CALVIN KLEIN Calvin Klein CK One Eau De Toilette Unisex 50 Ml",
+     "tienda": "Falabella",
+     "ahora": 24990,
+     "antes": 52990,
+     "pct": 52,
+     "rubro": "perfumes",
+     "esMinimo": true,
+     "dias": 71,
+     "visto": "08:54"
+    },
+    {
+     "id": "1064953",
+     "nombre": "MARSHALL Audífonos Bluetooth On Ear Marshall Major V Azul Medianoche",
+     "tienda": "Falabella Marketplace",
+     "ahora": 89990,
+     "antes": 149990,
+     "pct": 40,
+     "rubro": "tecnologia",
+     "esMinimo": true,
+     "dias": 89,
+     "visto": "08:54"
+    }
+   ]
   }
  },
  "config": {
@@ -1083,10 +1141,14 @@
  "seguidores": 48,
  "informeFecha": "2026-10-10",
  "usadasH": {
+  "1063781": "2026-10-11T12:16:12.011Z",
   "1064616": "2026-10-11T11:31:22.606Z",
   "1064880": "2026-10-11T11:16:17.500Z",
+  "1064953": "2026-10-11T12:16:12.011Z",
   "1112004": "2026-10-11T12:01:31.258Z",
+  "1118971": "2026-10-11T12:16:12.011Z",
   "1124685": "2026-10-11T11:45:56.267Z",
-  "1126670": "2026-10-11T11:01:30.428Z"
+  "1126670": "2026-10-11T11:01:30.428Z",
+  "1128340": "2026-10-11T12:16:12.011Z"
  }
 }
