@@ -378,6 +378,8 @@ async function rafaga() {
   if (process.env.PRUEBA_MIN) c.min = +process.env.PRUEBA_MIN;                // solo para pruebas locales
   if (!cfg?.activo || c.fecha < (cfg.desde ?? '0000')) return console.log(`Ráfaga: no está activa todavía (${cfg ? 'empieza ' + cfg.desde : 'sin configurar'}).`);
   if (estado.config.pausado) return console.log('Ráfaga: sistema en pausa.');
+  const bloq = estado.config.rafagaBloqueo, suave = !!bloq && bloq.desde?.slice(0, 10) === new Date().toISOString().slice(0, 10);   // suave: tras un bloqueo, ritmo reducido el resto del día
+  if (bloq && new Date(bloq.hasta) > new Date()) return console.log(`Ráfaga en espera: Instagram limitó las publicaciones; se reintenta después de ${new Date(bloq.hasta).toLocaleTimeString('es-CL', { timeZone: 'America/Santiago' })}.`);
   const blq = bloqueDe(c.min); if (!blq) return console.log('Ráfaga: fuera de la jornada (08:00–23:00).');
   const hechos = publicadosHoy(estado, c.fecha), espec = ESPEC[blq.tema];
   const falta = { carrusel: Math.max(0, debeHaber('carrusel', c.min) - hechos.carrusel), reel: Math.max(0, debeHaber('reel', c.min, 0.5) - hechos.reel), historia: Math.max(0, debeHaber('historia', c.min) - hechos.historia) };
@@ -400,13 +402,13 @@ async function rafaga() {
   const marcarHist = o => { estado.usadasH[o.id] = new Date().toISOString(); };
   const hacia = (n, o = {}) => elegirConImagen(poolFeed(), n, { traerImagen, nombresUsados: nombresRec, ...o, bonus: o.bonus ? BON[o.bonus] : null });
   const hay = (r, n = 3) => !r || poolFeed().filter(o => o.rubro === r).length >= n;
-  let errores = 0;
+  let errores = 0, bloqueado = false;
   const guardar = (key, item, msg) => { estado.items[key] = item; guardarEstado(estado); subirCambios(msg); };
   const parar = () => cuota >= TOPE_API;
   const publicando = async (tipo, fn) => {
     if (parar()) { console.log(`Cuota alta (${cuota}): se detiene ${tipo}.`); return false; }
     try { const ok = await fn(); if (ok) cuota++; return ok; }
-    catch (e) { errores++; console.error(`Ráfaga ${tipo}:`, String(e.message).slice(0, 200)); return false; }
+    catch (e) { errores++; console.error(`Ráfaga ${tipo}:`, String(e.message).slice(0, 200)); if (/too many actions|spam|temporarily blocked|action.?blocked/i.test(String(e.message))) { bloqueado = true; errores = 3; } return false; }
   };
   const vigentes = async os => { for (const o of os) { const v = await sigueVigente(o.id, o.ahora, edadVig); if (!v.ok) return `${o.nombre.slice(0, 30)}: ${v.motivo}`; } return null; };
 
@@ -492,16 +494,19 @@ async function rafaga() {
     await espejarHistoria({ archivo: rel(f), oferta: resumen ? null : resumenOferta(os[0]), etiqueta: resumen ? sp.resumen : etiqueta }); return true;
   };
 
-  // Se intercalan los formatos para que ninguno espere detrás de otro
-  const n = { carrusel: Math.min(falta.carrusel, POR_EJECUCION.carrusel), reel: Math.min(falta.reel, POR_EJECUCION.reel), historia: Math.min(falta.historia, POR_EJECUCION.historia) };
-  const contador = { ...hechos };
-  while (n.carrusel + n.reel + n.historia > 0 && !parar() && errores < 3) {
-    if (n.historia > 0) { n.historia--; if (await publicando('historia', () => historia(contador.historia))) contador.historia++; else n.historia = 0; }
-    if (n.carrusel > 0) { n.carrusel--; if (await publicando('carrusel', () => carrusel(contador.carrusel))) contador.carrusel++; else n.carrusel = 0; }
-    if (n.reel > 0) { n.reel--; if (await publicando('reel', () => reel(contador.reel))) contador.reel++; else n.reel = 0; }
+  // Ritmo suave: como máximo 2 piezas por ejecución (1 si Instagram ya limitó hoy), siempre del formato más atrasado respecto a su meta diaria
+  const totales = { carrusel: 20, reel: 30, historia: 50 }, restante = { ...falta }, contador = { ...hechos }, maxTotal = suave ? 1 : 2, fns = { carrusel, reel, historia };
+  for (let hechasRun = 0; hechasRun < maxTotal && !parar() && errores < 3;) {
+    const t = Object.keys(restante).filter(x => restante[x] > 0).sort((x, y) => restante[y] / totales[y] - restante[x] / totales[x])[0]; if (!t) break;
+    restante[t]--; if (await publicando(t, () => fns[t](contador[t]))) { contador[t]++; hechasRun++; } else restante[t] = 0;
+  }
+  if (bloqueado) {
+    const veces = (estado.config.rafagaBloqueo?.veces ?? 0) + 1, horas = veces === 1 ? 3 : 6, hasta = new Date(Date.now() + horas * 3600e3);
+    estado.config.rafagaBloqueo = { desde: new Date().toISOString(), hasta: hasta.toISOString(), veces };
+    await avisar('⛔ Instagram limitó las publicaciones ("demasiadas acciones"). Pauso la ráfaga ' + horas + ' h (hasta las ' + hasta.toLocaleTimeString('es-CL', { timeZone: 'America/Santiago', hour: '2-digit', minute: '2-digit' }) + ') y luego sigo con un ritmo más suave. No hace falta que hagas nada.').catch(() => {});
   }
   try { for (const f of readdirSync(carpeta)) if (Date.now() - statSync(join(carpeta, f)).mtimeMs > 20 * 60e3) rmSync(join(carpeta, f), { force: true }); } catch {}   // limpia solo lo viejo (otra ejecución podría estar usando lo reciente)
-  if (errores >= 3) await avisar('⚠️ La ráfaga tuvo 3 errores en esta ejecución. Revisa los registros de GitHub Actions.');
+  if (errores >= 3 && !bloqueado) await avisar('⚠️ La ráfaga tuvo 3 errores en esta ejecución. Revisa los registros de GitHub Actions.');
   guardarEstado(estado); subirCambios('Ráfaga: estado');
 }
 
