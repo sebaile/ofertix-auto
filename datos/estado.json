@@ -23,6 +23,7 @@
   "1064880": "2026-10-10T19:03:13.969Z",
   "1118971": "2026-10-10T19:03:42.062Z",
   "1124006": "2026-10-10T22:30:40.432Z",
+  "1126670": "2026-10-11T11:02:39.475Z",
   "1128340": "2026-10-10T21:31:20.650Z",
   "1147916": "2026-10-10T19:03:42.062Z",
   "1151385": "2026-10-10T19:03:42.062Z",
@@ -53,7 +54,8 @@
   "jimmy choo perfume mujer floral edt 90 ml jimmy choo": "2026-10-10T22:30:40.432Z",
   "flexus100 soundbar flexus core 100": "2026-10-10T23:31:46.966Z",
   "sony god of war ragnarok ps5 sony": "2026-10-10T23:31:46.966Z",
-  "lattafa fakhar edp 100 ml h": "2026-10-10T23:31:46.966Z"
+  "lattafa fakhar edp 100 ml h": "2026-10-10T23:31:46.966Z",
+  "sony audifonos in ear inzone buds mdr g700n negro sony": "2026-10-11T11:02:39.475Z"
  },
  "items": {
   "2026-10-09-carrusel": {
@@ -751,6 +753,35 @@
      "visto": "06:52"
     }
    ]
+  },
+  "2026-10-11-r-carrusel-1791716559476": {
+   "tipo": "carrusel",
+   "fecha": "2026-10-11",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "formato": "oferta",
+   "hora": "08:02",
+   "id": "18141963634722629",
+   "enlace": "https://www.instagram.com/p/DeWgWEfmzKf/",
+   "ofertas": [
+    {
+     "id": "1126670",
+     "nombre": "SONY Audífonos In-ear Inzone Buds Mdr G700N Negro Sony",
+     "tienda": "Falabella",
+     "ahora": 99990,
+     "antes": 209990,
+     "pct": 52,
+     "rubro": "tecnologia",
+     "esMinimo": true,
+     "dias": 80,
+     "visto": "06:52"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1791716527030-c0-1.jpg",
+    "tmp-medios/1791716527030-c0-2.jpg"
+   ],
+   "texto": "🔥 OFERTA NUEVA\nSONY Audífonos In-ear Inzone Buds Mdr G700N Negro Sony\nAhora: $99.990 (-52%)\nReferencia: $209.990\n🏪 Falabella\n\n✅ Precio visto hoy a las 06:52 en nuestro sistema.\n📉 Es el precio más bajo de los últimos 80 días.\n⏰ Puede cambiar o agotarse sin aviso.\n📲 Enlace directo en Telegram: t.me/ofertixcl\n\n#ofertaschile #tecnologia #descuentoschile #ofertix #ofertasdeldia"
   }
  },
  "config": {
