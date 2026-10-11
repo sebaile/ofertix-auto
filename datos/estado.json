@@ -729,6 +729,28 @@
     "comments": 0,
     "al": "2026-10-11T00:30:26.278Z"
    }
+  },
+  "2026-10-11-r-historia-1791716490429": {
+   "tipo": "historia",
+   "fecha": "2026-10-11",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "hora": "08:01",
+   "id": "18032538596894738",
+   "ofertas": [
+    {
+     "id": "1126670",
+     "nombre": "SONY Audífonos In-ear Inzone Buds Mdr G700N Negro Sony",
+     "tienda": "Falabella",
+     "ahora": 99990,
+     "antes": 209990,
+     "pct": 52,
+     "rubro": "tecnologia",
+     "esMinimo": true,
+     "dias": 80,
+     "visto": "06:52"
+    }
+   ]
   }
  },
  "config": {
@@ -741,5 +763,7 @@
  },
  "seguidores": 48,
  "informeFecha": "2026-10-10",
- "usadasH": {}
+ "usadasH": {
+  "1126670": "2026-10-11T11:01:30.428Z"
+ }
 }
