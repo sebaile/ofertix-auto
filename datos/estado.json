@@ -5,7 +5,10 @@
   "67333": "2026-10-11T12:18:44.704Z",
   "122927": "2026-10-11T13:03:35.550Z",
   "122930": "2026-10-11T13:03:35.550Z",
+  "123076": "2026-10-11T13:05:04.668Z",
   "181376": "2026-10-11T12:18:44.704Z",
+  "181449": "2026-10-11T13:05:04.668Z",
+  "181470": "2026-10-11T13:05:04.668Z",
   "181591": "2026-10-11T11:47:51.716Z",
   "266260": "2026-10-10T23:31:46.966Z",
   "279009": "2026-10-09T22:32:10.226Z",
@@ -91,7 +94,10 @@
   "teclado gamer mecanico luces rgb kb903l havit blanco": "2026-10-11T13:03:35.550Z",
   "remington plancha alisador de pelo wet2straight remington": "2026-10-11T13:03:35.550Z",
   "magefesa nova capri cafetera en acero inoxidable 18 10 plateado": "2026-10-11T13:03:35.550Z",
-  "midea freidora de aire 4 litros mf tn40d2": "2026-10-11T13:03:35.550Z"
+  "midea freidora de aire 4 litros mf tn40d2": "2026-10-11T13:03:35.550Z",
+  "parlante portatil emberton iii black and brass": "2026-10-11T13:05:04.668Z",
+  "audifonos jbl tune 530 conector 3 5mm negro": "2026-10-11T13:05:04.668Z",
+  "barra de sonido 2 1 ksb 050 klip xtreme 120 watts bluetooth": "2026-10-11T13:05:04.668Z"
  },
  "items": {
   "2026-10-09-carrusel": {
@@ -1419,6 +1425,57 @@
     "tmp-medios/1791723774462-c3-3.jpg"
    ],
    "texto": "🏆 Top 5 en tecnología\n1. MARSHALL Parlante Bluetooth Acton III Negro Marshall: $199.990 (-41%) en Falabella · 📉 mínimo de 89 días\n2. Teclado Gamer Mecánico Luces Rgb Kb903l Havit Blanco: $18.440 (-47%) en Mercado Libre · 📉 mínimo de 69 días\n3. REMINGTON Plancha alisador de pelo Wet2Straight Remington: $29.990 (-43%) en Falabella · 📉 mínimo de 72 días\n4. Magefesa Nova Capri Cafetera En Acero Inoxidable 18/10 Plateado: $20.990 (-43%) en Mercado Libre · 📉 mínimo de 76 días\n5. MIDEA Freidora de Aire 4 litros MF-TN40D2: $39.990 (-42%) en Falabella Marketplace · 📉 mínimo de 88 días\n\n⏰ Precios vistos hoy (11/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #top5 #descuentoschile #ofertix #ahorrar"
+  },
+  "2026-10-11-r-reel-1791723904669": {
+   "tipo": "reel",
+   "fecha": "2026-10-11",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "hora": "10:05",
+   "id": "17909285745481868",
+   "enlace": "https://www.instagram.com/reel/DeWuUk-Ek58/",
+   "ofertas": [
+    {
+     "id": "181470",
+     "nombre": "Parlante Portátil Emberton Iii Black And Brass",
+     "tienda": "Mercado Libre",
+     "ahora": 129990,
+     "antes": 219990,
+     "pct": 40,
+     "rubro": "tecnologia",
+     "esMinimo": true,
+     "dias": 72,
+     "visto": "08:54"
+    },
+    {
+     "id": "123076",
+     "nombre": "Audífonos Jbl Tune 530 Conector 3,5mm Negro",
+     "tienda": "Mercado Libre",
+     "ahora": 17990,
+     "antes": 34990,
+     "pct": 48,
+     "rubro": "tecnologia",
+     "esMinimo": true,
+     "dias": 74,
+     "visto": "08:54"
+    },
+    {
+     "id": "181449",
+     "nombre": "Barra De Sonido 2.1 Ksb-050 Klip Xtreme 120 Watts Bluetooth",
+     "tienda": "Mercado Libre",
+     "ahora": 47990,
+     "antes": 79990,
+     "pct": 40,
+     "rubro": "tecnologia",
+     "esMinimo": true,
+     "dias": 72,
+     "visto": "08:54"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1791723822701-r4.mp4"
+   ],
+   "texto": "🔥 3 ofertas de tecnología\n1. Parlante Portátil Emberton Iii Black And Brass: $129.990 (-40%, referencia $219.990) en Mercado Libre · 📉 mínimo de 72 días\n2. Audífonos Jbl Tune 530 Conector 3,5mm Negro: $17.990 (-48%, referencia $34.990) en Mercado Libre · 📉 mínimo de 74 días\n3. Barra De Sonido 2.1 Ksb-050 Klip Xtreme 120 Watts Bluetooth: $47.990 (-40%, referencia $79.990) en Mercado Libre · 📉 mínimo de 72 días\n\n⏰ Precios vistos hoy (11/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #tecnologia #descuentoschile #ofertix #ofertasdeldia #ahorrar"
   }
  },
  "config": {
