@@ -378,8 +378,11 @@ async function rafaga() {
   if (process.env.PRUEBA_MIN) c.min = +process.env.PRUEBA_MIN;                // solo para pruebas locales
   if (!cfg?.activo || c.fecha < (cfg.desde ?? '0000')) return console.log(`Ráfaga: no está activa todavía (${cfg ? 'empieza ' + cfg.desde : 'sin configurar'}).`);
   if (estado.config.pausado) return console.log('Ráfaga: sistema en pausa.');
-  const bloq = estado.config.rafagaBloqueo, suave = !!bloq && bloq.desde?.slice(0, 10) === new Date().toISOString().slice(0, 10);   // suave: tras un bloqueo, ritmo reducido el resto del día
+  const bloq = estado.config.rafagaBloqueo, nivel = bloq && bloq.desde?.slice(0, 10) === new Date().toISOString().slice(0, 10) ? bloq.veces : 0, suave = nivel > 0;   // suave: tras un bloqueo, ritmo reducido el resto del día
   if (bloq && new Date(bloq.hasta) > new Date()) return console.log(`Ráfaga en espera: Instagram limitó las publicaciones; se reintenta después de ${new Date(bloq.hasta).toLocaleTimeString('es-CL', { timeZone: 'America/Santiago' })}.`);
+  // Cada bloqueo de Instagram en el día hace el ritmo más suave: nivel 1 = 1 pieza por ejecución; 2 = una cada 30 min; 3 = una por hora; 4 o más = una cada 2 h
+  const brecha = [0, 0, 30, 60, 120][Math.min(nivel, 4)];
+  if (brecha && estado.config.ultimaPub && Date.now() - new Date(estado.config.ultimaPub).getTime() < brecha * 60e3) return console.log(`Ráfaga en ritmo suave (nivel ${nivel}): una pieza cada ${brecha} min.`);
   const blq = bloqueDe(c.min); if (!blq) return console.log('Ráfaga: fuera de la jornada (08:00–23:00).');
   const hechos = publicadosHoy(estado, c.fecha), espec = ESPEC[blq.tema];
   const falta = { carrusel: Math.max(0, debeHaber('carrusel', c.min) - hechos.carrusel), reel: Math.max(0, debeHaber('reel', c.min, 0.5) - hechos.reel), historia: Math.max(0, debeHaber('historia', c.min) - hechos.historia) };
@@ -403,7 +406,7 @@ async function rafaga() {
   const hacia = (n, o = {}) => elegirConImagen(poolFeed(), n, { traerImagen, nombresUsados: nombresRec, ...o, bonus: o.bonus ? BON[o.bonus] : null });
   const hay = (r, n = 3) => !r || poolFeed().filter(o => o.rubro === r).length >= n;
   let errores = 0, bloqueado = false;
-  const guardar = (key, item, msg) => { estado.items[key] = item; guardarEstado(estado); subirCambios(msg); };
+  const guardar = (key, item, msg) => { estado.items[key] = item; estado.config.ultimaPub = new Date().toISOString(); guardarEstado(estado); subirCambios(msg); };
   const parar = () => cuota >= TOPE_API;
   const publicando = async (tipo, fn) => {
     if (parar()) { console.log(`Cuota alta (${cuota}): se detiene ${tipo}.`); return false; }
@@ -501,9 +504,9 @@ async function rafaga() {
     restante[t]--; if (await publicando(t, () => fns[t](contador[t]))) { contador[t]++; hechasRun++; } else restante[t] = 0;
   }
   if (bloqueado) {
-    const veces = (estado.config.rafagaBloqueo?.veces ?? 0) + 1, horas = veces === 1 ? 3 : 6, hasta = new Date(Date.now() + horas * 3600e3);
+    const veces = nivel + 1, horas = [3, 6, 12][Math.min(nivel, 2)], hasta = new Date(Date.now() + horas * 3600e3);
     estado.config.rafagaBloqueo = { desde: new Date().toISOString(), hasta: hasta.toISOString(), veces };
-    await avisar('⛔ Instagram limitó las publicaciones ("demasiadas acciones"). Pauso la ráfaga ' + horas + ' h (hasta las ' + hasta.toLocaleTimeString('es-CL', { timeZone: 'America/Santiago', hour: '2-digit', minute: '2-digit' }) + ') y luego sigo con un ritmo más suave. No hace falta que hagas nada.').catch(() => {});
+    await avisar('⛔ Instagram limitó las publicaciones ("demasiadas acciones"). Pauso la ráfaga ' + horas + ' h (hasta las ' + hasta.toLocaleTimeString('es-CL', { timeZone: 'America/Santiago', hour: '2-digit', minute: '2-digit' }) + ') y luego sigo con un ritmo más suave (bloqueo número ' + veces + ' de hoy). No hace falta que hagas nada.').catch(() => {});
   }
   try { for (const f of readdirSync(carpeta)) if (Date.now() - statSync(join(carpeta, f)).mtimeMs > 20 * 60e3) rmSync(join(carpeta, f), { force: true }); } catch {}   // limpia solo lo viejo (otra ejecución podría estar usando lo reciente)
   if (errores >= 3 && !bloqueado) await avisar('⚠️ La ráfaga tuvo 3 errores en esta ejecución. Revisa los registros de GitHub Actions.');
