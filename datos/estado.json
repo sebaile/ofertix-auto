@@ -736,14 +736,10 @@
   "pausado": false,
   "rafaga": {
    "activo": true,
-   "desde": "2026-10-11",
-   "metas": {
-    "carrusel": 25,
-    "reel": 25,
-    "historia": 50
-   }
+   "desde": "2026-10-11"
   }
  },
  "seguidores": 48,
- "informeFecha": "2026-10-10"
+ "informeFecha": "2026-10-10",
+ "usadasH": {}
 }

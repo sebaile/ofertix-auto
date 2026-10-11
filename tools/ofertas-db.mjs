@@ -29,7 +29,7 @@ export async function candidatas({ excluirIds = [], edadMin = 120, minDesc = 40,
     const { rows } = await c.query(`
       WITH base AS (
         SELECT o.id, o.name, o.brand, o.category, o.url, o.image_url, o.original_price AS antes, o.current_price AS ahora, o.discount_pct AS pct,
-               o.last_seen_at, o.updated_at, s.name AS tienda, ${RUBRO_SQL} AS rubro
+               o.last_seen_at, o.updated_at, o.first_seen_at, EXISTS(SELECT 1 FROM telegram_posts tp WHERE tp.offer_id = o.id AND tp.posted_at > now() - interval '7 days') AS en_canal, s.name AS tienda, ${RUBRO_SQL} AS rubro
         FROM offers o JOIN stores s ON s.id = o.store_id
         WHERE o.is_active AND NOT o.price_inflated AND s.enabled
           AND o.discount_pct >= $1 AND o.discount_pct <= 75 AND o.original_price - o.current_price >= $2
@@ -87,9 +87,9 @@ export function parecido(a, b) {                                   // mismo prod
   const A = tokens(a), B = tokens(b); if (A.size < 3 || B.size < 3) return false;
   let i = 0; A.forEach(w => B.has(w) && i++); return i / Math.min(A.size, B.size) >= 0.8;
 }
-export async function elegirConImagen(cands, n, { traerImagen, nombresUsados = [], maxPorRubro = 1, permitirLibros = true, maxIntentos = 60, rubro = null, soloMinimos = false, maxPorTienda = 99 } = {}) {
+export async function elegirConImagen(cands, n, { traerImagen, nombresUsados = [], maxPorRubro = 1, permitirLibros = true, maxIntentos = 60, rubro = null, soloMinimos = false, maxPorTienda = 99, bonus = null } = {}) {
   if (rubro) maxPorRubro = n;                                       // si se pide un rubro, todas las ofertas son de ese rubro
-  const puntaje = o => Math.min(o.pct, 60) + (o.esMinimo ? 30 : 0) + (o.antes - o.ahora >= 50000 ? 10 : 0);
+  const puntaje = o => Math.min(o.pct, 60) + (o.esMinimo ? 30 : 0) + (o.antes - o.ahora >= 50000 ? 10 : 0) + (bonus ? bonus(o) : 0);
   const orden = cands.filter(o => o.image_url && o.nombre.length <= 70 && o.pct <= 75 && !PROHIBIDAS.test(`${o.name} ${o.category ?? ''}`)
       && !/open ?box|reacondicionad|usado|outlet|�/i.test(o.name) && !/[a-záéíóúñ]\.[a-záéíóúñ]/i.test(o.name)
       && !nombresUsados.some(u => parecido(u, o.name)) && (permitirLibros || o.rubro !== 'libros') && (!rubro || o.rubro === rubro) && (!soloMinimos || o.esMinimo)).sort((a, b) => puntaje(b) - puntaje(a));

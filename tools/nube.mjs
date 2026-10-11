@@ -31,8 +31,8 @@ const resumenOferta = o => ({ id: o.id, nombre: o.nombre, tienda: o.tienda, ahor
 const quitarBotones = item => item.mensajeId ? tg('editMessageReplyMarkup', { chat_id: env.TG_CHAT_ID, message_id: item.mensajeId, reply_markup: { inline_keyboard: [] } }).catch(() => {}) : Promise.resolve();
 const abiertos = estado => Object.values(estado.items).filter(i => ['pendiente', 'aprobado'].includes(i.estado));
 
-function textoCarrusel(o) {
-  return `🔥 OFERTA DEL DÍA
+function textoCarrusel(o, etiqueta = 'OFERTA DEL DÍA') {
+  return `🔥 ${etiqueta}
 ${o.nombre}
 Ahora: ${fmt(o.ahora)} (-${o.pct}%)
 Referencia: ${fmt(o.antes)}
@@ -54,9 +54,9 @@ ${os.map((o, i) => `${i + 1}. ${o.nombre}: ${fmt(o.ahora)} (-${o.pct}%) en ${o.t
 
 #ofertaschile ${rubro ? HASHTAG[rubro] : ''} #top5 #descuentoschile #ofertix #ahorrar`.replace(/ {2,}/g, ' ');
 }
-function textoReel(os, rubro, minimos) {
+function textoReel(os, rubro, minimos, etiqueta = null) {
   const c = chile();
-  return `🔥 3 ofertas ${minimos ? 'en su precio más bajo de los últimos días' : rubro ? 'de ' + TEMA[rubro] : 'de hoy'}
+  return `🔥 3 ofertas ${etiqueta ?? (minimos ? 'en su precio más bajo de los últimos días' : rubro ? 'de ' + TEMA[rubro] : 'de hoy')}
 ${os.map((o, i) => `${i + 1}. ${o.nombre}: ${fmt(o.ahora)} (-${o.pct}%, referencia ${fmt(o.antes)}) en ${o.tienda}${o.esMinimo ? ' · 📉 mínimo de ' + o.dias + ' días' : ''}`).join('\n')}
 
 ⏰ Precios vistos hoy (${+c.fecha.slice(8)}/${+c.fecha.slice(5, 7)}) en nuestro sistema. Pueden cambiar o agotarse sin aviso.
@@ -317,14 +317,49 @@ function eventosReel(S, d) {
 }
 
 // ====================================================================== RÁFAGA (alto volumen: se genera y se publica directo, sin borradores en Telegram)
-// Metas por día (config.rafaga.metas) repartidas de 08:00 a 23:00. Cada ejecución (cada 15 min) publica lo que va atrasado respecto a la curva del día.
+// El día se divide en 4 bloques con su propia meta y su propio tema. Cada ejecución (cada 15 min) publica lo que va atrasado respecto al ritmo del bloque.
 // Variedad: rota rubros y formatos, cada oferta sale una sola vez al día en carruseles/Reels (y una vez cada 12 h en historias), y se revalida el precio justo antes.
-const METAS = { carrusel: 25, reel: 25, historia: 50 };
-const JORNADA_INI = 8 * 60, JORNADA_MIN = 15 * 60, TOPE_API = 96;               // el límite de Instagram es 100 publicaciones por 24 h
-const POR_EJECUCION = { carrusel: 2, reel: 2, historia: 4 };
-const ROT = ['perfumes', 'tecnologia', 'gamer', 'hogar', 'belleza', 'moda', 'libros', null];
-const TIPOS_CARRUSEL = ['oferta', 'oferta', 'top5', 'oferta', 'minimos', 'oferta', 'educativo', 'oferta', 'oferta', 'top5', 'oferta', 'oferta', 'minimos', 'oferta', 'oferta', 'top5', 'oferta', 'oferta', 'educativo', 'oferta', 'oferta', 'minimos', 'oferta', 'top5', 'oferta'];
-const ETIQ_HIST = ['OFERTA DEL MOMENTO', 'OFERTA RELÁMPAGO', 'PRECIO BAJO', 'OFERTA DE HOY', 'NO TE LA PIERDAS', 'OFERTA DESTACADA'];
+const BLOQUES = [
+  { ini: 8, fin: 11, reel: 7, carrusel: 5, historia: 12, tema: 'nuevas' },
+  { ini: 11, fin: 15, reel: 8, carrusel: 5, historia: 13, tema: 'comparativas' },
+  { ini: 15, fin: 19, reel: 8, carrusel: 5, historia: 13, tema: 'populares' },
+  { ini: 19, fin: 23, reel: 7, carrusel: 5, historia: 12, tema: 'recopilaciones' },
+];
+const TOPE_API = 96, POR_EJECUCION = { carrusel: 2, reel: 2, historia: 4 };       // el límite de Instagram es 100 publicaciones por 24 h
+const bloqueDe = min => BLOQUES.find(b => min >= b.ini * 60 && min < b.fin * 60) ?? (min >= 23 * 60 ? BLOQUES[3] : null);
+const previos = (b, clave) => BLOQUES.slice(0, BLOQUES.indexOf(b)).reduce((t, x) => t + x[clave], 0);
+const debeHaber = (clave, min, desfase = 0) => BLOQUES.reduce((t, b) => {          // cuántas debería haber publicadas a esta hora (acumulado de los bloques)
+  if (min >= b.fin * 60) return t + b[clave]; if (min < b.ini * 60) return t;
+  const paso = (b.fin - b.ini) * 60 / b[clave]; return t + Math.min(b[clave], Math.floor((min - b.ini * 60 - desfase * paso) / paso) + 1);
+}, 0);
+// «Nuevas» = vistas por primera vez hace poco. «Populares» = ofertas que el canal principal de Telegram publicó esta semana (no hay datos de clics); no es una medida de viralidad.
+const BON = {
+  nuevo: o => (Date.now() - new Date(o.first_seen_at).getTime() < 48 * 3600e3 ? 40 : 0),
+  pct: o => (o.pct >= 55 ? 25 : o.pct >= 48 ? 12 : 0),
+  popular: o => (o.en_canal ? 35 : 0) + (o.brand ? 8 : 0),
+};
+const ESPEC = {
+  nuevas: {
+    carrusel: [{ m: 'oferta', rubro: 'tecnologia', bonus: 'nuevo', etq: 'OFERTA NUEVA' }, { m: 'top5', titulo: 'Ofertas nuevas de hoy', bonus: 'nuevo' }, { m: 'oferta', bonus: 'nuevo', etq: 'OFERTA NUEVA' }, { m: 'top5', rubro: 'tecnologia', titulo: 'Top 5 en tecnología', bonus: 'nuevo' }, { m: 'oferta', rubro: 'hogar', bonus: 'nuevo', etq: 'NOVEDAD' }],
+    reel: [{ rubro: 'tecnologia', bonus: 'nuevo', sufijo: 'DE TECNOLOGÍA', etq: 'de tecnología' }, { bonus: 'nuevo', sufijo: 'NUEVAS', etq: 'nuevas de hoy' }, { rubro: 'hogar', bonus: 'nuevo', sufijo: 'DE HOGAR', etq: 'de hogar' }, { bonus: 'nuevo', sufijo: 'RECIÉN LLEGADAS', etq: 'recién llegadas' }],
+    historia: { etq: ['OFERTA NUEVA', 'NOVEDAD', 'OFERTA DE INTERÉS'], bonus: 'nuevo', rubros: ['tecnologia', null, 'tecnologia', 'hogar'], resumen: 'OFERTAS NUEVAS' },
+  },
+  comparativas: {
+    carrusel: [{ m: 'comp', rubro: 'tecnologia' }, { m: 'top5', titulo: 'Descuentos destacados', bonus: 'pct' }, { m: 'minimos', titulo: 'Recomendados: en su precio más bajo' }, { m: 'comp', rubro: 'hogar' }, { m: 'oferta', bonus: 'pct', etq: 'DESCUENTO DESTACADO' }],
+    reel: [{ rubro: 'tecnologia', bonus: 'pct', sufijo: 'EN COMPARATIVA', etq: 'en comparativa: mismo tipo de producto' }, { bonus: 'pct', sufijo: 'CON MÁS DESCUENTO', etq: 'con los descuentos más altos' }, { minimos: true }, { rubro: 'perfumes', bonus: 'pct', sufijo: 'EN COMPARATIVA', etq: 'de perfumes en comparativa' }],
+    historia: { etq: ['DESCUENTO DESTACADO', 'RECOMENDADO', 'COMPARA PRECIOS'], bonus: 'pct', rubros: ['tecnologia', 'perfumes', 'hogar', 'gamer'], resumen: 'COMPARATIVA RÁPIDA' },
+  },
+  populares: {
+    carrusel: [{ m: 'top5', titulo: 'Los más populares', bonus: 'popular' }, { m: 'oferta', bonus: 'popular', etq: 'PRODUCTO POPULAR' }, { m: 'top5', titulo: 'Lista de ofertas del momento', bonus: 'pct' }, { m: 'oferta', bonus: 'nuevo', etq: 'NOVEDAD' }, { m: 'top5', titulo: 'Novedades en ofertas', bonus: 'nuevo' }],
+    reel: [{ bonus: 'popular', sufijo: 'MÁS POPULARES', etq: 'de las más populares' }, { rubro: 'gamer', bonus: 'popular', sufijo: 'GAMER POPULARES', etq: 'gamer populares' }, { bonus: 'nuevo', sufijo: 'NOVEDADES', etq: 'novedades' }, { rubro: 'perfumes', bonus: 'popular', sufijo: 'DE PERFUMES', etq: 'de perfumes' }],
+    historia: { etq: ['LO MÁS POPULAR', 'NOVEDAD', 'OFERTA DEL MOMENTO'], bonus: 'popular', rubros: [null, 'gamer', 'perfumes', 'tecnologia'], resumen: 'LISTA DE OFERTAS' },
+  },
+  recopilaciones: {
+    carrusel: [{ m: 'top5', titulo: 'Recopilación del día', bonus: 'pct' }, { m: 'top5', titulo: 'Mejores ofertas del día', bonus: 'pct' }, { m: 'oferta', bonus: 'popular', etq: 'PRODUCTO POPULAR' }, { m: 'minimos', titulo: 'Mejores precios del día' }, { m: 'top5', titulo: 'Los productos más populares', bonus: 'popular' }],
+    reel: [{ bonus: 'pct', sufijo: 'LAS MEJORES DEL DÍA', etq: 'las mejores del día' }, { bonus: 'popular', sufijo: 'POPULARES', etq: 'populares' }, { minimos: true }, { rubro: 'tecnologia', bonus: 'pct', sufijo: 'DE TECNOLOGÍA', etq: 'de tecnología' }],
+    historia: { etq: ['MEJOR OFERTA DEL DÍA', 'PRODUCTO POPULAR', 'RECOPILACIÓN'], bonus: 'pct', rubros: [null, 'hogar', 'belleza', 'perfumes'], resumen: 'RECOPILACIÓN DEL DÍA' },
+  },
+};
 const publicadosHoy = (estado, fecha) => {
   const n = { carrusel: 0, reel: 0, historia: 0 };
   for (const i of Object.values(estado.items)) {
@@ -334,10 +369,6 @@ const publicadosHoy = (estado, fecha) => {
   }
   return n;
 };
-const debeHaber = (total, min, desfase = 0) => {                                // cuántas debería haber publicadas a esta hora
-  const paso = JORNADA_MIN / total; if (min < JORNADA_INI) return 0;
-  return Math.min(total, Math.floor((min - JORNADA_INI - desfase * paso) / paso) + 1);
-};
 async function cuotaApi() { try { return (await ig(`${env.IG_USER_ID}/content_publishing_limit`, { fields: 'quota_usage' }, 'GET')).data?.[0]?.quota_usage ?? 0; } catch { return 0; } }
 
 async function rafaga() {
@@ -346,9 +377,10 @@ async function rafaga() {
   if (process.env.PRUEBA_MIN) c.min = +process.env.PRUEBA_MIN;                // solo para pruebas locales
   if (!cfg?.activo || c.fecha < (cfg.desde ?? '0000')) return console.log(`Ráfaga: no está activa todavía (${cfg ? 'empieza ' + cfg.desde : 'sin configurar'}).`);
   if (estado.config.pausado) return console.log('Ráfaga: sistema en pausa.');
-  const metas = { ...METAS, ...(cfg.metas ?? {}) }, hechos = publicadosHoy(estado, c.fecha);
-  const falta = { carrusel: Math.max(0, debeHaber(metas.carrusel, c.min) - hechos.carrusel), reel: Math.max(0, debeHaber(metas.reel, c.min, 0.5) - hechos.reel), historia: Math.max(0, debeHaber(metas.historia, c.min) - hechos.historia) };
-  console.log(`Ráfaga ${c.fecha} ${c.hhmm}: publicado ${JSON.stringify(hechos)} · atrasado ${JSON.stringify(falta)}`);
+  const blq = bloqueDe(c.min); if (!blq) return console.log('Ráfaga: fuera de la jornada (08:00–23:00).');
+  const hechos = publicadosHoy(estado, c.fecha), espec = ESPEC[blq.tema];
+  const falta = { carrusel: Math.max(0, debeHaber('carrusel', c.min) - hechos.carrusel), reel: Math.max(0, debeHaber('reel', c.min, 0.5) - hechos.reel), historia: Math.max(0, debeHaber('historia', c.min) - hechos.historia) };
+  console.log(`Ráfaga ${c.fecha} ${c.hhmm} (bloque ${blq.tema}): publicado ${JSON.stringify(hechos)} · atrasado ${JSON.stringify(falta)}`);
   if (!falta.carrusel && !falta.reel && !falta.historia) return;
   let cuota = await cuotaApi(); console.log(`Cuota de Instagram usada (24 h): ${cuota}/100`);
   const cands = await candidatas({ edadMin: 180, porRubro: 80 });
@@ -361,8 +393,8 @@ async function rafaga() {
   const rel = f => 'tmp-medios/' + f, abs = f => join(carpeta, f), stamp = () => `${Date.now()}`;
   const marcarFeed = o => { estado.usadas[o.id] = new Date().toISOString(); estado.nombres[nombreNorm(o.nombre)] = new Date().toISOString(); };
   const marcarHist = o => { estado.usadasH[o.id] = new Date().toISOString(); };
-  const hacia = (n, o = {}) => elegirConImagen(poolFeed(), n, { traerImagen, nombresUsados: nombresRec, ...o });
-  const rubroTurno = (k, extra = 0) => { for (let j = 0; j < ROT.length; j++) { const r = ROT[(k + extra + j) % ROT.length]; if (r === null || poolFeed().filter(o => o.rubro === r).length >= 3) return r; } return null; };
+  const hacia = (n, o = {}) => elegirConImagen(poolFeed(), n, { traerImagen, nombresUsados: nombresRec, ...o, bonus: o.bonus ? BON[o.bonus] : null });
+  const hay = (r, n = 3) => !r || poolFeed().filter(o => o.rubro === r).length >= n;
   let errores = 0;
   const guardar = (key, item, msg) => { estado.items[key] = item; guardarEstado(estado); subirCambios(msg); };
   const parar = () => cuota >= TOPE_API;
@@ -371,74 +403,85 @@ async function rafaga() {
     try { const ok = await fn(); if (ok) cuota++; return ok; }
     catch (e) { errores++; console.error(`Ráfaga ${tipo}:`, String(e.message).slice(0, 200)); return false; }
   };
+  const vigentes = async os => { for (const o of os) { const v = await vigente(o); if (!v.ok) return `${o.nombre.slice(0, 30)}: ${v.motivo}`; } return null; };
 
   // ---- Carrusel
-  const carrusel = async k => {                                                 // k = número de carrusel del día (0, 1, 2…)
-    const tipo = TIPOS_CARRUSEL[k % TIPOS_CARRUSEL.length], rubro = rubroTurno(k);
-    let jpgs, texto, elegidas = [];
-    if (tipo === 'educativo') { const set = EDUCATIVOS[(numeroSemana(c.fecha) + k) % EDUCATIVOS.length]; jpgs = await renderizar(htmlEducativo(set), 1080, 1350); texto = set.texto; }
-    else if (tipo === 'top5' || tipo === 'minimos') {
-      const r = tipo === 'top5' ? rubro : null;
-      let os = await hacia(5, { permitirLibros: false, maxPorRubro: r || tipo === 'minimos' ? 5 : 1, maxPorTienda: 2, soloMinimos: tipo === 'minimos', ...(r ? { rubro: r } : {}) });
-      let titulo = tipo === 'minimos' ? 'Mínimos de los últimos días' : r ? `Top 5 en ${TEMA[r]}` : 'Top 5 ofertas de hoy', rr = r;
-      if (os.length < 4 && r) { os = await hacia(5, { permitirLibros: false, maxPorRubro: 1, maxPorTienda: 2 }); titulo = 'Top 5 ofertas de hoy'; rr = null; }
-      if (os.length >= (tipo === 'minimos' ? 3 : 4)) {
-        const sub = tipo === 'minimos' ? 'Precios en su punto más bajo registrado' : 'Las mejores ofertas, con precio visto hoy';
+  const carrusel = async k => {
+    const j = Math.max(0, k - previos(blq, 'carrusel')), sp = espec.carrusel[j % espec.carrusel.length];
+    let jpgs, texto, elegidas = [], formato = sp.m;
+    const rubro = hay(sp.rubro, sp.m === 'comp' ? 3 : 1) ? sp.rubro : null;
+    if (sp.m === 'top5' || sp.m === 'minimos') {
+      let os = await hacia(5, { permitirLibros: false, maxPorRubro: rubro || sp.m === 'minimos' ? 5 : 1, maxPorTienda: 2, soloMinimos: sp.m === 'minimos', bonus: sp.bonus, ...(rubro ? { rubro } : {}) });
+      let titulo = sp.titulo ?? (rubro ? `Top 5 en ${TEMA[rubro]}` : 'Top 5 ofertas de hoy'), rr = rubro;
+      if (os.length < 4 && rubro) { os = await hacia(5, { permitirLibros: false, maxPorRubro: 1, maxPorTienda: 2, bonus: sp.bonus }); rr = null; }
+      if (os.length >= (sp.m === 'minimos' ? 3 : 4)) {
+        const sub = sp.m === 'minimos' ? 'Precios en su punto más bajo registrado' : 'Con precio visto hoy';
         jpgs = await renderizar([htmlTopPortada(titulo, sub, 1, 3), htmlTopLista(titulo, os, 2, 3), htmlTopCierre(3, 3)], 1080, 1350); texto = textoTop(titulo, os, rr); elegidas = os;
       }
+    } else if (sp.m === 'comp') {
+      const r = rubro ?? 'tecnologia'; const os = await hacia(3, { permitirLibros: false, maxPorRubro: 3, maxPorTienda: 2, rubro: r, bonus: 'pct' });
+      if (os.length === 3) { const titulo = `Comparativa: 3 opciones en ${TEMA[r]}`; jpgs = await renderizar([htmlTopPortada(titulo, 'Mismo tipo de producto, precios lado a lado', 1, 3), htmlTopLista(titulo, os, 2, 3), htmlTopCierre(3, 3)], 1080, 1350); texto = textoTop(titulo, os, r); elegidas = os; }
     }
-    if (!jpgs) {
-      let [o] = await hacia(1, { permitirLibros: false, ...(rubro ? { rubro } : {}) }); if (!o) [o] = await hacia(1, { permitirLibros: false }); if (!o) [o] = await hacia(1);
+    if (!jpgs) {                                                                    // oferta suelta (o recurso si el formato pedido no alcanza)
+      formato = 'oferta';
+      let [o] = await hacia(1, { permitirLibros: false, bonus: sp.bonus, ...(rubro ? { rubro } : {}) }); if (!o) [o] = await hacia(1, { permitirLibros: false, bonus: sp.bonus }); if (!o) [o] = await hacia(1);
       if (!o) { console.log('Carrusel: no queda una oferta fresca y distinta.'); return false; }
-      jpgs = await renderizar([htmlCarrusel1(o), htmlCarrusel2(o)], 1080, 1350); texto = textoCarrusel(o); elegidas = [o];
+      jpgs = await renderizar([htmlCarrusel1(o), htmlCarrusel2(o)], 1080, 1350); texto = textoCarrusel(o, sp.etq ?? 'OFERTA DEL DÍA'); elegidas = [o];
     }
-    for (const o of elegidas) { const v = await vigente(o); if (!v.ok) { console.log(`Carrusel omitido: ${o.nombre.slice(0, 30)} ${v.motivo}`); elegidas.forEach(marcarFeed); guardarEstado(estado); return false; } }
+    const mal = await vigentes(elegidas); if (mal) { console.log(`Carrusel omitido: ${mal}`); elegidas.forEach(marcarFeed); guardarEstado(estado); return false; }
+    if (process.env.SECO) { console.log(`SECO carrusel [${blq.tema}/${formato}] ${jpgs.length} láminas:`, elegidas.map(o => o.rubro + ':' + o.nombre.slice(0, 22)).join(' | '), '→', texto.slice(0, 40)); return false; }
     const base = `${stamp()}-c${k}`, nombres = jpgs.map((b, i) => { const f = `${base}-${i + 1}.jpg`; writeFileSync(abs(f), b); return f; });
     const urls = subirMedios(nombres.map(abs)); for (const u of urls) await esperarPublica(u);
     const hijos = []; for (const u of urls) hijos.push(await contenedor({ image_url: u, is_carousel_item: 'true' }));
     const id = await publicarContenedor(await contenedor({ media_type: 'CAROUSEL', children: hijos.join(','), caption: texto })), enlace = await enlacePublicacion(id);
     elegidas.forEach(marcarFeed);
-    const item = { tipo: 'carrusel', fecha: c.fecha, estado: 'publicado', formato: tipo, hora: chile().hhmm, id, enlace, ofertas: elegidas.map(resumenOferta), archivos: nombres.map(rel), texto };
-    guardar(`${c.fecha}-r-carrusel-${stamp()}`, item, 'Carrusel publicado'); console.log('Carrusel publicado:', tipo, enlace);
+    const item = { tipo: 'carrusel', fecha: c.fecha, estado: 'publicado', bloque: blq.tema, formato, hora: chile().hhmm, id, enlace, ofertas: elegidas.map(resumenOferta), archivos: nombres.map(rel), texto };
+    guardar(`${c.fecha}-r-carrusel-${stamp()}`, item, 'Carrusel publicado'); console.log('Carrusel publicado:', blq.tema, formato, enlace);
     await espejarCarrusel(item); return true;
   };
 
   // ---- Reel
   const reel = async k => {
-    const rubro = rubroTurno(k, 3); let os = [], tema = null, minimos = k % 6 === 5;
+    const j = Math.max(0, k - previos(blq, 'reel')), sp = espec.reel[j % espec.reel.length];
+    let os = [], minimos = !!sp.minimos, tema = null;
     if (minimos) { os = await hacia(3, { permitirLibros: false, soloMinimos: true }); minimos = os.length === 3; }
-    if (!minimos && rubro) { os = await hacia(3, { permitirLibros: false, rubro }); tema = os.length === 3 ? rubro : null; }
-    if (!minimos && !tema) os = await hacia(3, { permitirLibros: false });
+    if (!minimos && sp.rubro && hay(sp.rubro)) { os = await hacia(3, { permitirLibros: false, rubro: sp.rubro, bonus: sp.bonus }); tema = os.length === 3 ? sp.rubro : null; }
+    if (!minimos && !tema) os = await hacia(3, { permitirLibros: false, bonus: sp.bonus });
     if (os.length < 3) { console.log(`Reel: solo hay ${os.length} ofertas frescas y distintas.`); return false; }
-    for (const o of os) { const v = await vigente(o); if (!v.ok) { console.log(`Reel omitido: ${o.nombre.slice(0, 30)} ${v.motivo}`); os.forEach(marcarFeed); guardarEstado(estado); return false; } }
+    const mal = await vigentes(os); if (mal) { console.log(`Reel omitido: ${mal}`); os.forEach(marcarFeed); guardarEstado(estado); return false; }
+    const sufijo = minimos ? 'EN SU MÍNIMO' : tema && !sp.sufijo ? 'DE ' + TEMA[tema].toUpperCase() : sp.sufijo ?? 'DE HOY';
     const corto = (s, n = 50) => (s.length <= n ? s : s.slice(0, s.lastIndexOf(' ', n)) + '…');
-    const data = { hoy: c.fecha, sufijo: minimos ? 'EN SU MÍNIMO' : tema ? 'DE ' + TEMA[tema].toUpperCase() : 'DE HOY', ofertas: os.map(o => ({ nombre: corto(o.nombre), tienda: o.tienda, ahora: o.ahora, antes: o.antes, pct: o.pct, antesOk: true, img: o.img })) };
+    const data = { hoy: c.fecha, sufijo, ofertas: os.map(o => ({ nombre: corto(o.nombre), tienda: o.tienda, ahora: o.ahora, antes: o.antes, pct: o.pct, antesOk: true, img: o.img })) };
+    if (process.env.SECO) { console.log(`SECO reel [${blq.tema}] sufijo=${sufijo}:`, os.map(o => o.rubro + ':' + o.nombre.slice(0, 22)).join(' | ')); return false; }
     const f = `${stamp()}-r${k}.mp4`;
     await renderizarReel({ css: REEL_CSS, pagina: readFileSync(join(raiz, 'tools', 'reel-pagina.js'), 'utf8'), data, eventos: eventosReel, salida: abs(f) });
     const [url] = subirMedios([abs(f)]); await esperarPublica(url);
-    const texto = textoReel(os, tema, minimos);
+    const texto = textoReel(os, tema, minimos, minimos ? null : sp.etq ?? null);
     const id = await publicarContenedor(await contenedor({ media_type: 'REELS', video_url: url, caption: texto, share_to_feed: 'true' }, 90, 5000)), enlace = await enlacePublicacion(id);
     os.forEach(marcarFeed);
-    const item = { tipo: 'reel', fecha: c.fecha, estado: 'publicado', hora: chile().hhmm, id, enlace, ofertas: os.map(resumenOferta), archivos: [rel(f)], texto };
-    guardar(`${c.fecha}-r-reel-${stamp()}`, item, 'Reel publicado'); console.log('Reel publicado:', enlace);
+    const item = { tipo: 'reel', fecha: c.fecha, estado: 'publicado', bloque: blq.tema, hora: chile().hhmm, id, enlace, ofertas: os.map(resumenOferta), archivos: [rel(f)], texto };
+    guardar(`${c.fecha}-r-reel-${stamp()}`, item, 'Reel publicado'); console.log('Reel publicado:', blq.tema, enlace);
     await espejarReel(item); return true;
   };
 
   // ---- Historia
   const historia = async k => {
-    const rubro = (() => { for (let j = 0; j < ROT.length; j++) { const r = ROT[(k + j) % ROT.length]; if (r === null || poolHist().some(o => o.rubro === r)) return r; } return null; })();
-    const resumen = k % 10 === 9;
-    const elegirH = (n, o = {}) => elegirConImagen(poolHist(), n, { traerImagen, permitirLibros: false, maxPorRubro: n === 1 ? 1 : 2, ...o });
-    let os = resumen ? await elegirH(4) : await elegirH(1, rubro ? { rubro } : {}); if (!os.length && !resumen) os = await elegirH(1);
+    const j = Math.max(0, k - previos(blq, 'historia')), sp = espec.historia, resumen = j % 6 === 5, bonus = BON[sp.bonus];
+    const rubro = sp.rubros[j % sp.rubros.length];
+    const elegirH = (n, o = {}) => elegirConImagen(poolHist(), n, { traerImagen, permitirLibros: false, maxPorRubro: n === 1 ? 1 : 2, bonus, ...o });
+    let os = resumen ? await elegirH(4, rubro ? { rubro, maxPorRubro: 4 } : {}) : await elegirH(1, rubro ? { rubro } : {});
+    if (resumen && os.length < 3) os = await elegirH(4); if (!resumen && !os.length) os = await elegirH(1);
     if (!os.length || (resumen && os.length < 3)) { console.log('Historia: no queda una oferta fresca.'); return false; }
-    for (const o of os) { const v = await vigente(o); if (!v.ok) { os.forEach(marcarHist); guardarEstado(estado); console.log(`Historia omitida: ${v.motivo}`); return false; } }
-    const [jpg] = await renderizar([resumen ? htmlHistoriaResumen(os) : htmlHistoria(ETIQ_HIST[k % ETIQ_HIST.length], os[0])], 1080, 1920);
+    const mal = await vigentes(os); if (mal) { os.forEach(marcarHist); guardarEstado(estado); console.log(`Historia omitida: ${mal}`); return false; }
+    const etiqueta = sp.etq[j % sp.etq.length];
+    const [jpg] = await renderizar([resumen ? htmlHistoriaResumen(os, sp.resumen) : htmlHistoria(etiqueta, os[0])], 1080, 1920);
+    if (process.env.SECO) { console.log(`SECO historia [${blq.tema}] ${resumen ? 'RESUMEN ' + sp.resumen : etiqueta}:`, os.map(o => o.rubro + ':' + o.nombre.slice(0, 22) + (o.en_canal ? '*' : '')).join(' | ')); return false; }
     const f = `${stamp()}-h${k}.jpg`; writeFileSync(abs(f), jpg);
     const [url] = subirMedios([abs(f)]); await esperarPublica(url);
     const id = await publicarContenedor(await contenedor({ media_type: 'STORIES', image_url: url }, 40, 4000));
     os.forEach(marcarHist);
-    guardar(`${c.fecha}-r-historia-${stamp()}`, { tipo: 'historia', fecha: c.fecha, estado: 'publicado', hora: chile().hhmm, id, ofertas: os.map(resumenOferta) }, 'Historia publicada'); console.log('Historia publicada:', os.map(o => o.nombre.slice(0, 30)).join(' | '));
-    await espejarHistoria({ archivo: rel(f), oferta: resumen ? null : resumenOferta(os[0]), etiqueta: resumen ? 'RESUMEN' : ETIQ_HIST[k % ETIQ_HIST.length] }); return true;
+    guardar(`${c.fecha}-r-historia-${stamp()}`, { tipo: 'historia', fecha: c.fecha, estado: 'publicado', bloque: blq.tema, hora: chile().hhmm, id, ofertas: os.map(resumenOferta) }, 'Historia publicada'); console.log('Historia publicada:', blq.tema, os.map(o => o.nombre.slice(0, 30)).join(' | '));
+    await espejarHistoria({ archivo: rel(f), oferta: resumen ? null : resumenOferta(os[0]), etiqueta: resumen ? sp.resumen : etiqueta }); return true;
   };
 
   // Se intercalan los formatos para que ninguno espere detrás de otro

@@ -42,7 +42,7 @@ export const htmlHistoria = (etiqueta, o) => `${FUENTE}<style>${CSS_H}${FOTO}</s
   <div style="display:inline-block;background:#fff;color:#FF2E63;font-size:58px;font-weight:800;border-radius:24px;padding:2px 32px;margin-top:8px">-${o.pct}%</div></div>
   <div style="margin-top:20px;line-height:2">${chips(o)}</div>
   <div class="pie" style="margin-top:22px;font-size:36px">Enlace directo en Telegram: t.me/ofertixcl</div></body>`;
-export const htmlHistoriaResumen = ofertas => `${FUENTE}<style>${CSS_H}</style><body class="grad"><div class="tag">RESUMEN DEL DÍA</div>
+export const htmlHistoriaResumen = (ofertas, titulo = 'RESUMEN DEL DÍA') => `${FUENTE}<style>${CSS_H}</style><body class="grad"><div class="tag">${titulo}</div>
   <div style="font-size:100px;font-weight:800;line-height:1.05;letter-spacing:-3px;margin-top:30px">Las ofertas de hoy</div>
   <div style="margin-top:44px;font-size:42px;font-weight:600;line-height:1.35">${ofertas.map(o => `• ${esc(o.nombre.length > 44 ? o.nombre.slice(0, 42) + '…' : o.nombre)}`).join('<br>')}</div>
   <div style="margin-top:44px;font-size:42px;font-weight:500;opacity:.95">Precios actualizados y enlaces directos en Telegram.</div>
