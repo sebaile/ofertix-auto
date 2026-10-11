@@ -9,7 +9,9 @@
   "181376": "2026-10-11T12:18:44.704Z",
   "181449": "2026-10-11T13:05:04.668Z",
   "181470": "2026-10-11T13:05:04.668Z",
+  "181478": "2026-10-11T14:05:03.736Z",
   "181591": "2026-10-11T11:47:51.716Z",
+  "208823": "2026-10-11T14:05:03.736Z",
   "266260": "2026-10-10T23:31:46.966Z",
   "279009": "2026-10-09T22:32:10.226Z",
   "279052": "2026-10-10T23:31:46.966Z",
@@ -34,6 +36,7 @@
   "912408": "2026-10-09T22:32:10.226Z",
   "955741": "2026-10-09T22:32:10.226Z",
   "955874": "2026-10-10T19:12:16.865Z",
+  "979599": "2026-10-11T14:05:03.736Z",
   "1000952": "2026-10-11T11:17:41.617Z",
   "1039102": "2026-10-11T13:35:20.093Z",
   "1063781": "2026-10-10T21:31:20.651Z",
@@ -107,7 +110,10 @@
   "sony juego saros ps5 sony": "2026-10-11T13:35:20.093Z",
   "gucci gucci flora gorgeous jasmine eau de parfum para mujer 100 ml": "2026-10-11T13:35:20.093Z",
   "siegen ondulador waver sg b2601 siegen generador de iones 230 c": "2026-10-11T13:35:20.093Z",
-  "playstation the last of us part 1 ps5 playstation": "2026-10-11T14:02:50.385Z"
+  "playstation the last of us part 1 ps5 playstation": "2026-10-11T14:02:50.385Z",
+  "playstation spider man miles morales ps5": "2026-10-11T14:05:03.736Z",
+  "calefactor quarzo magefesa fenix mgf1740": "2026-10-11T14:05:03.736Z",
+  "sony juego marvels spiderman 2 ps5 std sony": "2026-10-11T14:05:03.736Z"
  },
  "items": {
   "2026-10-09-carrusel": {
@@ -1719,6 +1725,57 @@
     "tmp-medios/1791727340924-c5-2.jpg"
    ],
    "texto": "🔥 OFERTA DEL DÍA\nPLAYSTATION The Last Of Us Part 1 Ps5 Playstation\nAhora: $39.990 (-55%)\nReferencia: $89.990\n🏪 Falabella\n\n✅ Precio visto hoy a las 10:00 en nuestro sistema.\n⏰ Puede cambiar o agotarse sin aviso.\n📲 Enlace directo en Telegram: t.me/ofertixcl\n\n#ofertaschile #gamer #descuentoschile #ofertix #ofertasdeldia"
+  },
+  "2026-10-11-r-reel-1791727503737": {
+   "tipo": "reel",
+   "fecha": "2026-10-11",
+   "estado": "publicado",
+   "bloque": "comparativas",
+   "hora": "11:05",
+   "id": "18229094476333799",
+   "enlace": "https://www.instagram.com/reel/DeW1LsklhwB/",
+   "ofertas": [
+    {
+     "id": "208823",
+     "nombre": "PLAYSTATION Spider-Man Miles Morales PS5",
+     "tienda": "Falabella",
+     "ahora": 29990,
+     "antes": 64990,
+     "pct": 53,
+     "rubro": "gamer",
+     "esMinimo": false,
+     "dias": 76,
+     "visto": "10:00"
+    },
+    {
+     "id": "181478",
+     "nombre": "Calefactor Quarzo Magefesa Fenix Mgf1740",
+     "tienda": "Mercado Libre",
+     "ahora": 19990,
+     "antes": 34990,
+     "pct": 42,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 72,
+     "visto": "10:00"
+    },
+    {
+     "id": "979599",
+     "nombre": "SONY Juego Marvels SPIDERMAN 2 PS5 Std Sony",
+     "tienda": "Falabella",
+     "ahora": 39990,
+     "antes": 76990,
+     "pct": 48,
+     "rubro": "gamer",
+     "esMinimo": false,
+     "dias": 68,
+     "visto": "10:00"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1791727376626-r6.mp4"
+   ],
+   "texto": "🔥 3 ofertas en comparativa: mismo tipo de producto\n1. PLAYSTATION Spider-Man Miles Morales PS5: $29.990 (-53%, referencia $64.990) en Falabella\n2. Calefactor Quarzo Magefesa Fenix Mgf1740: $19.990 (-42%, referencia $34.990) en Mercado Libre\n3. SONY Juego Marvels SPIDERMAN 2 PS5 Std Sony: $39.990 (-48%, referencia $76.990) en Falabella\n\n⏰ Precios vistos hoy (11/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
   }
  },
  "config": {
