@@ -35,6 +35,7 @@
   "1124685": "2026-10-11T11:47:51.715Z",
   "1126670": "2026-10-11T11:02:39.475Z",
   "1128340": "2026-10-10T21:31:20.650Z",
+  "1131276": "2026-10-11T12:17:20.366Z",
   "1147916": "2026-10-10T19:03:42.062Z",
   "1151385": "2026-10-10T19:03:42.062Z",
   "1157346": "2026-10-10T21:31:20.651Z"
@@ -75,7 +76,8 @@
   "conair plancha doble voltaje de 25mm con infusion hialuronica cs41dbr": "2026-10-11T11:47:51.716Z",
   "daewoo aspiradora de mano inalambrica portatil daewoo davc8v 8v": "2026-10-11T11:49:12.493Z",
   "marshall audifono on ear major v marshall negro": "2026-10-11T11:49:12.493Z",
-  "dolce gabbana set de tres regalos q by dolce gabbana edp": "2026-10-11T11:49:12.493Z"
+  "dolce gabbana set de tres regalos q by dolce gabbana edp": "2026-10-11T11:49:12.493Z",
+  "teclado hyperx alloy core rgb 4p4f5ai hx kb5me2 la": "2026-10-11T12:17:20.366Z"
  },
  "items": {
   "2026-10-09-carrusel": {
@@ -1128,6 +1130,35 @@
      "visto": "08:54"
     }
    ]
+  },
+  "2026-10-11-r-carrusel-1791721040366": {
+   "tipo": "carrusel",
+   "fecha": "2026-10-11",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "formato": "oferta",
+   "hora": "09:17",
+   "id": "17977010481134032",
+   "enlace": "https://www.instagram.com/p/DeWo5LkFEgB/",
+   "ofertas": [
+    {
+     "id": "1131276",
+     "nombre": "Teclado HyperX Alloy Core RGB (4P4F5AI / HX-KB5ME2-LA)",
+     "tienda": "Valrod",
+     "ahora": 29990,
+     "antes": 49990,
+     "pct": 40,
+     "rubro": "gamer",
+     "esMinimo": true,
+     "dias": 39,
+     "visto": "08:54"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1791721010616-c2-1.jpg",
+    "tmp-medios/1791721010616-c2-2.jpg"
+   ],
+   "texto": "🔥 OFERTA NUEVA\nTeclado HyperX Alloy Core RGB (4P4F5AI / HX-KB5ME2-LA)\nAhora: $29.990 (-40%)\nReferencia: $49.990\n🏪 Valrod\n\n✅ Precio visto hoy a las 08:54 en nuestro sistema.\n📉 Es el precio más bajo de los últimos 39 días.\n⏰ Puede cambiar o agotarse sin aviso.\n📲 Enlace directo en Telegram: t.me/ofertixcl\n\n#ofertaschile #gamer #descuentoschile #ofertix #ofertasdeldia"
   }
  },
  "config": {
