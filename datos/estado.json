@@ -1212,6 +1212,28 @@
     "tmp-medios/1791721046695-r2.mp4"
    ],
    "texto": "🔥 3 ofertas de hogar\n1. Encimera A Gas 5 Quemadores Gris: $179.990 (-50%, referencia $359.990) en Mercado Libre · 📉 mínimo de 61 días\n2. Horno Xl Rotisserie Oster, 60 L, Manual, Gris, Tssttv60mns: $87.990 (-45%, referencia $159.990) en Mercado Libre · 📉 mínimo de 76 días\n3. Filtro De Agua Triple Para Sedimentos, Sarro, Cloro Splendid: $39.990 (-50%, referencia $79.990) en Mercado Libre · 📉 mínimo de 61 días\n\n⏰ Precios vistos hoy (11/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #hogar #descuentoschile #ofertix #ofertasdeldia #ahorrar"
+  },
+  "2026-10-11-r-historia-1791721883902": {
+   "tipo": "historia",
+   "fecha": "2026-10-11",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "hora": "09:31",
+   "id": "18107101607348815",
+   "ofertas": [
+    {
+     "id": "1000952",
+     "nombre": "PHILIPS Audífono Bluetooth True Wireless TAT3509 Gris Philips",
+     "tienda": "Falabella",
+     "ahora": 19990,
+     "antes": 36990,
+     "pct": 45,
+     "rubro": "tecnologia",
+     "esMinimo": true,
+     "dias": 61,
+     "visto": "08:54"
+    }
+   ]
   }
  },
  "config": {
@@ -1225,6 +1247,7 @@
  "seguidores": 48,
  "informeFecha": "2026-10-10",
  "usadasH": {
+  "1000952": "2026-10-11T12:31:23.901Z",
   "1063781": "2026-10-11T12:16:12.011Z",
   "1064616": "2026-10-11T11:31:22.606Z",
   "1064880": "2026-10-11T11:16:17.500Z",
