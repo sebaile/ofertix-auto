@@ -240,12 +240,12 @@
    "id": "18092881679446109",
    "enlace": "https://www.instagram.com/p/DeShhyHgdkX/",
    "medidas": {
-    "reach": 1,
+    "reach": 12,
     "saved": 0,
     "shares": 0,
     "likes": 0,
     "comments": 0,
-    "al": "2026-10-09T22:37:00.015Z"
+    "al": "2026-10-11T00:30:25.332Z"
    }
   },
   "2026-10-09-carrusel-b-prueba-1791584991078": {
@@ -528,7 +528,16 @@
    "publicarDesde": "2026-10-10T18:31:39.676Z",
    "mensajeId": 48,
    "id": "17994121023051873",
-   "enlace": "https://www.instagram.com/reel/DeUylmYAFWo/"
+   "enlace": "https://www.instagram.com/reel/DeUylmYAFWo/",
+   "medidas": {
+    "reach": 16,
+    "views": 26,
+    "saved": 0,
+    "shares": 0,
+    "likes": 1,
+    "comments": 0,
+    "al": "2026-10-11T00:30:25.556Z"
+   }
   },
   "2026-10-10-carrusel-a": {
    "tipo": "carrusel",
@@ -559,7 +568,15 @@
    "publicarDesde": "2026-10-10T19:07:41.115Z",
    "mensajeId": 51,
    "id": "18076081103484450",
-   "enlace": "https://www.instagram.com/p/DeUzlV0lMh6/"
+   "enlace": "https://www.instagram.com/p/DeUzlV0lMh6/",
+   "medidas": {
+    "reach": 19,
+    "saved": 0,
+    "shares": 0,
+    "likes": 1,
+    "comments": 0,
+    "al": "2026-10-11T00:30:25.813Z"
+   }
   },
   "2026-10-10-carrusel-b": {
    "tipo": "carrusel",
@@ -639,7 +656,15 @@
    "publicarDesde": "2026-10-10T21:30:00.000Z",
    "mensajeId": 64,
    "id": "18113775176121245",
-   "enlace": "https://www.instagram.com/p/DeVDgZVlgQq/"
+   "enlace": "https://www.instagram.com/p/DeVDgZVlgQq/",
+   "medidas": {
+    "reach": 10,
+    "saved": 0,
+    "shares": 0,
+    "likes": 1,
+    "comments": 0,
+    "al": "2026-10-11T00:30:26.040Z"
+   }
   },
   "2026-10-10-reel-b": {
    "tipo": "reel",
@@ -693,12 +718,22 @@
    "publicarDesde": "2026-10-10T23:30:00.000Z",
    "mensajeId": 66,
    "id": "17949006540309682",
-   "enlace": "https://www.instagram.com/reel/DeVRP4zCTvu/"
+   "enlace": "https://www.instagram.com/reel/DeVRP4zCTvu/",
+   "medidas": {
+    "reach": 4,
+    "views": 10,
+    "saved": 0,
+    "shares": 0,
+    "likes": 0,
+    "comments": 0,
+    "al": "2026-10-11T00:30:26.278Z"
+   }
   }
  },
  "config": {
   "modo": "auto",
   "pausado": false
  },
- "seguidores": 35
+ "seguidores": 48,
+ "informeFecha": "2026-10-10"
 }
