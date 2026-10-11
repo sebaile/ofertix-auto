@@ -2095,6 +2095,28 @@
     "tmp-medios/1791731787231-r9.mp4"
    ],
    "texto": "🔥 3 ofertas de hoy\n1. Zapatillas de running UA Assert 10 AC para niños preescolar: $21.990 (-51%, referencia $44.990) en Under Armour\n2. Afnan 9 PM EDP 100 ML (H): $24.000 (-50%, referencia $48.900) en Perfumes Chile\n3. Zapatilla Assert 10 AC Pre-Escolar Niña Rosado: $21.990 (-51%, referencia $44.990) en Under Armour\n\n⏰ Precios vistos hoy (11/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
+  },
+  "2026-10-11-r-historia-1791732667538": {
+   "tipo": "historia",
+   "fecha": "2026-10-11",
+   "estado": "publicado",
+   "bloque": "comparativas",
+   "hora": "12:31",
+   "id": "18114160805169794",
+   "ofertas": [
+    {
+     "id": "123076",
+     "nombre": "Audífonos Jbl Tune 530 Conector 3,5mm Negro",
+     "tienda": "Mercado Libre",
+     "ahora": 17990,
+     "antes": 34990,
+     "pct": 48,
+     "rubro": "tecnologia",
+     "esMinimo": true,
+     "dias": 74,
+     "visto": "12:05"
+    }
+   ]
   }
  },
  "config": {
@@ -2110,6 +2132,7 @@
  "usadasH": {
   "67319": "2026-10-11T13:46:16.558Z",
   "67333": "2026-10-11T13:46:16.558Z",
+  "123076": "2026-10-11T15:31:07.538Z",
   "181376": "2026-10-11T13:46:16.558Z",
   "181591": "2026-10-11T13:31:42.173Z",
   "333563": "2026-10-11T15:01:18.667Z",
