@@ -1855,6 +1855,28 @@
     "tmp-medios/1791729095986-r7.mp4"
    ],
    "texto": "🔥 3 ofertas en comparativa: mismo tipo de producto\n1. Cartera Cerutti Cuero Mujer Diletta Cross Azul: $144.995 (-50%, referencia $289.990) en Hush Puppies\n2. DOLCE&GABBANA Perfume Hombre EDP Dolce&Gabbana: $91.890 (-42%, referencia $159.990) en Falabella\n3. Cartera Cerutti Cuero Mujer Ottavia Tote Blanco: $124.995 (-50%, referencia $249.990) en Hush Puppies\n\n⏰ Precios vistos hoy (11/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
+  },
+  "2026-10-11-r-historia-1791729974025": {
+   "tipo": "historia",
+   "fecha": "2026-10-11",
+   "estado": "publicado",
+   "bloque": "comparativas",
+   "hora": "11:46",
+   "id": "18110732318608499",
+   "ofertas": [
+    {
+     "id": "824715",
+     "nombre": "SAMSUNG Encimera a Gas 5 Quemadores Gris",
+     "tienda": "Falabella Marketplace",
+     "ahora": 199990,
+     "antes": 359990,
+     "pct": 44,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 61,
+     "visto": "10:55"
+    }
+   ]
   }
  },
  "config": {
@@ -1873,6 +1895,7 @@
   "181376": "2026-10-11T13:46:16.558Z",
   "181591": "2026-10-11T13:31:42.173Z",
   "468623": "2026-10-11T13:46:16.558Z",
+  "824715": "2026-10-11T14:46:14.025Z",
   "825834": "2026-10-11T14:01:44.042Z",
   "1000952": "2026-10-11T12:31:23.901Z",
   "1063781": "2026-10-11T12:16:12.011Z",
