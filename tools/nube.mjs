@@ -383,7 +383,11 @@ async function rafaga() {
   console.log(`Ráfaga ${c.fecha} ${c.hhmm} (bloque ${blq.tema}): publicado ${JSON.stringify(hechos)} · atrasado ${JSON.stringify(falta)}`);
   if (!falta.carrusel && !falta.reel && !falta.historia) return;
   let cuota = await cuotaApi(); console.log(`Cuota de Instagram usada (24 h): ${cuota}/100`);
-  const cands = await candidatas({ edadMin: 180, porRubro: 80 });
+  // Frescura adaptable: normalmente ofertas vistas hace menos de 3 h. Si casi no hay (p. ej. el PC que lee libros y moda está apagado), se amplía a 8 h con otras categorías.
+  // El precio mostrado siempre lleva la hora real en que se vio, y justo antes de publicar se revalida con la misma ventana.
+  let cands = await candidatas({ edadMin: 180, porRubro: 120 }), edadVig = 180;
+  const utiles = cands.filter(o => o.rubro !== 'libros').length;
+  if (utiles < 180) { cands = await candidatas({ edadMin: 480, porRubro: 120 }); edadVig = 480; console.log(`Pocas ofertas frescas (${utiles} sin contar libros, en 3 h): se amplía a 8 h → ${cands.length} candidatas.`); }
   const ahora = Date.now(), reciente = (t, h) => ahora - new Date(t).getTime() < h * 3600e3;
   estado.usadasH ??= {};
   const usadoFeed = id => estado.usadas[id] && reciente(estado.usadas[id], 24), usadoHist = id => estado.usadasH[id] && reciente(estado.usadasH[id], 12);
@@ -403,7 +407,7 @@ async function rafaga() {
     try { const ok = await fn(); if (ok) cuota++; return ok; }
     catch (e) { errores++; console.error(`Ráfaga ${tipo}:`, String(e.message).slice(0, 200)); return false; }
   };
-  const vigentes = async os => { for (const o of os) { const v = await vigente(o); if (!v.ok) return `${o.nombre.slice(0, 30)}: ${v.motivo}`; } return null; };
+  const vigentes = async os => { for (const o of os) { const v = await sigueVigente(o.id, o.ahora, edadVig); if (!v.ok) return `${o.nombre.slice(0, 30)}: ${v.motivo}`; } return null; };
 
   // ---- Carrusel
   const carrusel = async k => {
