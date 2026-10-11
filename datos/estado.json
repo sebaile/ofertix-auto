@@ -14,6 +14,7 @@
   "468623": "2026-10-09T21:18:26.992Z",
   "716674": "2026-10-09T22:32:10.226Z",
   "718625": "2026-10-09T22:32:10.226Z",
+  "825834": "2026-10-11T11:49:12.493Z",
   "825840": "2026-10-10T21:31:20.651Z",
   "827619": "2026-10-10T21:31:20.651Z",
   "831081": "2026-10-11T11:47:51.716Z",
@@ -27,7 +28,9 @@
   "1064616": "2026-10-11T11:17:41.617Z",
   "1064880": "2026-10-10T19:03:13.969Z",
   "1087642": "2026-10-11T11:17:41.617Z",
+  "1110715": "2026-10-11T11:49:12.493Z",
   "1118971": "2026-10-10T19:03:42.062Z",
+  "1119447": "2026-10-11T11:49:12.493Z",
   "1124006": "2026-10-10T22:30:40.432Z",
   "1124685": "2026-10-11T11:47:51.715Z",
   "1126670": "2026-10-11T11:02:39.475Z",
@@ -69,7 +72,10 @@
   "groner campana empotrada groner inox st 52 cm": "2026-10-11T11:47:51.716Z",
   "clinique happy perfume spray clinique": "2026-10-11T11:47:51.716Z",
   "mouse lenovo 300 wireless compact cloud grey": "2026-10-11T11:47:51.716Z",
-  "conair plancha doble voltaje de 25mm con infusion hialuronica cs41dbr": "2026-10-11T11:47:51.716Z"
+  "conair plancha doble voltaje de 25mm con infusion hialuronica cs41dbr": "2026-10-11T11:47:51.716Z",
+  "daewoo aspiradora de mano inalambrica portatil daewoo davc8v 8v": "2026-10-11T11:49:12.493Z",
+  "marshall audifono on ear major v marshall negro": "2026-10-11T11:49:12.493Z",
+  "dolce gabbana set de tres regalos q by dolce gabbana edp": "2026-10-11T11:49:12.493Z"
  },
  "items": {
   "2026-10-09-carrusel": {
@@ -991,6 +997,57 @@
     "tmp-medios/1791719227399-c1-3.jpg"
    ],
    "texto": "🏆 Ofertas nuevas de hoy\n1. GRONER Campana Empotrada Gröner Inox ST 52 cm: $119.990 (-40%) en Falabella Marketplace · 📉 mínimo de 23 días\n2. CLINIQUE Happy Perfume Spray Clinique: $44.890 (-40%) en Falabella · 📉 mínimo de 80 días\n3. Mouse Lenovo 300 Wireless Compact - Cloud Grey: $36.990 (-63%) en Mercado Libre · 📉 mínimo de 66 días\n4. HYPERX Audífonos HyperX Cloud Mini Ultraliviano Multiplataforma 3.5mm: $19.990 (-63%) en Falabella · 📉 mínimo de 65 días\n5. CONAIR Plancha Doble Voltaje de 25mm con Infusión Hialurónica CS41DBR: $39.990 (-42%) en Falabella Marketplace · 📉 mínimo de 78 días\n\n⏰ Precios vistos hoy (11/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #top5 #descuentoschile #ofertix #ahorrar"
+  },
+  "2026-10-11-r-reel-1791719352494": {
+   "tipo": "reel",
+   "fecha": "2026-10-11",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "hora": "08:49",
+   "id": "18108020471095765",
+   "enlace": "https://www.instagram.com/reel/DeWlpfNAcE2/",
+   "ofertas": [
+    {
+     "id": "1119447",
+     "nombre": "DAEWOO Aspiradora De Mano Inalámbrica Portatil Daewoo Davc8v 8v",
+     "tienda": "Falabella Marketplace",
+     "ahora": 21290,
+     "antes": 39990,
+     "pct": 46,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 87,
+     "visto": "07:58"
+    },
+    {
+     "id": "825834",
+     "nombre": "MARSHALL Audifono On-ear Major V Marshall Negro",
+     "tienda": "Falabella",
+     "ahora": 89990,
+     "antes": 199990,
+     "pct": 55,
+     "rubro": "tecnologia",
+     "esMinimo": true,
+     "dias": 89,
+     "visto": "07:58"
+    },
+    {
+     "id": "1110715",
+     "nombre": "DOLCE&GABBANA Set De Tres Regalos Q By Dolce&Gabbana Edp",
+     "tienda": "Falabella",
+     "ahora": 86190,
+     "antes": 149990,
+     "pct": 42,
+     "rubro": "perfumes",
+     "esMinimo": false,
+     "dias": 10,
+     "visto": "07:58"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1791719276976-r1.mp4"
+   ],
+   "texto": "🔥 3 ofertas nuevas de hoy\n1. DAEWOO Aspiradora De Mano Inalámbrica Portatil Daewoo Davc8v 8v: $21.290 (-46%, referencia $39.990) en Falabella Marketplace · 📉 mínimo de 87 días\n2. MARSHALL Audifono On-ear Major V Marshall Negro: $89.990 (-55%, referencia $199.990) en Falabella · 📉 mínimo de 89 días\n3. DOLCE&GABBANA Set De Tres Regalos Q By Dolce&Gabbana Edp: $86.190 (-42%, referencia $149.990) en Falabella\n\n⏰ Precios vistos hoy (11/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
   }
  },
  "config": {
