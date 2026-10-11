@@ -1234,6 +1234,28 @@
      "visto": "08:54"
     }
    ]
+  },
+  "2026-10-11-r-historia-1791722762629": {
+   "tipo": "historia",
+   "fecha": "2026-10-11",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "hora": "09:46",
+   "id": "18109221194242021",
+   "ofertas": [
+    {
+     "id": "1119447",
+     "nombre": "DAEWOO Aspiradora De Mano Inalámbrica Portatil Daewoo Davc8v 8v",
+     "tienda": "Falabella Marketplace",
+     "ahora": 21290,
+     "antes": 39990,
+     "pct": 46,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 87,
+     "visto": "08:54"
+    }
+   ]
   }
  },
  "config": {
@@ -1254,6 +1276,7 @@
   "1064953": "2026-10-11T12:16:12.011Z",
   "1112004": "2026-10-11T12:01:31.258Z",
   "1118971": "2026-10-11T12:16:12.011Z",
+  "1119447": "2026-10-11T12:46:02.629Z",
   "1124685": "2026-10-11T11:45:56.267Z",
   "1126670": "2026-10-11T11:01:30.428Z",
   "1128340": "2026-10-11T12:16:12.011Z"
