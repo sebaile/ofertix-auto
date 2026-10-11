@@ -5,8 +5,11 @@
   "1228": "2026-10-11T14:33:04.465Z",
   "67319": "2026-10-11T12:18:44.704Z",
   "67333": "2026-10-11T12:18:44.704Z",
+  "74023": "2026-10-11T15:17:46.266Z",
   "74044": "2026-10-11T15:04:19.293Z",
   "82825": "2026-10-11T14:47:31.662Z",
+  "82955": "2026-10-11T15:17:46.266Z",
+  "83103": "2026-10-11T15:17:46.266Z",
   "83149": "2026-10-11T15:04:19.293Z",
   "122927": "2026-10-11T13:03:35.550Z",
   "122930": "2026-10-11T13:03:35.550Z",
@@ -129,7 +132,10 @@
   "microsoft 365 familia licencia digital anual ep2 32295": "2026-10-11T15:04:19.293Z",
   "zapatilla assrt 10 ufm syn junior nino negro": "2026-10-11T15:04:19.293Z",
   "maison alhambra amberley ombre blue edp 100 ml u": "2026-10-11T15:04:19.293Z",
-  "peto infinity mid 2 0 verano mujer verde": "2026-10-11T15:04:19.293Z"
+  "peto infinity mid 2 0 verano mujer verde": "2026-10-11T15:04:19.293Z",
+  "zapatillas de running ua assert 10 ac para ninos preescolar": "2026-10-11T15:17:46.266Z",
+  "afnan 9 pm edp 100 ml h": "2026-10-11T15:17:46.266Z",
+  "zapatilla assert 10 ac pre escolar nina rosado": "2026-10-11T15:17:46.266Z"
  },
  "items": {
   "2026-10-09-carrusel": {
@@ -2038,6 +2044,57 @@
     "tmp-medios/1791731021063-c6-3.jpg"
    ],
    "texto": "🏆 Descuentos destacados\n1. Microsoft 365 Familia Licencia Digital Anual (EP2-32295): $109.990 (-61%) en Reuse\n2. Kit Master-G Monitor + Parlante MGMG2730 + MGSBG2: $149.990 (-50%) en Reuse\n3. Zapatilla Assrt 10 Ufm Syn Junior Niño Negro: $22.990 (-51%) en Under Armour\n4. Maison Alhambra Amberley Ombre Blue EDP 100 ML (U): $24.900 (-50%) en Perfumes Chile\n5. Peto Infinity Mid 2 0 Verano Mujer Verde: $21.990 (-51%) en Under Armour\n\n⏰ Precios vistos hoy (11/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #top5 #descuentoschile #ofertix #ahorrar"
+  },
+  "2026-10-11-r-reel-1791731866267": {
+   "tipo": "reel",
+   "fecha": "2026-10-11",
+   "estado": "publicado",
+   "bloque": "comparativas",
+   "hora": "12:17",
+   "id": "18397072933162504",
+   "enlace": "https://www.instagram.com/reel/DeW9gMrAVcq/",
+   "ofertas": [
+    {
+     "id": "82955",
+     "nombre": "Zapatillas de running UA Assert 10 AC para niños preescolar",
+     "tienda": "Under Armour",
+     "ahora": 21990,
+     "antes": 44990,
+     "pct": 51,
+     "rubro": "moda",
+     "esMinimo": false,
+     "dias": 5,
+     "visto": "11:39"
+    },
+    {
+     "id": "74023",
+     "nombre": "Afnan 9 PM EDP 100 ML (H)",
+     "tienda": "Perfumes Chile",
+     "ahora": 24000,
+     "antes": 48900,
+     "pct": 50,
+     "rubro": "perfumes",
+     "esMinimo": false,
+     "dias": 5,
+     "visto": "11:35"
+    },
+    {
+     "id": "83103",
+     "nombre": "Zapatilla Assert 10 AC Pre-Escolar Niña Rosado",
+     "tienda": "Under Armour",
+     "ahora": 21990,
+     "antes": 44990,
+     "pct": 51,
+     "rubro": "moda",
+     "esMinimo": false,
+     "dias": 5,
+     "visto": "11:39"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1791731787231-r9.mp4"
+   ],
+   "texto": "🔥 3 ofertas de hoy\n1. Zapatillas de running UA Assert 10 AC para niños preescolar: $21.990 (-51%, referencia $44.990) en Under Armour\n2. Afnan 9 PM EDP 100 ML (H): $24.000 (-50%, referencia $48.900) en Perfumes Chile\n3. Zapatilla Assert 10 AC Pre-Escolar Niña Rosado: $21.990 (-51%, referencia $44.990) en Under Armour\n\n⏰ Precios vistos hoy (11/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
   }
  },
  "config": {
