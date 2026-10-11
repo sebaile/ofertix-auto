@@ -19,8 +19,11 @@
   "912408": "2026-10-09T22:32:10.226Z",
   "955741": "2026-10-09T22:32:10.226Z",
   "955874": "2026-10-10T19:12:16.865Z",
+  "1000952": "2026-10-11T11:17:41.617Z",
   "1063781": "2026-10-10T21:31:20.651Z",
+  "1064616": "2026-10-11T11:17:41.617Z",
   "1064880": "2026-10-10T19:03:13.969Z",
+  "1087642": "2026-10-11T11:17:41.617Z",
   "1118971": "2026-10-10T19:03:42.062Z",
   "1124006": "2026-10-10T22:30:40.432Z",
   "1126670": "2026-10-11T11:02:39.475Z",
@@ -55,7 +58,10 @@
   "flexus100 soundbar flexus core 100": "2026-10-10T23:31:46.966Z",
   "sony god of war ragnarok ps5 sony": "2026-10-10T23:31:46.966Z",
   "lattafa fakhar edp 100 ml h": "2026-10-10T23:31:46.966Z",
-  "sony audifonos in ear inzone buds mdr g700n negro sony": "2026-10-11T11:02:39.475Z"
+  "sony audifonos in ear inzone buds mdr g700n negro sony": "2026-10-11T11:02:39.475Z",
+  "marshall audifonos bluetooth on ear marshall major v cafe": "2026-10-11T11:17:41.617Z",
+  "philips audifono bluetooth true wireless tat3509 gris philips": "2026-10-11T11:17:41.617Z",
+  "primus mouse inalambrico gladius boba fett": "2026-10-11T11:17:41.617Z"
  },
  "items": {
   "2026-10-09-carrusel": {
@@ -804,6 +810,57 @@
      "visto": "07:58"
     }
    ]
+  },
+  "2026-10-11-r-reel-1791717461618": {
+   "tipo": "reel",
+   "fecha": "2026-10-11",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "hora": "08:17",
+   "id": "18130589650744636",
+   "enlace": "https://www.instagram.com/reel/DeWiCrTj1Jm/",
+   "ofertas": [
+    {
+     "id": "1064616",
+     "nombre": "MARSHALL Audífonos Bluetooth On Ear Marshall Major V Café",
+     "tienda": "Falabella Marketplace",
+     "ahora": 89990,
+     "antes": 149990,
+     "pct": 40,
+     "rubro": "tecnologia",
+     "esMinimo": true,
+     "dias": 89,
+     "visto": "07:58"
+    },
+    {
+     "id": "1000952",
+     "nombre": "PHILIPS Audífono Bluetooth True Wireless TAT3509 Gris Philips",
+     "tienda": "Falabella",
+     "ahora": 19990,
+     "antes": 36990,
+     "pct": 45,
+     "rubro": "tecnologia",
+     "esMinimo": true,
+     "dias": 61,
+     "visto": "07:58"
+    },
+    {
+     "id": "1087642",
+     "nombre": "PRIMUS Mouse inalámbrico Gladius Boba Fett",
+     "tienda": "Falabella Marketplace",
+     "ahora": 22990,
+     "antes": 39990,
+     "pct": 42,
+     "rubro": "tecnologia",
+     "esMinimo": true,
+     "dias": 71,
+     "visto": "07:58"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1791717384679-r0.mp4"
+   ],
+   "texto": "🔥 3 ofertas de tecnología\n1. MARSHALL Audífonos Bluetooth On Ear Marshall Major V Café: $89.990 (-40%, referencia $149.990) en Falabella Marketplace · 📉 mínimo de 89 días\n2. PHILIPS Audífono Bluetooth True Wireless TAT3509 Gris Philips: $19.990 (-45%, referencia $36.990) en Falabella · 📉 mínimo de 61 días\n3. PRIMUS Mouse inalámbrico Gladius Boba Fett: $22.990 (-42%, referencia $39.990) en Falabella Marketplace · 📉 mínimo de 71 días\n\n⏰ Precios vistos hoy (11/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #tecnologia #descuentoschile #ofertix #ofertasdeldia #ahorrar"
   }
  },
  "config": {
