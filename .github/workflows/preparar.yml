@@ -62,6 +62,7 @@ jobs:
       - name: Preparar
         if: steps.due.outputs.hay == 'true'
         run: |
+          if [ "$TIPO" = "rafaga-seco" ]; then SECO=1 PRUEBA_MIN=600 node tools/nube.mjs rafaga; exit 0; fi
           if [ -z "$TIPO" ] && [ "${{ steps.due.outputs.modo }}" = "rafaga" ]; then node tools/nube.mjs rafaga; exit 0; fi
           ARGS=""
           case "$TIPO" in historias|carrusel|reel|carrusel-a|carrusel-b|reel-a|reel-b|prueba-historia) ARGS="$TIPO";; esac
