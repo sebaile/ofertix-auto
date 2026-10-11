@@ -2313,6 +2313,28 @@
      "visto": "18:10"
     }
    ]
+  },
+  "2026-10-11-r-historia-1791756984075": {
+   "tipo": "historia",
+   "fecha": "2026-10-11",
+   "estado": "publicado",
+   "bloque": "recopilaciones",
+   "hora": "19:16",
+   "id": "17953797087039269",
+   "ofertas": [
+    {
+     "id": "1157052",
+     "nombre": "Parlante Portátil Oracle Red Bull Racing RB-SK410",
+     "tienda": "PC Factory",
+     "ahora": 20590,
+     "antes": 51590,
+     "pct": 60,
+     "rubro": "tecnologia",
+     "esMinimo": true,
+     "dias": 82,
+     "visto": "18:10"
+    }
+   ]
   }
  },
  "config": {
@@ -2332,7 +2354,7 @@
    "hasta": "2026-10-11T21:38:55.099Z",
    "veces": 1
   },
-  "ultimaPub": "2026-10-11T22:01:24.579Z"
+  "ultimaPub": "2026-10-11T22:16:24.075Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-10",
@@ -2364,6 +2386,7 @@
   "1128340": "2026-10-11T12:16:12.011Z",
   "1131276": "2026-10-11T13:16:18.226Z",
   "1147873": "2026-10-11T21:46:12.956Z",
-  "1151385": "2026-10-11T22:01:24.578Z"
+  "1151385": "2026-10-11T22:01:24.578Z",
+  "1157052": "2026-10-11T22:16:24.075Z"
  }
 }
