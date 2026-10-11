@@ -6,6 +6,8 @@
   "67319": "2026-10-11T12:18:44.704Z",
   "67333": "2026-10-11T12:18:44.704Z",
   "74023": "2026-10-11T15:17:46.266Z",
+  "74025": "2026-10-11T15:50:06.762Z",
+  "74028": "2026-10-11T15:50:06.762Z",
   "74044": "2026-10-11T15:04:19.293Z",
   "82825": "2026-10-11T14:47:31.662Z",
   "82955": "2026-10-11T15:17:46.266Z",
@@ -21,6 +23,7 @@
   "181591": "2026-10-11T11:47:51.716Z",
   "208823": "2026-10-11T14:05:03.736Z",
   "266260": "2026-10-10T23:31:46.966Z",
+  "266261": "2026-10-11T15:50:06.762Z",
   "279009": "2026-10-11T15:04:19.293Z",
   "279051": "2026-10-11T15:04:19.293Z",
   "279052": "2026-10-10T23:31:46.966Z",
@@ -135,7 +138,10 @@
   "peto infinity mid 2 0 verano mujer verde": "2026-10-11T15:04:19.293Z",
   "zapatillas de running ua assert 10 ac para ninos preescolar": "2026-10-11T15:17:46.266Z",
   "afnan 9 pm edp 100 ml h": "2026-10-11T15:17:46.266Z",
-  "zapatilla assert 10 ac pre escolar nina rosado": "2026-10-11T15:17:46.266Z"
+  "zapatilla assert 10 ac pre escolar nina rosado": "2026-10-11T15:17:46.266Z",
+  "lattafa asad edp 100 ml h": "2026-10-11T15:50:06.762Z",
+  "hugo boss xy edt 100 ml h": "2026-10-11T15:50:06.762Z",
+  "lattafa yara edp 100 ml m": "2026-10-11T15:50:06.762Z"
  },
  "items": {
   "2026-10-09-carrusel": {
@@ -2168,6 +2174,57 @@
     "tmp-medios/1791733626078-c7-2.jpg"
    ],
    "texto": "🔥 OFERTA DEL DÍA\nEdición digital de lujo de Returnal (PS5)\nAhora: $19.622 (-75%)\nReferencia: $78.519\n🏪 PlayStation Store\n\n✅ Precio visto hoy a las 12:24 en nuestro sistema.\n⏰ Puede cambiar o agotarse sin aviso.\n📲 Enlace directo en Telegram: t.me/ofertixcl\n\n#ofertaschile #gamer #descuentoschile #ofertix #ofertasdeldia"
+  },
+  "2026-10-11-r-reel-1791733806763": {
+   "tipo": "reel",
+   "fecha": "2026-10-11",
+   "estado": "publicado",
+   "bloque": "comparativas",
+   "hora": "12:50",
+   "id": "18118241441063618",
+   "enlace": "https://www.instagram.com/reel/DeXBMmzgjy7/",
+   "ofertas": [
+    {
+     "id": "266261",
+     "nombre": "Lattafa Asad EDP 100 ML (H)",
+     "tienda": "Perfumes Chile",
+     "ahora": 20900,
+     "antes": 39900,
+     "pct": 47,
+     "rubro": "perfumes",
+     "esMinimo": false,
+     "dias": 5,
+     "visto": "11:35"
+    },
+    {
+     "id": "74025",
+     "nombre": "Hugo Boss Xy EDT 100 ML (H)",
+     "tienda": "Perfumes Chile",
+     "ahora": 24900,
+     "antes": 45900,
+     "pct": 45,
+     "rubro": "perfumes",
+     "esMinimo": false,
+     "dias": 5,
+     "visto": "11:35"
+    },
+    {
+     "id": "74028",
+     "nombre": "Lattafa Yara EDP 100 ML (M)",
+     "tienda": "Perfumes Chile",
+     "ahora": 21900,
+     "antes": 39900,
+     "pct": 45,
+     "rubro": "perfumes",
+     "esMinimo": false,
+     "dias": 5,
+     "visto": "11:35"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1791733668207-r10.mp4"
+   ],
+   "texto": "🔥 3 ofertas de perfumes en comparativa\n1. Lattafa Asad EDP 100 ML (H): $20.900 (-47%, referencia $39.900) en Perfumes Chile\n2. Hugo Boss Xy EDT 100 ML (H): $24.900 (-45%, referencia $45.900) en Perfumes Chile\n3. Lattafa Yara EDP 100 ML (M): $21.900 (-45%, referencia $39.900) en Perfumes Chile\n\n⏰ Precios vistos hoy (11/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #perfumes #descuentoschile #ofertix #ofertasdeldia #ahorrar"
   }
  },
  "config": {
