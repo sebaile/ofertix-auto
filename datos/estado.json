@@ -1930,6 +1930,28 @@
     "tmp-medios/1791729980114-r8.mp4"
    ],
    "texto": "🔥 3 ofertas con los descuentos más altos\n1. Gorro Animal MixVans: $16.990 (-57%, referencia $39.990) en Vans\n2. Ralph Lauren Polo Sport Fresh EDT 125 ML (H): $25.900 (-56%, referencia $59.900) en Perfumes Chile\n3. Cartera Studio Pffr Bckt Bag Mujer Negro: $22.990 (-51%, referencia $46.990) en Under Armour\n\n⏰ Precios vistos hoy (11/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
+  },
+  "2026-10-11-r-historia-1791730878668": {
+   "tipo": "historia",
+   "fecha": "2026-10-11",
+   "estado": "publicado",
+   "bloque": "comparativas",
+   "hora": "12:01",
+   "id": "17996566098033666",
+   "ofertas": [
+    {
+     "id": "333563",
+     "nombre": "HYPERX Audífonos HyperX Cloud Mini Ultraliviano Multiplataforma 3.5mm",
+     "tienda": "Falabella",
+     "ahora": 19990,
+     "antes": 54990,
+     "pct": 63,
+     "rubro": "gamer",
+     "esMinimo": true,
+     "dias": 65,
+     "visto": "10:55"
+    }
+   ]
   }
  },
  "config": {
@@ -1947,6 +1969,7 @@
   "67333": "2026-10-11T13:46:16.558Z",
   "181376": "2026-10-11T13:46:16.558Z",
   "181591": "2026-10-11T13:31:42.173Z",
+  "333563": "2026-10-11T15:01:18.667Z",
   "468623": "2026-10-11T13:46:16.558Z",
   "824715": "2026-10-11T14:46:14.025Z",
   "825834": "2026-10-11T14:01:44.042Z",
