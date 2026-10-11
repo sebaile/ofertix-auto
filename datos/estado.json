@@ -22,6 +22,7 @@
   "718625": "2026-10-09T22:32:10.226Z",
   "824616": "2026-10-11T13:03:35.550Z",
   "824734": "2026-10-11T13:03:35.550Z",
+  "825810": "2026-10-11T13:32:53.570Z",
   "825834": "2026-10-11T11:49:12.493Z",
   "825840": "2026-10-10T21:31:20.651Z",
   "825872": "2026-10-11T12:47:40.229Z",
@@ -97,7 +98,8 @@
   "midea freidora de aire 4 litros mf tn40d2": "2026-10-11T13:03:35.550Z",
   "parlante portatil emberton iii black and brass": "2026-10-11T13:05:04.668Z",
   "audifonos jbl tune 530 conector 3 5mm negro": "2026-10-11T13:05:04.668Z",
-  "barra de sonido 2 1 ksb 050 klip xtreme 120 watts bluetooth": "2026-10-11T13:05:04.668Z"
+  "barra de sonido 2 1 ksb 050 klip xtreme 120 watts bluetooth": "2026-10-11T13:05:04.668Z",
+  "nescafe cafetera nescafe dolce gusto piccolo xs": "2026-10-11T13:32:53.570Z"
  },
  "items": {
   "2026-10-09-carrusel": {
@@ -1520,6 +1522,35 @@
      "visto": "10:00"
     }
    ]
+  },
+  "2026-10-11-r-carrusel-1791725573571": {
+   "tipo": "carrusel",
+   "fecha": "2026-10-11",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "formato": "oferta",
+   "hora": "10:32",
+   "id": "17909555247549438",
+   "enlace": "https://www.instagram.com/p/DeWxiRtm13p/",
+   "ofertas": [
+    {
+     "id": "825810",
+     "nombre": "NESCAFE Cafetera Nescafé Dolce Gusto Piccolo XS",
+     "tienda": "Falabella",
+     "ahora": 39990,
+     "antes": 67990,
+     "pct": 41,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 73,
+     "visto": "10:00"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1791725539116-c4-1.jpg",
+    "tmp-medios/1791725539116-c4-2.jpg"
+   ],
+   "texto": "🔥 NOVEDAD\nNESCAFE Cafetera Nescafé Dolce Gusto Piccolo XS\nAhora: $39.990 (-41%)\nReferencia: $67.990\n🏪 Falabella\n\n✅ Precio visto hoy a las 10:00 en nuestro sistema.\n📉 Es el precio más bajo de los últimos 73 días.\n⏰ Puede cambiar o agotarse sin aviso.\n📲 Enlace directo en Telegram: t.me/ofertixcl\n\n#ofertaschile #hogar #descuentoschile #ofertix #ofertasdeldia"
   }
  },
  "config": {
