@@ -369,6 +369,7 @@ const publicadosHoy = (estado, fecha) => {
   }
   return n;
 };
+const NL = String.fromCharCode(10);
 async function cuotaApi() { try { return (await ig(`${env.IG_USER_ID}/content_publishing_limit`, { fields: 'quota_usage' }, 'GET')).data?.[0]?.quota_usage ?? 0; } catch { return 0; } }
 
 async function rafaga() {
@@ -441,6 +442,7 @@ async function rafaga() {
     elegidas.forEach(marcarFeed);
     const item = { tipo: 'carrusel', fecha: c.fecha, estado: 'publicado', bloque: blq.tema, formato, hora: chile().hhmm, id, enlace, ofertas: elegidas.map(resumenOferta), archivos: nombres.map(rel), texto };
     guardar(`${c.fecha}-r-carrusel-${stamp()}`, item, 'Carrusel publicado'); console.log('Carrusel publicado:', blq.tema, formato, enlace);
+    await avisar(['🖼 Carrusel (' + blq.tema + (formato === 'oferta' ? '' : ', ' + formato) + ') · ' + chile().hhmm, ...elegidas.map(o => '• ' + o.nombre.slice(0, 45) + ' ' + fmt(o.ahora)), enlace].join(NL)).catch(() => {});
     await espejarCarrusel(item); return true;
   };
 
@@ -465,6 +467,7 @@ async function rafaga() {
     os.forEach(marcarFeed);
     const item = { tipo: 'reel', fecha: c.fecha, estado: 'publicado', bloque: blq.tema, hora: chile().hhmm, id, enlace, ofertas: os.map(resumenOferta), archivos: [rel(f)], texto };
     guardar(`${c.fecha}-r-reel-${stamp()}`, item, 'Reel publicado'); console.log('Reel publicado:', blq.tema, enlace);
+    await avisar(['🎬 Reel (' + blq.tema + ') · ' + chile().hhmm, ...os.map(o => '• ' + o.nombre.slice(0, 45) + ' ' + fmt(o.ahora)), enlace].join(NL)).catch(() => {});
     await espejarReel(item); return true;
   };
 
@@ -485,6 +488,7 @@ async function rafaga() {
     const id = await publicarContenedor(await contenedor({ media_type: 'STORIES', image_url: url }, 40, 4000));
     os.forEach(marcarHist);
     guardar(`${c.fecha}-r-historia-${stamp()}`, { tipo: 'historia', fecha: c.fecha, estado: 'publicado', bloque: blq.tema, hora: chile().hhmm, id, ofertas: os.map(resumenOferta) }, 'Historia publicada'); console.log('Historia publicada:', blq.tema, os.map(o => o.nombre.slice(0, 30)).join(' | '));
+    await avisar('📱 Historia (' + blq.tema + ') · ' + chile().hhmm + ': ' + (resumen ? sp.resumen : etiqueta) + ' — ' + os.map(o => o.nombre.slice(0, 40) + ' ' + fmt(o.ahora)).join(' · ')).catch(() => {});
     await espejarHistoria({ archivo: rel(f), oferta: resumen ? null : resumenOferta(os[0]), etiqueta: resumen ? sp.resumen : etiqueta }); return true;
   };
 
