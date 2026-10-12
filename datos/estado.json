@@ -2846,6 +2846,28 @@
     "tmp-medios/1791805643516-c1-3.jpg"
    ],
    "texto": "🏆 Ofertas nuevas de hoy\n1. Encimera a Gas 5 quemadores (Silver) (NA75D3030AS/ZS): $179.990 (-50%) en Samsung Shop · 📉 mínimo de 62 días\n2. Auriculares inalámbricos JBL - Tour One M3 Smart Tx -Mocha: $197.990 (-62%) en NotebookStore\n3. CALVIN KLEIN Calvin Klein CK One Eau De Toilette Unisex 50 Ml: $24.990 (-52%) en Falabella · 📉 mínimo de 72 días\n4. Kit 3 Ventiladores Airflow CSF800 120mm ARGB PWM: $33.590 (-40%) en Eylstore · 📉 mínimo de 61 días\n5. KARCHER Aspiradora Inalámbrica 223.14 W 17 Litros WD 3-18: $149.990 (-43%) en Sodimac · 📉 mínimo de 59 días\n\n⏰ Precios vistos hoy (12/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #top5 #descuentoschile #ofertix #ahorrar"
+  },
+  "2026-10-12-r-historia-1791805711019": {
+   "tipo": "historia",
+   "fecha": "2026-10-12",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "hora": "08:48",
+   "id": "18179490766439079",
+   "ofertas": [
+    {
+     "id": "1147916",
+     "nombre": "Encimera a Gas 5 quemadores (Silver) (NA75D3030AS/ZS)",
+     "tienda": "Samsung Shop",
+     "ahora": 179990,
+     "antes": 359990,
+     "pct": 50,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 62,
+     "visto": "07:18"
+    }
+   ]
   }
  },
  "config": {
@@ -2865,7 +2887,7 @@
    "hasta": "2026-10-12T05:01:19.398Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-12T11:48:07.995Z"
+  "ultimaPub": "2026-10-12T11:48:31.019Z"
  },
  "seguidores": 49,
  "informeFecha": "2026-10-11",
@@ -2899,6 +2921,7 @@
   "1131276": "2026-10-11T13:16:18.226Z",
   "1143849": "2026-10-12T11:32:41.565Z",
   "1147873": "2026-10-12T11:16:27.933Z",
+  "1147916": "2026-10-12T11:48:31.019Z",
   "1151385": "2026-10-11T22:01:24.578Z",
   "1157052": "2026-10-12T11:02:21.476Z"
  }
