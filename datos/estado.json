@@ -3201,6 +3201,28 @@
     "tmp-medios/1791811014739-c3-3.jpg"
    ],
    "texto": "🏆 Top 5 en tecnología\n1. Mouse Lenovo 300 Wireless Compact - Cloud Grey: $36.990 (-63%) en Mercado Libre · 📉 mínimo de 67 días\n2. MARSHALL Audífonos Bluetooth On Ear Marshall Major V Crema: $89.990 (-40%) en Falabella Marketplace · 📉 mínimo de 83 días\n3. PHILIPS Audífono Bluetooth True Wireless TAT3509 Gris Philips: $19.990 (-45%) en Falabella · 📉 mínimo de 62 días\n4. PRIMUS Mouse inalámbrico Gladius Boba Fett: $22.990 (-42%) en Falabella Marketplace · 📉 mínimo de 72 días\n5. JBL JBL Audífonos Live 780NC - Azul: $99.990 (-44%) en Falabella\n\n⏰ Precios vistos hoy (12/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #tecnologia #top5 #descuentoschile #ofertix #ahorrar"
+  },
+  "2026-10-12-r-historia-1791811079004": {
+   "tipo": "historia",
+   "fecha": "2026-10-12",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "hora": "10:17",
+   "id": "17916836229262118",
+   "ofertas": [
+    {
+     "id": "1500833",
+     "nombre": "Auriculares inalámbricos JBL - Tour One M3 Smart Tx -Mocha",
+     "tienda": "NotebookStore",
+     "ahora": 197990,
+     "antes": 534990,
+     "pct": 62,
+     "rubro": "tecnologia",
+     "esMinimo": false,
+     "dias": 89,
+     "visto": "09:21"
+    }
+   ]
   }
  },
  "config": {
@@ -3220,7 +3242,7 @@
    "hasta": "2026-10-12T05:01:19.398Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-12T13:17:39.056Z"
+  "ultimaPub": "2026-10-12T13:17:59.004Z"
  },
  "seguidores": 49,
  "informeFecha": "2026-10-11",
@@ -3260,6 +3282,7 @@
   "1151387": "2026-10-12T12:18:24.195Z",
   "1157052": "2026-10-12T11:02:21.476Z",
   "1157346": "2026-10-12T12:01:39.690Z",
+  "1500833": "2026-10-12T13:17:59.004Z",
   "1529581": "2026-10-12T12:46:05.254Z",
   "1574439": "2026-10-12T12:32:30.181Z"
  }
