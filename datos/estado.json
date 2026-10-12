@@ -81,7 +81,8 @@
   "1500833": "2026-10-12T11:48:07.994Z",
   "1529581": "2026-10-12T11:32:21.131Z",
   "1574439": "2026-10-12T12:18:00.106Z",
-  "1576473": "2026-10-12T12:18:00.106Z"
+  "1576473": "2026-10-12T12:18:00.106Z",
+  "1592754": "2026-10-12T12:32:10.428Z"
  },
  "nombres": {
   "encimera a gas 5 quemadores gris": "2026-10-11T12:18:44.704Z",
@@ -163,7 +164,8 @@
   "kit 3 ventiladores airflow csf800 120mm argb pwm": "2026-10-12T11:48:07.994Z",
   "encimera vitroceramica teka tri 64910 tc3 4 quemadores": "2026-10-12T12:18:00.106Z",
   "xiaomi 17 ultra photography kit pro negro": "2026-10-12T12:18:00.106Z",
-  "ferragamo perfume hombre red men edp 50 ml ferragamo": "2026-10-12T12:18:00.106Z"
+  "ferragamo perfume hombre red men edp 50 ml ferragamo": "2026-10-12T12:18:00.106Z",
+  "nex ventilador suelo industrial 42 negro": "2026-10-12T12:32:10.428Z"
  },
  "items": {
   "2026-10-09-carrusel": {
@@ -2991,6 +2993,35 @@
      "visto": "08:25"
     }
    ]
+  },
+  "2026-10-12-r-carrusel-1791808330428": {
+   "tipo": "carrusel",
+   "fecha": "2026-10-12",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "formato": "oferta",
+   "hora": "09:32",
+   "id": "17912296953541049",
+   "enlace": "https://www.instagram.com/p/DeZPYfEkTTk/",
+   "ofertas": [
+    {
+     "id": "1592754",
+     "nombre": "Nex Ventilador suelo industrial 42'' negro",
+     "tienda": "Easy",
+     "ahora": 149990,
+     "antes": 319990,
+     "pct": 53,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 13,
+     "visto": "08:25"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1791808301566-c2-1.jpg",
+    "tmp-medios/1791808301566-c2-2.jpg"
+   ],
+   "texto": "🔥 OFERTA NUEVA\nNex Ventilador suelo industrial 42'' negro\nAhora: $149.990 (-53%)\nReferencia: $319.990\n🏪 Easy\n\n✅ Precio visto hoy a las 08:25 en nuestro sistema.\n⏰ Puede cambiar o agotarse sin aviso.\n📲 Enlace directo en Telegram: t.me/ofertixcl\n\n#ofertaschile #hogar #descuentoschile #ofertix #ofertasdeldia"
   }
  },
  "config": {
@@ -3010,7 +3041,7 @@
    "hasta": "2026-10-12T05:01:19.398Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-12T12:18:24.195Z"
+  "ultimaPub": "2026-10-12T12:32:10.428Z"
  },
  "seguidores": 49,
  "informeFecha": "2026-10-11",
