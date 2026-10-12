@@ -32,11 +32,11 @@
   "300139": "2026-10-09T20:48:53.988Z",
   "333546": "2026-10-11T13:03:35.550Z",
   "333563": "2026-10-11T11:47:51.716Z",
-  "468623": "2026-10-11T12:47:40.229Z",
+  "468623": "2026-10-12T14:47:52.696Z",
   "716674": "2026-10-11T14:47:31.662Z",
   "718625": "2026-10-11T14:47:31.662Z",
   "824616": "2026-10-11T13:03:35.550Z",
-  "824734": "2026-10-11T13:03:35.550Z",
+  "824734": "2026-10-12T14:47:52.696Z",
   "825803": "2026-10-11T13:35:20.093Z",
   "825810": "2026-10-11T13:32:53.570Z",
   "825834": "2026-10-11T11:49:12.493Z",
@@ -57,7 +57,7 @@
   "1063788": "2026-10-11T11:47:51.716Z",
   "1064616": "2026-10-11T11:17:41.617Z",
   "1064880": "2026-10-11T22:48:01.730Z",
-  "1087230": "2026-10-11T14:33:04.465Z",
+  "1087230": "2026-10-12T14:47:52.696Z",
   "1087642": "2026-10-12T13:17:39.055Z",
   "1110715": "2026-10-11T11:49:12.493Z",
   "1110717": "2026-10-12T12:18:00.106Z",
@@ -93,7 +93,7 @@
   "hyperx audifonos hyperx cloud mini ultraliviano multiplataforma 3 5mm": "2026-10-11T11:47:51.716Z",
   "horno xl rotisserie oster 60 l manual gris tssttv60mns": "2026-10-11T12:18:44.704Z",
   "marshall parlante bluetooth acton iii negro marshall": "2026-10-11T13:03:35.550Z",
-  "primaterm estufa calefactor electrico alumax 500w primaterm": "2026-10-11T12:47:40.229Z",
+  "primaterm estufa calefactor electrico alumax 500w primaterm": "2026-10-12T14:47:52.696Z",
   "edicion digital de lujo de returnal ps5": "2026-10-11T15:47:34.528Z",
   "europa universalis iv ultimate bundle": "2026-10-09T22:32:10.226Z",
   "atomic heart ps4 ps5 ps4 ps5": "2026-10-09T22:32:10.226Z",
@@ -132,7 +132,7 @@
   "teclado gamer mecanico luces rgb kb903l havit blanco": "2026-10-11T13:03:35.550Z",
   "remington plancha alisador de pelo wet2straight remington": "2026-10-11T13:03:35.550Z",
   "magefesa nova capri cafetera en acero inoxidable 18 10 plateado": "2026-10-11T13:03:35.550Z",
-  "midea freidora de aire 4 litros mf tn40d2": "2026-10-11T13:03:35.550Z",
+  "midea freidora de aire 4 litros mf tn40d2": "2026-10-12T14:47:52.696Z",
   "parlante portatil emberton iii black and brass": "2026-10-11T13:05:04.668Z",
   "audifonos jbl tune 530 conector 3 5mm negro": "2026-10-11T13:05:04.668Z",
   "barra de sonido 2 1 ksb 050 klip xtreme 120 watts bluetooth": "2026-10-11T13:05:04.668Z",
@@ -145,7 +145,7 @@
   "calefactor quarzo magefesa fenix mgf1740": "2026-10-11T14:05:03.736Z",
   "sony juego marvels spiderman 2 ps5 std sony": "2026-10-11T14:05:03.736Z",
   "cartera cerutti cuero mujer diletta cross azul": "2026-10-11T14:33:04.465Z",
-  "dolce gabbana perfume hombre edp dolce gabbana": "2026-10-11T14:33:04.465Z",
+  "dolce gabbana perfume hombre edp dolce gabbana": "2026-10-12T14:47:52.696Z",
   "cartera cerutti cuero mujer ottavia tote blanco": "2026-10-11T14:33:04.465Z",
   "cartera studio pffr bckt bag mujer negro": "2026-10-11T14:47:31.662Z",
   "microsoft 365 familia licencia digital anual ep2 32295": "2026-10-11T15:04:19.293Z",
@@ -3459,6 +3459,57 @@
      "visto": "10:28"
     }
    ]
+  },
+  "2026-10-12-r-reel-1791816472697": {
+   "tipo": "reel",
+   "fecha": "2026-10-12",
+   "estado": "publicado",
+   "bloque": "comparativas",
+   "hora": "11:47",
+   "id": "17960881182210288",
+   "enlace": "https://www.instagram.com/reel/DeZe4C5Epu_/",
+   "ofertas": [
+    {
+     "id": "468623",
+     "nombre": "PRIMATERM Estufa Calefactor Eléctrico Alumax 500w PRIMATERM",
+     "tienda": "Falabella Marketplace",
+     "ahora": 49990,
+     "antes": 89990,
+     "pct": 44,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 74,
+     "visto": "10:28"
+    },
+    {
+     "id": "1087230",
+     "nombre": "DOLCE&GABBANA Perfume Hombre EDP Dolce&Gabbana",
+     "tienda": "Falabella",
+     "ahora": 91890,
+     "antes": 159990,
+     "pct": 42,
+     "rubro": "perfumes",
+     "esMinimo": false,
+     "dias": 11,
+     "visto": "10:28"
+    },
+    {
+     "id": "824734",
+     "nombre": "MIDEA Freidora de Aire 4 litros MF-TN40D2",
+     "tienda": "Falabella Marketplace",
+     "ahora": 39990,
+     "antes": 69990,
+     "pct": 42,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 89,
+     "visto": "10:28"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1791816389267-r4.mp4"
+   ],
+   "texto": "🔥 3 ofertas en comparativa: mismo tipo de producto\n1. PRIMATERM Estufa Calefactor Eléctrico Alumax 500w PRIMATERM: $49.990 (-44%, referencia $89.990) en Falabella Marketplace · 📉 mínimo de 74 días\n2. DOLCE&GABBANA Perfume Hombre EDP Dolce&Gabbana: $91.890 (-42%, referencia $159.990) en Falabella\n3. MIDEA Freidora de Aire 4 litros MF-TN40D2: $39.990 (-42%, referencia $69.990) en Falabella Marketplace · 📉 mínimo de 89 días\n\n⏰ Precios vistos hoy (12/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
   }
  },
  "config": {
@@ -3478,7 +3529,7 @@
    "hasta": "2026-10-12T05:01:19.398Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-12T14:46:13.737Z"
+  "ultimaPub": "2026-10-12T14:47:52.697Z"
  },
  "seguidores": 49,
  "informeFecha": "2026-10-11",
