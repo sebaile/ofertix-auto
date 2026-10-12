@@ -38,7 +38,7 @@
   "824616": "2026-10-11T13:03:35.550Z",
   "824734": "2026-10-12T14:47:52.696Z",
   "825803": "2026-10-11T13:35:20.093Z",
-  "825810": "2026-10-11T13:32:53.570Z",
+  "825810": "2026-10-12T15:04:09.362Z",
   "825834": "2026-10-11T11:49:12.493Z",
   "825840": "2026-10-10T21:31:20.651Z",
   "825872": "2026-10-11T12:47:40.229Z",
@@ -136,7 +136,7 @@
   "parlante portatil emberton iii black and brass": "2026-10-11T13:05:04.668Z",
   "audifonos jbl tune 530 conector 3 5mm negro": "2026-10-11T13:05:04.668Z",
   "barra de sonido 2 1 ksb 050 klip xtreme 120 watts bluetooth": "2026-10-11T13:05:04.668Z",
-  "nescafe cafetera nescafe dolce gusto piccolo xs": "2026-10-11T13:32:53.570Z",
+  "nescafe cafetera nescafe dolce gusto piccolo xs": "2026-10-12T15:04:09.362Z",
   "sony juego saros ps5 sony": "2026-10-11T13:35:20.093Z",
   "gucci gucci flora gorgeous jasmine eau de parfum para mujer 100 ml": "2026-10-11T13:35:20.093Z",
   "siegen ondulador waver sg b2601 siegen generador de iones 230 c": "2026-10-11T13:35:20.093Z",
@@ -3532,6 +3532,35 @@
      "visto": "11:27"
     }
    ]
+  },
+  "2026-10-12-r-carrusel-1791817449362": {
+   "tipo": "carrusel",
+   "fecha": "2026-10-12",
+   "estado": "publicado",
+   "bloque": "comparativas",
+   "formato": "oferta",
+   "hora": "12:04",
+   "id": "18130328965828349",
+   "enlace": "https://www.instagram.com/p/DeZgxv_G-jZ/",
+   "ofertas": [
+    {
+     "id": "825810",
+     "nombre": "NESCAFE Cafetera Nescafé Dolce Gusto Piccolo XS",
+     "tienda": "Falabella",
+     "ahora": 39990,
+     "antes": 67990,
+     "pct": 41,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 74,
+     "visto": "11:27"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1791817415369-c5-1.jpg",
+    "tmp-medios/1791817415369-c5-2.jpg"
+   ],
+   "texto": "🔥 OFERTA DEL DÍA\nNESCAFE Cafetera Nescafé Dolce Gusto Piccolo XS\nAhora: $39.990 (-41%)\nReferencia: $67.990\n🏪 Falabella\n\n✅ Precio visto hoy a las 11:27 en nuestro sistema.\n📉 Es el precio más bajo de los últimos 74 días.\n⏰ Puede cambiar o agotarse sin aviso.\n📲 Enlace directo en Telegram: t.me/ofertixcl\n\n#ofertaschile #hogar #descuentoschile #ofertix #ofertasdeldia"
   }
  },
  "config": {
@@ -3551,7 +3580,7 @@
    "hasta": "2026-10-12T05:01:19.398Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-12T15:01:44.749Z"
+  "ultimaPub": "2026-10-12T15:04:09.362Z"
  },
  "seguidores": 49,
  "informeFecha": "2026-10-11",
