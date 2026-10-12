@@ -83,6 +83,7 @@
   "1157052": "2026-10-12T11:02:06.879Z",
   "1157346": "2026-10-12T11:48:07.994Z",
   "1500833": "2026-10-12T11:48:07.994Z",
+  "1502162": "2026-10-12T17:02:57.337Z",
   "1529581": "2026-10-12T11:32:21.131Z",
   "1530831": "2026-10-12T16:17:29.866Z",
   "1531094": "2026-10-12T16:17:29.866Z",
@@ -179,7 +180,8 @@
   "tablet 9 7 xiaomi redmi pad 2 9 7 4 gb ram 128 gb gris": "2026-10-12T13:49:18.882Z",
   "nespresso cafetera essenza mini negra espumador": "2026-10-12T16:17:29.866Z",
   "sony parlante portatil inalambrico linkbuds speaker blanco": "2026-10-12T16:17:29.866Z",
-  "fdv hervidor de vidrio crystal 1 7 lts kegs5813 gs fdv": "2026-10-12T16:17:29.866Z"
+  "fdv hervidor de vidrio crystal 1 7 lts kegs5813 gs fdv": "2026-10-12T16:17:29.866Z",
+  "rowenta aspiradora 900 kw 2 5 litros ro4b25ea": "2026-10-12T17:02:57.337Z"
  },
  "items": {
   "2026-10-09-carrusel": {
@@ -3911,6 +3913,35 @@
      "visto": "12:33"
     }
    ]
+  },
+  "2026-10-12-r-carrusel-1791824577337": {
+   "tipo": "carrusel",
+   "fecha": "2026-10-12",
+   "estado": "publicado",
+   "bloque": "comparativas",
+   "formato": "oferta",
+   "hora": "14:02",
+   "id": "18088720178698105",
+   "enlace": "https://www.instagram.com/p/DeZuYCCGqbP/",
+   "ofertas": [
+    {
+     "id": "1502162",
+     "nombre": "ROWENTA Aspiradora 900 kW 2.5 Litros RO4B25EA",
+     "tienda": "Sodimac",
+     "ahora": 64990,
+     "antes": 109990,
+     "pct": 40,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 78,
+     "visto": "13:31"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1791824546499-c7-1.jpg",
+    "tmp-medios/1791824546499-c7-2.jpg"
+   ],
+   "texto": "🔥 OFERTA DEL DÍA\nROWENTA Aspiradora 900 kW 2.5 Litros RO4B25EA\nAhora: $64.990 (-40%)\nReferencia: $109.990\n🏪 Sodimac\n\n✅ Precio visto hoy a las 13:31 en nuestro sistema.\n⏰ Puede cambiar o agotarse sin aviso.\n📲 Enlace directo en Telegram: t.me/ofertixcl\n\n#ofertaschile #hogar #descuentoschile #ofertix #ofertasdeldia"
   }
  },
  "config": {
@@ -3930,7 +3961,7 @@
    "hasta": "2026-10-12T05:01:19.398Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-12T16:46:31.594Z"
+  "ultimaPub": "2026-10-12T17:02:57.337Z"
  },
  "seguidores": 49,
  "informeFecha": "2026-10-11",
