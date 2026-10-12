@@ -77,12 +77,15 @@
   "1143849": "2026-10-12T11:32:21.131Z",
   "1147873": "2026-10-11T22:48:01.730Z",
   "1147916": "2026-10-12T11:48:07.994Z",
+  "1151384": "2026-10-12T16:17:29.866Z",
   "1151385": "2026-10-10T19:03:42.062Z",
   "1151387": "2026-10-12T11:32:21.131Z",
   "1157052": "2026-10-12T11:02:06.879Z",
   "1157346": "2026-10-12T11:48:07.994Z",
   "1500833": "2026-10-12T11:48:07.994Z",
   "1529581": "2026-10-12T11:32:21.131Z",
+  "1530831": "2026-10-12T16:17:29.866Z",
+  "1531094": "2026-10-12T16:17:29.866Z",
   "1574439": "2026-10-12T12:18:00.106Z",
   "1576473": "2026-10-12T12:18:00.106Z",
   "1583369": "2026-10-12T13:02:28.135Z",
@@ -173,7 +176,10 @@
   "karcher aspiradora corta pelos mascotas pet clean 1 4 litros": "2026-10-12T13:02:28.135Z",
   "marshall audifonos bluetooth on ear marshall major v crema": "2026-10-12T13:17:39.055Z",
   "jbl jbl audifonos live 780nc azul": "2026-10-12T13:17:39.055Z",
-  "tablet 9 7 xiaomi redmi pad 2 9 7 4 gb ram 128 gb gris": "2026-10-12T13:49:18.882Z"
+  "tablet 9 7 xiaomi redmi pad 2 9 7 4 gb ram 128 gb gris": "2026-10-12T13:49:18.882Z",
+  "nespresso cafetera essenza mini negra espumador": "2026-10-12T16:17:29.866Z",
+  "sony parlante portatil inalambrico linkbuds speaker blanco": "2026-10-12T16:17:29.866Z",
+  "fdv hervidor de vidrio crystal 1 7 lts kegs5813 gs fdv": "2026-10-12T16:17:29.866Z"
  },
  "items": {
   "2026-10-09-carrusel": {
@@ -3744,6 +3750,57 @@
      "visto": "11:27"
     }
    ]
+  },
+  "2026-10-12-r-reel-1791821849867": {
+   "tipo": "reel",
+   "fecha": "2026-10-12",
+   "estado": "publicado",
+   "bloque": "comparativas",
+   "hora": "13:17",
+   "id": "17916258831452205",
+   "enlace": "https://www.instagram.com/reel/DeZpIg9gBdi/",
+   "ofertas": [
+    {
+     "id": "1530831",
+     "nombre": "Nespresso Cafetera Essenza Mini Negra + Espumador",
+     "tienda": "Lider",
+     "ahora": 83990,
+     "antes": 179990,
+     "pct": 53,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 81,
+     "visto": "12:33"
+    },
+    {
+     "id": "1151384",
+     "nombre": "Sony Parlante portátil inalámbrico LinkBuds Speaker Blanco",
+     "tienda": "Lider Marketplace",
+     "ahora": 99990,
+     "antes": 199990,
+     "pct": 50,
+     "rubro": "tecnologia",
+     "esMinimo": false,
+     "dias": 7,
+     "visto": "12:33"
+    },
+    {
+     "id": "1531094",
+     "nombre": "FDV Hervidor de Vidrio Crystal 1.7 Lts KEGS5813-GS FDV",
+     "tienda": "Lider",
+     "ahora": 19990,
+     "antes": 34990,
+     "pct": 42,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 7,
+     "visto": "12:33"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1791821760624-r5.mp4"
+   ],
+   "texto": "🔥 3 ofertas con los descuentos más altos\n1. Nespresso Cafetera Essenza Mini Negra + Espumador: $83.990 (-53%, referencia $179.990) en Lider\n2. Sony Parlante portátil inalámbrico LinkBuds Speaker Blanco: $99.990 (-50%, referencia $199.990) en Lider Marketplace\n3. FDV Hervidor de Vidrio Crystal 1.7 Lts KEGS5813-GS FDV: $19.990 (-42%, referencia $34.990) en Lider\n\n⏰ Precios vistos hoy (12/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
   }
  },
  "config": {
@@ -3763,7 +3820,7 @@
    "hasta": "2026-10-12T05:01:19.398Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-12T16:02:26.143Z"
+  "ultimaPub": "2026-10-12T16:17:29.867Z"
  },
  "seguidores": 49,
  "informeFecha": "2026-10-11",
