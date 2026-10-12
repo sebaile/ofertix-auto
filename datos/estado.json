@@ -72,6 +72,7 @@
   "1147873": "2026-10-11T22:48:01.730Z",
   "1147916": "2026-10-10T19:03:42.062Z",
   "1151385": "2026-10-10T19:03:42.062Z",
+  "1157052": "2026-10-12T11:02:06.879Z",
   "1157346": "2026-10-10T21:31:20.651Z"
  },
  "nombres": {
@@ -145,7 +146,8 @@
   "hugo boss xy edt 100 ml h": "2026-10-11T15:50:06.762Z",
   "lattafa yara edp 100 ml m": "2026-10-11T15:50:06.762Z",
   "just home collection silla gamer escritorio negro": "2026-10-11T22:48:01.730Z",
-  "far cry silver pack": "2026-10-11T22:48:01.730Z"
+  "far cry silver pack": "2026-10-11T22:48:01.730Z",
+  "parlante portatil oracle red bull racing rb sk410": "2026-10-12T11:02:06.879Z"
  },
  "items": {
   "2026-10-09-carrusel": {
@@ -2610,6 +2612,35 @@
     "comments": 0,
     "al": "2026-10-12T00:30:32.793Z"
    }
+  },
+  "2026-10-12-r-carrusel-1791802926879": {
+   "tipo": "carrusel",
+   "fecha": "2026-10-12",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "formato": "oferta",
+   "hora": "08:02",
+   "id": "18399151195202604",
+   "enlace": "https://www.instagram.com/p/DeZFFDpFSf-/",
+   "ofertas": [
+    {
+     "id": "1157052",
+     "nombre": "Parlante Portátil Oracle Red Bull Racing RB-SK410",
+     "tienda": "PC Factory",
+     "ahora": 20590,
+     "antes": 51590,
+     "pct": 60,
+     "rubro": "tecnologia",
+     "esMinimo": true,
+     "dias": 83,
+     "visto": "07:18"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1791802900708-c0-1.jpg",
+    "tmp-medios/1791802900708-c0-2.jpg"
+   ],
+   "texto": "🔥 OFERTA NUEVA\nParlante Portátil Oracle Red Bull Racing RB-SK410\nAhora: $20.590 (-60%)\nReferencia: $51.590\n🏪 PC Factory\n\n✅ Precio visto hoy a las 07:18 en nuestro sistema.\n📉 Es el precio más bajo de los últimos 83 días.\n⏰ Puede cambiar o agotarse sin aviso.\n📲 Enlace directo en Telegram: t.me/ofertixcl\n\n#ofertaschile #tecnologia #descuentoschile #ofertix #ofertasdeldia"
   }
  },
  "config": {
@@ -2629,7 +2660,7 @@
    "hasta": "2026-10-12T05:01:19.398Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-11T22:48:01.730Z"
+  "ultimaPub": "2026-10-12T11:02:06.879Z"
  },
  "seguidores": 49,
  "informeFecha": "2026-10-11",
