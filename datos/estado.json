@@ -5076,6 +5076,28 @@
     "tmp-medios/1791909069269-r6.mp4"
    ],
    "texto": "🔥 3 ofertas de hoy\n1. Edición digital de lujo de Returnal (PS5): $19.562 (-75%, referencia $78.279) en PlayStation Store\n2. Zapatilla Project Rock 7 Hombre Verde: $59.990 (-60%, referencia $149.990) en Under Armour\n3. Microsoft 365 Familia Licencia Digital Anual (EP2-32295): $109.990 (-61%, referencia $285.000) en Reuse\n\n⏰ Precios vistos hoy (13/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
+  },
+  "2026-10-13-r-historia-1791909168263": {
+   "tipo": "historia",
+   "fecha": "2026-10-13",
+   "estado": "publicado",
+   "bloque": "comparativas",
+   "hora": "13:32",
+   "id": "18073826168484975",
+   "ofertas": [
+    {
+     "id": "1695609",
+     "nombre": "MIKROTIK mANTBox 52 15s with RouterOS L4 license",
+     "tienda": "Tecnomas.cl",
+     "ahora": 132990,
+     "antes": 223990,
+     "pct": 40,
+     "rubro": "tecnologia",
+     "esMinimo": true,
+     "dias": 52,
+     "visto": "12:52"
+    }
+   ]
   }
  },
  "config": {
@@ -5095,7 +5117,7 @@
    "hasta": "2026-10-13T02:31:24.474Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-13T16:32:30.768Z"
+  "ultimaPub": "2026-10-13T16:32:48.264Z"
  },
  "seguidores": 49,
  "informeFecha": "2026-10-12",
@@ -5141,6 +5163,7 @@
   "1592754": "2026-10-13T11:48:02.311Z",
   "1595843": "2026-10-13T13:31:37.342Z",
   "1634653": "2026-10-13T13:46:08.842Z",
-  "1669911": "2026-10-13T11:02:29.763Z"
+  "1669911": "2026-10-13T11:02:29.763Z",
+  "1695609": "2026-10-13T16:32:48.263Z"
  }
 }
