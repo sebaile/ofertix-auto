@@ -32,6 +32,7 @@
   "333546": "2026-10-11T13:03:35.550Z",
   "333563": "2026-10-11T11:47:51.716Z",
   "468623": "2026-10-13T15:04:09.972Z",
+  "709365": "2026-10-13T16:02:47.435Z",
   "716674": "2026-10-11T14:47:31.662Z",
   "718625": "2026-10-11T14:47:31.662Z",
   "824616": "2026-10-11T13:03:35.550Z",
@@ -99,7 +100,9 @@
   "1669911": "2026-10-13T11:02:08.979Z",
   "1673324": "2026-10-13T13:18:01.879Z",
   "1673333": "2026-10-13T13:47:43.113Z",
-  "1673340": "2026-10-13T13:47:43.113Z"
+  "1673340": "2026-10-13T13:47:43.113Z",
+  "1695609": "2026-10-13T16:02:47.435Z",
+  "1696326": "2026-10-13T16:02:47.435Z"
  },
  "nombres": {
   "encimera a gas 5 quemadores gris": "2026-10-12T13:02:28.135Z",
@@ -200,7 +203,10 @@
   "rabanne perfume hombre black xs edt 100ml rabanne": "2026-10-13T13:18:01.879Z",
   "jbl jbl audifonos live 780nc negro": "2026-10-13T13:18:01.879Z",
   "carolina herrera perfume hombre bad boy edt 50ml carolina herrera": "2026-10-13T13:47:43.113Z",
-  "nina ricci perfume mujer nina ricci nina edt 50ml nina ricci": "2026-10-13T13:47:43.113Z"
+  "nina ricci perfume mujer nina ricci nina edt 50ml nina ricci": "2026-10-13T13:47:43.113Z",
+  "zapato cuero mujer spinal slip on cafe hush puppies": "2026-10-13T16:02:47.435Z",
+  "mikrotik mantbox 52 15s with routeros l4 license": "2026-10-13T16:02:47.435Z",
+  "botin cuero hombre theobald cafe oscuro hush puppies": "2026-10-13T16:02:47.435Z"
  },
  "items": {
   "2026-10-10-historias": {
@@ -4858,6 +4864,57 @@
      "visto": "11:55"
     }
    ]
+  },
+  "2026-10-13-r-reel-1791907367436": {
+   "tipo": "reel",
+   "fecha": "2026-10-13",
+   "estado": "publicado",
+   "bloque": "comparativas",
+   "hora": "13:02",
+   "id": "18115652048027940",
+   "enlace": "https://www.instagram.com/reel/DecMPxbDHv3/",
+   "ofertas": [
+    {
+     "id": "1696326",
+     "nombre": "Zapato Cuero Mujer Spinal Slip On Café Hush Puppies",
+     "tienda": "Hush Puppies",
+     "ahora": 33996,
+     "antes": 84990,
+     "pct": 60,
+     "rubro": "moda",
+     "esMinimo": false,
+     "dias": 0,
+     "visto": "12:56"
+    },
+    {
+     "id": "1695609",
+     "nombre": "MIKROTIK mANTBox 52 15s with RouterOS L4 license",
+     "tienda": "Tecnomas.cl",
+     "ahora": 132990,
+     "antes": 223990,
+     "pct": 40,
+     "rubro": "tecnologia",
+     "esMinimo": true,
+     "dias": 52,
+     "visto": "11:55"
+    },
+    {
+     "id": "709365",
+     "nombre": "Botin Cuero Hombre Theobald Café Oscuro Hush Puppies",
+     "tienda": "Hush Puppies",
+     "ahora": 31996,
+     "antes": 79990,
+     "pct": 60,
+     "rubro": "moda",
+     "esMinimo": false,
+     "dias": 4,
+     "visto": "12:56"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1791907288234-r4.mp4"
+   ],
+   "texto": "🔥 3 ofertas en comparativa: mismo tipo de producto\n1. Zapato Cuero Mujer Spinal Slip On Café Hush Puppies: $33.996 (-60%, referencia $84.990) en Hush Puppies\n2. MIKROTIK mANTBox 52 15s with RouterOS L4 license: $132.990 (-40%, referencia $223.990) en Tecnomas.cl · 📉 mínimo de 52 días\n3. Botin Cuero Hombre Theobald Café Oscuro Hush Puppies: $31.996 (-60%, referencia $79.990) en Hush Puppies\n\n⏰ Precios vistos hoy (13/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
   }
  },
  "config": {
@@ -4877,7 +4934,7 @@
    "hasta": "2026-10-13T02:31:24.474Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-13T15:46:34.844Z"
+  "ultimaPub": "2026-10-13T16:02:47.436Z"
  },
  "seguidores": 49,
  "informeFecha": "2026-10-12",
