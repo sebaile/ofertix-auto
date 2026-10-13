@@ -74,7 +74,7 @@
   "1143849": "2026-10-12T11:32:21.131Z",
   "1144208": "2026-10-13T11:32:06.789Z",
   "1147873": "2026-10-13T11:47:42.681Z",
-  "1147916": "2026-10-12T11:48:07.994Z",
+  "1147916": "2026-10-13T12:32:15.194Z",
   "1151384": "2026-10-12T16:17:29.866Z",
   "1151385": "2026-10-10T19:03:42.062Z",
   "1151387": "2026-10-12T11:32:21.131Z",
@@ -109,7 +109,7 @@
   "nutribullet freidora de aire digital nutribullet twin drawer": "2026-10-11T22:48:01.730Z",
   "blik parlante blik bass 300": "2026-10-10T19:03:42.062Z",
   "dolce gabbana perfume mujer light blue edt 200ml dolce gabbana": "2026-10-13T11:47:42.681Z",
-  "encimera a gas 5 quemadores silver na75d3030as zs": "2026-10-12T11:48:07.994Z",
+  "encimera a gas 5 quemadores silver na75d3030as zs": "2026-10-13T12:32:15.194Z",
   "endless legend definitive edition": "2026-10-10T19:12:16.865Z",
   "scanner panasonic kv s1015c x": "2026-10-11T22:48:01.730Z",
   "sony death stranding 2 on the beach ps5 sony": "2026-10-10T21:31:20.651Z",
@@ -4182,6 +4182,35 @@
      "visto": "07:51"
     }
    ]
+  },
+  "2026-10-13-r-carrusel-1791894735194": {
+   "tipo": "carrusel",
+   "fecha": "2026-10-13",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "formato": "oferta",
+   "hora": "09:32",
+   "id": "18093855593178411",
+   "enlace": "https://www.instagram.com/p/Deb0MAdFh8b/",
+   "ofertas": [
+    {
+     "id": "1147916",
+     "nombre": "Encimera a Gas 5 quemadores (Silver) (NA75D3030AS/ZS)",
+     "tienda": "Samsung Shop",
+     "ahora": 179990,
+     "antes": 359990,
+     "pct": 50,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 63,
+     "visto": "08:53"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1791894701607-c2-1.jpg",
+    "tmp-medios/1791894701607-c2-2.jpg"
+   ],
+   "texto": "🔥 OFERTA NUEVA\nEncimera a Gas 5 quemadores (Silver) (NA75D3030AS/ZS)\nAhora: $179.990 (-50%)\nReferencia: $359.990\n🏪 Samsung Shop\n\n✅ Precio visto hoy a las 08:53 en nuestro sistema.\n📉 Es el precio más bajo de los últimos 63 días.\n⏰ Puede cambiar o agotarse sin aviso.\n📲 Enlace directo en Telegram: t.me/ofertixcl\n\n#ofertaschile #hogar #descuentoschile #ofertix #ofertasdeldia"
   }
  },
  "config": {
@@ -4201,7 +4230,7 @@
    "hasta": "2026-10-13T02:31:24.474Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-13T12:17:44.131Z"
+  "ultimaPub": "2026-10-13T12:32:15.194Z"
  },
  "seguidores": 49,
  "informeFecha": "2026-10-12",
