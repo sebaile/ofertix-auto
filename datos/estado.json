@@ -4039,6 +4039,28 @@
     "tmp-medios/1791892030454-c1-3.jpg"
    ],
    "texto": "🏆 Ofertas nuevas de hoy\n1. Audiífonos Bluetooth Honor Earbuds X7i lite Blanco: $20.990 (-44%) en Tecnomas.cl · 📉 mínimo de 85 días\n2. JUST HOME COLLECTION Silla Gamer Escritorio Negro: $54.990 (-69%) en Sodimac · 📉 mínimo de 74 días\n3. ALBIN TROTTER Calefón 8 Litros Gas Licuado Tiro Natural Ionizado: $94.990 (-50%) en Sodimac\n4. Nex Ventilador suelo industrial 30'' negro: $89.990 (-50%) en Easy\n5. DOLCE&GABBANA Perfume Mujer Light Blue Edt 200Ml Dolce&Gabbana: $89.990 (-52%) en Falabella · 📉 mínimo de 28 días\n\n⏰ Precios vistos hoy (13/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #top5 #descuentoschile #ofertix #ahorrar"
+  },
+  "2026-10-13-r-historia-1791892082311": {
+   "tipo": "historia",
+   "fecha": "2026-10-13",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "hora": "08:48",
+   "id": "18106286261196007",
+   "ofertas": [
+    {
+     "id": "1592754",
+     "nombre": "Nex Ventilador suelo industrial 42'' negro",
+     "tienda": "Easy",
+     "ahora": 149990,
+     "antes": 319990,
+     "pct": 53,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 13,
+     "visto": "07:51"
+    }
+   ]
   }
  },
  "config": {
@@ -4058,7 +4080,7 @@
    "hasta": "2026-10-13T02:31:24.474Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-13T11:47:42.682Z"
+  "ultimaPub": "2026-10-13T11:48:02.312Z"
  },
  "seguidores": 49,
  "informeFecha": "2026-10-12",
@@ -4106,6 +4128,7 @@
   "1529581": "2026-10-13T11:32:28.677Z",
   "1574439": "2026-10-13T11:16:18.699Z",
   "1576473": "2026-10-12T13:46:47.635Z",
+  "1592754": "2026-10-13T11:48:02.311Z",
   "1669911": "2026-10-13T11:02:29.763Z"
  }
 }
