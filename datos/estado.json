@@ -72,13 +72,15 @@
   "1137385": "2026-10-12T13:49:18.882Z",
   "1137613": "2026-10-12T11:48:07.994Z",
   "1143849": "2026-10-12T11:32:21.131Z",
+  "1144208": "2026-10-13T11:32:06.789Z",
   "1147873": "2026-10-11T22:48:01.730Z",
   "1147916": "2026-10-12T11:48:07.994Z",
   "1151384": "2026-10-12T16:17:29.866Z",
   "1151385": "2026-10-10T19:03:42.062Z",
   "1151387": "2026-10-12T11:32:21.131Z",
-  "1157052": "2026-10-12T11:02:06.879Z",
+  "1157052": "2026-10-13T11:32:06.789Z",
   "1157346": "2026-10-12T11:48:07.994Z",
+  "1452540": "2026-10-13T11:32:06.789Z",
   "1500833": "2026-10-12T11:48:07.994Z",
   "1502162": "2026-10-12T17:02:57.337Z",
   "1529581": "2026-10-12T11:32:21.131Z",
@@ -160,7 +162,7 @@
   "lattafa yara edp 100 ml m": "2026-10-11T15:50:06.762Z",
   "just home collection silla gamer escritorio negro": "2026-10-11T22:48:01.730Z",
   "far cry silver pack": "2026-10-11T22:48:01.730Z",
-  "parlante portatil oracle red bull racing rb sk410": "2026-10-12T11:02:06.879Z",
+  "parlante portatil oracle red bull racing rb sk410": "2026-10-13T11:32:06.789Z",
   "base de carga plana inalambrica 2 en 1 belkin boostcharge pro negro": "2026-10-12T11:32:21.131Z",
   "audio technica microfono audio technica dinamico cardioide ae4100": "2026-10-12T11:32:21.131Z",
   "audiifonos bluetooth honor earbuds x7i lite blanco": "2026-10-12T11:32:21.131Z",
@@ -178,7 +180,9 @@
   "sony parlante portatil inalambrico linkbuds speaker blanco": "2026-10-12T16:17:29.866Z",
   "fdv hervidor de vidrio crystal 1 7 lts kegs5813 gs fdv": "2026-10-12T16:17:29.866Z",
   "rowenta aspiradora 900 kw 2 5 litros ro4b25ea": "2026-10-12T17:02:57.337Z",
-  "oferta mikrotik pwr line ap routeros l4 european plug type c": "2026-10-13T11:02:08.979Z"
+  "oferta mikrotik pwr line ap routeros l4 european plug type c": "2026-10-13T11:02:08.979Z",
+  "samsung fabric band s m blue para galaxy watch9 watch8": "2026-10-13T11:32:06.789Z",
+  "audio technica microfono audio technica dinamico cardioide ae5100": "2026-10-13T11:32:06.789Z"
  },
  "items": {
   "2026-10-10-historias": {
@@ -3880,6 +3884,57 @@
      "visto": "06:41"
     }
    ]
+  },
+  "2026-10-13-r-reel-1791891126789": {
+   "tipo": "reel",
+   "fecha": "2026-10-13",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "hora": "08:32",
+   "id": "18131683342665224",
+   "enlace": "https://www.instagram.com/reel/DebtRoPEnJ0/",
+   "ofertas": [
+    {
+     "id": "1452540",
+     "nombre": "Samsung Fabric Band (S/M) Blue para Galaxy Watch9 | Watch8",
+     "tienda": "Lider Marketplace",
+     "ahora": 29990,
+     "antes": 49990,
+     "pct": 40,
+     "rubro": "tecnologia",
+     "esMinimo": true,
+     "dias": 48,
+     "visto": "07:51"
+    },
+    {
+     "id": "1157052",
+     "nombre": "Parlante Portátil Oracle Red Bull Racing RB-SK410",
+     "tienda": "PC Factory",
+     "ahora": 20590,
+     "antes": 51590,
+     "pct": 60,
+     "rubro": "tecnologia",
+     "esMinimo": true,
+     "dias": 84,
+     "visto": "07:51"
+    },
+    {
+     "id": "1144208",
+     "nombre": "Audio-technica Micrófono Audio-Technica Dinámico Cardioide Ae5100",
+     "tienda": "Lider Marketplace",
+     "ahora": 219990,
+     "antes": 369990,
+     "pct": 40,
+     "rubro": "tecnologia",
+     "esMinimo": true,
+     "dias": 81,
+     "visto": "07:51"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1791891054465-r0.mp4"
+   ],
+   "texto": "🔥 3 ofertas de tecnología\n1. Samsung Fabric Band (S/M) Blue para Galaxy Watch9 | Watch8: $29.990 (-40%, referencia $49.990) en Lider Marketplace · 📉 mínimo de 48 días\n2. Parlante Portátil Oracle Red Bull Racing RB-SK410: $20.590 (-60%, referencia $51.590) en PC Factory · 📉 mínimo de 84 días\n3. Audio-technica Micrófono Audio-Technica Dinámico Cardioide Ae5100: $219.990 (-40%, referencia $369.990) en Lider Marketplace · 📉 mínimo de 81 días\n\n⏰ Precios vistos hoy (13/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #tecnologia #descuentoschile #ofertix #ofertasdeldia #ahorrar"
   }
  },
  "config": {
@@ -3899,7 +3954,7 @@
    "hasta": "2026-10-13T02:31:24.474Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-13T11:16:18.699Z"
+  "ultimaPub": "2026-10-13T11:32:06.789Z"
  },
  "seguidores": 49,
  "informeFecha": "2026-10-12",
