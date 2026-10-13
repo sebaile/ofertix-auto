@@ -5337,6 +5337,28 @@
     "tmp-medios/1791912689706-r7.mp4"
    ],
    "texto": "🔥 3 ofertas de perfumes en comparativa\n1. Ralph Lauren Polo Sport Fresh EDT 125 ML (H): $25.900 (-56%, referencia $59.900) en Perfumes Chile\n2. FERRAGAMO Perfume Hombre Red Men Edp 50 Ml Ferragamo: $48.590 (-40%, referencia $80.990) en Falabella · 📉 mínimo de 75 días\n3. Lattafa Fakhar EDP 100 ML (H): $19.500 (-51%, referencia $39.900) en Perfumes Chile\n\n⏰ Precios vistos hoy (13/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #perfumes #descuentoschile #ofertix #ofertasdeldia #ahorrar"
+  },
+  "2026-10-13-r-historia-1791912778616": {
+   "tipo": "historia",
+   "fecha": "2026-10-13",
+   "estado": "publicado",
+   "bloque": "comparativas",
+   "hora": "14:32",
+   "id": "18110151680266468",
+   "ofertas": [
+    {
+     "id": "912398",
+     "nombre": "Demon’s Souls (PS5)",
+     "tienda": "PlayStation Store",
+     "ahora": 17116,
+     "antes": 68493,
+     "pct": 75,
+     "rubro": "gamer",
+     "esMinimo": false,
+     "dias": 3,
+     "visto": "13:29"
+    }
+   ]
   }
  },
  "config": {
@@ -5356,7 +5378,7 @@
    "hasta": "2026-10-13T02:31:24.474Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-13T17:32:36.341Z"
+  "ultimaPub": "2026-10-13T17:32:58.616Z"
  },
  "seguidores": 49,
  "informeFecha": "2026-10-12",
@@ -5371,6 +5393,7 @@
   "716674": "2026-10-13T17:16:39.078Z",
   "824715": "2026-10-13T15:46:34.844Z",
   "825872": "2026-10-11T22:31:14.555Z",
+  "912398": "2026-10-13T17:32:58.616Z",
   "912406": "2026-10-13T17:03:27.800Z",
   "1000952": "2026-10-12T14:46:13.737Z",
   "1063781": "2026-10-12T15:46:16.465Z",
