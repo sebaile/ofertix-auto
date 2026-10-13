@@ -31,12 +31,12 @@
   "299940": "2026-10-10T23:31:46.966Z",
   "333546": "2026-10-11T13:03:35.550Z",
   "333563": "2026-10-11T11:47:51.716Z",
-  "468623": "2026-10-12T14:47:52.696Z",
+  "468623": "2026-10-13T15:04:09.972Z",
   "716674": "2026-10-11T14:47:31.662Z",
   "718625": "2026-10-11T14:47:31.662Z",
   "824616": "2026-10-11T13:03:35.550Z",
   "824715": "2026-10-13T13:02:25.425Z",
-  "824734": "2026-10-12T14:47:52.696Z",
+  "824734": "2026-10-13T15:04:09.973Z",
   "825803": "2026-10-11T13:35:20.093Z",
   "825810": "2026-10-12T15:04:09.362Z",
   "825834": "2026-10-11T11:49:12.493Z",
@@ -55,7 +55,7 @@
   "1063788": "2026-10-11T11:47:51.716Z",
   "1064616": "2026-10-13T13:02:25.425Z",
   "1064880": "2026-10-11T22:48:01.730Z",
-  "1087230": "2026-10-12T14:47:52.696Z",
+  "1087230": "2026-10-13T15:04:09.973Z",
   "1087642": "2026-10-13T14:17:32.040Z",
   "1110715": "2026-10-12T16:02:03.620Z",
   "1110717": "2026-10-12T12:18:00.106Z",
@@ -70,7 +70,7 @@
   "1126606": "2026-10-11T13:35:20.093Z",
   "1126670": "2026-10-11T11:02:39.475Z",
   "1128340": "2026-10-11T22:48:01.730Z",
-  "1131276": "2026-10-12T13:49:18.882Z",
+  "1131276": "2026-10-13T15:04:09.973Z",
   "1137385": "2026-10-12T13:49:18.882Z",
   "1137613": "2026-10-12T11:48:07.994Z",
   "1143849": "2026-10-12T11:32:21.131Z",
@@ -106,7 +106,7 @@
   "hyperx audifonos hyperx cloud mini ultraliviano multiplataforma 3 5mm": "2026-10-11T11:47:51.716Z",
   "horno xl rotisserie oster 60 l manual gris tssttv60mns": "2026-10-11T12:18:44.704Z",
   "marshall parlante bluetooth acton iii negro marshall": "2026-10-11T13:03:35.550Z",
-  "primaterm estufa calefactor electrico alumax 500w primaterm": "2026-10-12T14:47:52.696Z",
+  "primaterm estufa calefactor electrico alumax 500w primaterm": "2026-10-13T15:04:09.973Z",
   "edicion digital de lujo de returnal ps5": "2026-10-11T15:47:34.528Z",
   "kit master g monitor parlante mgmg2730 mgsbg2": "2026-10-11T15:04:19.293Z",
   "gorro animal mixvans": "2026-10-11T14:47:31.662Z",
@@ -136,14 +136,14 @@
   "daewoo aspiradora de mano inalambrica portatil daewoo davc8v 8v": "2026-10-12T14:33:09.778Z",
   "marshall audifono on ear major v marshall negro": "2026-10-11T11:49:12.493Z",
   "dolce gabbana set de tres regalos q by dolce gabbana edp": "2026-10-12T16:02:03.620Z",
-  "teclado hyperx alloy core rgb 4p4f5ai hx kb5me2 la": "2026-10-12T13:49:18.882Z",
+  "teclado hyperx alloy core rgb 4p4f5ai hx kb5me2 la": "2026-10-13T15:04:09.973Z",
   "filtro de agua triple para sedimentos sarro cloro splendid": "2026-10-12T13:02:28.135Z",
   "jbl jbl audifonos live 780nc champan": "2026-10-11T12:47:40.229Z",
   "sony juego lost soul aside ps5 sony": "2026-10-11T12:47:40.229Z",
   "teclado gamer mecanico luces rgb kb903l havit blanco": "2026-10-11T13:03:35.550Z",
   "remington plancha alisador de pelo wet2straight remington": "2026-10-11T13:03:35.550Z",
   "magefesa nova capri cafetera en acero inoxidable 18 10 plateado": "2026-10-11T13:03:35.550Z",
-  "midea freidora de aire 4 litros mf tn40d2": "2026-10-12T14:47:52.696Z",
+  "midea freidora de aire 4 litros mf tn40d2": "2026-10-13T15:04:09.973Z",
   "parlante portatil emberton iii black and brass": "2026-10-11T13:05:04.668Z",
   "audifonos jbl tune 530 conector 3 5mm negro": "2026-10-11T13:05:04.668Z",
   "barra de sonido 2 1 ksb 050 klip xtreme 120 watts bluetooth": "2026-10-11T13:05:04.668Z",
@@ -156,7 +156,7 @@
   "calefactor quarzo magefesa fenix mgf1740": "2026-10-11T14:05:03.736Z",
   "sony juego marvels spiderman 2 ps5 std sony": "2026-10-11T14:05:03.736Z",
   "cartera cerutti cuero mujer diletta cross azul": "2026-10-11T14:33:04.465Z",
-  "dolce gabbana perfume hombre edp dolce gabbana": "2026-10-12T14:47:52.696Z",
+  "dolce gabbana perfume hombre edp dolce gabbana": "2026-10-13T15:04:09.973Z",
   "cartera cerutti cuero mujer ottavia tote blanco": "2026-10-11T14:33:04.465Z",
   "cartera studio pffr bckt bag mujer negro": "2026-10-11T14:47:31.662Z",
   "microsoft 365 familia licencia digital anual ep2 32295": "2026-10-11T15:04:19.293Z",
@@ -4682,6 +4682,72 @@
      "visto": "10:50"
     }
    ]
+  },
+  "2026-10-13-r-carrusel-1791903849973": {
+   "tipo": "carrusel",
+   "fecha": "2026-10-13",
+   "estado": "publicado",
+   "bloque": "comparativas",
+   "formato": "top5",
+   "hora": "12:04",
+   "id": "18078103931758459",
+   "enlace": "https://www.instagram.com/p/DecFktrG_kQ/",
+   "ofertas": [
+    {
+     "id": "468623",
+     "nombre": "PRIMATERM Estufa Calefactor Eléctrico Alumax 500w PRIMATERM",
+     "tienda": "Falabella Marketplace",
+     "ahora": 49990,
+     "antes": 89990,
+     "pct": 44,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 75,
+     "visto": "10:50"
+    },
+    {
+     "id": "1131276",
+     "nombre": "Teclado HyperX Alloy Core RGB (4P4F5AI / HX-KB5ME2-LA)",
+     "tienda": "Valrod",
+     "ahora": 29990,
+     "antes": 49990,
+     "pct": 40,
+     "rubro": "gamer",
+     "esMinimo": true,
+     "dias": 41,
+     "visto": "10:50"
+    },
+    {
+     "id": "1087230",
+     "nombre": "DOLCE&GABBANA Perfume Hombre EDP Dolce&Gabbana",
+     "tienda": "Falabella",
+     "ahora": 91890,
+     "antes": 159990,
+     "pct": 42,
+     "rubro": "perfumes",
+     "esMinimo": false,
+     "dias": 12,
+     "visto": "10:50"
+    },
+    {
+     "id": "824734",
+     "nombre": "MIDEA Freidora de Aire 4 litros MF-TN40D2",
+     "tienda": "Falabella Marketplace",
+     "ahora": 39990,
+     "antes": 69990,
+     "pct": 42,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 4,
+     "visto": "10:50"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1791903813844-c5-1.jpg",
+    "tmp-medios/1791903813844-c5-2.jpg",
+    "tmp-medios/1791903813844-c5-3.jpg"
+   ],
+   "texto": "🏆 Descuentos destacados\n1. PRIMATERM Estufa Calefactor Eléctrico Alumax 500w PRIMATERM: $49.990 (-44%) en Falabella Marketplace · 📉 mínimo de 75 días\n2. Teclado HyperX Alloy Core RGB (4P4F5AI / HX-KB5ME2-LA): $29.990 (-40%) en Valrod · 📉 mínimo de 41 días\n3. DOLCE&GABBANA Perfume Hombre EDP Dolce&Gabbana: $91.890 (-42%) en Falabella\n4. MIDEA Freidora de Aire 4 litros MF-TN40D2: $39.990 (-42%) en Falabella Marketplace\n\n⏰ Precios vistos hoy (13/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #top5 #descuentoschile #ofertix #ahorrar"
   }
  },
  "config": {
@@ -4701,7 +4767,7 @@
    "hasta": "2026-10-13T02:31:24.474Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-13T14:46:24.695Z"
+  "ultimaPub": "2026-10-13T15:04:09.973Z"
  },
  "seguidores": 49,
  "informeFecha": "2026-10-12",
