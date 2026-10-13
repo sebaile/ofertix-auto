@@ -35,6 +35,7 @@
   "716674": "2026-10-11T14:47:31.662Z",
   "718625": "2026-10-11T14:47:31.662Z",
   "824616": "2026-10-11T13:03:35.550Z",
+  "824715": "2026-10-13T13:02:25.425Z",
   "824734": "2026-10-12T14:47:52.696Z",
   "825803": "2026-10-11T13:35:20.093Z",
   "825810": "2026-10-12T15:04:09.362Z",
@@ -50,9 +51,9 @@
   "979599": "2026-10-11T14:05:03.736Z",
   "1000952": "2026-10-12T13:17:39.055Z",
   "1039102": "2026-10-11T13:35:20.093Z",
-  "1063781": "2026-10-12T11:48:07.994Z",
+  "1063781": "2026-10-13T13:02:25.425Z",
   "1063788": "2026-10-11T11:47:51.716Z",
-  "1064616": "2026-10-11T11:17:41.617Z",
+  "1064616": "2026-10-13T13:02:25.425Z",
   "1064880": "2026-10-11T22:48:01.730Z",
   "1087230": "2026-10-12T14:47:52.696Z",
   "1087642": "2026-10-12T13:17:39.055Z",
@@ -114,14 +115,14 @@
   "scanner panasonic kv s1015c x": "2026-10-11T22:48:01.730Z",
   "sony death stranding 2 on the beach ps5 sony": "2026-10-10T21:31:20.651Z",
   "karcher aspiradora inalambrica 223 14 w 17 litros wd 3 18": "2026-10-12T11:48:07.994Z",
-  "calvin klein calvin klein ck one eau de toilette unisex 50 ml": "2026-10-12T11:48:07.994Z",
+  "calvin klein calvin klein ck one eau de toilette unisex 50 ml": "2026-10-13T13:02:25.425Z",
   "conair secador profesional con infusion de acido hialuronico 650brb": "2026-10-10T21:31:20.651Z",
   "jimmy choo perfume mujer floral edt 90 ml jimmy choo": "2026-10-10T22:30:40.432Z",
   "flexus100 soundbar flexus core 100": "2026-10-10T23:31:46.966Z",
   "sony god of war ragnarok ps5 sony": "2026-10-10T23:31:46.966Z",
   "lattafa fakhar edp 100 ml h": "2026-10-10T23:31:46.966Z",
   "sony audifonos in ear inzone buds mdr g700n negro sony": "2026-10-11T11:02:39.475Z",
-  "marshall audifonos bluetooth on ear marshall major v cafe": "2026-10-11T11:17:41.617Z",
+  "marshall audifonos bluetooth on ear marshall major v cafe": "2026-10-13T13:02:25.425Z",
   "philips audifono bluetooth true wireless tat3509 gris philips": "2026-10-12T13:17:39.055Z",
   "primus mouse inalambrico gladius boba fett": "2026-10-12T13:17:39.055Z",
   "groner campana empotrada groner inox st 52 cm": "2026-10-12T13:49:18.881Z",
@@ -190,7 +191,8 @@
   "albin trotter calefon 8 litros gas licuado tiro natural ionizado": "2026-10-13T11:47:42.681Z",
   "nex ventilador suelo industrial 30 negro": "2026-10-13T11:47:42.681Z",
   "encimera vitroceramica teka tb 6415 4 quemadores": "2026-10-13T12:17:25.653Z",
-  "alisador gama x wide on off dual plates": "2026-10-13T12:17:25.653Z"
+  "alisador gama x wide on off dual plates": "2026-10-13T12:17:25.653Z",
+  "samsung encimera a gas 5 quemadores gris": "2026-10-13T13:02:25.425Z"
  },
  "items": {
   "2026-10-10-historias": {
@@ -4233,6 +4235,57 @@
      "visto": "08:53"
     }
    ]
+  },
+  "2026-10-13-r-reel-1791896545426": {
+   "tipo": "reel",
+   "fecha": "2026-10-13",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "hora": "10:02",
+   "id": "18133977679676581",
+   "enlace": "https://www.instagram.com/reel/Deb3mmgDICs/",
+   "ofertas": [
+    {
+     "id": "824715",
+     "nombre": "SAMSUNG Encimera a Gas 5 Quemadores Gris",
+     "tienda": "Falabella Marketplace",
+     "ahora": 199990,
+     "antes": 359990,
+     "pct": 44,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 63,
+     "visto": "08:53"
+    },
+    {
+     "id": "1063781",
+     "nombre": "CALVIN KLEIN Calvin Klein CK One Eau De Toilette Unisex 50 Ml",
+     "tienda": "Falabella",
+     "ahora": 24990,
+     "antes": 52990,
+     "pct": 52,
+     "rubro": "perfumes",
+     "esMinimo": true,
+     "dias": 73,
+     "visto": "08:53"
+    },
+    {
+     "id": "1064616",
+     "nombre": "MARSHALL Audífonos Bluetooth On Ear Marshall Major V Café",
+     "tienda": "Falabella Marketplace",
+     "ahora": 89990,
+     "antes": 149990,
+     "pct": 40,
+     "rubro": "tecnologia",
+     "esMinimo": true,
+     "dias": 84,
+     "visto": "08:53"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1791896465216-r2.mp4"
+   ],
+   "texto": "🔥 3 ofertas de hogar\n1. SAMSUNG Encimera a Gas 5 Quemadores Gris: $199.990 (-44%, referencia $359.990) en Falabella Marketplace · 📉 mínimo de 63 días\n2. CALVIN KLEIN Calvin Klein CK One Eau De Toilette Unisex 50 Ml: $24.990 (-52%, referencia $52.990) en Falabella · 📉 mínimo de 73 días\n3. MARSHALL Audífonos Bluetooth On Ear Marshall Major V Café: $89.990 (-40%, referencia $149.990) en Falabella Marketplace · 📉 mínimo de 84 días\n\n⏰ Precios vistos hoy (13/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
   }
  },
  "config": {
@@ -4252,7 +4305,7 @@
    "hasta": "2026-10-13T02:31:24.474Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-13T12:32:35.746Z"
+  "ultimaPub": "2026-10-13T13:02:25.426Z"
  },
  "seguidores": 49,
  "informeFecha": "2026-10-12",
