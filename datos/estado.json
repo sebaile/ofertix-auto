@@ -64,6 +64,7 @@
   "1119447": "2026-10-12T14:33:09.778Z",
   "1123998": "2026-10-11T12:47:40.229Z",
   "1124002": "2026-10-12T13:17:39.055Z",
+  "1124003": "2026-10-13T13:18:01.879Z",
   "1124006": "2026-10-10T22:30:40.432Z",
   "1124685": "2026-10-12T13:49:18.881Z",
   "1126606": "2026-10-11T13:35:20.093Z",
@@ -80,7 +81,7 @@
   "1151385": "2026-10-10T19:03:42.062Z",
   "1151387": "2026-10-12T11:32:21.131Z",
   "1157052": "2026-10-13T11:32:06.789Z",
-  "1157346": "2026-10-12T11:48:07.994Z",
+  "1157346": "2026-10-13T13:18:01.879Z",
   "1452540": "2026-10-13T11:32:06.789Z",
   "1500833": "2026-10-13T12:17:25.653Z",
   "1502162": "2026-10-12T17:02:57.337Z",
@@ -90,12 +91,13 @@
   "1559122": "2026-10-13T12:17:25.653Z",
   "1574439": "2026-10-12T12:18:00.106Z",
   "1576473": "2026-10-12T12:18:00.106Z",
-  "1583369": "2026-10-12T13:02:28.135Z",
+  "1583369": "2026-10-13T13:18:01.879Z",
   "1592754": "2026-10-12T12:32:10.428Z",
   "1611328": "2026-10-13T12:17:25.653Z",
   "1634653": "2026-10-13T11:47:42.681Z",
   "1664422": "2026-10-13T11:47:42.681Z",
-  "1669911": "2026-10-13T11:02:08.979Z"
+  "1669911": "2026-10-13T11:02:08.979Z",
+  "1673324": "2026-10-13T13:18:01.879Z"
  },
  "nombres": {
   "encimera a gas 5 quemadores gris": "2026-10-12T13:02:28.135Z",
@@ -114,7 +116,7 @@
   "endless legend definitive edition": "2026-10-10T19:12:16.865Z",
   "scanner panasonic kv s1015c x": "2026-10-11T22:48:01.730Z",
   "sony death stranding 2 on the beach ps5 sony": "2026-10-10T21:31:20.651Z",
-  "karcher aspiradora inalambrica 223 14 w 17 litros wd 3 18": "2026-10-12T11:48:07.994Z",
+  "karcher aspiradora inalambrica 223 14 w 17 litros wd 3 18": "2026-10-13T13:18:01.879Z",
   "calvin klein calvin klein ck one eau de toilette unisex 50 ml": "2026-10-13T13:02:25.425Z",
   "conair secador profesional con infusion de acido hialuronico 650brb": "2026-10-10T21:31:20.651Z",
   "jimmy choo perfume mujer floral edt 90 ml jimmy choo": "2026-10-10T22:30:40.432Z",
@@ -177,7 +179,7 @@
   "xiaomi 17 ultra photography kit pro negro": "2026-10-12T12:18:00.106Z",
   "ferragamo perfume hombre red men edp 50 ml ferragamo": "2026-10-12T12:18:00.106Z",
   "nex ventilador suelo industrial 42 negro": "2026-10-12T12:32:10.428Z",
-  "karcher aspiradora corta pelos mascotas pet clean 1 4 litros": "2026-10-12T13:02:28.135Z",
+  "karcher aspiradora corta pelos mascotas pet clean 1 4 litros": "2026-10-13T13:18:01.879Z",
   "marshall audifonos bluetooth on ear marshall major v crema": "2026-10-12T13:17:39.055Z",
   "jbl jbl audifonos live 780nc azul": "2026-10-12T13:17:39.055Z",
   "tablet 9 7 xiaomi redmi pad 2 9 7 4 gb ram 128 gb gris": "2026-10-12T13:49:18.882Z",
@@ -192,7 +194,9 @@
   "nex ventilador suelo industrial 30 negro": "2026-10-13T11:47:42.681Z",
   "encimera vitroceramica teka tb 6415 4 quemadores": "2026-10-13T12:17:25.653Z",
   "alisador gama x wide on off dual plates": "2026-10-13T12:17:25.653Z",
-  "samsung encimera a gas 5 quemadores gris": "2026-10-13T13:02:25.425Z"
+  "samsung encimera a gas 5 quemadores gris": "2026-10-13T13:02:25.425Z",
+  "rabanne perfume hombre black xs edt 100ml rabanne": "2026-10-13T13:18:01.879Z",
+  "jbl jbl audifonos live 780nc negro": "2026-10-13T13:18:01.879Z"
  },
  "items": {
   "2026-10-10-historias": {
@@ -4308,6 +4312,72 @@
      "visto": "08:53"
     }
    ]
+  },
+  "2026-10-13-r-carrusel-1791897481879": {
+   "tipo": "carrusel",
+   "fecha": "2026-10-13",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "formato": "top5",
+   "hora": "10:18",
+   "id": "17990203158060984",
+   "enlace": "https://www.instagram.com/p/Deb5bXim2nr/",
+   "ofertas": [
+    {
+     "id": "1583369",
+     "nombre": "Kärcher Aspiradora corta pelos mascotas Pet Clean 1.4 litros",
+     "tienda": "Easy",
+     "ahora": 99990,
+     "antes": 169990,
+     "pct": 41,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 88,
+     "visto": "08:53"
+    },
+    {
+     "id": "1673324",
+     "nombre": "RABANNE Perfume Hombre Black Xs Edt 100Ml Rabanne",
+     "tienda": "Falabella",
+     "ahora": 71990,
+     "antes": 119990,
+     "pct": 40,
+     "rubro": "perfumes",
+     "esMinimo": false,
+     "dias": 45,
+     "visto": "08:53"
+    },
+    {
+     "id": "1124003",
+     "nombre": "JBL JBL Audífonos Live 780NC - Negro",
+     "tienda": "Falabella",
+     "ahora": 99990,
+     "antes": 179990,
+     "pct": 44,
+     "rubro": "tecnologia",
+     "esMinimo": false,
+     "dias": 35,
+     "visto": "08:53"
+    },
+    {
+     "id": "1157346",
+     "nombre": "KARCHER Aspiradora Inalámbrica 223.14 W 17 Litros WD 3-18",
+     "tienda": "Sodimac",
+     "ahora": 149990,
+     "antes": 267050,
+     "pct": 43,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 60,
+     "visto": "08:53"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1791897438574-c3-1.jpg",
+    "tmp-medios/1791897438574-c3-2.jpg",
+    "tmp-medios/1791897438574-c3-3.jpg"
+   ],
+   "texto": "🏆 Top 5 en tecnología\n1. Kärcher Aspiradora corta pelos mascotas Pet Clean 1.4 litros: $99.990 (-41%) en Easy\n2. RABANNE Perfume Hombre Black Xs Edt 100Ml Rabanne: $71.990 (-40%) en Falabella\n3. JBL JBL Audífonos Live 780NC - Negro: $99.990 (-44%) en Falabella\n4. KARCHER Aspiradora Inalámbrica 223.14 W 17 Litros WD 3-18: $149.990 (-43%) en Sodimac · 📉 mínimo de 60 días\n\n⏰ Precios vistos hoy (13/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #top5 #descuentoschile #ofertix #ahorrar"
   }
  },
  "config": {
@@ -4327,7 +4397,7 @@
    "hasta": "2026-10-13T02:31:24.474Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-13T13:02:49.327Z"
+  "ultimaPub": "2026-10-13T13:18:01.879Z"
  },
  "seguidores": 49,
  "informeFecha": "2026-10-12",
