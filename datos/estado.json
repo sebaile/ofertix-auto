@@ -26,7 +26,7 @@
   "181478": "2026-10-11T14:05:03.736Z",
   "181591": "2026-10-13T13:47:43.113Z",
   "208823": "2026-10-11T14:05:03.736Z",
-  "266260": "2026-10-10T23:31:46.966Z",
+  "266260": "2026-10-13T17:32:36.341Z",
   "266261": "2026-10-11T15:50:06.762Z",
   "279009": "2026-10-11T15:04:19.293Z",
   "279051": "2026-10-13T16:32:30.767Z",
@@ -37,7 +37,7 @@
   "333563": "2026-10-11T11:47:51.716Z",
   "468623": "2026-10-13T15:04:09.972Z",
   "709365": "2026-10-13T16:02:47.435Z",
-  "716674": "2026-10-11T14:47:31.662Z",
+  "716674": "2026-10-13T17:32:36.341Z",
   "718625": "2026-10-11T14:47:31.662Z",
   "824616": "2026-10-11T13:03:35.550Z",
   "824715": "2026-10-13T13:02:25.425Z",
@@ -63,7 +63,7 @@
   "1087230": "2026-10-13T15:04:09.973Z",
   "1087642": "2026-10-13T14:17:32.040Z",
   "1110715": "2026-10-12T16:02:03.620Z",
-  "1110717": "2026-10-12T12:18:00.106Z",
+  "1110717": "2026-10-13T17:32:36.341Z",
   "1112004": "2026-10-12T13:17:39.055Z",
   "1118971": "2026-10-13T11:47:42.681Z",
   "1119447": "2026-10-12T14:33:09.778Z",
@@ -118,7 +118,7 @@
   "edicion digital de lujo de returnal ps5": "2026-10-13T16:32:30.767Z",
   "kit master g monitor parlante mgmg2730 mgsbg2": "2026-10-11T15:04:19.293Z",
   "gorro animal mixvans": "2026-10-11T14:47:31.662Z",
-  "ralph lauren polo sport fresh edt 125 ml h": "2026-10-11T14:47:31.662Z",
+  "ralph lauren polo sport fresh edt 125 ml h": "2026-10-13T17:32:36.341Z",
   "nutribullet freidora de aire digital nutribullet twin drawer": "2026-10-11T22:48:01.730Z",
   "blik parlante blik bass 300": "2026-10-10T19:03:42.062Z",
   "dolce gabbana perfume mujer light blue edt 200ml dolce gabbana": "2026-10-13T11:47:42.681Z",
@@ -132,7 +132,7 @@
   "jimmy choo perfume mujer floral edt 90 ml jimmy choo": "2026-10-10T22:30:40.432Z",
   "flexus100 soundbar flexus core 100": "2026-10-13T16:17:16.220Z",
   "sony god of war ragnarok ps5 sony": "2026-10-10T23:31:46.966Z",
-  "lattafa fakhar edp 100 ml h": "2026-10-10T23:31:46.966Z",
+  "lattafa fakhar edp 100 ml h": "2026-10-13T17:32:36.341Z",
   "sony audifonos in ear inzone buds mdr g700n negro sony": "2026-10-11T11:02:39.475Z",
   "marshall audifonos bluetooth on ear marshall major v cafe": "2026-10-13T13:02:25.425Z",
   "philips audifono bluetooth true wireless tat3509 gris philips": "2026-10-12T13:17:39.055Z",
@@ -187,7 +187,7 @@
   "kit 3 ventiladores airflow csf800 120mm argb pwm": "2026-10-12T11:48:07.994Z",
   "encimera vitroceramica teka tri 64910 tc3 4 quemadores": "2026-10-12T12:18:00.106Z",
   "xiaomi 17 ultra photography kit pro negro": "2026-10-12T12:18:00.106Z",
-  "ferragamo perfume hombre red men edp 50 ml ferragamo": "2026-10-12T12:18:00.106Z",
+  "ferragamo perfume hombre red men edp 50 ml ferragamo": "2026-10-13T17:32:36.341Z",
   "nex ventilador suelo industrial 42 negro": "2026-10-12T12:32:10.428Z",
   "karcher aspiradora corta pelos mascotas pet clean 1 4 litros": "2026-10-13T13:18:01.879Z",
   "marshall audifonos bluetooth on ear marshall major v crema": "2026-10-12T13:17:39.055Z",
@@ -5286,6 +5286,57 @@
      "visto": "12:52"
     }
    ]
+  },
+  "2026-10-13-r-reel-1791912756341": {
+   "tipo": "reel",
+   "fecha": "2026-10-13",
+   "estado": "publicado",
+   "bloque": "comparativas",
+   "hora": "14:32",
+   "id": "18164013436475219",
+   "enlace": "https://www.instagram.com/reel/DecWiTNCaUb/",
+   "ofertas": [
+    {
+     "id": "716674",
+     "nombre": "Ralph Lauren Polo Sport Fresh EDT 125 ML (H)",
+     "tienda": "Perfumes Chile",
+     "ahora": 25900,
+     "antes": 59900,
+     "pct": 56,
+     "rubro": "perfumes",
+     "esMinimo": false,
+     "dias": 4,
+     "visto": "14:06"
+    },
+    {
+     "id": "1110717",
+     "nombre": "FERRAGAMO Perfume Hombre Red Men Edp 50 Ml Ferragamo",
+     "tienda": "Falabella",
+     "ahora": 48590,
+     "antes": 80990,
+     "pct": 40,
+     "rubro": "perfumes",
+     "esMinimo": true,
+     "dias": 75,
+     "visto": "13:59"
+    },
+    {
+     "id": "266260",
+     "nombre": "Lattafa Fakhar EDP 100 ML (H)",
+     "tienda": "Perfumes Chile",
+     "ahora": 19500,
+     "antes": 39900,
+     "pct": 51,
+     "rubro": "perfumes",
+     "esMinimo": false,
+     "dias": 7,
+     "visto": "14:06"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1791912689706-r7.mp4"
+   ],
+   "texto": "🔥 3 ofertas de perfumes en comparativa\n1. Ralph Lauren Polo Sport Fresh EDT 125 ML (H): $25.900 (-56%, referencia $59.900) en Perfumes Chile\n2. FERRAGAMO Perfume Hombre Red Men Edp 50 Ml Ferragamo: $48.590 (-40%, referencia $80.990) en Falabella · 📉 mínimo de 75 días\n3. Lattafa Fakhar EDP 100 ML (H): $19.500 (-51%, referencia $39.900) en Perfumes Chile\n\n⏰ Precios vistos hoy (13/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #perfumes #descuentoschile #ofertix #ofertasdeldia #ahorrar"
   }
  },
  "config": {
@@ -5305,7 +5356,7 @@
    "hasta": "2026-10-13T02:31:24.474Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-13T17:19:39.378Z"
+  "ultimaPub": "2026-10-13T17:32:36.341Z"
  },
  "seguidores": 49,
  "informeFecha": "2026-10-12",
