@@ -59,7 +59,7 @@
   "1110715": "2026-10-12T16:02:03.620Z",
   "1110717": "2026-10-12T12:18:00.106Z",
   "1112004": "2026-10-12T13:17:39.055Z",
-  "1118971": "2026-10-11T22:48:01.730Z",
+  "1118971": "2026-10-13T11:47:42.681Z",
   "1119447": "2026-10-12T14:33:09.778Z",
   "1123998": "2026-10-11T12:47:40.229Z",
   "1124002": "2026-10-12T13:17:39.055Z",
@@ -73,7 +73,7 @@
   "1137613": "2026-10-12T11:48:07.994Z",
   "1143849": "2026-10-12T11:32:21.131Z",
   "1144208": "2026-10-13T11:32:06.789Z",
-  "1147873": "2026-10-11T22:48:01.730Z",
+  "1147873": "2026-10-13T11:47:42.681Z",
   "1147916": "2026-10-12T11:48:07.994Z",
   "1151384": "2026-10-12T16:17:29.866Z",
   "1151385": "2026-10-10T19:03:42.062Z",
@@ -83,13 +83,15 @@
   "1452540": "2026-10-13T11:32:06.789Z",
   "1500833": "2026-10-12T11:48:07.994Z",
   "1502162": "2026-10-12T17:02:57.337Z",
-  "1529581": "2026-10-12T11:32:21.131Z",
+  "1529581": "2026-10-13T11:47:42.680Z",
   "1530831": "2026-10-12T16:17:29.866Z",
   "1531094": "2026-10-12T16:17:29.866Z",
   "1574439": "2026-10-12T12:18:00.106Z",
   "1576473": "2026-10-12T12:18:00.106Z",
   "1583369": "2026-10-12T13:02:28.135Z",
   "1592754": "2026-10-12T12:32:10.428Z",
+  "1634653": "2026-10-13T11:47:42.681Z",
+  "1664422": "2026-10-13T11:47:42.681Z",
   "1669911": "2026-10-13T11:02:08.979Z"
  },
  "nombres": {
@@ -104,7 +106,7 @@
   "ralph lauren polo sport fresh edt 125 ml h": "2026-10-11T14:47:31.662Z",
   "nutribullet freidora de aire digital nutribullet twin drawer": "2026-10-11T22:48:01.730Z",
   "blik parlante blik bass 300": "2026-10-10T19:03:42.062Z",
-  "dolce gabbana perfume mujer light blue edt 200ml dolce gabbana": "2026-10-11T22:48:01.730Z",
+  "dolce gabbana perfume mujer light blue edt 200ml dolce gabbana": "2026-10-13T11:47:42.681Z",
   "encimera a gas 5 quemadores silver na75d3030as zs": "2026-10-12T11:48:07.994Z",
   "endless legend definitive edition": "2026-10-10T19:12:16.865Z",
   "scanner panasonic kv s1015c x": "2026-10-11T22:48:01.730Z",
@@ -160,12 +162,12 @@
   "lattafa asad edp 100 ml h": "2026-10-11T15:50:06.762Z",
   "hugo boss xy edt 100 ml h": "2026-10-11T15:50:06.762Z",
   "lattafa yara edp 100 ml m": "2026-10-11T15:50:06.762Z",
-  "just home collection silla gamer escritorio negro": "2026-10-11T22:48:01.730Z",
+  "just home collection silla gamer escritorio negro": "2026-10-13T11:47:42.681Z",
   "far cry silver pack": "2026-10-11T22:48:01.730Z",
   "parlante portatil oracle red bull racing rb sk410": "2026-10-13T11:32:06.789Z",
   "base de carga plana inalambrica 2 en 1 belkin boostcharge pro negro": "2026-10-12T11:32:21.131Z",
   "audio technica microfono audio technica dinamico cardioide ae4100": "2026-10-12T11:32:21.131Z",
-  "audiifonos bluetooth honor earbuds x7i lite blanco": "2026-10-12T11:32:21.131Z",
+  "audiifonos bluetooth honor earbuds x7i lite blanco": "2026-10-13T11:47:42.681Z",
   "auriculares inalambricos jbl tour one m3 smart tx mocha": "2026-10-12T11:48:07.994Z",
   "kit 3 ventiladores airflow csf800 120mm argb pwm": "2026-10-12T11:48:07.994Z",
   "encimera vitroceramica teka tri 64910 tc3 4 quemadores": "2026-10-12T12:18:00.106Z",
@@ -182,7 +184,9 @@
   "rowenta aspiradora 900 kw 2 5 litros ro4b25ea": "2026-10-12T17:02:57.337Z",
   "oferta mikrotik pwr line ap routeros l4 european plug type c": "2026-10-13T11:02:08.979Z",
   "samsung fabric band s m blue para galaxy watch9 watch8": "2026-10-13T11:32:06.789Z",
-  "audio technica microfono audio technica dinamico cardioide ae5100": "2026-10-13T11:32:06.789Z"
+  "audio technica microfono audio technica dinamico cardioide ae5100": "2026-10-13T11:32:06.789Z",
+  "albin trotter calefon 8 litros gas licuado tiro natural ionizado": "2026-10-13T11:47:42.681Z",
+  "nex ventilador suelo industrial 30 negro": "2026-10-13T11:47:42.681Z"
  },
  "items": {
   "2026-10-10-historias": {
@@ -3957,6 +3961,84 @@
      "visto": "07:51"
     }
    ]
+  },
+  "2026-10-13-r-carrusel-1791892062682": {
+   "tipo": "carrusel",
+   "fecha": "2026-10-13",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "formato": "top5",
+   "hora": "08:47",
+   "id": "18075960974726749",
+   "enlace": "https://www.instagram.com/p/DebvGgmG4YF/",
+   "ofertas": [
+    {
+     "id": "1529581",
+     "nombre": "Audiífonos Bluetooth Honor Earbuds X7i lite Blanco",
+     "tienda": "Tecnomas.cl",
+     "ahora": 20990,
+     "antes": 37990,
+     "pct": 44,
+     "rubro": "tecnologia",
+     "esMinimo": true,
+     "dias": 85,
+     "visto": "07:51"
+    },
+    {
+     "id": "1147873",
+     "nombre": "JUST HOME COLLECTION Silla Gamer Escritorio Negro",
+     "tienda": "Sodimac",
+     "ahora": 54990,
+     "antes": 179990,
+     "pct": 69,
+     "rubro": "gamer",
+     "esMinimo": true,
+     "dias": 74,
+     "visto": "07:51"
+    },
+    {
+     "id": "1664422",
+     "nombre": "ALBIN TROTTER Calefón 8 Litros Gas Licuado Tiro Natural Ionizado",
+     "tienda": "Sodimac",
+     "ahora": 94990,
+     "antes": 189990,
+     "pct": 50,
+     "rubro": "otros",
+     "esMinimo": false,
+     "dias": 12,
+     "visto": "07:51"
+    },
+    {
+     "id": "1634653",
+     "nombre": "Nex Ventilador suelo industrial 30'' negro",
+     "tienda": "Easy",
+     "ahora": 89990,
+     "antes": 179990,
+     "pct": 50,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 13,
+     "visto": "07:51"
+    },
+    {
+     "id": "1118971",
+     "nombre": "DOLCE&GABBANA Perfume Mujer Light Blue Edt 200Ml Dolce&Gabbana",
+     "tienda": "Falabella",
+     "ahora": 89990,
+     "antes": 189990,
+     "pct": 52,
+     "rubro": "perfumes",
+     "esMinimo": true,
+     "dias": 28,
+     "visto": "07:51"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1791892030454-c1-1.jpg",
+    "tmp-medios/1791892030454-c1-2.jpg",
+    "tmp-medios/1791892030454-c1-3.jpg"
+   ],
+   "texto": "🏆 Ofertas nuevas de hoy\n1. Audiífonos Bluetooth Honor Earbuds X7i lite Blanco: $20.990 (-44%) en Tecnomas.cl · 📉 mínimo de 85 días\n2. JUST HOME COLLECTION Silla Gamer Escritorio Negro: $54.990 (-69%) en Sodimac · 📉 mínimo de 74 días\n3. ALBIN TROTTER Calefón 8 Litros Gas Licuado Tiro Natural Ionizado: $94.990 (-50%) en Sodimac\n4. Nex Ventilador suelo industrial 30'' negro: $89.990 (-50%) en Easy\n5. DOLCE&GABBANA Perfume Mujer Light Blue Edt 200Ml Dolce&Gabbana: $89.990 (-52%) en Falabella · 📉 mínimo de 28 días\n\n⏰ Precios vistos hoy (13/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #top5 #descuentoschile #ofertix #ahorrar"
   }
  },
  "config": {
@@ -3976,7 +4058,7 @@
    "hasta": "2026-10-13T02:31:24.474Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-13T11:32:28.678Z"
+  "ultimaPub": "2026-10-13T11:47:42.682Z"
  },
  "seguidores": 49,
  "informeFecha": "2026-10-12",
