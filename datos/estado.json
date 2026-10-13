@@ -5198,6 +5198,28 @@
     "tmp-medios/1791910949026-c7-3.jpg"
    ],
    "texto": "🏆 Comparativa: 3 opciones en hogar\n1. Nespresso Cafetera Essenza Mini Negra + Espumador: $83.990 (-53%) en Lider\n2. THOMAS Termoventilador Eléctrico 2000 W TH-FH31 Blanco: $21.990 (-45%) en Sodimac\n3. FDV Hervidor de Vidrio Crystal 1.7 Lts KEGS5813-GS FDV: $19.990 (-42%) en Lider\n\n⏰ Precios vistos hoy (13/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #hogar #top5 #descuentoschile #ofertix #ahorrar"
+  },
+  "2026-10-13-r-historia-1791911007800": {
+   "tipo": "historia",
+   "fecha": "2026-10-13",
+   "estado": "publicado",
+   "bloque": "comparativas",
+   "hora": "14:03",
+   "id": "18077293211739426",
+   "ofertas": [
+    {
+     "id": "912406",
+     "nombre": "Edición digital de lujo de Returnal (PS5)",
+     "tienda": "PlayStation Store",
+     "ahora": 19562,
+     "antes": 78279,
+     "pct": 75,
+     "rubro": "gamer",
+     "esMinimo": false,
+     "dias": 3,
+     "visto": "13:29"
+    }
+   ]
   }
  },
  "config": {
@@ -5217,7 +5239,7 @@
    "hasta": "2026-10-13T02:31:24.474Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-13T17:02:58.963Z"
+  "ultimaPub": "2026-10-13T17:03:27.800Z"
  },
  "seguidores": 49,
  "informeFecha": "2026-10-12",
@@ -5229,6 +5251,7 @@
   "279052": "2026-10-13T16:17:37.577Z",
   "824715": "2026-10-13T15:46:34.844Z",
   "825872": "2026-10-11T22:31:14.555Z",
+  "912406": "2026-10-13T17:03:27.800Z",
   "1000952": "2026-10-12T14:46:13.737Z",
   "1063781": "2026-10-12T15:46:16.465Z",
   "1064616": "2026-10-13T14:01:22.509Z",
