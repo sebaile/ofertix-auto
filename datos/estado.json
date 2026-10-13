@@ -4378,6 +4378,28 @@
     "tmp-medios/1791897438574-c3-3.jpg"
    ],
    "texto": "🏆 Top 5 en tecnología\n1. Kärcher Aspiradora corta pelos mascotas Pet Clean 1.4 litros: $99.990 (-41%) en Easy\n2. RABANNE Perfume Hombre Black Xs Edt 100Ml Rabanne: $71.990 (-40%) en Falabella\n3. JBL JBL Audífonos Live 780NC - Negro: $99.990 (-44%) en Falabella\n4. KARCHER Aspiradora Inalámbrica 223.14 W 17 Litros WD 3-18: $149.990 (-43%) en Sodimac · 📉 mínimo de 60 días\n\n⏰ Precios vistos hoy (13/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #top5 #descuentoschile #ofertix #ahorrar"
+  },
+  "2026-10-13-r-historia-1791898297342": {
+   "tipo": "historia",
+   "fecha": "2026-10-13",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "hora": "10:31",
+   "id": "18122481625728952",
+   "ofertas": [
+    {
+     "id": "1595843",
+     "nombre": "Nex Ventilador suelo industrial 36'' negro",
+     "tienda": "Easy",
+     "ahora": 119990,
+     "antes": 239990,
+     "pct": 50,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 14,
+     "visto": "09:51"
+    }
+   ]
   }
  },
  "config": {
@@ -4397,7 +4419,7 @@
    "hasta": "2026-10-13T02:31:24.474Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-13T13:18:01.879Z"
+  "ultimaPub": "2026-10-13T13:31:37.343Z"
  },
  "seguidores": 49,
  "informeFecha": "2026-10-12",
@@ -4447,6 +4469,7 @@
   "1574439": "2026-10-13T11:16:18.699Z",
   "1576473": "2026-10-12T13:46:47.635Z",
   "1592754": "2026-10-13T11:48:02.311Z",
+  "1595843": "2026-10-13T13:31:37.342Z",
   "1669911": "2026-10-13T11:02:29.763Z"
  }
 }
