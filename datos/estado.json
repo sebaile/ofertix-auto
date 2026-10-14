@@ -71,6 +71,7 @@
   "1128340": "2026-10-11T22:48:01.730Z",
   "1131276": "2026-10-13T15:04:09.973Z",
   "1137385": "2026-10-12T13:49:18.882Z",
+  "1137440": "2026-10-14T11:32:31.052Z",
   "1137613": "2026-10-12T11:48:07.994Z",
   "1143849": "2026-10-12T11:32:21.131Z",
   "1144208": "2026-10-13T11:32:06.789Z",
@@ -94,14 +95,15 @@
   "1611328": "2026-10-13T12:17:25.653Z",
   "1634653": "2026-10-13T11:47:42.681Z",
   "1664422": "2026-10-13T11:47:42.681Z",
-  "1669911": "2026-10-13T11:02:08.979Z",
+  "1669911": "2026-10-14T11:32:31.052Z",
   "1673324": "2026-10-13T13:18:01.879Z",
   "1673333": "2026-10-13T13:47:43.113Z",
   "1673340": "2026-10-13T13:47:43.113Z",
   "1695609": "2026-10-13T16:02:47.435Z",
   "1696326": "2026-10-13T16:02:47.435Z",
   "1701548": "2026-10-13T17:02:58.963Z",
-  "1754179": "2026-10-14T11:02:40.888Z"
+  "1754179": "2026-10-14T11:02:40.888Z",
+  "1755063": "2026-10-14T11:32:31.052Z"
  },
  "nombres": {
   "encimera a gas 5 quemadores gris": "2026-10-12T13:02:28.135Z",
@@ -184,7 +186,7 @@
   "sony parlante portatil inalambrico linkbuds speaker blanco": "2026-10-12T16:17:29.866Z",
   "fdv hervidor de vidrio crystal 1 7 lts kegs5813 gs fdv": "2026-10-13T17:02:58.963Z",
   "rowenta aspiradora 900 kw 2 5 litros ro4b25ea": "2026-10-12T17:02:57.337Z",
-  "oferta mikrotik pwr line ap routeros l4 european plug type c": "2026-10-13T11:02:08.979Z",
+  "oferta mikrotik pwr line ap routeros l4 european plug type c": "2026-10-14T11:32:31.052Z",
   "samsung fabric band s m blue para galaxy watch9 watch8": "2026-10-13T11:32:06.789Z",
   "audio technica microfono audio technica dinamico cardioide ae5100": "2026-10-13T11:32:06.789Z",
   "albin trotter calefon 8 litros gas licuado tiro natural ionizado": "2026-10-13T11:47:42.681Z",
@@ -204,7 +206,9 @@
   "lattafa oud for glory edp 100 ml": "2026-10-13T16:17:16.220Z",
   "zapatilla project rock 7 hombre verde": "2026-10-13T16:32:30.767Z",
   "thomas termoventilador electrico 2000 w th fh31 blanco": "2026-10-13T17:02:58.963Z",
-  "parlante portatil oracle red bull racing rb sk460": "2026-10-14T11:02:40.888Z"
+  "parlante portatil oracle red bull racing rb sk460": "2026-10-14T11:02:40.888Z",
+  "samsung soundtower mx t40 2 0 ch 2020": "2026-10-14T11:32:31.052Z",
+  "samsung audifonos in ear sm r400nzaalta bluetooth v5 2 gray": "2026-10-14T11:32:31.052Z"
  },
  "items": {
   "2026-10-11-r-historia-1791716490429": {
@@ -5154,6 +5158,57 @@
      "visto": "07:14"
     }
    ]
+  },
+  "2026-10-14-r-reel-1791977551052": {
+   "tipo": "reel",
+   "fecha": "2026-10-14",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "hora": "08:32",
+   "id": "18101841674049528",
+   "enlace": "https://www.instagram.com/reel/DeeSIRDDL13/",
+   "ofertas": [
+    {
+     "id": "1755063",
+     "nombre": "SAMSUNG Soundtower MX-T40 2.0 ch (2020)",
+     "tienda": "Falabella",
+     "ahora": 106990,
+     "antes": 199990,
+     "pct": 46,
+     "rubro": "tecnologia",
+     "esMinimo": true,
+     "dias": 71,
+     "visto": "08:05"
+    },
+    {
+     "id": "1669911",
+     "nombre": "OFERTA MIKROTIK PWR-LINE AP, RouterOS L4, European plug (Type C)",
+     "tienda": "Tecnomas.cl",
+     "ahora": 37990,
+     "antes": 67990,
+     "pct": 44,
+     "rubro": "tecnologia",
+     "esMinimo": true,
+     "dias": 70,
+     "visto": "08:05"
+    },
+    {
+     "id": "1137440",
+     "nombre": "Samsung Audífonos In Ear SM-R400NZAALTA Bluetooth v5.2 Gray",
+     "tienda": "Lider",
+     "ahora": 59990,
+     "antes": 99990,
+     "pct": 40,
+     "rubro": "tecnologia",
+     "esMinimo": false,
+     "dias": 7,
+     "visto": "08:05"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1791977480424-r0.mp4"
+   ],
+   "texto": "🔥 3 ofertas de tecnología\n1. SAMSUNG Soundtower MX-T40 2.0 ch (2020): $106.990 (-46%, referencia $199.990) en Falabella · 📉 mínimo de 71 días\n2. OFERTA MIKROTIK PWR-LINE AP, RouterOS L4, European plug (Type C): $37.990 (-44%, referencia $67.990) en Tecnomas.cl · 📉 mínimo de 70 días\n3. Samsung Audífonos In Ear SM-R400NZAALTA Bluetooth v5.2 Gray: $59.990 (-40%, referencia $99.990) en Lider\n\n⏰ Precios vistos hoy (14/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #tecnologia #descuentoschile #ofertix #ofertasdeldia #ahorrar"
   }
  },
  "config": {
@@ -5173,7 +5228,7 @@
    "hasta": "2026-10-14T03:17:32.731Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-14T11:03:03.338Z"
+  "ultimaPub": "2026-10-14T11:32:31.052Z"
  },
  "seguidores": 49,
  "informeFecha": "2026-10-13",
