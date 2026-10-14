@@ -4,7 +4,7 @@
   "1226": "2026-10-11T14:33:04.464Z",
   "1228": "2026-10-11T14:33:04.465Z",
   "1468": "2026-10-13T16:03:54.365Z",
-  "67319": "2026-10-12T13:02:28.135Z",
+  "67319": "2026-10-14T11:47:40.920Z",
   "67333": "2026-10-11T12:18:44.704Z",
   "74023": "2026-10-11T15:17:46.266Z",
   "74025": "2026-10-11T15:50:06.762Z",
@@ -81,7 +81,7 @@
   "1151387": "2026-10-12T11:32:21.131Z",
   "1157052": "2026-10-13T11:32:06.789Z",
   "1157346": "2026-10-13T13:18:01.879Z",
-  "1452540": "2026-10-13T11:32:06.789Z",
+  "1452540": "2026-10-14T11:47:40.920Z",
   "1500833": "2026-10-13T12:17:25.653Z",
   "1502162": "2026-10-12T17:02:57.337Z",
   "1529581": "2026-10-13T11:47:42.680Z",
@@ -102,11 +102,13 @@
   "1695609": "2026-10-13T16:02:47.435Z",
   "1696326": "2026-10-13T16:02:47.435Z",
   "1701548": "2026-10-13T17:02:58.963Z",
+  "1739017": "2026-10-14T11:47:40.920Z",
   "1754179": "2026-10-14T11:02:40.888Z",
-  "1755063": "2026-10-14T11:32:31.052Z"
+  "1755063": "2026-10-14T11:32:31.052Z",
+  "1765725": "2026-10-14T11:47:40.920Z"
  },
  "nombres": {
-  "encimera a gas 5 quemadores gris": "2026-10-12T13:02:28.135Z",
+  "encimera a gas 5 quemadores gris": "2026-10-14T11:47:40.920Z",
   "hyperx audifonos hyperx cloud mini ultraliviano multiplataforma 3 5mm": "2026-10-11T11:47:51.716Z",
   "horno xl rotisserie oster 60 l manual gris tssttv60mns": "2026-10-11T12:18:44.704Z",
   "marshall parlante bluetooth acton iii negro marshall": "2026-10-11T13:03:35.550Z",
@@ -187,7 +189,7 @@
   "fdv hervidor de vidrio crystal 1 7 lts kegs5813 gs fdv": "2026-10-13T17:02:58.963Z",
   "rowenta aspiradora 900 kw 2 5 litros ro4b25ea": "2026-10-12T17:02:57.337Z",
   "oferta mikrotik pwr line ap routeros l4 european plug type c": "2026-10-14T11:32:31.052Z",
-  "samsung fabric band s m blue para galaxy watch9 watch8": "2026-10-13T11:32:06.789Z",
+  "samsung fabric band s m blue para galaxy watch9 watch8": "2026-10-14T11:47:40.920Z",
   "audio technica microfono audio technica dinamico cardioide ae5100": "2026-10-13T11:32:06.789Z",
   "albin trotter calefon 8 litros gas licuado tiro natural ionizado": "2026-10-13T11:47:42.681Z",
   "nex ventilador suelo industrial 30 negro": "2026-10-13T11:47:42.681Z",
@@ -208,7 +210,9 @@
   "thomas termoventilador electrico 2000 w th fh31 blanco": "2026-10-13T17:02:58.963Z",
   "parlante portatil oracle red bull racing rb sk460": "2026-10-14T11:02:40.888Z",
   "samsung soundtower mx t40 2 0 ch 2020": "2026-10-14T11:32:31.052Z",
-  "samsung audifonos in ear sm r400nzaalta bluetooth v5 2 gray": "2026-10-14T11:32:31.052Z"
+  "samsung audifonos in ear sm r400nzaalta bluetooth v5 2 gray": "2026-10-14T11:32:31.052Z",
+  "samsung encimera a gas 5 quemadores na75d3030as zs samsung": "2026-10-14T11:47:40.920Z",
+  "unidad ssd western digital green sn3000 1tb m 2 22 80 pcie4x4": "2026-10-14T11:47:40.920Z"
  },
  "items": {
   "2026-10-11-r-historia-1791716490429": {
@@ -5231,6 +5235,72 @@
      "visto": "08:05"
     }
    ]
+  },
+  "2026-10-14-r-carrusel-1791978460920": {
+   "tipo": "carrusel",
+   "fecha": "2026-10-14",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "formato": "top5",
+   "hora": "08:47",
+   "id": "18079731323384354",
+   "enlace": "https://www.instagram.com/p/DeeT4gmG2M1/",
+   "ofertas": [
+    {
+     "id": "1765725",
+     "nombre": "Samsung Encimera A Gas 5 Quemadores Na75D3030As/Zs Samsung",
+     "tienda": "Lider Marketplace",
+     "ahora": 179990,
+     "antes": 359990,
+     "pct": 50,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 64,
+     "visto": "08:05"
+    },
+    {
+     "id": "1739017",
+     "nombre": "Unidad SSD Western Digital Green SN3000 1TB M.2 22*80 PCIe4x4",
+     "tienda": "Tecnomas.cl",
+     "ahora": 153990,
+     "antes": 287990,
+     "pct": 46,
+     "rubro": "otros",
+     "esMinimo": true,
+     "dias": 88,
+     "visto": "08:05"
+    },
+    {
+     "id": "1452540",
+     "nombre": "Samsung Fabric Band (S/M) Blue para Galaxy Watch9 | Watch8",
+     "tienda": "Lider Marketplace",
+     "ahora": 29990,
+     "antes": 49990,
+     "pct": 40,
+     "rubro": "tecnologia",
+     "esMinimo": true,
+     "dias": 49,
+     "visto": "08:05"
+    },
+    {
+     "id": "67319",
+     "nombre": "Encimera A Gas 5 Quemadores Gris",
+     "tienda": "Mercado Libre",
+     "ahora": 179990,
+     "antes": 359990,
+     "pct": 50,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 64,
+     "visto": "08:05"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1791978422487-c1-1.jpg",
+    "tmp-medios/1791978422487-c1-2.jpg",
+    "tmp-medios/1791978422487-c1-3.jpg"
+   ],
+   "texto": "🏆 Ofertas nuevas de hoy\n1. Samsung Encimera A Gas 5 Quemadores Na75D3030As/Zs Samsung: $179.990 (-50%) en Lider Marketplace · 📉 mínimo de 64 días\n2. Unidad SSD Western Digital Green SN3000 1TB M.2 22*80 PCIe4x4: $153.990 (-46%) en Tecnomas.cl · 📉 mínimo de 88 días\n3. Samsung Fabric Band (S/M) Blue para Galaxy Watch9 | Watch8: $29.990 (-40%) en Lider Marketplace · 📉 mínimo de 49 días\n4. Encimera A Gas 5 Quemadores Gris: $179.990 (-50%) en Mercado Libre · 📉 mínimo de 64 días\n\n⏰ Precios vistos hoy (14/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #top5 #descuentoschile #ofertix #ahorrar"
   }
  },
  "config": {
@@ -5250,7 +5320,7 @@
    "hasta": "2026-10-14T03:17:32.731Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-14T11:32:55.125Z"
+  "ultimaPub": "2026-10-14T11:47:40.920Z"
  },
  "seguidores": 49,
  "informeFecha": "2026-10-13",
