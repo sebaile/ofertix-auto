@@ -11,12 +11,13 @@
   "266260": "2026-10-13T17:32:36.341Z",
   "279051": "2026-10-13T16:32:30.767Z",
   "279052": "2026-10-13T16:17:16.220Z",
-  "468623": "2026-10-13T15:04:09.972Z",
+  "468623": "2026-10-14T18:02:56.587Z",
   "709365": "2026-10-13T16:02:47.435Z",
   "716674": "2026-10-13T17:32:36.341Z",
   "824715": "2026-10-13T13:02:25.425Z",
   "824734": "2026-10-13T15:04:09.973Z",
   "825810": "2026-10-12T15:04:09.362Z",
+  "829028": "2026-10-14T18:02:56.587Z",
   "912406": "2026-10-13T16:32:30.767Z",
   "978442": "2026-10-11T22:48:01.730Z",
   "1000952": "2026-10-12T13:17:39.055Z",
@@ -50,7 +51,7 @@
   "1500833": "2026-10-14T16:33:45.716Z",
   "1502162": "2026-10-12T17:02:57.337Z",
   "1529581": "2026-10-14T12:17:25.370Z",
-  "1530831": "2026-10-13T17:02:58.963Z",
+  "1530831": "2026-10-14T18:02:56.587Z",
   "1531094": "2026-10-13T17:02:58.963Z",
   "1559122": "2026-10-13T12:17:25.653Z",
   "1574439": "2026-10-14T17:32:18.550Z",
@@ -70,11 +71,12 @@
   "1739017": "2026-10-14T11:47:40.920Z",
   "1754179": "2026-10-14T11:02:40.888Z",
   "1755063": "2026-10-14T11:32:31.052Z",
-  "1765725": "2026-10-14T11:47:40.920Z"
+  "1765725": "2026-10-14T11:47:40.920Z",
+  "1780881": "2026-10-14T18:02:56.587Z"
  },
  "nombres": {
   "encimera a gas 5 quemadores gris": "2026-10-14T11:47:40.920Z",
-  "primaterm estufa calefactor electrico alumax 500w primaterm": "2026-10-13T15:04:09.973Z",
+  "primaterm estufa calefactor electrico alumax 500w primaterm": "2026-10-14T18:02:56.587Z",
   "edicion digital de lujo de returnal ps5": "2026-10-13T16:32:30.767Z",
   "ralph lauren polo sport fresh edt 125 ml h": "2026-10-13T17:32:36.341Z",
   "nutribullet freidora de aire digital nutribullet twin drawer": "2026-10-11T22:48:01.730Z",
@@ -114,7 +116,7 @@
   "marshall audifonos bluetooth on ear marshall major v crema": "2026-10-12T13:17:39.055Z",
   "jbl jbl audifonos live 780nc azul": "2026-10-12T13:17:39.055Z",
   "tablet 9 7 xiaomi redmi pad 2 9 7 4 gb ram 128 gb gris": "2026-10-12T13:49:18.882Z",
-  "nespresso cafetera essenza mini negra espumador": "2026-10-13T17:02:58.963Z",
+  "nespresso cafetera essenza mini negra espumador": "2026-10-14T18:02:56.587Z",
   "sony parlante portatil inalambrico linkbuds speaker blanco": "2026-10-12T16:17:29.866Z",
   "fdv hervidor de vidrio crystal 1 7 lts kegs5813 gs fdv": "2026-10-13T17:02:58.963Z",
   "rowenta aspiradora 900 kw 2 5 litros ro4b25ea": "2026-10-12T17:02:57.337Z",
@@ -142,7 +144,9 @@
   "samsung soundtower mx t40 2 0 ch 2020": "2026-10-14T11:32:31.052Z",
   "samsung audifonos in ear sm r400nzaalta bluetooth v5 2 gray": "2026-10-14T11:32:31.052Z",
   "samsung encimera a gas 5 quemadores na75d3030as zs samsung": "2026-10-14T11:47:40.920Z",
-  "unidad ssd western digital green sn3000 1tb m 2 22 80 pcie4x4": "2026-10-14T11:47:40.920Z"
+  "unidad ssd western digital green sn3000 1tb m 2 22 80 pcie4x4": "2026-10-14T11:47:40.920Z",
+  "marc jacobs marc jacobs perfect intense eau de parfum para mujer 50 ml": "2026-10-14T18:02:56.587Z",
+  "thierry mugler perfume mujer mugler angel edp 100 ml thierry mugler": "2026-10-14T18:02:56.587Z"
  },
  "items": {
   "2026-10-11-r-historia-1791716490429": {
@@ -5684,6 +5688,72 @@
      "visto": "14:10"
     }
    ]
+  },
+  "2026-10-14-r-carrusel-1792000976587": {
+   "tipo": "carrusel",
+   "fecha": "2026-10-14",
+   "estado": "publicado",
+   "bloque": "populares",
+   "formato": "top5",
+   "hora": "15:02",
+   "id": "18105900817980756",
+   "enlace": "https://www.instagram.com/p/Dee-08KGuZ7/",
+   "ofertas": [
+    {
+     "id": "1780881",
+     "nombre": "MARC JACOBS Marc Jacobs Perfect Intense Eau De Parfum Para Mujer 50 Ml",
+     "tienda": "Falabella",
+     "ahora": 46490,
+     "antes": 92990,
+     "pct": 50,
+     "rubro": "perfumes",
+     "esMinimo": true,
+     "dias": 89,
+     "visto": "14:10"
+    },
+    {
+     "id": "468623",
+     "nombre": "PRIMATERM Estufa Calefactor Eléctrico Alumax 500w PRIMATERM",
+     "tienda": "Falabella Marketplace",
+     "ahora": 49990,
+     "antes": 89990,
+     "pct": 44,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 76,
+     "visto": "14:10"
+    },
+    {
+     "id": "829028",
+     "nombre": "THIERRY MUGLER Perfume Mujer Mugler Angel EDP 100 ml Thierry Mugler",
+     "tienda": "Falabella",
+     "ahora": 104990,
+     "antes": 175990,
+     "pct": 40,
+     "rubro": "perfumes",
+     "esMinimo": true,
+     "dias": 88,
+     "visto": "14:10"
+    },
+    {
+     "id": "1530831",
+     "nombre": "Nespresso Cafetera Essenza Mini Negra + Espumador",
+     "tienda": "Lider",
+     "ahora": 83990,
+     "antes": 179990,
+     "pct": 53,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 83,
+     "visto": "14:10"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1792000944379-c4-1.jpg",
+    "tmp-medios/1792000944379-c4-2.jpg",
+    "tmp-medios/1792000944379-c4-3.jpg"
+   ],
+   "texto": "🏆 Los más populares\n1. MARC JACOBS Marc Jacobs Perfect Intense Eau De Parfum Para Mujer 50 Ml: $46.490 (-50%) en Falabella · 📉 mínimo de 89 días\n2. PRIMATERM Estufa Calefactor Eléctrico Alumax 500w PRIMATERM: $49.990 (-44%) en Falabella Marketplace · 📉 mínimo de 76 días\n3. THIERRY MUGLER Perfume Mujer Mugler Angel EDP 100 ml Thierry Mugler: $104.990 (-40%) en Falabella · 📉 mínimo de 88 días\n4. Nespresso Cafetera Essenza Mini Negra + Espumador: $83.990 (-53%) en Lider\n\n⏰ Precios vistos hoy (14/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #top5 #descuentoschile #ofertix #ahorrar"
   }
  },
  "config": {
@@ -5703,7 +5773,7 @@
    "hasta": "2026-10-14T15:46:27.709Z",
    "veces": 1
   },
-  "ultimaPub": "2026-10-14T17:46:29.062Z"
+  "ultimaPub": "2026-10-14T18:02:56.587Z"
  },
  "seguidores": 49,
  "informeFecha": "2026-10-13",
