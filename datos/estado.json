@@ -64,7 +64,7 @@
   "1669911": "2026-10-14T11:32:31.052Z",
   "1673324": "2026-10-14T19:32:50.480Z",
   "1673333": "2026-10-13T13:47:43.113Z",
-  "1673340": "2026-10-13T13:47:43.113Z",
+  "1673340": "2026-10-14T20:32:43.022Z",
   "1695609": "2026-10-14T16:33:45.716Z",
   "1696326": "2026-10-13T16:02:47.435Z",
   "1701548": "2026-10-14T19:32:50.480Z",
@@ -73,7 +73,9 @@
   "1755063": "2026-10-14T11:32:31.052Z",
   "1765725": "2026-10-14T11:47:40.920Z",
   "1780881": "2026-10-14T18:02:56.587Z",
-  "1784905": "2026-10-14T19:12:08.813Z"
+  "1784905": "2026-10-14T19:12:08.813Z",
+  "1785097": "2026-10-14T20:32:43.022Z",
+  "1785375": "2026-10-14T20:32:43.022Z"
  },
  "nombres": {
   "encimera a gas 5 quemadores gris": "2026-10-14T11:47:40.920Z",
@@ -131,7 +133,7 @@
   "samsung encimera a gas 5 quemadores gris": "2026-10-13T13:02:25.425Z",
   "rabanne perfume hombre black xs edt 100ml rabanne": "2026-10-14T19:32:50.480Z",
   "jbl jbl audifonos live 780nc negro": "2026-10-13T13:18:01.879Z",
-  "carolina herrera perfume hombre bad boy edt 50ml carolina herrera": "2026-10-13T13:47:43.113Z",
+  "carolina herrera perfume hombre bad boy edt 50ml carolina herrera": "2026-10-14T20:32:43.022Z",
   "nina ricci perfume mujer nina ricci nina edt 50ml nina ricci": "2026-10-13T13:47:43.113Z",
   "zapato cuero mujer spinal slip on cafe hush puppies": "2026-10-13T16:02:47.435Z",
   "mikrotik mantbox 52 15s with routeros l4 license": "2026-10-14T16:33:45.716Z",
@@ -148,7 +150,9 @@
   "unidad ssd western digital green sn3000 1tb m 2 22 80 pcie4x4": "2026-10-14T11:47:40.920Z",
   "marc jacobs marc jacobs perfect intense eau de parfum para mujer 50 ml": "2026-10-14T18:02:56.587Z",
   "thierry mugler perfume mujer mugler angel edp 100 ml thierry mugler": "2026-10-14T18:02:56.587Z",
-  "parlante portatil aiwa aw a521 90w bluetooth negro": "2026-10-14T19:12:08.813Z"
+  "parlante portatil aiwa aw a521 90w bluetooth negro": "2026-10-14T19:12:08.813Z",
+  "ursus trotter horno electrico sobremesa 25 litros ut backofen pro b": "2026-10-14T20:32:43.022Z",
+  "albin trotter licuadora 1 5 litros multicolor at md mischung 3": "2026-10-14T20:32:43.022Z"
  },
  "items": {
   "2026-10-11-r-historia-1791716490429": {
@@ -6061,6 +6065,57 @@
      "visto": "16:26"
     }
    ]
+  },
+  "2026-10-14-r-reel-1792009963022": {
+   "tipo": "reel",
+   "fecha": "2026-10-14",
+   "estado": "publicado",
+   "bloque": "populares",
+   "hora": "17:32",
+   "id": "18569178406075012",
+   "enlace": "https://www.instagram.com/reel/DefP9AWDzub/",
+   "ofertas": [
+    {
+     "id": "1785097",
+     "nombre": "URSUS TROTTER Horno Eléctrico Sobremesa 25 Litros UT-BACKOFEN PRO-B",
+     "tienda": "Sodimac",
+     "ahora": 34990,
+     "antes": 59990,
+     "pct": 41,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 50,
+     "visto": "16:26"
+    },
+    {
+     "id": "1673340",
+     "nombre": "CAROLINA HERRERA Perfume Hombre Bad Boy Edt 50Ml Carolina Herrera",
+     "tienda": "Falabella",
+     "ahora": 56990,
+     "antes": 94990,
+     "pct": 40,
+     "rubro": "perfumes",
+     "esMinimo": false,
+     "dias": 6,
+     "visto": "16:26"
+    },
+    {
+     "id": "1785375",
+     "nombre": "ALBIN TROTTER Licuadora 1.5 Litros Multicolor AT-MD MISCHUNG 3",
+     "tienda": "Sodimac",
+     "ahora": 79990,
+     "antes": 154990,
+     "pct": 48,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 0,
+     "visto": "16:26"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1792009883368-r5.mp4"
+   ],
+   "texto": "🔥 3 ofertas de las más populares\n1. URSUS TROTTER Horno Eléctrico Sobremesa 25 Litros UT-BACKOFEN PRO-B: $34.990 (-41%, referencia $59.990) en Sodimac · 📉 mínimo de 50 días\n2. CAROLINA HERRERA Perfume Hombre Bad Boy Edt 50Ml Carolina Herrera: $56.990 (-40%, referencia $94.990) en Falabella\n3. ALBIN TROTTER Licuadora 1.5 Litros Multicolor AT-MD MISCHUNG 3: $79.990 (-48%, referencia $154.990) en Sodimac\n\n⏰ Precios vistos hoy (14/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
   }
  },
  "config": {
@@ -6080,7 +6135,7 @@
    "hasta": "2026-10-14T15:46:27.709Z",
    "veces": 1
   },
-  "ultimaPub": "2026-10-14T20:16:17.688Z"
+  "ultimaPub": "2026-10-14T20:32:43.023Z"
  },
  "seguidores": 49,
  "informeFecha": "2026-10-13",
