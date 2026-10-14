@@ -5995,6 +5995,28 @@
     "tmp-medios/1792006279751-r4.mp4"
    ],
    "texto": "🔥 3 ofertas de las más populares\n1. THOMAS Termoventilador Eléctrico 2000 W TH-FH31 Blanco: $21.990 (-45%, referencia $39.990) en Sodimac\n2. RABANNE Perfume Hombre Black Xs Edt 100Ml Rabanne: $71.990 (-40%, referencia $119.990) en Falabella\n3. MIDEA Freidora de Aire 4 litros MF-TN40D2: $39.990 (-42%, referencia $69.990) en Falabella Marketplace\n\n⏰ Precios vistos hoy (14/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
+  },
+  "2026-10-14-r-historia-1792007194462": {
+   "tipo": "historia",
+   "fecha": "2026-10-14",
+   "estado": "publicado",
+   "bloque": "populares",
+   "hora": "16:46",
+   "id": "17910308952475278",
+   "ofertas": [
+    {
+     "id": "1784905",
+     "nombre": "Parlante Portátil Aiwa AW-A521 90W Bluetooth Negro",
+     "tienda": "ABC",
+     "ahora": 69990,
+     "antes": 149990,
+     "pct": 53,
+     "rubro": "tecnologia",
+     "esMinimo": true,
+     "dias": 14,
+     "visto": "15:21"
+    }
+   ]
   }
  },
  "config": {
@@ -6014,7 +6036,7 @@
    "hasta": "2026-10-14T15:46:27.709Z",
    "veces": 1
   },
-  "ultimaPub": "2026-10-14T19:32:50.481Z"
+  "ultimaPub": "2026-10-14T19:46:34.463Z"
  },
  "seguidores": 49,
  "informeFecha": "2026-10-13",
@@ -6059,6 +6081,7 @@
   "1754179": "2026-10-14T11:03:03.338Z",
   "1755063": "2026-10-14T11:48:01.864Z",
   "1765725": "2026-10-14T11:32:55.124Z",
-  "1780881": "2026-10-14T19:16:33.588Z"
+  "1780881": "2026-10-14T19:16:33.588Z",
+  "1784905": "2026-10-14T19:46:34.462Z"
  }
 }
