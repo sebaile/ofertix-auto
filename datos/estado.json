@@ -5301,6 +5301,28 @@
     "tmp-medios/1791978422487-c1-3.jpg"
    ],
    "texto": "🏆 Ofertas nuevas de hoy\n1. Samsung Encimera A Gas 5 Quemadores Na75D3030As/Zs Samsung: $179.990 (-50%) en Lider Marketplace · 📉 mínimo de 64 días\n2. Unidad SSD Western Digital Green SN3000 1TB M.2 22*80 PCIe4x4: $153.990 (-46%) en Tecnomas.cl · 📉 mínimo de 88 días\n3. Samsung Fabric Band (S/M) Blue para Galaxy Watch9 | Watch8: $29.990 (-40%) en Lider Marketplace · 📉 mínimo de 49 días\n4. Encimera A Gas 5 Quemadores Gris: $179.990 (-50%) en Mercado Libre · 📉 mínimo de 64 días\n\n⏰ Precios vistos hoy (14/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #top5 #descuentoschile #ofertix #ahorrar"
+  },
+  "2026-10-14-r-historia-1791978481864": {
+   "tipo": "historia",
+   "fecha": "2026-10-14",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "hora": "08:48",
+   "id": "17945200248357101",
+   "ofertas": [
+    {
+     "id": "1755063",
+     "nombre": "SAMSUNG Soundtower MX-T40 2.0 ch (2020)",
+     "tienda": "Falabella",
+     "ahora": 106990,
+     "antes": 199990,
+     "pct": 46,
+     "rubro": "tecnologia",
+     "esMinimo": true,
+     "dias": 71,
+     "visto": "08:05"
+    }
+   ]
   }
  },
  "config": {
@@ -5320,7 +5342,7 @@
    "hasta": "2026-10-14T03:17:32.731Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-14T11:47:40.920Z"
+  "ultimaPub": "2026-10-14T11:48:01.865Z"
  },
  "seguidores": 49,
  "informeFecha": "2026-10-13",
@@ -5373,6 +5395,7 @@
   "1669911": "2026-10-13T11:02:29.763Z",
   "1695609": "2026-10-13T16:32:48.263Z",
   "1754179": "2026-10-14T11:03:03.338Z",
+  "1755063": "2026-10-14T11:48:01.864Z",
   "1765725": "2026-10-14T11:32:55.124Z"
  }
 }
