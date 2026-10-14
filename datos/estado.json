@@ -6351,6 +6351,28 @@
      "visto": "18:16"
     }
    ]
+  },
+  "2026-10-14-r-historia-1792019774598": {
+   "tipo": "historia",
+   "fecha": "2026-10-14",
+   "estado": "publicado",
+   "bloque": "recopilaciones",
+   "hora": "20:16",
+   "id": "18150713131555144",
+   "ofertas": [
+    {
+     "id": "1785375",
+     "nombre": "ALBIN TROTTER Licuadora 1.5 Litros Multicolor AT-MD MISCHUNG 3",
+     "tienda": "Sodimac",
+     "ahora": 79990,
+     "antes": 154990,
+     "pct": 48,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 0,
+     "visto": "19:25"
+    }
+   ]
   }
  },
  "config": {
@@ -6370,7 +6392,7 @@
    "hasta": "2026-10-14T15:46:27.709Z",
    "veces": 1
   },
-  "ultimaPub": "2026-10-14T22:46:07.814Z"
+  "ultimaPub": "2026-10-14T23:16:14.598Z"
  },
  "seguidores": 49,
  "informeFecha": "2026-10-13",
@@ -6419,6 +6441,7 @@
   "1765725": "2026-10-14T11:32:55.124Z",
   "1780881": "2026-10-14T19:16:33.588Z",
   "1784905": "2026-10-14T19:46:34.462Z",
-  "1785097": "2026-10-14T20:46:13.982Z"
+  "1785097": "2026-10-14T20:46:13.982Z",
+  "1785375": "2026-10-14T23:16:14.597Z"
  }
 }
