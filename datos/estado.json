@@ -6116,6 +6116,28 @@
     "tmp-medios/1792009883368-r5.mp4"
    ],
    "texto": "🔥 3 ofertas de las más populares\n1. URSUS TROTTER Horno Eléctrico Sobremesa 25 Litros UT-BACKOFEN PRO-B: $34.990 (-41%, referencia $59.990) en Sodimac · 📉 mínimo de 50 días\n2. CAROLINA HERRERA Perfume Hombre Bad Boy Edt 50Ml Carolina Herrera: $56.990 (-40%, referencia $94.990) en Falabella\n3. ALBIN TROTTER Licuadora 1.5 Litros Multicolor AT-MD MISCHUNG 3: $79.990 (-48%, referencia $154.990) en Sodimac\n\n⏰ Precios vistos hoy (14/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
+  },
+  "2026-10-14-r-historia-1792010773982": {
+   "tipo": "historia",
+   "fecha": "2026-10-14",
+   "estado": "publicado",
+   "bloque": "populares",
+   "hora": "17:46",
+   "id": "18129484541499164",
+   "ofertas": [
+    {
+     "id": "1785097",
+     "nombre": "URSUS TROTTER Horno Eléctrico Sobremesa 25 Litros UT-BACKOFEN PRO-B",
+     "tienda": "Sodimac",
+     "ahora": 34990,
+     "antes": 59990,
+     "pct": 41,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 50,
+     "visto": "17:24"
+    }
+   ]
   }
  },
  "config": {
@@ -6135,7 +6157,7 @@
    "hasta": "2026-10-14T15:46:27.709Z",
    "veces": 1
   },
-  "ultimaPub": "2026-10-14T20:32:43.023Z"
+  "ultimaPub": "2026-10-14T20:46:13.983Z"
  },
  "seguidores": 49,
  "informeFecha": "2026-10-13",
@@ -6183,6 +6205,7 @@
   "1755063": "2026-10-14T11:48:01.864Z",
   "1765725": "2026-10-14T11:32:55.124Z",
   "1780881": "2026-10-14T19:16:33.588Z",
-  "1784905": "2026-10-14T19:46:34.462Z"
+  "1784905": "2026-10-14T19:46:34.462Z",
+  "1785097": "2026-10-14T20:46:13.982Z"
  }
 }
