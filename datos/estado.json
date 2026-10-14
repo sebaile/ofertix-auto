@@ -15,7 +15,7 @@
   "709365": "2026-10-13T16:02:47.435Z",
   "716674": "2026-10-13T17:32:36.341Z",
   "824715": "2026-10-13T13:02:25.425Z",
-  "824734": "2026-10-13T15:04:09.973Z",
+  "824734": "2026-10-14T19:32:50.480Z",
   "825810": "2026-10-12T15:04:09.362Z",
   "829028": "2026-10-14T18:02:56.587Z",
   "912406": "2026-10-13T16:32:30.767Z",
@@ -62,12 +62,12 @@
   "1634653": "2026-10-14T12:17:25.370Z",
   "1664422": "2026-10-13T11:47:42.681Z",
   "1669911": "2026-10-14T11:32:31.052Z",
-  "1673324": "2026-10-13T13:18:01.879Z",
+  "1673324": "2026-10-14T19:32:50.480Z",
   "1673333": "2026-10-13T13:47:43.113Z",
   "1673340": "2026-10-13T13:47:43.113Z",
   "1695609": "2026-10-14T16:33:45.716Z",
   "1696326": "2026-10-13T16:02:47.435Z",
-  "1701548": "2026-10-13T17:02:58.963Z",
+  "1701548": "2026-10-14T19:32:50.480Z",
   "1739017": "2026-10-14T11:47:40.920Z",
   "1754179": "2026-10-14T11:02:40.888Z",
   "1755063": "2026-10-14T11:32:31.052Z",
@@ -97,7 +97,7 @@
   "dolce gabbana set de tres regalos q by dolce gabbana edp": "2026-10-14T19:12:08.813Z",
   "teclado hyperx alloy core rgb 4p4f5ai hx kb5me2 la": "2026-10-14T17:32:18.550Z",
   "filtro de agua triple para sedimentos sarro cloro splendid": "2026-10-12T13:02:28.135Z",
-  "midea freidora de aire 4 litros mf tn40d2": "2026-10-13T15:04:09.973Z",
+  "midea freidora de aire 4 litros mf tn40d2": "2026-10-14T19:32:50.480Z",
   "nescafe cafetera nescafe dolce gusto piccolo xs": "2026-10-12T15:04:09.362Z",
   "dolce gabbana perfume hombre edp dolce gabbana": "2026-10-14T19:12:08.813Z",
   "microsoft 365 familia licencia digital anual ep2 32295": "2026-10-13T16:32:30.767Z",
@@ -129,7 +129,7 @@
   "encimera vitroceramica teka tb 6415 4 quemadores": "2026-10-13T12:17:25.653Z",
   "alisador gama x wide on off dual plates": "2026-10-14T12:32:58.965Z",
   "samsung encimera a gas 5 quemadores gris": "2026-10-13T13:02:25.425Z",
-  "rabanne perfume hombre black xs edt 100ml rabanne": "2026-10-13T13:18:01.879Z",
+  "rabanne perfume hombre black xs edt 100ml rabanne": "2026-10-14T19:32:50.480Z",
   "jbl jbl audifonos live 780nc negro": "2026-10-13T13:18:01.879Z",
   "carolina herrera perfume hombre bad boy edt 50ml carolina herrera": "2026-10-13T13:47:43.113Z",
   "nina ricci perfume mujer nina ricci nina edt 50ml nina ricci": "2026-10-13T13:47:43.113Z",
@@ -140,7 +140,7 @@
   "zapatilla project rock 8 mujer cafe": "2026-10-13T16:17:16.220Z",
   "lattafa oud for glory edp 100 ml": "2026-10-13T16:17:16.220Z",
   "zapatilla project rock 7 hombre verde": "2026-10-13T16:32:30.767Z",
-  "thomas termoventilador electrico 2000 w th fh31 blanco": "2026-10-13T17:02:58.963Z",
+  "thomas termoventilador electrico 2000 w th fh31 blanco": "2026-10-14T19:32:50.480Z",
   "parlante portatil oracle red bull racing rb sk460": "2026-10-14T11:02:40.888Z",
   "samsung soundtower mx t40 2 0 ch 2020": "2026-10-14T11:32:31.052Z",
   "samsung audifonos in ear sm r400nzaalta bluetooth v5 2 gray": "2026-10-14T11:32:31.052Z",
@@ -5944,6 +5944,57 @@
      "visto": "15:21"
     }
    ]
+  },
+  "2026-10-14-r-reel-1792006370481": {
+   "tipo": "reel",
+   "fecha": "2026-10-14",
+   "estado": "publicado",
+   "bloque": "populares",
+   "hora": "16:32",
+   "id": "17983717599105269",
+   "enlace": "https://www.instagram.com/reel/DefJExWAndS/",
+   "ofertas": [
+    {
+     "id": "1701548",
+     "nombre": "THOMAS Termoventilador Eléctrico 2000 W TH-FH31 Blanco",
+     "tienda": "Sodimac",
+     "ahora": 21990,
+     "antes": 39990,
+     "pct": 45,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 89,
+     "visto": "15:21"
+    },
+    {
+     "id": "1673324",
+     "nombre": "RABANNE Perfume Hombre Black Xs Edt 100Ml Rabanne",
+     "tienda": "Falabella",
+     "ahora": 71990,
+     "antes": 119990,
+     "pct": 40,
+     "rubro": "perfumes",
+     "esMinimo": false,
+     "dias": 47,
+     "visto": "15:21"
+    },
+    {
+     "id": "824734",
+     "nombre": "MIDEA Freidora de Aire 4 litros MF-TN40D2",
+     "tienda": "Falabella Marketplace",
+     "ahora": 39990,
+     "antes": 69990,
+     "pct": 42,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 6,
+     "visto": "15:21"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1792006279751-r4.mp4"
+   ],
+   "texto": "🔥 3 ofertas de las más populares\n1. THOMAS Termoventilador Eléctrico 2000 W TH-FH31 Blanco: $21.990 (-45%, referencia $39.990) en Sodimac\n2. RABANNE Perfume Hombre Black Xs Edt 100Ml Rabanne: $71.990 (-40%, referencia $119.990) en Falabella\n3. MIDEA Freidora de Aire 4 litros MF-TN40D2: $39.990 (-42%, referencia $69.990) en Falabella Marketplace\n\n⏰ Precios vistos hoy (14/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
   }
  },
  "config": {
@@ -5963,7 +6014,7 @@
    "hasta": "2026-10-14T15:46:27.709Z",
    "veces": 1
   },
-  "ultimaPub": "2026-10-14T19:16:33.589Z"
+  "ultimaPub": "2026-10-14T19:32:50.481Z"
  },
  "seguidores": 49,
  "informeFecha": "2026-10-13",
