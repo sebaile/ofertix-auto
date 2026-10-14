@@ -5410,6 +5410,28 @@
     "tmp-medios/1791980156166-r1.mp4"
    ],
    "texto": "🔥 3 ofertas nuevas de hoy\n1. Nex Ventilador suelo industrial 30'' negro: $89.990 (-50%, referencia $179.990) en Easy\n2. DOLCE&GABBANA Perfume Mujer Light Blue Edt 200Ml Dolce&Gabbana: $89.990 (-52%, referencia $189.990) en Falabella · 📉 mínimo de 29 días\n3. Audiífonos Bluetooth Honor Earbuds X7i lite Blanco: $20.990 (-44%, referencia $37.990) en Tecnomas.cl · 📉 mínimo de 86 días\n\n⏰ Precios vistos hoy (14/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
+  },
+  "2026-10-14-r-historia-1791980261697": {
+   "tipo": "historia",
+   "fecha": "2026-10-14",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "hora": "09:17",
+   "id": "18110459081073781",
+   "ofertas": [
+    {
+     "id": "1739017",
+     "nombre": "Unidad SSD Western Digital Green SN3000 1TB M.2 22*80 PCIe4x4",
+     "tienda": "Tecnomas.cl",
+     "ahora": 153990,
+     "antes": 287990,
+     "pct": 46,
+     "rubro": "otros",
+     "esMinimo": true,
+     "dias": 88,
+     "visto": "08:05"
+    }
+   ]
   }
  },
  "config": {
@@ -5429,7 +5451,7 @@
    "hasta": "2026-10-14T03:17:32.731Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-14T12:17:25.371Z"
+  "ultimaPub": "2026-10-14T12:17:41.697Z"
  },
  "seguidores": 49,
  "informeFecha": "2026-10-13",
@@ -5480,6 +5502,7 @@
   "1634653": "2026-10-14T12:01:18.702Z",
   "1669911": "2026-10-13T11:02:29.763Z",
   "1695609": "2026-10-14T12:01:38.460Z",
+  "1739017": "2026-10-14T12:17:41.697Z",
   "1754179": "2026-10-14T11:03:03.338Z",
   "1755063": "2026-10-14T11:48:01.864Z",
   "1765725": "2026-10-14T11:32:55.124Z"
