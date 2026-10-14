@@ -5922,6 +5922,28 @@
     "tmp-medios/1792005085220-c5-3.jpg"
    ],
    "texto": "🏆 Los más populares\n1. ROWENTA Aspiradora 900 kW 2.5 Litros RO4B25EA: $62.590 (-43%) en Sodimac · 📉 mínimo de 80 días\n2. DOLCE&GABBANA Perfume Hombre EDP Dolce&Gabbana: $91.890 (-42%) en Falabella\n3. Parlante Portátil Aiwa AW-A521 90W Bluetooth Negro: $69.990 (-53%) en ABC · 📉 mínimo de 14 días\n4. DOLCE&GABBANA Set De Tres Regalos Q By Dolce&Gabbana Edp: $86.190 (-42%) en Falabella\n5. Kärcher Aspiradora corta pelos mascotas Pet Clean 1.4 litros: $99.990 (-41%) en Easy\n\n⏰ Precios vistos hoy (14/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #top5 #descuentoschile #ofertix #ahorrar"
+  },
+  "2026-10-14-r-historia-1792005393588": {
+   "tipo": "historia",
+   "fecha": "2026-10-14",
+   "estado": "publicado",
+   "bloque": "populares",
+   "hora": "16:16",
+   "id": "18081784802708445",
+   "ofertas": [
+    {
+     "id": "1780881",
+     "nombre": "MARC JACOBS Marc Jacobs Perfect Intense Eau De Parfum Para Mujer 50 Ml",
+     "tienda": "Falabella",
+     "ahora": 46490,
+     "antes": 92990,
+     "pct": 50,
+     "rubro": "perfumes",
+     "esMinimo": true,
+     "dias": 89,
+     "visto": "15:21"
+    }
+   ]
   }
  },
  "config": {
@@ -5941,7 +5963,7 @@
    "hasta": "2026-10-14T15:46:27.709Z",
    "veces": 1
   },
-  "ultimaPub": "2026-10-14T19:12:08.814Z"
+  "ultimaPub": "2026-10-14T19:16:33.589Z"
  },
  "seguidores": 49,
  "informeFecha": "2026-10-13",
@@ -5985,6 +6007,7 @@
   "1739017": "2026-10-14T12:17:41.697Z",
   "1754179": "2026-10-14T11:03:03.338Z",
   "1755063": "2026-10-14T11:48:01.864Z",
-  "1765725": "2026-10-14T11:32:55.124Z"
+  "1765725": "2026-10-14T11:32:55.124Z",
+  "1780881": "2026-10-14T19:16:33.588Z"
  }
 }
