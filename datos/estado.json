@@ -52,7 +52,7 @@
   "1502162": "2026-10-14T19:12:08.813Z",
   "1529581": "2026-10-14T12:17:25.370Z",
   "1530831": "2026-10-14T18:02:56.587Z",
-  "1531094": "2026-10-13T17:02:58.963Z",
+  "1531094": "2026-10-14T22:19:33.579Z",
   "1559122": "2026-10-13T12:17:25.653Z",
   "1574439": "2026-10-14T17:32:18.550Z",
   "1576473": "2026-10-12T12:18:00.106Z",
@@ -121,7 +121,7 @@
   "tablet 9 7 xiaomi redmi pad 2 9 7 4 gb ram 128 gb gris": "2026-10-12T13:49:18.882Z",
   "nespresso cafetera essenza mini negra espumador": "2026-10-14T18:02:56.587Z",
   "sony parlante portatil inalambrico linkbuds speaker blanco": "2026-10-12T16:17:29.866Z",
-  "fdv hervidor de vidrio crystal 1 7 lts kegs5813 gs fdv": "2026-10-13T17:02:58.963Z",
+  "fdv hervidor de vidrio crystal 1 7 lts kegs5813 gs fdv": "2026-10-14T22:19:33.579Z",
   "rowenta aspiradora 900 kw 2 5 litros ro4b25ea": "2026-10-14T19:12:08.813Z",
   "oferta mikrotik pwr line ap routeros l4 european plug type c": "2026-10-14T11:32:31.052Z",
   "samsung fabric band s m blue para galaxy watch9 watch8": "2026-10-14T11:47:40.920Z",
@@ -6277,6 +6277,35 @@
      "visto": "18:16"
     }
    ]
+  },
+  "2026-10-14-r-carrusel-1792016373579": {
+   "tipo": "carrusel",
+   "fecha": "2026-10-14",
+   "estado": "publicado",
+   "bloque": "recopilaciones",
+   "formato": "oferta",
+   "hora": "19:19",
+   "id": "17925788976423634",
+   "enlace": "https://www.instagram.com/p/DefcMQ8D3L1/",
+   "ofertas": [
+    {
+     "id": "1531094",
+     "nombre": "FDV Hervidor de Vidrio Crystal 1.7 Lts KEGS5813-GS FDV",
+     "tienda": "Lider",
+     "ahora": 19990,
+     "antes": 34990,
+     "pct": 42,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 9,
+     "visto": "18:16"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1792016338880-c7-1.jpg",
+    "tmp-medios/1792016338880-c7-2.jpg"
+   ],
+   "texto": "🔥 OFERTA DEL DÍA\nFDV Hervidor de Vidrio Crystal 1.7 Lts KEGS5813-GS FDV\nAhora: $19.990 (-42%)\nReferencia: $34.990\n🏪 Lider\n\n✅ Precio visto hoy a las 18:16 en nuestro sistema.\n⏰ Puede cambiar o agotarse sin aviso.\n📲 Enlace directo en Telegram: t.me/ofertixcl\n\n#ofertaschile #hogar #descuentoschile #ofertix #ofertasdeldia"
   }
  },
  "config": {
@@ -6296,7 +6325,7 @@
    "hasta": "2026-10-14T15:46:27.709Z",
    "veces": 1
   },
-  "ultimaPub": "2026-10-14T22:16:21.404Z"
+  "ultimaPub": "2026-10-14T22:19:33.579Z"
  },
  "seguidores": 49,
  "informeFecha": "2026-10-13",
