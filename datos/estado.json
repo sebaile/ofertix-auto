@@ -24,7 +24,7 @@
   "1064616": "2026-10-13T13:02:25.425Z",
   "1064880": "2026-10-11T22:48:01.730Z",
   "1087230": "2026-10-13T15:04:09.973Z",
-  "1087642": "2026-10-13T14:17:32.040Z",
+  "1087642": "2026-10-14T17:02:12.029Z",
   "1110715": "2026-10-12T16:02:03.620Z",
   "1110717": "2026-10-13T17:32:36.341Z",
   "1112004": "2026-10-12T13:17:39.055Z",
@@ -87,7 +87,7 @@
   "lattafa fakhar edp 100 ml h": "2026-10-13T17:32:36.341Z",
   "marshall audifonos bluetooth on ear marshall major v cafe": "2026-10-13T13:02:25.425Z",
   "philips audifono bluetooth true wireless tat3509 gris philips": "2026-10-12T13:17:39.055Z",
-  "primus mouse inalambrico gladius boba fett": "2026-10-13T14:17:32.040Z",
+  "primus mouse inalambrico gladius boba fett": "2026-10-14T17:02:12.029Z",
   "groner campana empotrada groner inox st 52 cm": "2026-10-12T13:49:18.881Z",
   "mouse lenovo 300 wireless compact cloud grey": "2026-10-14T16:33:45.716Z",
   "daewoo aspiradora de mano inalambrica portatil daewoo davc8v 8v": "2026-10-12T14:33:09.778Z",
@@ -5560,6 +5560,35 @@
      "visto": "13:12"
     }
    ]
+  },
+  "2026-10-14-r-carrusel-1791997332029": {
+   "tipo": "carrusel",
+   "fecha": "2026-10-14",
+   "estado": "publicado",
+   "bloque": "comparativas",
+   "formato": "oferta",
+   "hora": "14:02",
+   "id": "18115063208278220",
+   "enlace": "https://www.instagram.com/p/Dee343hGgG5/",
+   "ofertas": [
+    {
+     "id": "1087642",
+     "nombre": "PRIMUS Mouse inalámbrico Gladius Boba Fett",
+     "tienda": "Falabella Marketplace",
+     "ahora": 22990,
+     "antes": 39990,
+     "pct": 42,
+     "rubro": "tecnologia",
+     "esMinimo": true,
+     "dias": 74,
+     "visto": "13:12"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1791997306076-c3-1.jpg",
+    "tmp-medios/1791997306076-c3-2.jpg"
+   ],
+   "texto": "🔥 OFERTA DEL DÍA\nPRIMUS Mouse inalámbrico Gladius Boba Fett\nAhora: $22.990 (-42%)\nReferencia: $39.990\n🏪 Falabella Marketplace\n\n✅ Precio visto hoy a las 13:12 en nuestro sistema.\n📉 Es el precio más bajo de los últimos 74 días.\n⏰ Puede cambiar o agotarse sin aviso.\n📲 Enlace directo en Telegram: t.me/ofertixcl\n\n#ofertaschile #tecnologia #descuentoschile #ofertix #ofertasdeldia"
   }
  },
  "config": {
@@ -5579,7 +5608,7 @@
    "hasta": "2026-10-14T15:46:27.709Z",
    "veces": 1
   },
-  "ultimaPub": "2026-10-14T16:45:57.291Z"
+  "ultimaPub": "2026-10-14T17:02:12.029Z"
  },
  "seguidores": 49,
  "informeFecha": "2026-10-13",
