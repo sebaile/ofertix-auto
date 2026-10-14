@@ -7,7 +7,7 @@
   "81650": "2026-10-13T16:17:16.220Z",
   "82517": "2026-10-13T16:32:30.767Z",
   "181376": "2026-10-12T13:02:28.135Z",
-  "181591": "2026-10-13T13:47:43.113Z",
+  "181591": "2026-10-14T16:33:45.716Z",
   "266260": "2026-10-13T17:32:36.341Z",
   "279051": "2026-10-13T16:32:30.767Z",
   "279052": "2026-10-13T16:17:16.220Z",
@@ -47,7 +47,7 @@
   "1157052": "2026-10-13T11:32:06.789Z",
   "1157346": "2026-10-13T13:18:01.879Z",
   "1452540": "2026-10-14T11:47:40.920Z",
-  "1500833": "2026-10-13T12:17:25.653Z",
+  "1500833": "2026-10-14T16:33:45.716Z",
   "1502162": "2026-10-12T17:02:57.337Z",
   "1529581": "2026-10-14T12:17:25.370Z",
   "1530831": "2026-10-13T17:02:58.963Z",
@@ -64,7 +64,7 @@
   "1673324": "2026-10-13T13:18:01.879Z",
   "1673333": "2026-10-13T13:47:43.113Z",
   "1673340": "2026-10-13T13:47:43.113Z",
-  "1695609": "2026-10-13T16:02:47.435Z",
+  "1695609": "2026-10-14T16:33:45.716Z",
   "1696326": "2026-10-13T16:02:47.435Z",
   "1701548": "2026-10-13T17:02:58.963Z",
   "1739017": "2026-10-14T11:47:40.920Z",
@@ -89,7 +89,7 @@
   "philips audifono bluetooth true wireless tat3509 gris philips": "2026-10-12T13:17:39.055Z",
   "primus mouse inalambrico gladius boba fett": "2026-10-13T14:17:32.040Z",
   "groner campana empotrada groner inox st 52 cm": "2026-10-12T13:49:18.881Z",
-  "mouse lenovo 300 wireless compact cloud grey": "2026-10-13T13:47:43.113Z",
+  "mouse lenovo 300 wireless compact cloud grey": "2026-10-14T16:33:45.716Z",
   "daewoo aspiradora de mano inalambrica portatil daewoo davc8v 8v": "2026-10-12T14:33:09.778Z",
   "dolce gabbana set de tres regalos q by dolce gabbana edp": "2026-10-12T16:02:03.620Z",
   "teclado hyperx alloy core rgb 4p4f5ai hx kb5me2 la": "2026-10-13T15:04:09.973Z",
@@ -104,7 +104,7 @@
   "base de carga plana inalambrica 2 en 1 belkin boostcharge pro negro": "2026-10-12T11:32:21.131Z",
   "audio technica microfono audio technica dinamico cardioide ae4100": "2026-10-12T11:32:21.131Z",
   "audiifonos bluetooth honor earbuds x7i lite blanco": "2026-10-14T12:17:25.370Z",
-  "auriculares inalambricos jbl tour one m3 smart tx mocha": "2026-10-13T12:17:25.653Z",
+  "auriculares inalambricos jbl tour one m3 smart tx mocha": "2026-10-14T16:33:45.716Z",
   "kit 3 ventiladores airflow csf800 120mm argb pwm": "2026-10-12T11:48:07.994Z",
   "encimera vitroceramica teka tri 64910 tc3 4 quemadores": "2026-10-12T12:18:00.106Z",
   "xiaomi 17 ultra photography kit pro negro": "2026-10-12T12:18:00.106Z",
@@ -131,7 +131,7 @@
   "carolina herrera perfume hombre bad boy edt 50ml carolina herrera": "2026-10-13T13:47:43.113Z",
   "nina ricci perfume mujer nina ricci nina edt 50ml nina ricci": "2026-10-13T13:47:43.113Z",
   "zapato cuero mujer spinal slip on cafe hush puppies": "2026-10-13T16:02:47.435Z",
-  "mikrotik mantbox 52 15s with routeros l4 license": "2026-10-13T16:02:47.435Z",
+  "mikrotik mantbox 52 15s with routeros l4 license": "2026-10-14T16:33:45.716Z",
   "botin cuero hombre theobald cafe oscuro hush puppies": "2026-10-13T16:02:47.435Z",
   "mocasin cuero hombre italiano cazzoli cafe hush puppies": "2026-10-13T16:03:54.365Z",
   "zapatilla project rock 8 mujer cafe": "2026-10-13T16:17:16.220Z",
@@ -5487,6 +5487,57 @@
      "visto": "12:19"
     }
    ]
+  },
+  "2026-10-14-r-reel-1791995625717": {
+   "tipo": "reel",
+   "fecha": "2026-10-14",
+   "estado": "publicado",
+   "bloque": "comparativas",
+   "hora": "13:33",
+   "id": "18570998263078653",
+   "enlace": "https://www.instagram.com/reel/Dee0lSbgtd4/",
+   "ofertas": [
+    {
+     "id": "1500833",
+     "nombre": "Auriculares inalámbricos JBL - Tour One M3 Smart Tx -Mocha",
+     "tienda": "NotebookStore",
+     "ahora": 197990,
+     "antes": 534490,
+     "pct": 62,
+     "rubro": "tecnologia",
+     "esMinimo": false,
+     "dias": 89,
+     "visto": "12:19"
+    },
+    {
+     "id": "1695609",
+     "nombre": "MIKROTIK mANTBox 52 15s with RouterOS L4 license",
+     "tienda": "Tecnomas.cl",
+     "ahora": 132990,
+     "antes": 223990,
+     "pct": 40,
+     "rubro": "tecnologia",
+     "esMinimo": true,
+     "dias": 53,
+     "visto": "12:19"
+    },
+    {
+     "id": "181591",
+     "nombre": "Mouse Lenovo 300 Wireless Compact - Cloud Grey",
+     "tienda": "Mercado Libre",
+     "ahora": 36990,
+     "antes": 65990,
+     "pct": 43,
+     "rubro": "tecnologia",
+     "esMinimo": true,
+     "dias": 69,
+     "visto": "12:19"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1791995486609-r2.mp4"
+   ],
+   "texto": "🔥 3 ofertas en comparativa: mismo tipo de producto\n1. Auriculares inalámbricos JBL - Tour One M3 Smart Tx -Mocha: $197.990 (-62%, referencia $534.490) en NotebookStore\n2. MIKROTIK mANTBox 52 15s with RouterOS L4 license: $132.990 (-40%, referencia $223.990) en Tecnomas.cl · 📉 mínimo de 53 días\n3. Mouse Lenovo 300 Wireless Compact - Cloud Grey: $36.990 (-43%, referencia $65.990) en Mercado Libre · 📉 mínimo de 69 días\n\n⏰ Precios vistos hoy (14/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #tecnologia #descuentoschile #ofertix #ofertasdeldia #ahorrar"
   }
  },
  "config": {
@@ -5506,7 +5557,7 @@
    "hasta": "2026-10-14T15:46:27.709Z",
    "veces": 1
   },
-  "ultimaPub": "2026-10-14T16:16:22.410Z"
+  "ultimaPub": "2026-10-14T16:33:45.717Z"
  },
  "seguidores": 49,
  "informeFecha": "2026-10-13",
