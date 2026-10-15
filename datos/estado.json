@@ -52,6 +52,7 @@
   "1574439": "2026-10-14T17:32:18.550Z",
   "1576473": "2026-10-15T13:02:28.939Z",
   "1583369": "2026-10-14T19:12:08.813Z",
+  "1592754": "2026-10-15T13:17:21.520Z",
   "1611328": "2026-10-14T12:32:58.965Z",
   "1634653": "2026-10-14T12:17:25.370Z",
   "1664422": "2026-10-13T11:47:42.681Z",
@@ -144,7 +145,8 @@
   "thomas convector conveccion th cv51 blanco": "2026-10-15T11:32:39.923Z",
   "benetton perfume mujer sisterland green jasmine edt 80 ml benetton": "2026-10-15T11:32:39.923Z",
   "rabanne perfume hombre one million elixir edp 200ml rabanne": "2026-10-15T11:48:07.498Z",
-  "xiaomi 17 ultra photography kit pro negro": "2026-10-15T13:02:28.939Z"
+  "xiaomi 17 ultra photography kit pro negro": "2026-10-15T13:02:28.939Z",
+  "nex ventilador suelo industrial 42 negro": "2026-10-15T13:17:21.520Z"
  },
  "items": {
   "2026-10-12-r-carrusel-1791802926879": {
@@ -5159,6 +5161,35 @@
     "tmp-medios/1792069259817-r1.mp4"
    ],
    "texto": "🔥 3 ofertas nuevas de hoy\n1. Unidad SSD Western Digital Green SN3000 1TB M.2 22*80 PCIe4x4: $153.990 (-46%, referencia $287.990) en Tecnomas.cl · 📉 mínimo de 89 días\n2. DOLCE&GABBANA Perfume Mujer Light Blue Edt 200Ml Dolce&Gabbana: $89.990 (-52%, referencia $189.990) en Falabella · 📉 mínimo de 30 días\n3. Xiaomi 17 Ultra Photography Kit Pro Negro: $99.990 (-60%, referencia $249.990) en Xiaomi Chile\n\n⏰ Precios vistos hoy (15/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
+  },
+  "2026-10-15-r-carrusel-1792070241520": {
+   "tipo": "carrusel",
+   "fecha": "2026-10-15",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "formato": "oferta",
+   "hora": "10:17",
+   "id": "17978560103917689",
+   "enlace": "https://www.instagram.com/p/DehC8ADkXE_/",
+   "ofertas": [
+    {
+     "id": "1592754",
+     "nombre": "Nex Ventilador suelo industrial 42'' negro",
+     "tienda": "Easy",
+     "ahora": 149990,
+     "antes": 319990,
+     "pct": 53,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 16,
+     "visto": "09:39"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1792070206537-c2-1.jpg",
+    "tmp-medios/1792070206537-c2-2.jpg"
+   ],
+   "texto": "🔥 OFERTA NUEVA\nNex Ventilador suelo industrial 42'' negro\nAhora: $149.990 (-53%)\nReferencia: $319.990\n🏪 Easy\n\n✅ Precio visto hoy a las 09:39 en nuestro sistema.\n⏰ Puede cambiar o agotarse sin aviso.\n📲 Enlace directo en Telegram: t.me/ofertixcl\n\n#ofertaschile #hogar #descuentoschile #ofertix #ofertasdeldia"
   }
  },
  "config": {
@@ -5178,7 +5209,7 @@
    "hasta": "2026-10-15T03:31:16.072Z",
    "veces": 1
   },
-  "ultimaPub": "2026-10-15T13:02:28.940Z"
+  "ultimaPub": "2026-10-15T13:17:21.520Z"
  },
  "seguidores": 49,
  "informeFecha": "2026-10-14",
