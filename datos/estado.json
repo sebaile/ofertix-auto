@@ -43,7 +43,7 @@
   "1147916": "2026-10-13T12:32:15.194Z",
   "1151384": "2026-10-12T16:17:29.866Z",
   "1151387": "2026-10-12T11:32:21.131Z",
-  "1157052": "2026-10-13T11:32:06.789Z",
+  "1157052": "2026-10-15T11:32:39.923Z",
   "1157346": "2026-10-13T13:18:01.879Z",
   "1452540": "2026-10-14T11:47:40.920Z",
   "1500833": "2026-10-14T16:33:45.716Z",
@@ -73,7 +73,9 @@
   "1780881": "2026-10-14T18:02:56.587Z",
   "1784905": "2026-10-14T19:12:08.813Z",
   "1785097": "2026-10-14T20:32:43.022Z",
-  "1785375": "2026-10-14T20:32:43.022Z"
+  "1785375": "2026-10-14T20:32:43.022Z",
+  "1795903": "2026-10-15T11:32:39.923Z",
+  "1799714": "2026-10-15T11:32:39.923Z"
  },
  "nombres": {
   "encimera a gas 5 quemadores gris": "2026-10-14T11:47:40.920Z",
@@ -100,7 +102,7 @@
   "dolce gabbana perfume hombre edp dolce gabbana": "2026-10-14T19:12:08.813Z",
   "microsoft 365 familia licencia digital anual ep2 32295": "2026-10-13T16:32:30.767Z",
   "just home collection silla gamer escritorio negro": "2026-10-13T11:47:42.681Z",
-  "parlante portatil oracle red bull racing rb sk410": "2026-10-13T11:32:06.789Z",
+  "parlante portatil oracle red bull racing rb sk410": "2026-10-15T11:32:39.923Z",
   "base de carga plana inalambrica 2 en 1 belkin boostcharge pro negro": "2026-10-12T11:32:21.131Z",
   "audio technica microfono audio technica dinamico cardioide ae4100": "2026-10-12T11:32:21.131Z",
   "audiifonos bluetooth honor earbuds x7i lite blanco": "2026-10-14T12:17:25.370Z",
@@ -148,7 +150,9 @@
   "parlante portatil aiwa aw a521 90w bluetooth negro": "2026-10-14T19:12:08.813Z",
   "ursus trotter horno electrico sobremesa 25 litros ut backofen pro b": "2026-10-14T20:32:43.022Z",
   "albin trotter licuadora 1 5 litros multicolor at md mischung 3": "2026-10-14T20:32:43.022Z",
-  "scanner panasonic kv s1015c x": "2026-10-15T11:02:47.840Z"
+  "scanner panasonic kv s1015c x": "2026-10-15T11:02:47.840Z",
+  "thomas convector conveccion th cv51 blanco": "2026-10-15T11:32:39.923Z",
+  "benetton perfume mujer sisterland green jasmine edt 80 ml benetton": "2026-10-15T11:32:39.923Z"
  },
  "items": {
   "2026-10-12-r-carrusel-1791802926879": {
@@ -4895,6 +4899,57 @@
      "visto": "07:39"
     }
    ]
+  },
+  "2026-10-15-r-reel-1792063959924": {
+   "tipo": "reel",
+   "fecha": "2026-10-15",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "hora": "08:32",
+   "id": "18110872691179576",
+   "enlace": "https://www.instagram.com/reel/Deg27DtFXg1/",
+   "ofertas": [
+    {
+     "id": "1799714",
+     "nombre": "THOMAS Convector Convección TH-CV51 Blanco",
+     "tienda": "Sodimac",
+     "ahora": 36990,
+     "antes": 63990,
+     "pct": 42,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 86,
+     "visto": "07:39"
+    },
+    {
+     "id": "1795903",
+     "nombre": "BENETTON Perfume Mujer Sisterland Green Jasmine Edt 80 Ml Benetton",
+     "tienda": "Falabella",
+     "ahora": 15990,
+     "antes": 32990,
+     "pct": 51,
+     "rubro": "perfumes",
+     "esMinimo": false,
+     "dias": 54,
+     "visto": "07:39"
+    },
+    {
+     "id": "1157052",
+     "nombre": "Parlante Portátil Oracle Red Bull Racing RB-SK410",
+     "tienda": "PC Factory",
+     "ahora": 20590,
+     "antes": 51590,
+     "pct": 60,
+     "rubro": "tecnologia",
+     "esMinimo": true,
+     "dias": 86,
+     "visto": "07:39"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1792063868561-r0.mp4"
+   ],
+   "texto": "🔥 3 ofertas de tecnología\n1. THOMAS Convector Convección TH-CV51 Blanco: $36.990 (-42%, referencia $63.990) en Sodimac · 📉 mínimo de 86 días\n2. BENETTON Perfume Mujer Sisterland Green Jasmine Edt 80 Ml Benetton: $15.990 (-51%, referencia $32.990) en Falabella\n3. Parlante Portátil Oracle Red Bull Racing RB-SK410: $20.590 (-60%, referencia $51.590) en PC Factory · 📉 mínimo de 86 días\n\n⏰ Precios vistos hoy (15/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
   }
  },
  "config": {
@@ -4914,7 +4969,7 @@
    "hasta": "2026-10-15T03:31:16.072Z",
    "veces": 1
   },
-  "ultimaPub": "2026-10-15T11:16:03.777Z"
+  "ultimaPub": "2026-10-15T11:32:39.924Z"
  },
  "seguidores": 49,
  "informeFecha": "2026-10-14",
