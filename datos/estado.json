@@ -32,6 +32,7 @@
   "1124002": "2026-10-12T13:17:39.055Z",
   "1124003": "2026-10-13T13:18:01.879Z",
   "1124685": "2026-10-12T13:49:18.881Z",
+  "1128340": "2026-10-15T11:02:47.840Z",
   "1131276": "2026-10-14T17:32:18.550Z",
   "1137385": "2026-10-12T13:49:18.882Z",
   "1137440": "2026-10-14T11:32:31.052Z",
@@ -146,7 +147,8 @@
   "thierry mugler perfume mujer mugler angel edp 100 ml thierry mugler": "2026-10-14T18:02:56.587Z",
   "parlante portatil aiwa aw a521 90w bluetooth negro": "2026-10-14T19:12:08.813Z",
   "ursus trotter horno electrico sobremesa 25 litros ut backofen pro b": "2026-10-14T20:32:43.022Z",
-  "albin trotter licuadora 1 5 litros multicolor at md mischung 3": "2026-10-14T20:32:43.022Z"
+  "albin trotter licuadora 1 5 litros multicolor at md mischung 3": "2026-10-14T20:32:43.022Z",
+  "scanner panasonic kv s1015c x": "2026-10-15T11:02:47.840Z"
  },
  "items": {
   "2026-10-12-r-carrusel-1791802926879": {
@@ -4842,6 +4844,35 @@
      "visto": "20:19"
     }
    ]
+  },
+  "2026-10-15-r-carrusel-1792062167841": {
+   "tipo": "carrusel",
+   "fecha": "2026-10-15",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "formato": "oferta",
+   "hora": "08:02",
+   "id": "18074943482471845",
+   "enlace": "https://www.instagram.com/p/DegzilDmz03/",
+   "ofertas": [
+    {
+     "id": "1128340",
+     "nombre": "Scanner PANASONIC KV-S1015C-X",
+     "tienda": "Ágil Store",
+     "ahora": 45990,
+     "antes": 186990,
+     "pct": 75,
+     "rubro": "tecnologia",
+     "esMinimo": true,
+     "dias": 75,
+     "visto": "07:39"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1792062134292-c0-1.jpg",
+    "tmp-medios/1792062134292-c0-2.jpg"
+   ],
+   "texto": "🔥 OFERTA NUEVA\nScanner PANASONIC KV-S1015C-X\nAhora: $45.990 (-75%)\nReferencia: $186.990\n🏪 Ágil Store\n\n✅ Precio visto hoy a las 07:39 en nuestro sistema.\n📉 Es el precio más bajo de los últimos 75 días.\n⏰ Puede cambiar o agotarse sin aviso.\n📲 Enlace directo en Telegram: t.me/ofertixcl\n\n#ofertaschile #tecnologia #descuentoschile #ofertix #ofertasdeldia"
   }
  },
  "config": {
@@ -4861,7 +4892,7 @@
    "hasta": "2026-10-15T03:31:16.072Z",
    "veces": 1
   },
-  "ultimaPub": "2026-10-15T00:16:53.537Z"
+  "ultimaPub": "2026-10-15T11:02:47.841Z"
  },
  "seguidores": 49,
  "informeFecha": "2026-10-14",
