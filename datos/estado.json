@@ -5373,6 +5373,28 @@
     "tmp-medios/1792099017350-c3-3.jpg"
    ],
    "texto": "🏆 Los más populares\n1. Licuadora Easyways Licuadora Crush n' roll 1,5 L: $29.990 (-55%) en ABC · 📉 mínimo de 85 días\n2. MIKROTIK mANTBox 52 15s with RouterOS L4 license: $132.990 (-40%) en Tecnomas.cl · 📉 mínimo de 54 días\n3. MARC JACOBS Marc Jacobs Perfect Intense Eau De Parfum Para Mujer 50 Ml: $46.490 (-50%) en Falabella · 📉 mínimo de 89 días\n4. Teclado HyperX Alloy Core RGB (4P4F5AI / HX-KB5ME2-LA): $29.990 (-40%) en Valrod · 📉 mínimo de 43 días\n5. URSUS TROTTER Horno Eléctrico Sobremesa 25 Litros UT-BACKOFEN PRO-B: $33.090 (-44%) en Sodimac · 📉 mínimo de 51 días\n\n⏰ Precios vistos hoy (15/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #top5 #descuentoschile #ofertix #ahorrar"
+  },
+  "2026-10-15-r-historia-1792101677693": {
+   "tipo": "historia",
+   "fecha": "2026-10-15",
+   "estado": "publicado",
+   "bloque": "recopilaciones",
+   "hora": "19:01",
+   "id": "18027329408697420",
+   "ofertas": [
+    {
+     "id": "1827803",
+     "nombre": "Licuadora Easyways Licuadora Crush n' roll 1,5 L",
+     "tienda": "ABC",
+     "ahora": 29990,
+     "antes": 66990,
+     "pct": 55,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 85,
+     "visto": "17:41"
+    }
+   ]
   }
  },
  "config": {
@@ -5392,7 +5414,7 @@
    "hasta": "2026-10-15T20:16:14.570Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-15T21:17:43.004Z"
+  "ultimaPub": "2026-10-15T22:01:17.694Z"
  },
  "seguidores": 49,
  "informeFecha": "2026-10-14",
@@ -5429,6 +5451,7 @@
   "1784905": "2026-10-15T11:16:03.777Z",
   "1785097": "2026-10-14T20:46:13.982Z",
   "1785375": "2026-10-14T23:16:14.597Z",
-  "1799714": "2026-10-15T12:31:03.556Z"
+  "1799714": "2026-10-15T12:31:03.556Z",
+  "1827803": "2026-10-15T22:01:17.693Z"
  }
 }
