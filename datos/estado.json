@@ -15,7 +15,7 @@
   "716674": "2026-10-13T17:32:36.341Z",
   "824715": "2026-10-15T11:48:07.498Z",
   "824734": "2026-10-14T19:32:50.480Z",
-  "829028": "2026-10-14T18:02:56.587Z",
+  "829028": "2026-10-16T00:03:08.264Z",
   "912406": "2026-10-13T16:32:30.767Z",
   "1063781": "2026-10-15T20:32:52.352Z",
   "1064616": "2026-10-13T13:02:25.425Z",
@@ -35,10 +35,10 @@
   "1157052": "2026-10-15T11:32:39.923Z",
   "1157346": "2026-10-13T13:18:01.879Z",
   "1452540": "2026-10-14T11:47:40.920Z",
-  "1500833": "2026-10-14T16:33:45.716Z",
+  "1500833": "2026-10-16T00:03:08.264Z",
   "1502162": "2026-10-14T19:12:08.813Z",
   "1529581": "2026-10-14T12:17:25.370Z",
-  "1530831": "2026-10-14T18:02:56.587Z",
+  "1530831": "2026-10-16T00:03:08.264Z",
   "1531094": "2026-10-14T22:19:33.579Z",
   "1559122": "2026-10-13T12:17:25.653Z",
   "1574439": "2026-10-14T17:32:18.550Z",
@@ -90,11 +90,11 @@
   "just home collection silla gamer escritorio negro": "2026-10-13T11:47:42.681Z",
   "parlante portatil oracle red bull racing rb sk410": "2026-10-15T11:32:39.923Z",
   "audiifonos bluetooth honor earbuds x7i lite blanco": "2026-10-14T12:17:25.370Z",
-  "auriculares inalambricos jbl tour one m3 smart tx mocha": "2026-10-14T16:33:45.716Z",
+  "auriculares inalambricos jbl tour one m3 smart tx mocha": "2026-10-16T00:03:08.264Z",
   "encimera vitroceramica teka tri 64910 tc3 4 quemadores": "2026-10-14T17:32:18.550Z",
   "ferragamo perfume hombre red men edp 50 ml ferragamo": "2026-10-14T21:01:51.601Z",
   "karcher aspiradora corta pelos mascotas pet clean 1 4 litros": "2026-10-14T19:12:08.813Z",
-  "nespresso cafetera essenza mini negra espumador": "2026-10-14T18:02:56.587Z",
+  "nespresso cafetera essenza mini negra espumador": "2026-10-16T00:03:08.264Z",
   "fdv hervidor de vidrio crystal 1 7 lts kegs5813 gs fdv": "2026-10-14T22:19:33.579Z",
   "rowenta aspiradora 900 kw 2 5 litros ro4b25ea": "2026-10-14T19:12:08.813Z",
   "oferta mikrotik pwr line ap routeros l4 european plug type c": "2026-10-15T11:48:07.498Z",
@@ -123,7 +123,7 @@
   "samsung encimera a gas 5 quemadores na75d3030as zs samsung": "2026-10-14T11:47:40.920Z",
   "unidad ssd western digital green sn3000 1tb m 2 22 80 pcie4x4": "2026-10-15T13:02:28.939Z",
   "marc jacobs marc jacobs perfect intense eau de parfum para mujer 50 ml": "2026-10-15T21:17:43.003Z",
-  "thierry mugler perfume mujer mugler angel edp 100 ml thierry mugler": "2026-10-14T18:02:56.587Z",
+  "thierry mugler perfume mujer mugler angel edp 100 ml thierry mugler": "2026-10-16T00:03:08.264Z",
   "parlante portatil aiwa aw a521 90w bluetooth negro": "2026-10-15T20:32:52.352Z",
   "ursus trotter horno electrico sobremesa 25 litros ut backofen pro b": "2026-10-15T21:17:43.003Z",
   "albin trotter licuadora 1 5 litros multicolor at md mischung 3": "2026-10-14T20:32:43.022Z",
@@ -4003,6 +4003,57 @@
      "visto": "19:46"
     }
    ]
+  },
+  "2026-10-15-r-reel-1792108988264": {
+   "tipo": "reel",
+   "fecha": "2026-10-15",
+   "estado": "publicado",
+   "bloque": "recopilaciones",
+   "hora": "21:03",
+   "id": "18193009036393836",
+   "enlace": "https://www.instagram.com/reel/DeiMzoBjm6a/",
+   "ofertas": [
+    {
+     "id": "1500833",
+     "nombre": "Auriculares inalámbricos JBL - Tour One M3 Smart Tx -Mocha",
+     "tienda": "NotebookStore",
+     "ahora": 197990,
+     "antes": 534490,
+     "pct": 62,
+     "rubro": "tecnologia",
+     "esMinimo": false,
+     "dias": 88,
+     "visto": "19:46"
+    },
+    {
+     "id": "829028",
+     "nombre": "THIERRY MUGLER Perfume Mujer Mugler Angel EDP 100 ml Thierry Mugler",
+     "tienda": "Falabella",
+     "ahora": 104990,
+     "antes": 175990,
+     "pct": 40,
+     "rubro": "perfumes",
+     "esMinimo": true,
+     "dias": 89,
+     "visto": "19:46"
+    },
+    {
+     "id": "1530831",
+     "nombre": "Nespresso Cafetera Essenza Mini Negra + Espumador",
+     "tienda": "Lider",
+     "ahora": 83990,
+     "antes": 179990,
+     "pct": 53,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 84,
+     "visto": "19:46"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1792108883219-r3.mp4"
+   ],
+   "texto": "🔥 3 ofertas las mejores del día\n1. Auriculares inalámbricos JBL - Tour One M3 Smart Tx -Mocha: $197.990 (-62%, referencia $534.490) en NotebookStore\n2. THIERRY MUGLER Perfume Mujer Mugler Angel EDP 100 ml Thierry Mugler: $104.990 (-40%, referencia $175.990) en Falabella · 📉 mínimo de 89 días\n3. Nespresso Cafetera Essenza Mini Negra + Espumador: $83.990 (-53%, referencia $179.990) en Lider\n\n⏰ Precios vistos hoy (15/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
   }
  },
  "config": {
@@ -4022,7 +4073,7 @@
    "hasta": "2026-10-15T20:16:14.570Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-15T23:31:49.998Z"
+  "ultimaPub": "2026-10-16T00:03:08.265Z"
  },
  "seguidores": 49,
  "informeFecha": "2026-10-14",
