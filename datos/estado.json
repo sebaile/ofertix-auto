@@ -37,7 +37,7 @@
   "1157346": "2026-10-13T13:18:01.879Z",
   "1452540": "2026-10-14T11:47:40.920Z",
   "1500833": "2026-10-16T00:03:08.264Z",
-  "1502162": "2026-10-14T19:12:08.813Z",
+  "1502162": "2026-10-16T01:32:44.182Z",
   "1529581": "2026-10-14T12:17:25.370Z",
   "1530831": "2026-10-16T00:03:08.264Z",
   "1531094": "2026-10-14T22:19:33.579Z",
@@ -51,7 +51,7 @@
   "1664422": "2026-10-13T11:47:42.681Z",
   "1669911": "2026-10-15T11:48:07.498Z",
   "1673324": "2026-10-16T01:02:57.638Z",
-  "1673333": "2026-10-14T22:32:31.988Z",
+  "1673333": "2026-10-16T01:32:44.183Z",
   "1673340": "2026-10-16T01:17:33.150Z",
   "1695609": "2026-10-15T21:17:43.003Z",
   "1696326": "2026-10-13T16:02:47.435Z",
@@ -63,7 +63,7 @@
   "1780881": "2026-10-15T21:17:43.003Z",
   "1784905": "2026-10-15T20:32:52.351Z",
   "1785097": "2026-10-15T21:17:43.003Z",
-  "1785375": "2026-10-14T20:32:43.022Z",
+  "1785375": "2026-10-16T01:32:44.183Z",
   "1795903": "2026-10-15T11:32:39.923Z",
   "1799714": "2026-10-15T11:32:39.923Z",
   "1827803": "2026-10-15T21:17:43.003Z",
@@ -102,7 +102,7 @@
   "karcher aspiradora corta pelos mascotas pet clean 1 4 litros": "2026-10-14T19:12:08.813Z",
   "nespresso cafetera essenza mini negra espumador": "2026-10-16T00:03:08.264Z",
   "fdv hervidor de vidrio crystal 1 7 lts kegs5813 gs fdv": "2026-10-14T22:19:33.579Z",
-  "rowenta aspiradora 900 kw 2 5 litros ro4b25ea": "2026-10-14T19:12:08.813Z",
+  "rowenta aspiradora 900 kw 2 5 litros ro4b25ea": "2026-10-16T01:32:44.183Z",
   "oferta mikrotik pwr line ap routeros l4 european plug type c": "2026-10-15T11:48:07.498Z",
   "samsung fabric band s m blue para galaxy watch9 watch8": "2026-10-14T11:47:40.920Z",
   "audio technica microfono audio technica dinamico cardioide ae5100": "2026-10-13T11:32:06.789Z",
@@ -114,7 +114,7 @@
   "rabanne perfume hombre black xs edt 100ml rabanne": "2026-10-16T01:02:57.638Z",
   "jbl jbl audifonos live 780nc negro": "2026-10-13T13:18:01.879Z",
   "carolina herrera perfume hombre bad boy edt 50ml carolina herrera": "2026-10-16T01:17:33.150Z",
-  "nina ricci perfume mujer nina ricci nina edt 50ml nina ricci": "2026-10-14T22:32:31.988Z",
+  "nina ricci perfume mujer nina ricci nina edt 50ml nina ricci": "2026-10-16T01:32:44.183Z",
   "zapato cuero mujer spinal slip on cafe hush puppies": "2026-10-13T16:02:47.435Z",
   "mikrotik mantbox 52 15s with routeros l4 license": "2026-10-15T21:17:43.003Z",
   "botin cuero hombre theobald cafe oscuro hush puppies": "2026-10-13T16:02:47.435Z",
@@ -132,7 +132,7 @@
   "thierry mugler perfume mujer mugler angel edp 100 ml thierry mugler": "2026-10-16T00:03:08.264Z",
   "parlante portatil aiwa aw a521 90w bluetooth negro": "2026-10-15T20:32:52.352Z",
   "ursus trotter horno electrico sobremesa 25 litros ut backofen pro b": "2026-10-15T21:17:43.003Z",
-  "albin trotter licuadora 1 5 litros multicolor at md mischung 3": "2026-10-14T20:32:43.022Z",
+  "albin trotter licuadora 1 5 litros multicolor at md mischung 3": "2026-10-16T01:32:44.183Z",
   "scanner panasonic kv s1015c x": "2026-10-15T11:02:47.840Z",
   "thomas convector conveccion th cv51 blanco": "2026-10-15T11:32:39.923Z",
   "benetton perfume mujer sisterland green jasmine edt 80 ml benetton": "2026-10-15T11:32:39.923Z",
@@ -4583,6 +4583,57 @@
      "visto": "21:51"
     }
    ]
+  },
+  "2026-10-15-r-reel-1792114364183": {
+   "tipo": "reel",
+   "fecha": "2026-10-15",
+   "estado": "publicado",
+   "bloque": "recopilaciones",
+   "hora": "22:32",
+   "id": "18143985682516730",
+   "enlace": "https://www.instagram.com/reel/DeiXDxPCB52/",
+   "ofertas": [
+    {
+     "id": "1502162",
+     "nombre": "ROWENTA Aspiradora 900 kW 2.5 Litros RO4B25EA",
+     "tienda": "Sodimac",
+     "ahora": 62590,
+     "antes": 109990,
+     "pct": 43,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 82,
+     "visto": "21:51"
+    },
+    {
+     "id": "1673333",
+     "nombre": "NINA RICCI Perfume Mujer Nina Ricci Nina EDT 50ml Nina Ricci",
+     "tienda": "Falabella",
+     "ahora": 49990,
+     "antes": 83990,
+     "pct": 40,
+     "rubro": "perfumes",
+     "esMinimo": false,
+     "dias": 10,
+     "visto": "21:51"
+    },
+    {
+     "id": "1785375",
+     "nombre": "ALBIN TROTTER Licuadora 1.5 Litros Multicolor AT-MD MISCHUNG 3",
+     "tienda": "Sodimac",
+     "ahora": 79990,
+     "antes": 154990,
+     "pct": 48,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 1,
+     "visto": "21:51"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1792114279047-r5.mp4"
+   ],
+   "texto": "🔥 3 ofertas las mejores del día\n1. ROWENTA Aspiradora 900 kW 2.5 Litros RO4B25EA: $62.590 (-43%, referencia $109.990) en Sodimac · 📉 mínimo de 82 días\n2. NINA RICCI Perfume Mujer Nina Ricci Nina EDT 50ml Nina Ricci: $49.990 (-40%, referencia $83.990) en Falabella\n3. ALBIN TROTTER Licuadora 1.5 Litros Multicolor AT-MD MISCHUNG 3: $79.990 (-48%, referencia $154.990) en Sodimac\n\n⏰ Precios vistos hoy (15/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
   }
  },
  "config": {
@@ -4602,7 +4653,7 @@
    "hasta": "2026-10-15T20:16:14.570Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-16T01:31:10.918Z"
+  "ultimaPub": "2026-10-16T01:32:44.183Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-15",
