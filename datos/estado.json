@@ -14,7 +14,7 @@
   "709365": "2026-10-13T16:02:47.435Z",
   "716674": "2026-10-13T17:32:36.341Z",
   "824715": "2026-10-15T11:48:07.498Z",
-  "824734": "2026-10-14T19:32:50.480Z",
+  "824734": "2026-10-16T13:02:53.502Z",
   "829028": "2026-10-16T00:03:08.264Z",
   "912406": "2026-10-13T16:32:30.767Z",
   "1063781": "2026-10-15T20:32:52.352Z",
@@ -38,11 +38,12 @@
   "1502162": "2026-10-16T01:32:44.182Z",
   "1529581": "2026-10-14T12:17:25.370Z",
   "1530831": "2026-10-16T00:03:08.264Z",
-  "1531094": "2026-10-14T22:19:33.579Z",
+  "1531094": "2026-10-16T13:02:53.502Z",
   "1574439": "2026-10-14T17:32:18.550Z",
   "1576473": "2026-10-15T13:02:28.939Z",
   "1583369": "2026-10-16T02:32:18.362Z",
   "1592754": "2026-10-15T13:17:21.520Z",
+  "1595843": "2026-10-16T13:02:53.502Z",
   "1611328": "2026-10-14T12:32:58.965Z",
   "1634653": "2026-10-14T12:17:25.370Z",
   "1669911": "2026-10-16T12:32:35.601Z",
@@ -89,7 +90,7 @@
   "mouse lenovo 300 wireless compact cloud grey": "2026-10-14T16:33:45.716Z",
   "dolce gabbana set de tres regalos q by dolce gabbana edp": "2026-10-16T00:47:21.771Z",
   "teclado hyperx alloy core rgb 4p4f5ai hx kb5me2 la": "2026-10-15T21:17:43.003Z",
-  "midea freidora de aire 4 litros mf tn40d2": "2026-10-14T19:32:50.480Z",
+  "midea freidora de aire 4 litros mf tn40d2": "2026-10-16T13:02:53.502Z",
   "dolce gabbana perfume hombre edp dolce gabbana": "2026-10-16T11:32:41.527Z",
   "microsoft 365 familia licencia digital anual ep2 32295": "2026-10-13T16:32:30.767Z",
   "parlante portatil oracle red bull racing rb sk410": "2026-10-16T11:47:32.061Z",
@@ -99,7 +100,7 @@
   "ferragamo perfume hombre red men edp 50 ml ferragamo": "2026-10-16T00:47:21.771Z",
   "karcher aspiradora corta pelos mascotas pet clean 1 4 litros": "2026-10-16T02:32:18.362Z",
   "nespresso cafetera essenza mini negra espumador": "2026-10-16T00:03:08.264Z",
-  "fdv hervidor de vidrio crystal 1 7 lts kegs5813 gs fdv": "2026-10-14T22:19:33.579Z",
+  "fdv hervidor de vidrio crystal 1 7 lts kegs5813 gs fdv": "2026-10-16T13:02:53.502Z",
   "rowenta aspiradora 900 kw 2 5 litros ro4b25ea": "2026-10-16T01:32:44.183Z",
   "oferta mikrotik pwr line ap routeros l4 european plug type c": "2026-10-16T12:32:35.601Z",
   "samsung fabric band s m blue para galaxy watch9 watch8": "2026-10-14T11:47:40.920Z",
@@ -144,7 +145,8 @@
   "volker campana convencional 60 cm inox": "2026-10-16T01:17:33.150Z",
   "thomas chimenea electrica 2000w conveccion th fp100 madera": "2026-10-16T11:02:08.575Z",
   "karcher limpiadora de vapor karcher sc 1 multi": "2026-10-16T11:32:41.527Z",
-  "karcher aspiradora a bateria vc 4 cordless": "2026-10-16T11:47:32.061Z"
+  "karcher aspiradora a bateria vc 4 cordless": "2026-10-16T11:47:32.061Z",
+  "nex ventilador suelo industrial 36 negro": "2026-10-16T13:02:53.502Z"
  },
  "items": {
   "2026-10-13-r-carrusel-1791889328980": {
@@ -5261,6 +5263,57 @@
      "visto": "08:56"
     }
    ]
+  },
+  "2026-10-16-r-reel-1792155773503": {
+   "tipo": "reel",
+   "fecha": "2026-10-16",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "hora": "10:02",
+   "id": "17940495438381321",
+   "enlace": "https://www.instagram.com/reel/DejmCtsFBei/",
+   "ofertas": [
+    {
+     "id": "1595843",
+     "nombre": "Nex Ventilador suelo industrial 36'' negro",
+     "tienda": "Easy",
+     "ahora": 119990,
+     "antes": 239990,
+     "pct": 50,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 17,
+     "visto": "08:56"
+    },
+    {
+     "id": "824734",
+     "nombre": "MIDEA Freidora de Aire 4 litros MF-TN40D2",
+     "tienda": "Falabella Marketplace",
+     "ahora": 39990,
+     "antes": 69990,
+     "pct": 42,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 7,
+     "visto": "08:56"
+    },
+    {
+     "id": "1531094",
+     "nombre": "FDV Hervidor de Vidrio Crystal 1.7 Lts KEGS5813-GS FDV",
+     "tienda": "Lider",
+     "ahora": 19990,
+     "antes": 34990,
+     "pct": 42,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 11,
+     "visto": "08:56"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1792155677205-r2.mp4"
+   ],
+   "texto": "🔥 3 ofertas de hogar\n1. Nex Ventilador suelo industrial 36'' negro: $119.990 (-50%, referencia $239.990) en Easy\n2. MIDEA Freidora de Aire 4 litros MF-TN40D2: $39.990 (-42%, referencia $69.990) en Falabella Marketplace\n3. FDV Hervidor de Vidrio Crystal 1.7 Lts KEGS5813-GS FDV: $19.990 (-42%, referencia $34.990) en Lider\n\n⏰ Precios vistos hoy (16/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #hogar #descuentoschile #ofertix #ofertasdeldia #ahorrar"
   }
  },
  "config": {
@@ -5280,7 +5333,7 @@
    "hasta": "2026-10-15T20:16:14.570Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-16T12:46:38.352Z"
+  "ultimaPub": "2026-10-16T13:02:53.503Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-15",
