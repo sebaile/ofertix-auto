@@ -19,7 +19,7 @@
   "912406": "2026-10-13T16:32:30.767Z",
   "1063781": "2026-10-15T20:32:52.352Z",
   "1064616": "2026-10-13T13:02:25.425Z",
-  "1087207": "2026-10-15T11:48:07.498Z",
+  "1087207": "2026-10-16T12:17:24.994Z",
   "1087230": "2026-10-16T11:32:41.527Z",
   "1087242": "2026-10-16T01:02:57.638Z",
   "1087642": "2026-10-16T00:47:21.771Z",
@@ -30,7 +30,7 @@
   "1128340": "2026-10-16T11:32:41.527Z",
   "1131276": "2026-10-15T21:17:43.003Z",
   "1137440": "2026-10-16T01:02:57.638Z",
-  "1147916": "2026-10-15T11:48:07.498Z",
+  "1147916": "2026-10-16T12:17:24.994Z",
   "1157052": "2026-10-16T11:47:32.061Z",
   "1157346": "2026-10-13T13:18:01.879Z",
   "1452540": "2026-10-14T11:47:40.920Z",
@@ -55,7 +55,7 @@
   "1701548": "2026-10-14T19:32:50.480Z",
   "1739017": "2026-10-15T13:02:28.939Z",
   "1754179": "2026-10-14T11:02:40.888Z",
-  "1755063": "2026-10-15T11:48:07.498Z",
+  "1755063": "2026-10-16T12:17:24.994Z",
   "1765725": "2026-10-14T11:47:40.920Z",
   "1780881": "2026-10-15T21:17:43.003Z",
   "1784905": "2026-10-15T20:32:52.351Z",
@@ -80,7 +80,7 @@
   "edicion digital de lujo de returnal ps5": "2026-10-13T16:32:30.767Z",
   "ralph lauren polo sport fresh edt 125 ml h": "2026-10-13T17:32:36.341Z",
   "dolce gabbana perfume mujer light blue edt 200ml dolce gabbana": "2026-10-15T13:02:28.939Z",
-  "encimera a gas 5 quemadores silver na75d3030as zs": "2026-10-15T11:48:07.498Z",
+  "encimera a gas 5 quemadores silver na75d3030as zs": "2026-10-16T12:17:24.994Z",
   "karcher aspiradora inalambrica 223 14 w 17 litros wd 3 18": "2026-10-13T13:18:01.879Z",
   "calvin klein calvin klein ck one eau de toilette unisex 50 ml": "2026-10-15T20:32:52.352Z",
   "flexus100 soundbar flexus core 100": "2026-10-13T16:17:16.220Z",
@@ -121,7 +121,7 @@
   "zapatilla project rock 7 hombre verde": "2026-10-13T16:32:30.767Z",
   "thomas termoventilador electrico 2000 w th fh31 blanco": "2026-10-14T19:32:50.480Z",
   "parlante portatil oracle red bull racing rb sk460": "2026-10-14T11:02:40.888Z",
-  "samsung soundtower mx t40 2 0 ch 2020": "2026-10-15T11:48:07.498Z",
+  "samsung soundtower mx t40 2 0 ch 2020": "2026-10-16T12:17:24.994Z",
   "samsung audifonos in ear sm r400nzaalta bluetooth v5 2 gray": "2026-10-16T01:02:57.638Z",
   "samsung encimera a gas 5 quemadores na75d3030as zs samsung": "2026-10-14T11:47:40.920Z",
   "unidad ssd western digital green sn3000 1tb m 2 22 80 pcie4x4": "2026-10-15T13:02:28.939Z",
@@ -133,7 +133,7 @@
   "scanner panasonic kv s1015c x": "2026-10-16T11:32:41.527Z",
   "thomas convector conveccion th cv51 blanco": "2026-10-15T11:32:39.923Z",
   "benetton perfume mujer sisterland green jasmine edt 80 ml benetton": "2026-10-16T11:47:32.061Z",
-  "rabanne perfume hombre one million elixir edp 200ml rabanne": "2026-10-15T11:48:07.498Z",
+  "rabanne perfume hombre one million elixir edp 200ml rabanne": "2026-10-16T12:17:24.994Z",
   "xiaomi 17 ultra photography kit pro negro": "2026-10-15T13:02:28.939Z",
   "nex ventilador suelo industrial 42 negro": "2026-10-15T13:17:21.520Z",
   "freidora de aire thomas th af130dv 13 l": "2026-10-15T20:32:52.352Z",
@@ -5095,6 +5095,57 @@
      "visto": "08:00"
     }
    ]
+  },
+  "2026-10-16-r-reel-1792153044995": {
+   "tipo": "reel",
+   "fecha": "2026-10-16",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "hora": "09:17",
+   "id": "17962814115217957",
+   "enlace": "https://www.instagram.com/reel/Dejg2AQCSUm/",
+   "ofertas": [
+    {
+     "id": "1147916",
+     "nombre": "Encimera a Gas 5 quemadores (Silver) (NA75D3030AS/ZS)",
+     "tienda": "Samsung Shop",
+     "ahora": 179990,
+     "antes": 359990,
+     "pct": 50,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 66,
+     "visto": "08:56"
+    },
+    {
+     "id": "1755063",
+     "nombre": "SAMSUNG Soundtower MX-T40 2.0 ch (2020)",
+     "tienda": "Falabella",
+     "ahora": 106990,
+     "antes": 199990,
+     "pct": 46,
+     "rubro": "tecnologia",
+     "esMinimo": true,
+     "dias": 73,
+     "visto": "08:56"
+    },
+    {
+     "id": "1087207",
+     "nombre": "RABANNE Perfume Hombre One Million Elixir Edp 200Ml Rabanne",
+     "tienda": "Falabella",
+     "ahora": 101990,
+     "antes": 179990,
+     "pct": 43,
+     "rubro": "perfumes",
+     "esMinimo": false,
+     "dias": 57,
+     "visto": "08:56"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1792152957481-r1.mp4"
+   ],
+   "texto": "🔥 3 ofertas nuevas de hoy\n1. Encimera a Gas 5 quemadores (Silver) (NA75D3030AS/ZS): $179.990 (-50%, referencia $359.990) en Samsung Shop · 📉 mínimo de 66 días\n2. SAMSUNG Soundtower MX-T40 2.0 ch (2020): $106.990 (-46%, referencia $199.990) en Falabella · 📉 mínimo de 73 días\n3. RABANNE Perfume Hombre One Million Elixir Edp 200Ml Rabanne: $101.990 (-43%, referencia $179.990) en Falabella\n\n⏰ Precios vistos hoy (16/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
   }
  },
  "config": {
@@ -5114,7 +5165,7 @@
    "hasta": "2026-10-15T20:16:14.570Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-16T12:01:46.532Z"
+  "ultimaPub": "2026-10-16T12:17:24.995Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-15",
