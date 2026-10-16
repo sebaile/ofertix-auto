@@ -21,6 +21,7 @@
   "1064616": "2026-10-13T13:02:25.425Z",
   "1087207": "2026-10-15T11:48:07.498Z",
   "1087230": "2026-10-14T19:12:08.813Z",
+  "1087242": "2026-10-16T01:02:57.638Z",
   "1087642": "2026-10-16T00:47:21.771Z",
   "1110715": "2026-10-16T00:47:21.771Z",
   "1110717": "2026-10-16T00:47:21.771Z",
@@ -28,7 +29,7 @@
   "1124003": "2026-10-13T13:18:01.879Z",
   "1128340": "2026-10-15T11:02:47.840Z",
   "1131276": "2026-10-15T21:17:43.003Z",
-  "1137440": "2026-10-14T11:32:31.052Z",
+  "1137440": "2026-10-16T01:02:57.638Z",
   "1144208": "2026-10-13T11:32:06.789Z",
   "1147873": "2026-10-13T11:47:42.681Z",
   "1147916": "2026-10-15T11:48:07.498Z",
@@ -49,7 +50,7 @@
   "1634653": "2026-10-14T12:17:25.370Z",
   "1664422": "2026-10-13T11:47:42.681Z",
   "1669911": "2026-10-15T11:48:07.498Z",
-  "1673324": "2026-10-14T19:32:50.480Z",
+  "1673324": "2026-10-16T01:02:57.638Z",
   "1673333": "2026-10-14T22:32:31.988Z",
   "1673340": "2026-10-14T20:32:43.022Z",
   "1695609": "2026-10-15T21:17:43.003Z",
@@ -67,8 +68,10 @@
   "1799714": "2026-10-15T11:32:39.923Z",
   "1827803": "2026-10-15T21:17:43.003Z",
   "1828224": "2026-10-15T20:32:52.352Z",
+  "1840943": "2026-10-16T01:02:57.638Z",
   "1841233": "2026-10-16T00:47:21.771Z",
-  "1841315": "2026-10-16T00:47:21.771Z"
+  "1841315": "2026-10-16T00:47:21.771Z",
+  "1841316": "2026-10-16T01:02:57.638Z"
  },
  "nombres": {
   "encimera a gas 5 quemadores gris": "2026-10-14T11:47:40.920Z",
@@ -107,7 +110,7 @@
   "encimera vitroceramica teka tb 6415 4 quemadores": "2026-10-13T12:17:25.653Z",
   "alisador gama x wide on off dual plates": "2026-10-14T12:32:58.965Z",
   "samsung encimera a gas 5 quemadores gris": "2026-10-15T11:48:07.498Z",
-  "rabanne perfume hombre black xs edt 100ml rabanne": "2026-10-14T19:32:50.480Z",
+  "rabanne perfume hombre black xs edt 100ml rabanne": "2026-10-16T01:02:57.638Z",
   "jbl jbl audifonos live 780nc negro": "2026-10-13T13:18:01.879Z",
   "carolina herrera perfume hombre bad boy edt 50ml carolina herrera": "2026-10-14T20:32:43.022Z",
   "nina ricci perfume mujer nina ricci nina edt 50ml nina ricci": "2026-10-14T22:32:31.988Z",
@@ -121,7 +124,7 @@
   "thomas termoventilador electrico 2000 w th fh31 blanco": "2026-10-14T19:32:50.480Z",
   "parlante portatil oracle red bull racing rb sk460": "2026-10-14T11:02:40.888Z",
   "samsung soundtower mx t40 2 0 ch 2020": "2026-10-15T11:48:07.498Z",
-  "samsung audifonos in ear sm r400nzaalta bluetooth v5 2 gray": "2026-10-14T11:32:31.052Z",
+  "samsung audifonos in ear sm r400nzaalta bluetooth v5 2 gray": "2026-10-16T01:02:57.638Z",
   "samsung encimera a gas 5 quemadores na75d3030as zs samsung": "2026-10-14T11:47:40.920Z",
   "unidad ssd western digital green sn3000 1tb m 2 22 80 pcie4x4": "2026-10-15T13:02:28.939Z",
   "marc jacobs marc jacobs perfect intense eau de parfum para mujer 50 ml": "2026-10-15T21:17:43.003Z",
@@ -138,7 +141,10 @@
   "freidora de aire thomas th af130dv 13 l": "2026-10-15T20:32:52.352Z",
   "licuadora easyways licuadora crush n roll 1 5 l": "2026-10-15T21:17:43.003Z",
   "hamilton beach microondas digital 23 litros inox hb p90d23el lxa": "2026-10-16T00:47:21.771Z",
-  "hamilton beach batidora de mano 290 w multicolor bp 62650 cl": "2026-10-16T00:47:21.771Z"
+  "hamilton beach batidora de mano 290 w multicolor bp 62650 cl": "2026-10-16T00:47:21.771Z",
+  "hamilton beach batidora de pedestal 3 7 l 290 kw negro 64650 cl": "2026-10-16T01:02:57.638Z",
+  "antonio banderas perfume edt hombre the icon edt 200 ml banderas": "2026-10-16T01:02:57.638Z",
+  "hamilton beach freidora de aire 2 5 litros fe 35051 cl": "2026-10-16T01:02:57.638Z"
  },
  "items": {
   "2026-10-13-r-carrusel-1791889328980": {
@@ -4402,6 +4408,84 @@
      "visto": "20:49"
     }
    ]
+  },
+  "2026-10-15-r-carrusel-1792112577639": {
+   "tipo": "carrusel",
+   "fecha": "2026-10-15",
+   "estado": "publicado",
+   "bloque": "recopilaciones",
+   "formato": "top5",
+   "hora": "22:02",
+   "id": "17977452390124256",
+   "enlace": "https://www.instagram.com/p/DeiTs2PDVNL/",
+   "ofertas": [
+    {
+     "id": "1841316",
+     "nombre": "HAMILTON BEACH Batidora de Pedestal 3.7 l 290 kW Negro 64650-CL",
+     "tienda": "Sodimac",
+     "ahora": 29990,
+     "antes": 59990,
+     "pct": 50,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 35,
+     "visto": "20:49"
+    },
+    {
+     "id": "1087242",
+     "nombre": "ANTONIO BANDERAS Perfume EDT Hombre The Icon EDT 200 Ml Banderas",
+     "tienda": "Falabella",
+     "ahora": 22990,
+     "antes": 38990,
+     "pct": 41,
+     "rubro": "perfumes",
+     "esMinimo": false,
+     "dias": 70,
+     "visto": "20:49"
+    },
+    {
+     "id": "1137440",
+     "nombre": "Samsung Audífonos In Ear SM-R400NZAALTA Bluetooth v5.2 Gray",
+     "tienda": "Lider",
+     "ahora": 59990,
+     "antes": 99990,
+     "pct": 40,
+     "rubro": "tecnologia",
+     "esMinimo": false,
+     "dias": 9,
+     "visto": "20:49"
+    },
+    {
+     "id": "1840943",
+     "nombre": "HAMILTON BEACH Freidora de Aire 2.5 Litros FE-35051-CL",
+     "tienda": "Sodimac",
+     "ahora": 39990,
+     "antes": 89990,
+     "pct": 55,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 35,
+     "visto": "20:49"
+    },
+    {
+     "id": "1673324",
+     "nombre": "RABANNE Perfume Hombre Black Xs Edt 100Ml Rabanne",
+     "tienda": "Falabella",
+     "ahora": 71990,
+     "antes": 119990,
+     "pct": 40,
+     "rubro": "perfumes",
+     "esMinimo": false,
+     "dias": 48,
+     "visto": "20:49"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1792112544403-c5-1.jpg",
+    "tmp-medios/1792112544403-c5-2.jpg",
+    "tmp-medios/1792112544403-c5-3.jpg"
+   ],
+   "texto": "🏆 Recopilación del día\n1. HAMILTON BEACH Batidora de Pedestal 3.7 l 290 kW Negro 64650-CL: $29.990 (-50%) en Sodimac · 📉 mínimo de 35 días\n2. ANTONIO BANDERAS Perfume EDT Hombre The Icon EDT 200 Ml Banderas: $22.990 (-41%) en Falabella\n3. Samsung Audífonos In Ear SM-R400NZAALTA Bluetooth v5.2 Gray: $59.990 (-40%) en Lider\n4. HAMILTON BEACH Freidora de Aire 2.5 Litros FE-35051-CL: $39.990 (-55%) en Sodimac\n5. RABANNE Perfume Hombre Black Xs Edt 100Ml Rabanne: $71.990 (-40%) en Falabella\n\n⏰ Precios vistos hoy (15/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #top5 #descuentoschile #ofertix #ahorrar"
   }
  },
  "config": {
@@ -4421,7 +4505,7 @@
    "hasta": "2026-10-15T20:16:14.570Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-16T01:01:07.847Z"
+  "ultimaPub": "2026-10-16T01:02:57.639Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-15",
