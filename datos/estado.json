@@ -19,7 +19,7 @@
   "1087642": "2026-10-16T00:47:21.771Z",
   "1110715": "2026-10-16T00:47:21.771Z",
   "1110717": "2026-10-16T00:47:21.771Z",
-  "1118971": "2026-10-15T13:02:28.939Z",
+  "1118971": "2026-10-16T16:32:14.894Z",
   "1128340": "2026-10-16T11:32:41.527Z",
   "1131276": "2026-10-15T21:17:43.003Z",
   "1137440": "2026-10-16T01:02:57.638Z",
@@ -70,7 +70,7 @@
   "primaterm estufa calefactor electrico alumax 500w primaterm": "2026-10-16T01:17:33.150Z",
   "edicion digital de lujo de returnal ps5": "2026-10-13T16:32:30.767Z",
   "ralph lauren polo sport fresh edt 125 ml h": "2026-10-13T17:32:36.341Z",
-  "dolce gabbana perfume mujer light blue edt 200ml dolce gabbana": "2026-10-15T13:02:28.939Z",
+  "dolce gabbana perfume mujer light blue edt 200ml dolce gabbana": "2026-10-16T16:32:14.894Z",
   "encimera a gas 5 quemadores silver na75d3030as zs": "2026-10-16T12:17:24.994Z",
   "calvin klein calvin klein ck one eau de toilette unisex 50 ml": "2026-10-15T20:32:52.352Z",
   "lattafa fakhar edp 100 ml h": "2026-10-13T17:32:36.341Z",
@@ -5318,6 +5318,35 @@
      "visto": "08:56"
     }
    ]
+  },
+  "2026-10-16-r-carrusel-1792168334895": {
+   "tipo": "carrusel",
+   "fecha": "2026-10-16",
+   "estado": "publicado",
+   "bloque": "comparativas",
+   "formato": "oferta",
+   "hora": "13:32",
+   "id": "17986452534117690",
+   "enlace": "https://www.instagram.com/p/Dej-CV6GwTD/",
+   "ofertas": [
+    {
+     "id": "1118971",
+     "nombre": "DOLCE&GABBANA Perfume Mujer Light Blue Edt 200Ml Dolce&Gabbana",
+     "tienda": "Falabella",
+     "ahora": 89990,
+     "antes": 189990,
+     "pct": 52,
+     "rubro": "perfumes",
+     "esMinimo": true,
+     "dias": 31,
+     "visto": "12:59"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1792168301674-c3-1.jpg",
+    "tmp-medios/1792168301674-c3-2.jpg"
+   ],
+   "texto": "🔥 OFERTA DEL DÍA\nDOLCE&GABBANA Perfume Mujer Light Blue Edt 200Ml Dolce&Gabbana\nAhora: $89.990 (-52%)\nReferencia: $189.990\n🏪 Falabella\n\n✅ Precio visto hoy a las 12:59 en nuestro sistema.\n📉 Es el precio más bajo de los últimos 31 días.\n⏰ Puede cambiar o agotarse sin aviso.\n📲 Enlace directo en Telegram: t.me/ofertixcl\n\n#ofertaschile #perfumes #descuentoschile #ofertix #ofertasdeldia"
   }
  },
  "config": {
@@ -5337,7 +5366,7 @@
    "hasta": "2026-10-16T16:16:57.745Z",
    "veces": 1
   },
-  "ultimaPub": "2026-10-16T13:03:17.359Z"
+  "ultimaPub": "2026-10-16T16:32:14.895Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-15",
