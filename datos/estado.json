@@ -5,7 +5,7 @@
   "181591": "2026-10-14T16:33:45.716Z",
   "468623": "2026-10-16T01:17:33.150Z",
   "824715": "2026-10-15T11:48:07.498Z",
-  "824734": "2026-10-16T13:02:53.502Z",
+  "824734": "2026-10-17T13:17:47.262Z",
   "829028": "2026-10-17T00:47:00.585Z",
   "830761": "2026-10-17T01:48:13.332Z",
   "1063781": "2026-10-17T00:02:36.338Z",
@@ -27,13 +27,13 @@
   "1531094": "2026-10-16T13:02:53.502Z",
   "1574439": "2026-10-14T17:32:18.550Z",
   "1576473": "2026-10-15T13:02:28.939Z",
-  "1583369": "2026-10-16T02:32:18.362Z",
+  "1583369": "2026-10-17T13:17:47.262Z",
   "1592754": "2026-10-17T13:02:29.173Z",
   "1595843": "2026-10-16T13:02:53.502Z",
   "1611333": "2026-10-17T11:32:31.284Z",
-  "1669911": "2026-10-16T12:32:35.601Z",
+  "1669911": "2026-10-17T13:17:47.262Z",
   "1673324": "2026-10-17T11:32:31.284Z",
-  "1673333": "2026-10-16T01:32:44.183Z",
+  "1673333": "2026-10-17T13:17:47.262Z",
   "1673340": "2026-10-17T11:47:47.089Z",
   "1695609": "2026-10-17T00:18:03.287Z",
   "1701548": "2026-10-14T19:32:50.480Z",
@@ -69,21 +69,21 @@
   "mouse lenovo 300 wireless compact cloud grey": "2026-10-14T16:33:45.716Z",
   "dolce gabbana set de tres regalos q by dolce gabbana edp": "2026-10-17T01:32:24.287Z",
   "teclado hyperx alloy core rgb 4p4f5ai hx kb5me2 la": "2026-10-17T00:18:03.287Z",
-  "midea freidora de aire 4 litros mf tn40d2": "2026-10-16T13:02:53.502Z",
+  "midea freidora de aire 4 litros mf tn40d2": "2026-10-17T13:17:47.262Z",
   "dolce gabbana perfume hombre edp dolce gabbana": "2026-10-17T11:47:47.089Z",
   "parlante portatil oracle red bull racing rb sk410": "2026-10-16T11:47:32.061Z",
   "auriculares inalambricos jbl tour one m3 smart tx mocha": "2026-10-16T00:03:08.264Z",
   "encimera vitroceramica teka tri 64910 tc3 4 quemadores": "2026-10-14T17:32:18.550Z",
   "ferragamo perfume hombre red men edp 50 ml ferragamo": "2026-10-17T01:03:22.890Z",
-  "karcher aspiradora corta pelos mascotas pet clean 1 4 litros": "2026-10-16T02:32:18.362Z",
+  "karcher aspiradora corta pelos mascotas pet clean 1 4 litros": "2026-10-17T13:17:47.262Z",
   "nespresso cafetera essenza mini negra espumador": "2026-10-17T01:50:02.418Z",
   "fdv hervidor de vidrio crystal 1 7 lts kegs5813 gs fdv": "2026-10-16T13:02:53.502Z",
   "rowenta aspiradora 900 kw 2 5 litros ro4b25ea": "2026-10-16T01:32:44.183Z",
-  "oferta mikrotik pwr line ap routeros l4 european plug type c": "2026-10-16T12:32:35.601Z",
+  "oferta mikrotik pwr line ap routeros l4 european plug type c": "2026-10-17T13:17:47.262Z",
   "samsung encimera a gas 5 quemadores gris": "2026-10-15T11:48:07.498Z",
   "rabanne perfume hombre black xs edt 100ml rabanne": "2026-10-17T11:32:31.284Z",
   "carolina herrera perfume hombre bad boy edt 50ml carolina herrera": "2026-10-17T11:47:47.089Z",
-  "nina ricci perfume mujer nina ricci nina edt 50ml nina ricci": "2026-10-16T01:32:44.183Z",
+  "nina ricci perfume mujer nina ricci nina edt 50ml nina ricci": "2026-10-17T13:17:47.262Z",
   "mikrotik mantbox 52 15s with routeros l4 license": "2026-10-17T00:18:03.287Z",
   "thomas termoventilador electrico 2000 w th fh31 blanco": "2026-10-14T19:32:50.480Z",
   "samsung soundtower mx t40 2 0 ch 2020": "2026-10-17T13:02:29.173Z",
@@ -5058,6 +5058,72 @@
      "visto": "09:23"
     }
    ]
+  },
+  "2026-10-17-r-carrusel-1792243067262": {
+   "tipo": "carrusel",
+   "fecha": "2026-10-17",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "formato": "top5",
+   "hora": "10:17",
+   "id": "18131557654704764",
+   "enlace": "https://www.instagram.com/p/DemMlBKmw1u/",
+   "ofertas": [
+    {
+     "id": "1669911",
+     "nombre": "OFERTA MIKROTIK PWR-LINE AP, RouterOS L4, European plug (Type C)",
+     "tienda": "Tecnomas.cl",
+     "ahora": 37990,
+     "antes": 67990,
+     "pct": 44,
+     "rubro": "tecnologia",
+     "esMinimo": true,
+     "dias": 73,
+     "visto": "09:23"
+    },
+    {
+     "id": "1583369",
+     "nombre": "Kärcher Aspiradora corta pelos mascotas Pet Clean 1.4 litros",
+     "tienda": "Easy",
+     "ahora": 94990,
+     "antes": 169990,
+     "pct": 44,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 88,
+     "visto": "09:23"
+    },
+    {
+     "id": "1673333",
+     "nombre": "NINA RICCI Perfume Mujer Nina Ricci Nina EDT 50ml Nina Ricci",
+     "tienda": "Falabella",
+     "ahora": 49990,
+     "antes": 83990,
+     "pct": 40,
+     "rubro": "perfumes",
+     "esMinimo": false,
+     "dias": 11,
+     "visto": "09:23"
+    },
+    {
+     "id": "824734",
+     "nombre": "MIDEA Freidora de Aire 4 litros MF-TN40D2",
+     "tienda": "Falabella Marketplace",
+     "ahora": 39990,
+     "antes": 69990,
+     "pct": 42,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 8,
+     "visto": "09:23"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1792243025349-c3-1.jpg",
+    "tmp-medios/1792243025349-c3-2.jpg",
+    "tmp-medios/1792243025349-c3-3.jpg"
+   ],
+   "texto": "🏆 Top 5 en tecnología\n1. OFERTA MIKROTIK PWR-LINE AP, RouterOS L4, European plug (Type C): $37.990 (-44%) en Tecnomas.cl · 📉 mínimo de 73 días\n2. Kärcher Aspiradora corta pelos mascotas Pet Clean 1.4 litros: $94.990 (-44%) en Easy\n3. NINA RICCI Perfume Mujer Nina Ricci Nina EDT 50ml Nina Ricci: $49.990 (-40%) en Falabella\n4. MIDEA Freidora de Aire 4 litros MF-TN40D2: $39.990 (-42%) en Falabella Marketplace\n\n⏰ Precios vistos hoy (17/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #top5 #descuentoschile #ofertix #ahorrar"
   }
  },
  "config": {
@@ -5077,7 +5143,7 @@
    "hasta": "2026-10-16T23:31:28.103Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-17T13:02:50.404Z"
+  "ultimaPub": "2026-10-17T13:17:47.262Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-16",
