@@ -19,7 +19,7 @@
   "1128340": "2026-10-16T11:32:41.527Z",
   "1131276": "2026-10-17T00:18:03.287Z",
   "1137440": "2026-10-17T01:32:24.288Z",
-  "1147916": "2026-10-16T12:17:24.994Z",
+  "1147916": "2026-10-17T12:32:19.183Z",
   "1157052": "2026-10-16T11:47:32.061Z",
   "1500833": "2026-10-16T00:03:08.264Z",
   "1502162": "2026-10-16T01:32:44.182Z",
@@ -64,7 +64,7 @@
   "encimera a gas 5 quemadores gris": "2026-10-17T12:17:19.146Z",
   "primaterm estufa calefactor electrico alumax 500w primaterm": "2026-10-16T01:17:33.150Z",
   "dolce gabbana perfume mujer light blue edt 200ml dolce gabbana": "2026-10-16T16:32:14.894Z",
-  "encimera a gas 5 quemadores silver na75d3030as zs": "2026-10-16T12:17:24.994Z",
+  "encimera a gas 5 quemadores silver na75d3030as zs": "2026-10-17T12:32:19.184Z",
   "calvin klein calvin klein ck one eau de toilette unisex 50 ml": "2026-10-17T00:02:36.338Z",
   "primus mouse inalambrico gladius boba fett": "2026-10-17T01:03:22.890Z",
   "mouse lenovo 300 wireless compact cloud grey": "2026-10-14T16:33:45.716Z",
@@ -4914,6 +4914,35 @@
      "visto": "08:23"
     }
    ]
+  },
+  "2026-10-17-r-carrusel-1792240339184": {
+   "tipo": "carrusel",
+   "fecha": "2026-10-17",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "formato": "oferta",
+   "hora": "09:32",
+   "id": "18027492221862929",
+   "enlace": "https://www.instagram.com/p/DemHX-FFuPW/",
+   "ofertas": [
+    {
+     "id": "1147916",
+     "nombre": "Encimera a Gas 5 quemadores (Silver) (NA75D3030AS/ZS)",
+     "tienda": "Samsung Shop",
+     "ahora": 179990,
+     "antes": 359990,
+     "pct": 50,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 67,
+     "visto": "08:23"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1792240304237-c2-1.jpg",
+    "tmp-medios/1792240304237-c2-2.jpg"
+   ],
+   "texto": "🔥 OFERTA NUEVA\nEncimera a Gas 5 quemadores (Silver) (NA75D3030AS/ZS)\nAhora: $179.990 (-50%)\nReferencia: $359.990\n🏪 Samsung Shop\n\n✅ Precio visto hoy a las 08:23 en nuestro sistema.\n📉 Es el precio más bajo de los últimos 67 días.\n⏰ Puede cambiar o agotarse sin aviso.\n📲 Enlace directo en Telegram: t.me/ofertixcl\n\n#ofertaschile #hogar #descuentoschile #ofertix #ofertasdeldia"
   }
  },
  "config": {
@@ -4933,7 +4962,7 @@
    "hasta": "2026-10-16T23:31:28.103Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-17T12:17:42.636Z"
+  "ultimaPub": "2026-10-17T12:32:19.184Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-16",
