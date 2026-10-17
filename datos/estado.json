@@ -24,7 +24,7 @@
   "1500833": "2026-10-16T00:03:08.264Z",
   "1502162": "2026-10-16T01:32:44.182Z",
   "1530831": "2026-10-17T01:50:02.418Z",
-  "1531094": "2026-10-16T13:02:53.502Z",
+  "1531094": "2026-10-17T14:02:14.585Z",
   "1574439": "2026-10-14T17:32:18.550Z",
   "1576473": "2026-10-15T13:02:28.939Z",
   "1583369": "2026-10-17T13:17:47.262Z",
@@ -77,7 +77,7 @@
   "ferragamo perfume hombre red men edp 50 ml ferragamo": "2026-10-17T01:03:22.890Z",
   "karcher aspiradora corta pelos mascotas pet clean 1 4 litros": "2026-10-17T13:17:47.262Z",
   "nespresso cafetera essenza mini negra espumador": "2026-10-17T01:50:02.418Z",
-  "fdv hervidor de vidrio crystal 1 7 lts kegs5813 gs fdv": "2026-10-16T13:02:53.502Z",
+  "fdv hervidor de vidrio crystal 1 7 lts kegs5813 gs fdv": "2026-10-17T14:02:14.585Z",
   "rowenta aspiradora 900 kw 2 5 litros ro4b25ea": "2026-10-16T01:32:44.183Z",
   "oferta mikrotik pwr line ap routeros l4 european plug type c": "2026-10-17T13:17:47.262Z",
   "samsung encimera a gas 5 quemadores gris": "2026-10-15T11:48:07.498Z",
@@ -5256,6 +5256,35 @@
      "visto": "10:25"
     }
    ]
+  },
+  "2026-10-17-r-carrusel-1792245734585": {
+   "tipo": "carrusel",
+   "fecha": "2026-10-17",
+   "estado": "publicado",
+   "bloque": "comparativas",
+   "formato": "oferta",
+   "hora": "11:02",
+   "id": "18177315733449531",
+   "enlace": "https://www.instagram.com/p/DemRq3_FJTE/",
+   "ofertas": [
+    {
+     "id": "1531094",
+     "nombre": "FDV Hervidor de Vidrio Crystal 1.7 Lts KEGS5813-GS FDV",
+     "tienda": "Lider",
+     "ahora": 19990,
+     "antes": 34990,
+     "pct": 42,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 12,
+     "visto": "10:25"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1792245704956-c4-1.jpg",
+    "tmp-medios/1792245704956-c4-2.jpg"
+   ],
+   "texto": "🔥 OFERTA DEL DÍA\nFDV Hervidor de Vidrio Crystal 1.7 Lts KEGS5813-GS FDV\nAhora: $19.990 (-42%)\nReferencia: $34.990\n🏪 Lider\n\n✅ Precio visto hoy a las 10:25 en nuestro sistema.\n⏰ Puede cambiar o agotarse sin aviso.\n📲 Enlace directo en Telegram: t.me/ofertixcl\n\n#ofertaschile #hogar #descuentoschile #ofertix #ofertasdeldia"
   }
  },
  "config": {
@@ -5275,7 +5304,7 @@
    "hasta": "2026-10-16T23:31:28.103Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-17T13:46:05.185Z"
+  "ultimaPub": "2026-10-17T14:02:14.585Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-16",
