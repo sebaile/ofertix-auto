@@ -7,6 +7,7 @@
   "824715": "2026-10-15T11:48:07.498Z",
   "824734": "2026-10-16T13:02:53.502Z",
   "829028": "2026-10-17T00:47:00.585Z",
+  "830761": "2026-10-17T01:48:13.332Z",
   "1063781": "2026-10-17T00:02:36.338Z",
   "1087207": "2026-10-16T12:17:24.994Z",
   "1087230": "2026-10-16T11:32:41.527Z",
@@ -52,13 +53,14 @@
   "1799714": "2026-10-15T11:32:39.923Z",
   "1827803": "2026-10-17T00:02:36.338Z",
   "1828224": "2026-10-17T00:18:03.287Z",
-  "1840943": "2026-10-16T01:02:57.638Z",
+  "1840943": "2026-10-17T01:48:13.332Z",
   "1841225": "2026-10-16T01:17:33.150Z",
   "1841233": "2026-10-17T01:03:22.890Z",
   "1841315": "2026-10-17T01:32:24.287Z",
-  "1841316": "2026-10-16T01:02:57.638Z",
+  "1841316": "2026-10-17T01:48:13.332Z",
   "1848566": "2026-10-16T11:02:08.575Z",
-  "1857193": "2026-10-16T11:47:32.061Z"
+  "1857193": "2026-10-16T11:47:32.061Z",
+  "1886008": "2026-10-17T01:48:13.332Z"
  },
  "nombres": {
   "encimera a gas 5 quemadores gris": "2026-10-16T11:47:32.061Z",
@@ -111,14 +113,16 @@
   "licuadora easyways licuadora crush n roll 1 5 l": "2026-10-17T00:02:36.338Z",
   "hamilton beach microondas digital 23 litros inox hb p90d23el lxa": "2026-10-17T01:03:22.890Z",
   "hamilton beach batidora de mano 290 w multicolor bp 62650 cl": "2026-10-17T01:32:24.287Z",
-  "hamilton beach batidora de pedestal 3 7 l 290 kw negro 64650 cl": "2026-10-16T01:02:57.638Z",
+  "hamilton beach batidora de pedestal 3 7 l 290 kw negro 64650 cl": "2026-10-17T01:48:13.332Z",
   "antonio banderas perfume edt hombre the icon edt 200 ml banderas": "2026-10-16T01:02:57.638Z",
-  "hamilton beach freidora de aire 2 5 litros fe 35051 cl": "2026-10-16T01:02:57.638Z",
+  "hamilton beach freidora de aire 2 5 litros fe 35051 cl": "2026-10-17T01:48:13.332Z",
   "volker campana convencional 60 cm inox": "2026-10-16T01:17:33.150Z",
   "thomas chimenea electrica 2000w conveccion th fp100 madera": "2026-10-16T11:02:08.575Z",
   "karcher limpiadora de vapor karcher sc 1 multi": "2026-10-16T11:32:41.527Z",
   "karcher aspiradora a bateria vc 4 cordless": "2026-10-16T11:47:32.061Z",
-  "nex ventilador suelo industrial 36 negro": "2026-10-16T13:02:53.502Z"
+  "nex ventilador suelo industrial 36 negro": "2026-10-16T13:02:53.502Z",
+  "tous perfume mujer tous loveme emerald parfum 50ml": "2026-10-17T01:48:13.332Z",
+  "prada perfume de prada infusion de figue eau de parfum 100ml unisex": "2026-10-17T01:48:13.332Z"
  },
  "items": {
   "2026-10-14-r-carrusel-1791975760889": {
@@ -4329,6 +4333,72 @@
      "visto": "21:09"
     }
    ]
+  },
+  "2026-10-16-r-carrusel-1792201693333": {
+   "tipo": "carrusel",
+   "fecha": "2026-10-16",
+   "estado": "publicado",
+   "bloque": "recopilaciones",
+   "formato": "top5",
+   "hora": "22:48",
+   "id": "18430858042148968",
+   "enlace": "https://www.instagram.com/p/Dek9qhTmj5I/",
+   "ofertas": [
+    {
+     "id": "1841316",
+     "nombre": "HAMILTON BEACH Batidora de Pedestal 3.7 l 290 kW Negro 64650-CL",
+     "tienda": "Sodimac",
+     "ahora": 29990,
+     "antes": 59990,
+     "pct": 50,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 36,
+     "visto": "22:21"
+    },
+    {
+     "id": "1886008",
+     "nombre": "TOUS Perfume Mujer Tous Loveme Emerald Parfum 50ml",
+     "tienda": "Falabella",
+     "ahora": 53990,
+     "antes": 99990,
+     "pct": 46,
+     "rubro": "perfumes",
+     "esMinimo": true,
+     "dias": 89,
+     "visto": "22:21"
+    },
+    {
+     "id": "1840943",
+     "nombre": "HAMILTON BEACH Freidora de Aire 2.5 Litros FE-35051-CL",
+     "tienda": "Sodimac",
+     "ahora": 39990,
+     "antes": 89990,
+     "pct": 55,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 36,
+     "visto": "22:21"
+    },
+    {
+     "id": "830761",
+     "nombre": "PRADA Perfume de Prada Infusion de Figue Eau de Parfum 100ml Unisex",
+     "tienda": "Falabella",
+     "ahora": 109790,
+     "antes": 182990,
+     "pct": 40,
+     "rubro": "perfumes",
+     "esMinimo": false,
+     "dias": 11,
+     "visto": "22:21"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1792201651898-c6-1.jpg",
+    "tmp-medios/1792201651898-c6-2.jpg",
+    "tmp-medios/1792201651898-c6-3.jpg"
+   ],
+   "texto": "🏆 Recopilación del día\n1. HAMILTON BEACH Batidora de Pedestal 3.7 l 290 kW Negro 64650-CL: $29.990 (-50%) en Sodimac · 📉 mínimo de 36 días\n2. TOUS Perfume Mujer Tous Loveme Emerald Parfum 50ml: $53.990 (-46%) en Falabella · 📉 mínimo de 89 días\n3. HAMILTON BEACH Freidora de Aire 2.5 Litros FE-35051-CL: $39.990 (-55%) en Sodimac\n4. PRADA Perfume de Prada Infusion de Figue Eau de Parfum 100ml Unisex: $109.790 (-40%) en Falabella\n\n⏰ Precios vistos hoy (16/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #top5 #descuentoschile #ofertix #ahorrar"
   }
  },
  "config": {
@@ -4348,7 +4418,7 @@
    "hasta": "2026-10-16T23:31:28.103Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-17T01:32:48.445Z"
+  "ultimaPub": "2026-10-17T01:48:13.333Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-16",
