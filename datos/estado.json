@@ -11,9 +11,9 @@
   "1087207": "2026-10-16T12:17:24.994Z",
   "1087230": "2026-10-16T11:32:41.527Z",
   "1087242": "2026-10-16T01:02:57.638Z",
-  "1087642": "2026-10-16T00:47:21.771Z",
+  "1087642": "2026-10-17T01:03:22.890Z",
   "1110715": "2026-10-16T00:47:21.771Z",
-  "1110717": "2026-10-16T00:47:21.771Z",
+  "1110717": "2026-10-17T01:03:22.890Z",
   "1118971": "2026-10-16T16:32:14.894Z",
   "1128340": "2026-10-16T11:32:41.527Z",
   "1131276": "2026-10-17T00:18:03.287Z",
@@ -54,7 +54,7 @@
   "1828224": "2026-10-17T00:18:03.287Z",
   "1840943": "2026-10-16T01:02:57.638Z",
   "1841225": "2026-10-16T01:17:33.150Z",
-  "1841233": "2026-10-16T00:47:21.771Z",
+  "1841233": "2026-10-17T01:03:22.890Z",
   "1841315": "2026-10-16T00:47:21.771Z",
   "1841316": "2026-10-16T01:02:57.638Z",
   "1848566": "2026-10-16T11:02:08.575Z",
@@ -66,7 +66,7 @@
   "dolce gabbana perfume mujer light blue edt 200ml dolce gabbana": "2026-10-16T16:32:14.894Z",
   "encimera a gas 5 quemadores silver na75d3030as zs": "2026-10-16T12:17:24.994Z",
   "calvin klein calvin klein ck one eau de toilette unisex 50 ml": "2026-10-17T00:02:36.338Z",
-  "primus mouse inalambrico gladius boba fett": "2026-10-16T00:47:21.771Z",
+  "primus mouse inalambrico gladius boba fett": "2026-10-17T01:03:22.890Z",
   "mouse lenovo 300 wireless compact cloud grey": "2026-10-14T16:33:45.716Z",
   "dolce gabbana set de tres regalos q by dolce gabbana edp": "2026-10-16T00:47:21.771Z",
   "teclado hyperx alloy core rgb 4p4f5ai hx kb5me2 la": "2026-10-17T00:18:03.287Z",
@@ -76,7 +76,7 @@
   "audiifonos bluetooth honor earbuds x7i lite blanco": "2026-10-14T12:17:25.370Z",
   "auriculares inalambricos jbl tour one m3 smart tx mocha": "2026-10-16T00:03:08.264Z",
   "encimera vitroceramica teka tri 64910 tc3 4 quemadores": "2026-10-14T17:32:18.550Z",
-  "ferragamo perfume hombre red men edp 50 ml ferragamo": "2026-10-16T00:47:21.771Z",
+  "ferragamo perfume hombre red men edp 50 ml ferragamo": "2026-10-17T01:03:22.890Z",
   "karcher aspiradora corta pelos mascotas pet clean 1 4 litros": "2026-10-16T02:32:18.362Z",
   "nespresso cafetera essenza mini negra espumador": "2026-10-16T00:03:08.264Z",
   "fdv hervidor de vidrio crystal 1 7 lts kegs5813 gs fdv": "2026-10-16T13:02:53.502Z",
@@ -109,7 +109,7 @@
   "nex ventilador suelo industrial 42 negro": "2026-10-15T13:17:21.520Z",
   "freidora de aire thomas th af130dv 13 l": "2026-10-17T00:18:03.287Z",
   "licuadora easyways licuadora crush n roll 1 5 l": "2026-10-17T00:02:36.338Z",
-  "hamilton beach microondas digital 23 litros inox hb p90d23el lxa": "2026-10-16T00:47:21.771Z",
+  "hamilton beach microondas digital 23 litros inox hb p90d23el lxa": "2026-10-17T01:03:22.890Z",
   "hamilton beach batidora de mano 290 w multicolor bp 62650 cl": "2026-10-16T00:47:21.771Z",
   "hamilton beach batidora de pedestal 3 7 l 290 kw negro 64650 cl": "2026-10-16T01:02:57.638Z",
   "antonio banderas perfume edt hombre the icon edt 200 ml banderas": "2026-10-16T01:02:57.638Z",
@@ -4139,6 +4139,57 @@
      "visto": "21:09"
     }
    ]
+  },
+  "2026-10-16-r-reel-1792199002891": {
+   "tipo": "reel",
+   "fecha": "2026-10-16",
+   "estado": "publicado",
+   "bloque": "recopilaciones",
+   "hora": "22:03",
+   "id": "18078087185418913",
+   "enlace": "https://www.instagram.com/reel/Dek4fn8keqs/",
+   "ofertas": [
+    {
+     "id": "1841233",
+     "nombre": "HAMILTON BEACH Microondas Digital 23 Litros Inox HB-P90D23EL-LXA",
+     "tienda": "Sodimac",
+     "ahora": 44990,
+     "antes": 99990,
+     "pct": 55,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 36,
+     "visto": "21:09"
+    },
+    {
+     "id": "1087642",
+     "nombre": "PRIMUS Mouse inalámbrico Gladius Boba Fett",
+     "tienda": "Falabella Marketplace",
+     "ahora": 22990,
+     "antes": 39990,
+     "pct": 42,
+     "rubro": "tecnologia",
+     "esMinimo": true,
+     "dias": 76,
+     "visto": "21:09"
+    },
+    {
+     "id": "1110717",
+     "nombre": "FERRAGAMO Perfume Hombre Red Men Edp 50 Ml Ferragamo",
+     "tienda": "Falabella",
+     "ahora": 48590,
+     "antes": 80990,
+     "pct": 40,
+     "rubro": "perfumes",
+     "esMinimo": true,
+     "dias": 78,
+     "visto": "21:09"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1792198871754-r4.mp4"
+   ],
+   "texto": "🔥 3 ofertas las mejores del día\n1. HAMILTON BEACH Microondas Digital 23 Litros Inox HB-P90D23EL-LXA: $44.990 (-55%, referencia $99.990) en Sodimac · 📉 mínimo de 36 días\n2. PRIMUS Mouse inalámbrico Gladius Boba Fett: $22.990 (-42%, referencia $39.990) en Falabella Marketplace · 📉 mínimo de 76 días\n3. FERRAGAMO Perfume Hombre Red Men Edp 50 Ml Ferragamo: $48.590 (-40%, referencia $80.990) en Falabella · 📉 mínimo de 78 días\n\n⏰ Precios vistos hoy (16/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
   }
  },
  "config": {
@@ -4158,7 +4209,7 @@
    "hasta": "2026-10-16T23:31:28.103Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-17T00:47:23.297Z"
+  "ultimaPub": "2026-10-17T01:03:22.891Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-16",
