@@ -5305,6 +5305,28 @@
      "visto": "10:25"
     }
    ]
+  },
+  "2026-10-17-r-historia-1792258298986": {
+   "tipo": "historia",
+   "fecha": "2026-10-17",
+   "estado": "publicado",
+   "bloque": "comparativas",
+   "hora": "14:31",
+   "id": "17932565229410015",
+   "ofertas": [
+    {
+     "id": "67319",
+     "nombre": "Encimera A Gas 5 Quemadores Gris",
+     "tienda": "Mercado Libre",
+     "ahora": 179990,
+     "antes": 359990,
+     "pct": 50,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 67,
+     "visto": "13:26"
+    }
+   ]
   }
  },
  "config": {
@@ -5324,12 +5346,12 @@
    "hasta": "2026-10-17T17:16:13.149Z",
    "veces": 1
   },
-  "ultimaPub": "2026-10-17T14:02:34.249Z"
+  "ultimaPub": "2026-10-17T17:31:38.987Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-16",
  "usadasH": {
-  "67319": "2026-10-17T01:03:38.643Z",
+  "67319": "2026-10-17T17:31:38.986Z",
   "1063781": "2026-10-17T01:16:22.528Z",
   "1087642": "2026-10-17T13:02:50.403Z",
   "1118971": "2026-10-17T14:02:34.248Z",
