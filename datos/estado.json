@@ -12,12 +12,12 @@
   "1087230": "2026-10-16T11:32:41.527Z",
   "1087242": "2026-10-16T01:02:57.638Z",
   "1087642": "2026-10-17T01:03:22.890Z",
-  "1110715": "2026-10-16T00:47:21.771Z",
+  "1110715": "2026-10-17T01:32:24.287Z",
   "1110717": "2026-10-17T01:03:22.890Z",
   "1118971": "2026-10-16T16:32:14.894Z",
   "1128340": "2026-10-16T11:32:41.527Z",
   "1131276": "2026-10-17T00:18:03.287Z",
-  "1137440": "2026-10-16T01:02:57.638Z",
+  "1137440": "2026-10-17T01:32:24.288Z",
   "1147916": "2026-10-16T12:17:24.994Z",
   "1157052": "2026-10-16T11:47:32.061Z",
   "1452540": "2026-10-14T11:47:40.920Z",
@@ -55,7 +55,7 @@
   "1840943": "2026-10-16T01:02:57.638Z",
   "1841225": "2026-10-16T01:17:33.150Z",
   "1841233": "2026-10-17T01:03:22.890Z",
-  "1841315": "2026-10-16T00:47:21.771Z",
+  "1841315": "2026-10-17T01:32:24.287Z",
   "1841316": "2026-10-16T01:02:57.638Z",
   "1848566": "2026-10-16T11:02:08.575Z",
   "1857193": "2026-10-16T11:47:32.061Z"
@@ -68,7 +68,7 @@
   "calvin klein calvin klein ck one eau de toilette unisex 50 ml": "2026-10-17T00:02:36.338Z",
   "primus mouse inalambrico gladius boba fett": "2026-10-17T01:03:22.890Z",
   "mouse lenovo 300 wireless compact cloud grey": "2026-10-14T16:33:45.716Z",
-  "dolce gabbana set de tres regalos q by dolce gabbana edp": "2026-10-16T00:47:21.771Z",
+  "dolce gabbana set de tres regalos q by dolce gabbana edp": "2026-10-17T01:32:24.287Z",
   "teclado hyperx alloy core rgb 4p4f5ai hx kb5me2 la": "2026-10-17T00:18:03.287Z",
   "midea freidora de aire 4 litros mf tn40d2": "2026-10-16T13:02:53.502Z",
   "dolce gabbana perfume hombre edp dolce gabbana": "2026-10-16T11:32:41.527Z",
@@ -93,7 +93,7 @@
   "thomas termoventilador electrico 2000 w th fh31 blanco": "2026-10-14T19:32:50.480Z",
   "parlante portatil oracle red bull racing rb sk460": "2026-10-14T11:02:40.888Z",
   "samsung soundtower mx t40 2 0 ch 2020": "2026-10-16T12:17:24.994Z",
-  "samsung audifonos in ear sm r400nzaalta bluetooth v5 2 gray": "2026-10-16T01:02:57.638Z",
+  "samsung audifonos in ear sm r400nzaalta bluetooth v5 2 gray": "2026-10-17T01:32:24.288Z",
   "samsung encimera a gas 5 quemadores na75d3030as zs samsung": "2026-10-14T11:47:40.920Z",
   "unidad ssd western digital green sn3000 1tb m 2 22 80 pcie4x4": "2026-10-17T00:18:03.287Z",
   "marc jacobs marc jacobs perfect intense eau de parfum para mujer 50 ml": "2026-10-17T00:18:03.287Z",
@@ -110,7 +110,7 @@
   "freidora de aire thomas th af130dv 13 l": "2026-10-17T00:18:03.287Z",
   "licuadora easyways licuadora crush n roll 1 5 l": "2026-10-17T00:02:36.338Z",
   "hamilton beach microondas digital 23 litros inox hb p90d23el lxa": "2026-10-17T01:03:22.890Z",
-  "hamilton beach batidora de mano 290 w multicolor bp 62650 cl": "2026-10-16T00:47:21.771Z",
+  "hamilton beach batidora de mano 290 w multicolor bp 62650 cl": "2026-10-17T01:32:24.287Z",
   "hamilton beach batidora de pedestal 3 7 l 290 kw negro 64650 cl": "2026-10-16T01:02:57.638Z",
   "antonio banderas perfume edt hombre the icon edt 200 ml banderas": "2026-10-16T01:02:57.638Z",
   "hamilton beach freidora de aire 2 5 litros fe 35051 cl": "2026-10-16T01:02:57.638Z",
@@ -4256,6 +4256,57 @@
      "visto": "21:09"
     }
    ]
+  },
+  "2026-10-16-r-reel-1792200744288": {
+   "tipo": "reel",
+   "fecha": "2026-10-16",
+   "estado": "publicado",
+   "bloque": "recopilaciones",
+   "hora": "22:32",
+   "id": "17945068887353019",
+   "enlace": "https://www.instagram.com/reel/Dek70K9iMZH/",
+   "ofertas": [
+    {
+     "id": "1841315",
+     "nombre": "HAMILTON BEACH Batidora De mano 290 W Multicolor BP-62650-CL",
+     "tienda": "Sodimac",
+     "ahora": 13990,
+     "antes": 29990,
+     "pct": 53,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 36,
+     "visto": "21:09"
+    },
+    {
+     "id": "1110715",
+     "nombre": "DOLCE&GABBANA Set De Tres Regalos Q By Dolce&Gabbana Edp",
+     "tienda": "Falabella",
+     "ahora": 86190,
+     "antes": 149990,
+     "pct": 42,
+     "rubro": "perfumes",
+     "esMinimo": false,
+     "dias": 15,
+     "visto": "21:09"
+    },
+    {
+     "id": "1137440",
+     "nombre": "Samsung Audífonos In Ear SM-R400NZAALTA Bluetooth v5.2 Gray",
+     "tienda": "Lider",
+     "ahora": 59990,
+     "antes": 99990,
+     "pct": 40,
+     "rubro": "tecnologia",
+     "esMinimo": false,
+     "dias": 10,
+     "visto": "21:09"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1792200658287-r5.mp4"
+   ],
+   "texto": "🔥 3 ofertas las mejores del día\n1. HAMILTON BEACH Batidora De mano 290 W Multicolor BP-62650-CL: $13.990 (-53%, referencia $29.990) en Sodimac · 📉 mínimo de 36 días\n2. DOLCE&GABBANA Set De Tres Regalos Q By Dolce&Gabbana Edp: $86.190 (-42%, referencia $149.990) en Falabella\n3. Samsung Audífonos In Ear SM-R400NZAALTA Bluetooth v5.2 Gray: $59.990 (-40%, referencia $99.990) en Lider\n\n⏰ Precios vistos hoy (16/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
   }
  },
  "config": {
@@ -4275,7 +4326,7 @@
    "hasta": "2026-10-16T23:31:28.103Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-17T01:16:22.529Z"
+  "ultimaPub": "2026-10-17T01:32:24.288Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-16",
