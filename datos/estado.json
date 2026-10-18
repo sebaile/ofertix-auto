@@ -14,7 +14,7 @@
   "1087642": "2026-10-18T01:17:59.176Z",
   "1110715": "2026-10-18T01:48:02.274Z",
   "1110717": "2026-10-18T01:17:59.177Z",
-  "1118971": "2026-10-17T18:02:07.935Z",
+  "1118971": "2026-10-18T18:16:58.549Z",
   "1128340": "2026-10-18T11:02:36.120Z",
   "1131276": "2026-10-18T01:17:59.176Z",
   "1137440": "2026-10-18T01:48:02.274Z",
@@ -57,7 +57,7 @@
  "nombres": {
   "encimera a gas 5 quemadores gris": "2026-10-17T12:17:19.146Z",
   "primaterm estufa calefactor electrico alumax 500w primaterm": "2026-10-16T01:17:33.150Z",
-  "dolce gabbana perfume mujer light blue edt 200ml dolce gabbana": "2026-10-17T18:02:07.936Z",
+  "dolce gabbana perfume mujer light blue edt 200ml dolce gabbana": "2026-10-18T18:16:58.549Z",
   "encimera a gas 5 quemadores silver na75d3030as zs": "2026-10-17T12:32:19.184Z",
   "calvin klein calvin klein ck one eau de toilette unisex 50 ml": "2026-10-18T00:32:14.447Z",
   "primus mouse inalambrico gladius boba fett": "2026-10-18T01:17:59.176Z",
@@ -5392,6 +5392,35 @@
      "visto": "13:52"
     }
    ]
+  },
+  "2026-10-18-r-carrusel-1792347418550": {
+   "tipo": "carrusel",
+   "fecha": "2026-10-18",
+   "estado": "publicado",
+   "bloque": "populares",
+   "formato": "oferta",
+   "hora": "15:16",
+   "id": "18029515706918847",
+   "enlace": "https://www.instagram.com/p/DepTncSFAvc/",
+   "ofertas": [
+    {
+     "id": "1118971",
+     "nombre": "DOLCE&GABBANA Perfume Mujer Light Blue Edt 200Ml Dolce&Gabbana",
+     "tienda": "Falabella",
+     "ahora": 89990,
+     "antes": 189990,
+     "pct": 52,
+     "rubro": "perfumes",
+     "esMinimo": true,
+     "dias": 33,
+     "visto": "14:47"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1792347390029-c5-1.jpg",
+    "tmp-medios/1792347390029-c5-2.jpg"
+   ],
+   "texto": "🔥 OFERTA DEL DÍA\nDOLCE&GABBANA Perfume Mujer Light Blue Edt 200Ml Dolce&Gabbana\nAhora: $89.990 (-52%)\nReferencia: $189.990\n🏪 Falabella\n\n✅ Precio visto hoy a las 14:47 en nuestro sistema.\n📉 Es el precio más bajo de los últimos 33 días.\n⏰ Puede cambiar o agotarse sin aviso.\n📲 Enlace directo en Telegram: t.me/ofertixcl\n\n#ofertaschile #perfumes #descuentoschile #ofertix #ofertasdeldia"
   }
  },
  "config": {
@@ -5411,7 +5440,7 @@
    "hasta": "2026-10-18T17:46:01.149Z",
    "veces": 1
   },
-  "ultimaPub": "2026-10-18T18:01:23.267Z"
+  "ultimaPub": "2026-10-18T18:16:58.550Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-17",
