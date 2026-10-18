@@ -8,7 +8,7 @@
   "830761": "2026-10-18T02:32:54.056Z",
   "1063781": "2026-10-18T00:32:14.447Z",
   "1087207": "2026-10-17T13:02:29.173Z",
-  "1087230": "2026-10-17T11:47:47.089Z",
+  "1087230": "2026-10-18T12:02:44.588Z",
   "1087242": "2026-10-18T02:32:54.056Z",
   "1087642": "2026-10-18T01:17:59.176Z",
   "1110715": "2026-10-18T01:48:02.274Z",
@@ -39,7 +39,7 @@
   "1784905": "2026-10-18T00:32:14.447Z",
   "1785097": "2026-10-15T21:17:43.003Z",
   "1785375": "2026-10-17T02:02:47.400Z",
-  "1789332": "2026-10-17T11:47:47.089Z",
+  "1789332": "2026-10-18T12:02:44.588Z",
   "1795903": "2026-10-17T12:17:19.146Z",
   "1827803": "2026-10-18T00:32:14.447Z",
   "1828224": "2026-10-18T00:33:43.734Z",
@@ -52,7 +52,7 @@
   "1857193": "2026-10-17T12:17:19.146Z",
   "1886008": "2026-10-18T02:03:26.431Z",
   "1896728": "2026-10-18T11:47:43.383Z",
-  "1898707": "2026-10-17T11:47:47.089Z"
+  "1898707": "2026-10-18T12:02:44.588Z"
  },
  "nombres": {
   "encimera a gas 5 quemadores gris": "2026-10-17T12:17:19.146Z",
@@ -64,7 +64,7 @@
   "dolce gabbana set de tres regalos q by dolce gabbana edp": "2026-10-18T01:48:02.274Z",
   "teclado hyperx alloy core rgb 4p4f5ai hx kb5me2 la": "2026-10-18T01:17:59.177Z",
   "midea freidora de aire 4 litros mf tn40d2": "2026-10-17T13:17:47.262Z",
-  "dolce gabbana perfume hombre edp dolce gabbana": "2026-10-17T11:47:47.089Z",
+  "dolce gabbana perfume hombre edp dolce gabbana": "2026-10-18T12:02:44.588Z",
   "parlante portatil oracle red bull racing rb sk410": "2026-10-16T11:47:32.061Z",
   "auriculares inalambricos jbl tour one m3 smart tx mocha": "2026-10-16T00:03:08.264Z",
   "ferragamo perfume hombre red men edp 50 ml ferragamo": "2026-10-18T01:17:59.177Z",
@@ -99,14 +99,14 @@
   "hamilton beach freidora de aire 2 5 litros fe 35051 cl": "2026-10-18T02:03:26.431Z",
   "volker campana convencional 60 cm inox": "2026-10-18T02:32:54.056Z",
   "thomas chimenea electrica 2000w conveccion th fp100 madera": "2026-10-18T11:47:43.383Z",
-  "karcher limpiadora de vapor karcher sc 1 multi": "2026-10-17T11:47:47.089Z",
+  "karcher limpiadora de vapor karcher sc 1 multi": "2026-10-18T12:02:44.588Z",
   "karcher aspiradora a bateria vc 4 cordless": "2026-10-17T12:17:19.146Z",
   "nex ventilador suelo industrial 36 negro": "2026-10-16T13:02:53.502Z",
   "tous perfume mujer tous loveme emerald parfum 50ml": "2026-10-18T02:03:26.431Z",
   "prada perfume de prada infusion de figue eau de parfum 100ml unisex": "2026-10-18T02:32:54.056Z",
   "nex aire acondicionado 9000btu acp09288 fcwifi": "2026-10-18T11:47:43.383Z",
   "alisador gama cp14 dual plate led gold titanio": "2026-10-18T11:47:43.383Z",
-  "nex aspiradora barril limpia alfombras y tapices 1600w 20 lt": "2026-10-17T11:47:47.089Z"
+  "nex aspiradora barril limpia alfombras y tapices 1600w 20 lt": "2026-10-18T12:02:44.588Z"
  },
  "items": {
   "2026-10-15-r-carrusel-1792062167841": {
@@ -4727,6 +4727,57 @@
      "visto": "07:46"
     }
    ]
+  },
+  "2026-10-18-r-reel-1792324964588": {
+   "tipo": "reel",
+   "fecha": "2026-10-18",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "hora": "09:02",
+   "id": "18495849034108622",
+   "enlace": "https://www.instagram.com/reel/DeoowG-j8OG/",
+   "ofertas": [
+    {
+     "id": "1898707",
+     "nombre": "Nex Aspiradora barril Limpia alfombras y tapices 1600W 20 lt",
+     "tienda": "Easy",
+     "ahora": 99990,
+     "antes": 179990,
+     "pct": 44,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 10,
+     "visto": "08:42"
+    },
+    {
+     "id": "1087230",
+     "nombre": "DOLCE&GABBANA Perfume Hombre EDP Dolce&Gabbana",
+     "tienda": "Falabella",
+     "ahora": 91890,
+     "antes": 159990,
+     "pct": 42,
+     "rubro": "perfumes",
+     "esMinimo": false,
+     "dias": 16,
+     "visto": "08:42"
+    },
+    {
+     "id": "1789332",
+     "nombre": "KARCHER Limpiadora de vapor Karcher SC 1 Multi",
+     "tienda": "Falabella Marketplace",
+     "ahora": 59990,
+     "antes": 109990,
+     "pct": 45,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 46,
+     "visto": "08:42"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1792324884554-r0.mp4"
+   ],
+   "texto": "🔥 3 ofertas de tecnología\n1. Nex Aspiradora barril Limpia alfombras y tapices 1600W 20 lt: $99.990 (-44%, referencia $179.990) en Easy\n2. DOLCE&GABBANA Perfume Hombre EDP Dolce&Gabbana: $91.890 (-42%, referencia $159.990) en Falabella\n3. KARCHER Limpiadora de vapor Karcher SC 1 Multi: $59.990 (-45%, referencia $109.990) en Falabella Marketplace · 📉 mínimo de 46 días\n\n⏰ Precios vistos hoy (18/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
   }
  },
  "config": {
@@ -4746,7 +4797,7 @@
    "hasta": "2026-10-18T00:16:06.499Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-18T11:48:10.489Z"
+  "ultimaPub": "2026-10-18T12:02:44.588Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-17",
