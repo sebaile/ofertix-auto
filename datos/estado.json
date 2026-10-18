@@ -7,7 +7,7 @@
   "824734": "2026-10-17T13:17:47.262Z",
   "829028": "2026-10-17T00:47:00.585Z",
   "830761": "2026-10-17T01:48:13.332Z",
-  "1063781": "2026-10-17T00:02:36.338Z",
+  "1063781": "2026-10-18T00:32:14.447Z",
   "1087207": "2026-10-17T13:02:29.173Z",
   "1087230": "2026-10-17T11:47:47.089Z",
   "1087242": "2026-10-17T01:50:02.418Z",
@@ -37,13 +37,13 @@
   "1739017": "2026-10-17T00:18:03.287Z",
   "1755063": "2026-10-17T13:02:29.173Z",
   "1780881": "2026-10-17T00:18:03.287Z",
-  "1784905": "2026-10-17T00:02:36.338Z",
+  "1784905": "2026-10-18T00:32:14.447Z",
   "1785097": "2026-10-15T21:17:43.003Z",
   "1785375": "2026-10-17T02:02:47.400Z",
   "1789332": "2026-10-17T11:47:47.089Z",
   "1795903": "2026-10-17T12:17:19.146Z",
   "1799714": "2026-10-15T11:32:39.923Z",
-  "1827803": "2026-10-17T00:02:36.338Z",
+  "1827803": "2026-10-18T00:32:14.447Z",
   "1828224": "2026-10-17T00:18:03.287Z",
   "1840943": "2026-10-17T01:48:13.332Z",
   "1841225": "2026-10-17T01:50:02.418Z",
@@ -61,7 +61,7 @@
   "primaterm estufa calefactor electrico alumax 500w primaterm": "2026-10-16T01:17:33.150Z",
   "dolce gabbana perfume mujer light blue edt 200ml dolce gabbana": "2026-10-17T18:02:07.936Z",
   "encimera a gas 5 quemadores silver na75d3030as zs": "2026-10-17T12:32:19.184Z",
-  "calvin klein calvin klein ck one eau de toilette unisex 50 ml": "2026-10-17T00:02:36.338Z",
+  "calvin klein calvin klein ck one eau de toilette unisex 50 ml": "2026-10-18T00:32:14.447Z",
   "primus mouse inalambrico gladius boba fett": "2026-10-17T01:03:22.890Z",
   "dolce gabbana set de tres regalos q by dolce gabbana edp": "2026-10-17T01:32:24.287Z",
   "teclado hyperx alloy core rgb 4p4f5ai hx kb5me2 la": "2026-10-17T00:18:03.287Z",
@@ -85,7 +85,7 @@
   "unidad ssd western digital green sn3000 1tb m 2 22 80 pcie4x4": "2026-10-17T00:18:03.287Z",
   "marc jacobs marc jacobs perfect intense eau de parfum para mujer 50 ml": "2026-10-17T00:18:03.287Z",
   "thierry mugler perfume mujer mugler angel edp 100 ml thierry mugler": "2026-10-17T00:47:00.585Z",
-  "parlante portatil aiwa aw a521 90w bluetooth negro": "2026-10-17T00:02:36.338Z",
+  "parlante portatil aiwa aw a521 90w bluetooth negro": "2026-10-18T00:32:14.447Z",
   "ursus trotter horno electrico sobremesa 25 litros ut backofen pro b": "2026-10-15T21:17:43.003Z",
   "albin trotter licuadora 1 5 litros multicolor at md mischung 3": "2026-10-17T02:02:47.400Z",
   "scanner panasonic kv s1015c x": "2026-10-16T11:32:41.527Z",
@@ -95,7 +95,7 @@
   "xiaomi 17 ultra photography kit pro negro": "2026-10-15T13:02:28.939Z",
   "nex ventilador suelo industrial 42 negro": "2026-10-17T13:02:29.173Z",
   "freidora de aire thomas th af130dv 13 l": "2026-10-17T00:18:03.287Z",
-  "licuadora easyways licuadora crush n roll 1 5 l": "2026-10-17T00:02:36.338Z",
+  "licuadora easyways licuadora crush n roll 1 5 l": "2026-10-18T00:32:14.447Z",
   "hamilton beach microondas digital 23 litros inox hb p90d23el lxa": "2026-10-17T01:03:22.890Z",
   "hamilton beach batidora de mano 290 w multicolor bp 62650 cl": "2026-10-17T01:32:24.287Z",
   "hamilton beach batidora de pedestal 3 7 l 290 kw negro 64650 cl": "2026-10-17T01:48:13.332Z",
@@ -3914,6 +3914,57 @@
     "comments": 0,
     "al": "2026-10-18T00:30:38.486Z"
    }
+  },
+  "2026-10-17-r-reel-1792283534448": {
+   "tipo": "reel",
+   "fecha": "2026-10-17",
+   "estado": "publicado",
+   "bloque": "recopilaciones",
+   "hora": "21:32",
+   "id": "18099244622392081",
+   "enlace": "https://www.instagram.com/reel/DenZv8kEoYe/",
+   "ofertas": [
+    {
+     "id": "1827803",
+     "nombre": "Licuadora Easyways Licuadora Crush n' roll 1,5 L",
+     "tienda": "ABC",
+     "ahora": 29990,
+     "antes": 66990,
+     "pct": 55,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 87,
+     "visto": "20:33"
+    },
+    {
+     "id": "1784905",
+     "nombre": "Parlante Portátil Aiwa AW-A521 90W Bluetooth Negro",
+     "tienda": "ABC",
+     "ahora": 69990,
+     "antes": 149990,
+     "pct": 53,
+     "rubro": "tecnologia",
+     "esMinimo": true,
+     "dias": 17,
+     "visto": "20:33"
+    },
+    {
+     "id": "1063781",
+     "nombre": "CALVIN KLEIN Calvin Klein CK One Eau De Toilette Unisex 50 Ml",
+     "tienda": "Falabella",
+     "ahora": 24990,
+     "antes": 52990,
+     "pct": 52,
+     "rubro": "perfumes",
+     "esMinimo": true,
+     "dias": 77,
+     "visto": "20:33"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1792283477510-r3.mp4"
+   ],
+   "texto": "🔥 3 ofertas las mejores del día\n1. Licuadora Easyways Licuadora Crush n' roll 1,5 L: $29.990 (-55%, referencia $66.990) en ABC · 📉 mínimo de 87 días\n2. Parlante Portátil Aiwa AW-A521 90W Bluetooth Negro: $69.990 (-53%, referencia $149.990) en ABC · 📉 mínimo de 17 días\n3. CALVIN KLEIN Calvin Klein CK One Eau De Toilette Unisex 50 Ml: $24.990 (-52%, referencia $52.990) en Falabella · 📉 mínimo de 77 días\n\n⏰ Precios vistos hoy (17/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
   }
  },
  "config": {
@@ -3933,7 +3984,7 @@
    "hasta": "2026-10-18T00:16:06.499Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-17T18:02:07.936Z"
+  "ultimaPub": "2026-10-18T00:32:14.448Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-17",
