@@ -13,7 +13,7 @@
   "1087642": "2026-10-19T11:47:36.096Z",
   "1110715": "2026-10-18T01:48:02.274Z",
   "1110717": "2026-10-19T17:32:27.025Z",
-  "1118971": "2026-10-18T18:16:58.549Z",
+  "1118971": "2026-10-19T19:32:26.585Z",
   "1128340": "2026-10-19T11:32:26.510Z",
   "1131276": "2026-10-19T11:47:36.096Z",
   "1137440": "2026-10-19T13:03:06.060Z",
@@ -26,6 +26,7 @@
   "1595843": "2026-10-18T12:17:22.517Z",
   "1611327": "2026-10-19T11:47:36.096Z",
   "1611333": "2026-10-18T11:47:43.383Z",
+  "1634653": "2026-10-19T19:32:26.585Z",
   "1669911": "2026-10-19T14:33:02.063Z",
   "1673324": "2026-10-18T11:47:43.383Z",
   "1673333": "2026-10-19T15:32:44.765Z",
@@ -48,12 +49,12 @@
   "1848566": "2026-10-19T13:03:06.060Z",
   "1857193": "2026-10-18T12:32:20.971Z",
   "1886008": "2026-10-19T14:33:02.063Z",
-  "1896728": "2026-10-18T11:47:43.383Z",
+  "1896728": "2026-10-19T19:32:26.585Z",
   "1898707": "2026-10-18T12:02:44.588Z"
  },
  "nombres": {
   "encimera a gas 5 quemadores gris": "2026-10-19T13:17:00.341Z",
-  "dolce gabbana perfume mujer light blue edt 200ml dolce gabbana": "2026-10-18T18:16:58.549Z",
+  "dolce gabbana perfume mujer light blue edt 200ml dolce gabbana": "2026-10-19T19:32:26.585Z",
   "encimera a gas 5 quemadores silver na75d3030as zs": "2026-10-17T12:32:19.184Z",
   "calvin klein calvin klein ck one eau de toilette unisex 50 ml": "2026-10-19T11:47:36.096Z",
   "primus mouse inalambrico gladius boba fett": "2026-10-19T11:47:36.096Z",
@@ -95,12 +96,13 @@
   "nex ventilador suelo industrial 36 negro": "2026-10-18T12:17:22.517Z",
   "tous perfume mujer tous loveme emerald parfum 50ml": "2026-10-19T14:33:02.063Z",
   "prada perfume de prada infusion de figue eau de parfum 100ml unisex": "2026-10-18T02:32:54.056Z",
-  "nex aire acondicionado 9000btu acp09288 fcwifi": "2026-10-18T11:47:43.383Z",
+  "nex aire acondicionado 9000btu acp09288 fcwifi": "2026-10-19T19:32:26.585Z",
   "alisador gama cp14 dual plate led gold titanio": "2026-10-18T11:47:43.383Z",
   "nex aspiradora barril limpia alfombras y tapices 1600w 20 lt": "2026-10-18T12:02:44.588Z",
   "samsung encimera a gas 5 quemadores gris": "2026-10-18T12:17:22.517Z",
   "xiaomi 17 ultra photography kit pro negro": "2026-10-19T11:01:57.081Z",
-  "alisador gama dual plates led": "2026-10-19T11:47:36.096Z"
+  "alisador gama dual plates led": "2026-10-19T11:47:36.096Z",
+  "nex ventilador suelo industrial 30 negro": "2026-10-19T19:32:26.585Z"
  },
  "items": {
   "2026-10-16-r-carrusel-1792148528575": {
@@ -5119,6 +5121,57 @@
      "visto": "15:16"
     }
    ]
+  },
+  "2026-10-19-r-reel-1792438346586": {
+   "tipo": "reel",
+   "fecha": "2026-10-19",
+   "estado": "publicado",
+   "bloque": "populares",
+   "hora": "16:32",
+   "id": "18106024157202291",
+   "enlace": "https://www.instagram.com/reel/DesBAdBErnC/",
+   "ofertas": [
+    {
+     "id": "1118971",
+     "nombre": "DOLCE&GABBANA Perfume Mujer Light Blue Edt 200Ml Dolce&Gabbana",
+     "tienda": "Falabella",
+     "ahora": 89990,
+     "antes": 189990,
+     "pct": 52,
+     "rubro": "perfumes",
+     "esMinimo": true,
+     "dias": 34,
+     "visto": "15:16"
+    },
+    {
+     "id": "1896728",
+     "nombre": "Nex Aire acondicionado 9000BTU ACP09288-FCWIFI",
+     "tienda": "Easy",
+     "ahora": 149990,
+     "antes": 299990,
+     "pct": 50,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 20,
+     "visto": "15:16"
+    },
+    {
+     "id": "1634653",
+     "nombre": "Nex Ventilador suelo industrial 30'' negro",
+     "tienda": "Easy",
+     "ahora": 89990,
+     "antes": 179990,
+     "pct": 50,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 20,
+     "visto": "15:16"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1792438265793-r5.mp4"
+   ],
+   "texto": "🔥 3 ofertas de las más populares\n1. DOLCE&GABBANA Perfume Mujer Light Blue Edt 200Ml Dolce&Gabbana: $89.990 (-52%, referencia $189.990) en Falabella · 📉 mínimo de 34 días\n2. Nex Aire acondicionado 9000BTU ACP09288-FCWIFI: $149.990 (-50%, referencia $299.990) en Easy\n3. Nex Ventilador suelo industrial 30'' negro: $89.990 (-50%, referencia $179.990) en Easy\n\n⏰ Precios vistos hoy (19/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
   }
  },
  "config": {
@@ -5138,7 +5191,7 @@
    "hasta": "2026-10-19T03:31:45.243Z",
    "veces": 1
   },
-  "ultimaPub": "2026-10-19T19:16:15.214Z"
+  "ultimaPub": "2026-10-19T19:32:26.586Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-18",
