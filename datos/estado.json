@@ -4278,6 +4278,28 @@
     "tmp-medios/1792410414481-c1-3.jpg"
    ],
    "texto": "🏆 Ofertas nuevas de hoy\n1. HAMILTON BEACH Microondas Digital 23 Litros Inox HB-P90D23EL-LXA: $44.990 (-55%) en Sodimac · 📉 mínimo de 38 días\n2. CALVIN KLEIN Calvin Klein CK One Eau De Toilette Unisex 50 Ml: $24.990 (-52%) en Falabella · 📉 mínimo de 79 días\n3. PRIMUS Mouse inalámbrico Gladius Boba Fett: $22.990 (-42%) en Falabella Marketplace · 📉 mínimo de 79 días\n4. Teclado HyperX Alloy Core RGB (4P4F5AI / HX-KB5ME2-LA): $29.990 (-40%) en Valrod · 📉 mínimo de 47 días\n5. Alisador Gama Dual Plates Led: $34.990 (-41%) en Hites\n\n⏰ Precios vistos hoy (19/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #top5 #descuentoschile #ofertix #ahorrar"
+  },
+  "2026-10-19-r-historia-1792411271213": {
+   "tipo": "historia",
+   "fecha": "2026-10-19",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "hora": "09:01",
+   "id": "18118745023955982",
+   "ofertas": [
+    {
+     "id": "1576473",
+     "nombre": "Xiaomi 17 Ultra Photography Kit Pro Negro",
+     "tienda": "Xiaomi Chile",
+     "ahora": 99990,
+     "antes": 249990,
+     "pct": 60,
+     "rubro": "tecnologia",
+     "esMinimo": true,
+     "dias": 14,
+     "visto": "08:15"
+    }
+   ]
   }
  },
  "config": {
@@ -4297,7 +4319,7 @@
    "hasta": "2026-10-19T03:31:45.243Z",
    "veces": 1
   },
-  "ultimaPub": "2026-10-19T11:47:36.097Z"
+  "ultimaPub": "2026-10-19T12:01:11.213Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-18",
@@ -4310,6 +4332,7 @@
   "1128340": "2026-10-19T11:16:18.084Z",
   "1137440": "2026-10-18T13:01:23.269Z",
   "1147916": "2026-10-17T17:46:05.387Z",
+  "1576473": "2026-10-19T12:01:11.213Z",
   "1669911": "2026-10-18T12:03:07.175Z",
   "1695609": "2026-10-18T11:31:17.587Z",
   "1755063": "2026-10-18T13:47:27.795Z",
