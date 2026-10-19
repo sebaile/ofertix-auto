@@ -5,11 +5,11 @@
   "824715": "2026-10-18T12:17:22.517Z",
   "824734": "2026-10-19T20:03:00.725Z",
   "829028": "2026-10-19T13:03:06.060Z",
-  "830761": "2026-10-18T02:32:54.056Z",
+  "830761": "2026-10-19T20:33:06.024Z",
   "1063781": "2026-10-19T11:47:36.096Z",
   "1087207": "2026-10-19T18:03:13.034Z",
   "1087230": "2026-10-19T18:03:13.034Z",
-  "1087242": "2026-10-18T02:32:54.056Z",
+  "1087242": "2026-10-19T20:33:06.024Z",
   "1087642": "2026-10-19T11:47:36.096Z",
   "1110715": "2026-10-19T20:03:00.725Z",
   "1110717": "2026-10-19T17:32:27.025Z",
@@ -19,7 +19,7 @@
   "1137440": "2026-10-19T13:03:06.060Z",
   "1147916": "2026-10-17T12:32:19.183Z",
   "1530831": "2026-10-19T18:03:13.034Z",
-  "1531094": "2026-10-18T14:17:02.486Z",
+  "1531094": "2026-10-19T20:33:06.024Z",
   "1576473": "2026-10-19T11:01:57.081Z",
   "1583369": "2026-10-19T18:03:13.034Z",
   "1592754": "2026-10-17T13:02:29.173Z",
@@ -65,7 +65,7 @@
   "ferragamo perfume hombre red men edp 50 ml ferragamo": "2026-10-19T17:32:27.025Z",
   "karcher aspiradora corta pelos mascotas pet clean 1 4 litros": "2026-10-19T18:03:13.034Z",
   "nespresso cafetera essenza mini negra espumador": "2026-10-19T18:03:13.034Z",
-  "fdv hervidor de vidrio crystal 1 7 lts kegs5813 gs fdv": "2026-10-18T14:17:02.486Z",
+  "fdv hervidor de vidrio crystal 1 7 lts kegs5813 gs fdv": "2026-10-19T20:33:06.024Z",
   "oferta mikrotik pwr line ap routeros l4 european plug type c": "2026-10-19T14:33:02.063Z",
   "rabanne perfume hombre black xs edt 100ml rabanne": "2026-10-18T11:47:43.383Z",
   "carolina herrera perfume hombre bad boy edt 50ml carolina herrera": "2026-10-18T12:17:22.517Z",
@@ -87,7 +87,7 @@
   "hamilton beach microondas digital 23 litros inox hb p90d23el lxa": "2026-10-19T11:47:36.096Z",
   "hamilton beach batidora de mano 290 w multicolor bp 62650 cl": "2026-10-19T15:32:44.765Z",
   "hamilton beach batidora de pedestal 3 7 l 290 kw negro 64650 cl": "2026-10-19T15:32:44.765Z",
-  "antonio banderas perfume edt hombre the icon edt 200 ml banderas": "2026-10-18T02:32:54.056Z",
+  "antonio banderas perfume edt hombre the icon edt 200 ml banderas": "2026-10-19T20:33:06.024Z",
   "hamilton beach freidora de aire 2 5 litros fe 35051 cl": "2026-10-19T17:32:27.025Z",
   "volker campana convencional 60 cm inox": "2026-10-19T17:02:22.736Z",
   "thomas chimenea electrica 2000w conveccion th fp100 madera": "2026-10-19T13:03:06.060Z",
@@ -95,7 +95,7 @@
   "karcher aspiradora a bateria vc 4 cordless": "2026-10-18T12:32:20.971Z",
   "nex ventilador suelo industrial 36 negro": "2026-10-18T12:17:22.517Z",
   "tous perfume mujer tous loveme emerald parfum 50ml": "2026-10-19T14:33:02.063Z",
-  "prada perfume de prada infusion de figue eau de parfum 100ml unisex": "2026-10-18T02:32:54.056Z",
+  "prada perfume de prada infusion de figue eau de parfum 100ml unisex": "2026-10-19T20:33:06.024Z",
   "nex aire acondicionado 9000btu acp09288 fcwifi": "2026-10-19T19:32:26.585Z",
   "alisador gama cp14 dual plate led gold titanio": "2026-10-18T11:47:43.383Z",
   "nex aspiradora barril limpia alfombras y tapices 1600w 20 lt": "2026-10-19T20:03:00.725Z",
@@ -5282,6 +5282,57 @@
      "visto": "16:21"
     }
    ]
+  },
+  "2026-10-19-r-reel-1792441986025": {
+   "tipo": "reel",
+   "fecha": "2026-10-19",
+   "estado": "publicado",
+   "bloque": "populares",
+   "hora": "17:33",
+   "id": "18113488004038142",
+   "enlace": "https://www.instagram.com/reel/DesH89BCky7/",
+   "ofertas": [
+    {
+     "id": "830761",
+     "nombre": "PRADA Perfume de Prada Infusion de Figue Eau de Parfum 100ml Unisex",
+     "tienda": "Falabella",
+     "ahora": 109790,
+     "antes": 182990,
+     "pct": 40,
+     "rubro": "perfumes",
+     "esMinimo": false,
+     "dias": 14,
+     "visto": "16:21"
+    },
+    {
+     "id": "1531094",
+     "nombre": "FDV Hervidor de Vidrio Crystal 1.7 Lts KEGS5813-GS FDV",
+     "tienda": "Lider",
+     "ahora": 19990,
+     "antes": 34990,
+     "pct": 42,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 14,
+     "visto": "16:21"
+    },
+    {
+     "id": "1087242",
+     "nombre": "ANTONIO BANDERAS Perfume EDT Hombre The Icon EDT 200 Ml Banderas",
+     "tienda": "Falabella",
+     "ahora": 22990,
+     "antes": 38990,
+     "pct": 41,
+     "rubro": "perfumes",
+     "esMinimo": false,
+     "dias": 74,
+     "visto": "16:21"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1792441882425-r6.mp4"
+   ],
+   "texto": "🔥 3 ofertas de las más populares\n1. PRADA Perfume de Prada Infusion de Figue Eau de Parfum 100ml Unisex: $109.790 (-40%, referencia $182.990) en Falabella\n2. FDV Hervidor de Vidrio Crystal 1.7 Lts KEGS5813-GS FDV: $19.990 (-42%, referencia $34.990) en Lider\n3. ANTONIO BANDERAS Perfume EDT Hombre The Icon EDT 200 Ml Banderas: $22.990 (-41%, referencia $38.990) en Falabella\n\n⏰ Precios vistos hoy (19/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
   }
  },
  "config": {
@@ -5301,7 +5352,7 @@
    "hasta": "2026-10-19T03:31:45.243Z",
    "veces": 1
   },
-  "ultimaPub": "2026-10-19T20:16:11.953Z"
+  "ultimaPub": "2026-10-19T20:33:06.025Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-18",
