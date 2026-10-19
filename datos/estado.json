@@ -5172,6 +5172,28 @@
     "tmp-medios/1792438265793-r5.mp4"
    ],
    "texto": "🔥 3 ofertas de las más populares\n1. DOLCE&GABBANA Perfume Mujer Light Blue Edt 200Ml Dolce&Gabbana: $89.990 (-52%, referencia $189.990) en Falabella · 📉 mínimo de 34 días\n2. Nex Aire acondicionado 9000BTU ACP09288-FCWIFI: $149.990 (-50%, referencia $299.990) en Easy\n3. Nex Ventilador suelo industrial 30'' negro: $89.990 (-50%, referencia $179.990) en Easy\n\n⏰ Precios vistos hoy (19/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
+  },
+  "2026-10-19-r-historia-1792439175591": {
+   "tipo": "historia",
+   "fecha": "2026-10-19",
+   "estado": "publicado",
+   "bloque": "populares",
+   "hora": "16:46",
+   "id": "18146741563584765",
+   "ofertas": [
+    {
+     "id": "1530831",
+     "nombre": "Nespresso Cafetera Essenza Mini Negra + Espumador",
+     "tienda": "Lider",
+     "ahora": 83990,
+     "antes": 179990,
+     "pct": 53,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 88,
+     "visto": "16:21"
+    }
+   ]
   }
  },
  "config": {
@@ -5191,7 +5213,7 @@
    "hasta": "2026-10-19T03:31:45.243Z",
    "veces": 1
   },
-  "ultimaPub": "2026-10-19T19:32:26.586Z"
+  "ultimaPub": "2026-10-19T19:46:15.591Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-18",
@@ -5205,6 +5227,7 @@
   "1128340": "2026-10-19T11:16:18.084Z",
   "1131276": "2026-10-19T19:01:13.764Z",
   "1137440": "2026-10-19T14:16:04.700Z",
+  "1530831": "2026-10-19T19:46:15.591Z",
   "1576473": "2026-10-19T12:01:11.213Z",
   "1669911": "2026-10-19T13:46:07.246Z",
   "1695609": "2026-10-19T12:46:12.314Z",
