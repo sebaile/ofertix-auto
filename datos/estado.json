@@ -36,7 +36,7 @@
   "1780881": "2026-10-18T00:33:43.734Z",
   "1784905": "2026-10-19T11:32:26.510Z",
   "1785375": "2026-10-17T02:02:47.400Z",
-  "1789332": "2026-10-18T12:02:44.588Z",
+  "1789332": "2026-10-19T15:02:18.743Z",
   "1795903": "2026-10-18T13:47:05.135Z",
   "1827803": "2026-10-19T14:33:02.063Z",
   "1828224": "2026-10-18T00:33:43.734Z",
@@ -90,7 +90,7 @@
   "hamilton beach freidora de aire 2 5 litros fe 35051 cl": "2026-10-18T02:03:26.431Z",
   "volker campana convencional 60 cm inox": "2026-10-18T02:32:54.056Z",
   "thomas chimenea electrica 2000w conveccion th fp100 madera": "2026-10-19T13:03:06.060Z",
-  "karcher limpiadora de vapor karcher sc 1 multi": "2026-10-18T12:02:44.588Z",
+  "karcher limpiadora de vapor karcher sc 1 multi": "2026-10-19T15:02:18.743Z",
   "karcher aspiradora a bateria vc 4 cordless": "2026-10-18T12:32:20.971Z",
   "nex ventilador suelo industrial 36 negro": "2026-10-18T12:17:22.517Z",
   "tous perfume mujer tous loveme emerald parfum 50ml": "2026-10-19T14:33:02.063Z",
@@ -4607,6 +4607,35 @@
      "visto": "11:20"
     }
    ]
+  },
+  "2026-10-19-r-carrusel-1792422138744": {
+   "tipo": "carrusel",
+   "fecha": "2026-10-19",
+   "estado": "publicado",
+   "bloque": "comparativas",
+   "formato": "oferta",
+   "hora": "12:02",
+   "id": "18118789747772528",
+   "enlace": "https://www.instagram.com/p/DeriJAzEWkf/",
+   "ofertas": [
+    {
+     "id": "1789332",
+     "nombre": "KARCHER Limpiadora de vapor Karcher SC 1 Multi",
+     "tienda": "Falabella Marketplace",
+     "ahora": 59990,
+     "antes": 109990,
+     "pct": 45,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 47,
+     "visto": "11:20"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1792422110759-c3-1.jpg",
+    "tmp-medios/1792422110759-c3-2.jpg"
+   ],
+   "texto": "🔥 OFERTA DEL DÍA\nKARCHER Limpiadora de vapor Karcher SC 1 Multi\nAhora: $59.990 (-45%)\nReferencia: $109.990\n🏪 Falabella Marketplace\n\n✅ Precio visto hoy a las 11:20 en nuestro sistema.\n📉 Es el precio más bajo de los últimos 47 días.\n⏰ Puede cambiar o agotarse sin aviso.\n📲 Enlace directo en Telegram: t.me/ofertixcl\n\n#ofertaschile #hogar #descuentoschile #ofertix #ofertasdeldia"
   }
  },
  "config": {
@@ -4626,7 +4655,7 @@
    "hasta": "2026-10-19T03:31:45.243Z",
    "veces": 1
   },
-  "ultimaPub": "2026-10-19T14:46:08.879Z"
+  "ultimaPub": "2026-10-19T15:02:18.744Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-18",
