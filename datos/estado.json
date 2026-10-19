@@ -21,6 +21,7 @@
   "1157052": "2026-10-16T11:47:32.061Z",
   "1530831": "2026-10-18T02:32:54.056Z",
   "1531094": "2026-10-18T14:17:02.486Z",
+  "1576473": "2026-10-19T11:01:57.081Z",
   "1583369": "2026-10-18T13:33:08.972Z",
   "1592754": "2026-10-17T13:02:29.173Z",
   "1595843": "2026-10-18T12:17:22.517Z",
@@ -98,7 +99,8 @@
   "nex aire acondicionado 9000btu acp09288 fcwifi": "2026-10-18T11:47:43.383Z",
   "alisador gama cp14 dual plate led gold titanio": "2026-10-18T11:47:43.383Z",
   "nex aspiradora barril limpia alfombras y tapices 1600w 20 lt": "2026-10-18T12:02:44.588Z",
-  "samsung encimera a gas 5 quemadores gris": "2026-10-18T12:17:22.517Z"
+  "samsung encimera a gas 5 quemadores gris": "2026-10-18T12:17:22.517Z",
+  "xiaomi 17 ultra photography kit pro negro": "2026-10-19T11:01:57.081Z"
  },
  "items": {
   "2026-10-16-r-carrusel-1792148528575": {
@@ -4096,6 +4098,35 @@
     "comments": 0,
     "al": "2026-10-19T00:30:40.461Z"
    }
+  },
+  "2026-10-19-r-carrusel-1792407717082": {
+   "tipo": "carrusel",
+   "fecha": "2026-10-19",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "formato": "oferta",
+   "hora": "08:01",
+   "id": "18132796804731340",
+   "enlace": "https://www.instagram.com/p/DerGn8pm2-w/",
+   "ofertas": [
+    {
+     "id": "1576473",
+     "nombre": "Xiaomi 17 Ultra Photography Kit Pro Negro",
+     "tienda": "Xiaomi Chile",
+     "ahora": 99990,
+     "antes": 249990,
+     "pct": 60,
+     "rubro": "tecnologia",
+     "esMinimo": true,
+     "dias": 14,
+     "visto": "07:06"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1792407685030-c0-1.jpg",
+    "tmp-medios/1792407685030-c0-2.jpg"
+   ],
+   "texto": "🔥 OFERTA NUEVA\nXiaomi 17 Ultra Photography Kit Pro Negro\nAhora: $99.990 (-60%)\nReferencia: $249.990\n🏪 Xiaomi Chile\n\n✅ Precio visto hoy a las 07:06 en nuestro sistema.\n📉 Es el precio más bajo de los últimos 14 días.\n⏰ Puede cambiar o agotarse sin aviso.\n📲 Enlace directo en Telegram: t.me/ofertixcl\n\n#ofertaschile #tecnologia #descuentoschile #ofertix #ofertasdeldia"
   }
  },
  "config": {
@@ -4115,7 +4146,7 @@
    "hasta": "2026-10-19T03:31:45.243Z",
    "veces": 1
   },
-  "ultimaPub": "2026-10-18T18:16:58.550Z"
+  "ultimaPub": "2026-10-19T11:01:57.082Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-18",
