@@ -1,7 +1,7 @@
 {
  "offset": 44460906,
  "usadas": {
-  "67319": "2026-10-17T12:17:19.146Z",
+  "67319": "2026-10-19T13:17:00.341Z",
   "824715": "2026-10-18T12:17:22.517Z",
   "824734": "2026-10-18T13:47:05.135Z",
   "829028": "2026-10-19T13:03:06.060Z",
@@ -52,7 +52,7 @@
   "1898707": "2026-10-18T12:02:44.588Z"
  },
  "nombres": {
-  "encimera a gas 5 quemadores gris": "2026-10-17T12:17:19.146Z",
+  "encimera a gas 5 quemadores gris": "2026-10-19T13:17:00.341Z",
   "dolce gabbana perfume mujer light blue edt 200ml dolce gabbana": "2026-10-18T18:16:58.549Z",
   "encimera a gas 5 quemadores silver na75d3030as zs": "2026-10-17T12:32:19.184Z",
   "calvin klein calvin klein ck one eau de toilette unisex 50 ml": "2026-10-19T11:47:36.096Z",
@@ -4417,6 +4417,35 @@
     "tmp-medios/1792414897937-r1.mp4"
    ],
    "texto": "🔥 3 ofertas nuevas de hoy\n1. THOMAS Chimenea Eléctrica 2000W Convección TH-FP100 Madera: $152.990 (-59%, referencia $379.990) en Sodimac · 📉 mínimo de 89 días\n2. THIERRY MUGLER Perfume Mujer Mugler Angel EDP 100 ml Thierry Mugler: $104.990 (-40%, referencia $175.990) en Falabella · 📉 mínimo de 88 días\n3. Samsung Audífonos In Ear SM-R400NZAALTA Bluetooth v5.2 Gray: $59.990 (-40%, referencia $99.990) en Lider\n\n⏰ Precios vistos hoy (19/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
+  },
+  "2026-10-19-r-carrusel-1792415820342": {
+   "tipo": "carrusel",
+   "fecha": "2026-10-19",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "formato": "oferta",
+   "hora": "10:17",
+   "id": "18027657875920728",
+   "enlace": "https://www.instagram.com/p/DerWFE-G_CE/",
+   "ofertas": [
+    {
+     "id": "67319",
+     "nombre": "Encimera A Gas 5 Quemadores Gris",
+     "tienda": "Mercado Libre",
+     "ahora": 179990,
+     "antes": 359990,
+     "pct": 50,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 69,
+     "visto": "09:09"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1792415786787-c2-1.jpg",
+    "tmp-medios/1792415786787-c2-2.jpg"
+   ],
+   "texto": "🔥 OFERTA NUEVA\nEncimera A Gas 5 Quemadores Gris\nAhora: $179.990 (-50%)\nReferencia: $359.990\n🏪 Mercado Libre\n\n✅ Precio visto hoy a las 09:09 en nuestro sistema.\n📉 Es el precio más bajo de los últimos 69 días.\n⏰ Puede cambiar o agotarse sin aviso.\n📲 Enlace directo en Telegram: t.me/ofertixcl\n\n#ofertaschile #hogar #descuentoschile #ofertix #ofertasdeldia"
   }
  },
  "config": {
@@ -4436,7 +4465,7 @@
    "hasta": "2026-10-19T03:31:45.243Z",
    "veces": 1
   },
-  "ultimaPub": "2026-10-19T13:03:06.061Z"
+  "ultimaPub": "2026-10-19T13:17:00.342Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-18",
