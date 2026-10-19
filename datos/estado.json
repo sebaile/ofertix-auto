@@ -28,7 +28,7 @@
   "1611333": "2026-10-18T11:47:43.383Z",
   "1669911": "2026-10-19T14:33:02.063Z",
   "1673324": "2026-10-18T11:47:43.383Z",
-  "1673333": "2026-10-18T13:47:05.135Z",
+  "1673333": "2026-10-19T15:32:44.765Z",
   "1673340": "2026-10-18T12:17:22.517Z",
   "1695609": "2026-10-19T11:32:26.510Z",
   "1739017": "2026-10-17T00:18:03.287Z",
@@ -43,8 +43,8 @@
   "1840943": "2026-10-18T02:03:26.431Z",
   "1841225": "2026-10-18T02:32:54.056Z",
   "1841233": "2026-10-19T11:47:36.096Z",
-  "1841315": "2026-10-18T01:48:02.274Z",
-  "1841316": "2026-10-18T02:03:26.431Z",
+  "1841315": "2026-10-19T15:32:44.765Z",
+  "1841316": "2026-10-19T15:32:44.765Z",
   "1848566": "2026-10-19T13:03:06.060Z",
   "1857193": "2026-10-18T12:32:20.971Z",
   "1886008": "2026-10-19T14:33:02.063Z",
@@ -68,7 +68,7 @@
   "oferta mikrotik pwr line ap routeros l4 european plug type c": "2026-10-19T14:33:02.063Z",
   "rabanne perfume hombre black xs edt 100ml rabanne": "2026-10-18T11:47:43.383Z",
   "carolina herrera perfume hombre bad boy edt 50ml carolina herrera": "2026-10-18T12:17:22.517Z",
-  "nina ricci perfume mujer nina ricci nina edt 50ml nina ricci": "2026-10-18T13:47:05.135Z",
+  "nina ricci perfume mujer nina ricci nina edt 50ml nina ricci": "2026-10-19T15:32:44.765Z",
   "mikrotik mantbox 52 15s with routeros l4 license": "2026-10-19T11:32:26.510Z",
   "samsung soundtower mx t40 2 0 ch 2020": "2026-10-18T13:17:02.803Z",
   "samsung audifonos in ear sm r400nzaalta bluetooth v5 2 gray": "2026-10-19T13:03:06.060Z",
@@ -84,8 +84,8 @@
   "freidora de aire thomas th af130dv 13 l": "2026-10-18T00:33:43.734Z",
   "licuadora easyways licuadora crush n roll 1 5 l": "2026-10-19T14:33:02.063Z",
   "hamilton beach microondas digital 23 litros inox hb p90d23el lxa": "2026-10-19T11:47:36.096Z",
-  "hamilton beach batidora de mano 290 w multicolor bp 62650 cl": "2026-10-18T01:48:02.274Z",
-  "hamilton beach batidora de pedestal 3 7 l 290 kw negro 64650 cl": "2026-10-18T02:03:26.431Z",
+  "hamilton beach batidora de mano 290 w multicolor bp 62650 cl": "2026-10-19T15:32:44.765Z",
+  "hamilton beach batidora de pedestal 3 7 l 290 kw negro 64650 cl": "2026-10-19T15:32:44.765Z",
   "antonio banderas perfume edt hombre the icon edt 200 ml banderas": "2026-10-18T02:32:54.056Z",
   "hamilton beach freidora de aire 2 5 litros fe 35051 cl": "2026-10-18T02:03:26.431Z",
   "volker campana convencional 60 cm inox": "2026-10-18T02:32:54.056Z",
@@ -4658,6 +4658,57 @@
      "visto": "11:20"
     }
    ]
+  },
+  "2026-10-19-r-reel-1792423964766": {
+   "tipo": "reel",
+   "fecha": "2026-10-19",
+   "estado": "publicado",
+   "bloque": "comparativas",
+   "hora": "12:32",
+   "id": "18197790805347010",
+   "enlace": "https://www.instagram.com/reel/DerlklZgnmf/",
+   "ofertas": [
+    {
+     "id": "1841315",
+     "nombre": "HAMILTON BEACH Batidora De mano 290 W Multicolor BP-62650-CL",
+     "tienda": "Sodimac",
+     "ahora": 13990,
+     "antes": 29990,
+     "pct": 53,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 38,
+     "visto": "11:20"
+    },
+    {
+     "id": "1673333",
+     "nombre": "NINA RICCI Perfume Mujer Nina Ricci Nina EDT 50ml Nina Ricci",
+     "tienda": "Falabella",
+     "ahora": 49990,
+     "antes": 83990,
+     "pct": 40,
+     "rubro": "perfumes",
+     "esMinimo": true,
+     "dias": 14,
+     "visto": "11:20"
+    },
+    {
+     "id": "1841316",
+     "nombre": "HAMILTON BEACH Batidora de Pedestal 3.7 l 290 kW Negro 64650-CL",
+     "tienda": "Sodimac",
+     "ahora": 29990,
+     "antes": 59990,
+     "pct": 50,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 38,
+     "visto": "11:20"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1792423871455-r3.mp4"
+   ],
+   "texto": "🔥 3 ofertas en comparativa: mismo tipo de producto\n1. HAMILTON BEACH Batidora De mano 290 W Multicolor BP-62650-CL: $13.990 (-53%, referencia $29.990) en Sodimac · 📉 mínimo de 38 días\n2. NINA RICCI Perfume Mujer Nina Ricci Nina EDT 50ml Nina Ricci: $49.990 (-40%, referencia $83.990) en Falabella · 📉 mínimo de 14 días\n3. HAMILTON BEACH Batidora de Pedestal 3.7 l 290 kW Negro 64650-CL: $29.990 (-50%, referencia $59.990) en Sodimac · 📉 mínimo de 38 días\n\n⏰ Precios vistos hoy (19/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
   }
  },
  "config": {
@@ -4677,7 +4728,7 @@
    "hasta": "2026-10-19T03:31:45.243Z",
    "veces": 1
   },
-  "ultimaPub": "2026-10-19T15:16:16.251Z"
+  "ultimaPub": "2026-10-19T15:32:44.766Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-18",
