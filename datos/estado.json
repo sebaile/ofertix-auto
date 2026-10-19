@@ -7,8 +7,8 @@
   "829028": "2026-10-19T13:03:06.060Z",
   "830761": "2026-10-18T02:32:54.056Z",
   "1063781": "2026-10-19T11:47:36.096Z",
-  "1087207": "2026-10-18T13:33:08.972Z",
-  "1087230": "2026-10-18T12:02:44.588Z",
+  "1087207": "2026-10-19T18:03:13.034Z",
+  "1087230": "2026-10-19T18:03:13.034Z",
   "1087242": "2026-10-18T02:32:54.056Z",
   "1087642": "2026-10-19T11:47:36.096Z",
   "1110715": "2026-10-18T01:48:02.274Z",
@@ -18,10 +18,10 @@
   "1131276": "2026-10-19T11:47:36.096Z",
   "1137440": "2026-10-19T13:03:06.060Z",
   "1147916": "2026-10-17T12:32:19.183Z",
-  "1530831": "2026-10-18T02:32:54.056Z",
+  "1530831": "2026-10-19T18:03:13.034Z",
   "1531094": "2026-10-18T14:17:02.486Z",
   "1576473": "2026-10-19T11:01:57.081Z",
-  "1583369": "2026-10-18T13:33:08.972Z",
+  "1583369": "2026-10-19T18:03:13.034Z",
   "1592754": "2026-10-17T13:02:29.173Z",
   "1595843": "2026-10-18T12:17:22.517Z",
   "1611327": "2026-10-19T11:47:36.096Z",
@@ -60,10 +60,10 @@
   "dolce gabbana set de tres regalos q by dolce gabbana edp": "2026-10-18T01:48:02.274Z",
   "teclado hyperx alloy core rgb 4p4f5ai hx kb5me2 la": "2026-10-19T11:47:36.096Z",
   "midea freidora de aire 4 litros mf tn40d2": "2026-10-18T13:47:05.135Z",
-  "dolce gabbana perfume hombre edp dolce gabbana": "2026-10-18T12:02:44.588Z",
+  "dolce gabbana perfume hombre edp dolce gabbana": "2026-10-19T18:03:13.034Z",
   "ferragamo perfume hombre red men edp 50 ml ferragamo": "2026-10-19T17:32:27.025Z",
-  "karcher aspiradora corta pelos mascotas pet clean 1 4 litros": "2026-10-18T13:33:08.972Z",
-  "nespresso cafetera essenza mini negra espumador": "2026-10-18T02:32:54.056Z",
+  "karcher aspiradora corta pelos mascotas pet clean 1 4 litros": "2026-10-19T18:03:13.034Z",
+  "nespresso cafetera essenza mini negra espumador": "2026-10-19T18:03:13.034Z",
   "fdv hervidor de vidrio crystal 1 7 lts kegs5813 gs fdv": "2026-10-18T14:17:02.486Z",
   "oferta mikrotik pwr line ap routeros l4 european plug type c": "2026-10-19T14:33:02.063Z",
   "rabanne perfume hombre black xs edt 100ml rabanne": "2026-10-18T11:47:43.383Z",
@@ -79,7 +79,7 @@
   "albin trotter licuadora 1 5 litros multicolor at md mischung 3": "2026-10-17T02:02:47.400Z",
   "scanner panasonic kv s1015c x": "2026-10-19T11:32:26.510Z",
   "benetton perfume mujer sisterland green jasmine edt 80 ml benetton": "2026-10-18T13:47:05.135Z",
-  "rabanne perfume hombre one million elixir edp 200ml rabanne": "2026-10-18T13:33:08.972Z",
+  "rabanne perfume hombre one million elixir edp 200ml rabanne": "2026-10-19T18:03:13.034Z",
   "nex ventilador suelo industrial 42 negro": "2026-10-17T13:02:29.173Z",
   "freidora de aire thomas th af130dv 13 l": "2026-10-19T17:32:27.025Z",
   "licuadora easyways licuadora crush n roll 1 5 l": "2026-10-19T14:33:02.063Z",
@@ -4943,6 +4943,72 @@
      "visto": "14:19"
     }
    ]
+  },
+  "2026-10-19-r-carrusel-1792432993035": {
+   "tipo": "carrusel",
+   "fecha": "2026-10-19",
+   "estado": "publicado",
+   "bloque": "populares",
+   "formato": "top5",
+   "hora": "15:03",
+   "id": "18270778033305426",
+   "enlace": "https://www.instagram.com/p/Der21f9mDhm/",
+   "ofertas": [
+    {
+     "id": "1530831",
+     "nombre": "Nespresso Cafetera Essenza Mini Negra + Espumador",
+     "tienda": "Lider",
+     "ahora": 83990,
+     "antes": 179990,
+     "pct": 53,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 88,
+     "visto": "14:19"
+    },
+    {
+     "id": "1087207",
+     "nombre": "RABANNE Perfume Hombre One Million Elixir Edp 200Ml Rabanne",
+     "tienda": "Falabella",
+     "ahora": 101990,
+     "antes": 179990,
+     "pct": 43,
+     "rubro": "perfumes",
+     "esMinimo": false,
+     "dias": 60,
+     "visto": "14:19"
+    },
+    {
+     "id": "1583369",
+     "nombre": "Kärcher Aspiradora corta pelos mascotas Pet Clean 1.4 litros",
+     "tienda": "Easy",
+     "ahora": 94990,
+     "antes": 169990,
+     "pct": 44,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 45,
+     "visto": "14:19"
+    },
+    {
+     "id": "1087230",
+     "nombre": "DOLCE&GABBANA Perfume Hombre EDP Dolce&Gabbana",
+     "tienda": "Falabella",
+     "ahora": 91890,
+     "antes": 159990,
+     "pct": 42,
+     "rubro": "perfumes",
+     "esMinimo": false,
+     "dias": 18,
+     "visto": "14:19"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1792432952499-c5-1.jpg",
+    "tmp-medios/1792432952499-c5-2.jpg",
+    "tmp-medios/1792432952499-c5-3.jpg"
+   ],
+   "texto": "🏆 Los más populares\n1. Nespresso Cafetera Essenza Mini Negra + Espumador: $83.990 (-53%) en Lider\n2. RABANNE Perfume Hombre One Million Elixir Edp 200Ml Rabanne: $101.990 (-43%) en Falabella\n3. Kärcher Aspiradora corta pelos mascotas Pet Clean 1.4 litros: $94.990 (-44%) en Easy\n4. DOLCE&GABBANA Perfume Hombre EDP Dolce&Gabbana: $91.890 (-42%) en Falabella\n\n⏰ Precios vistos hoy (19/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #top5 #descuentoschile #ofertix #ahorrar"
   }
  },
  "config": {
@@ -4962,7 +5028,7 @@
    "hasta": "2026-10-19T03:31:45.243Z",
    "veces": 1
   },
-  "ultimaPub": "2026-10-19T17:46:10.800Z"
+  "ultimaPub": "2026-10-19T18:03:13.035Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-18",
