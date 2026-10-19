@@ -30,7 +30,7 @@
   "1669911": "2026-10-19T14:33:02.063Z",
   "1673324": "2026-10-19T21:02:11.843Z",
   "1673333": "2026-10-19T15:32:44.765Z",
-  "1673340": "2026-10-18T12:17:22.517Z",
+  "1673340": "2026-10-19T22:47:02.921Z",
   "1695609": "2026-10-19T11:32:26.510Z",
   "1739017": "2026-10-17T00:18:03.287Z",
   "1755063": "2026-10-18T13:17:02.803Z",
@@ -68,7 +68,7 @@
   "fdv hervidor de vidrio crystal 1 7 lts kegs5813 gs fdv": "2026-10-19T20:33:06.024Z",
   "oferta mikrotik pwr line ap routeros l4 european plug type c": "2026-10-19T14:33:02.063Z",
   "rabanne perfume hombre black xs edt 100ml rabanne": "2026-10-19T21:02:11.843Z",
-  "carolina herrera perfume hombre bad boy edt 50ml carolina herrera": "2026-10-18T12:17:22.517Z",
+  "carolina herrera perfume hombre bad boy edt 50ml carolina herrera": "2026-10-19T22:47:02.921Z",
   "nina ricci perfume mujer nina ricci nina edt 50ml nina ricci": "2026-10-19T15:32:44.765Z",
   "mikrotik mantbox 52 15s with routeros l4 license": "2026-10-19T11:32:26.510Z",
   "samsung soundtower mx t40 2 0 ch 2020": "2026-10-18T13:17:02.803Z",
@@ -5545,6 +5545,35 @@
      "visto": "18:25"
     }
    ]
+  },
+  "2026-10-19-r-carrusel-1792450022921": {
+   "tipo": "carrusel",
+   "fecha": "2026-10-19",
+   "estado": "publicado",
+   "bloque": "recopilaciones",
+   "formato": "oferta",
+   "hora": "19:47",
+   "id": "18143250277590457",
+   "enlace": "https://www.instagram.com/p/DesXUWIlgH9/",
+   "ofertas": [
+    {
+     "id": "1673340",
+     "nombre": "CAROLINA HERRERA Perfume Hombre Bad Boy Edt 50Ml Carolina Herrera",
+     "tienda": "Falabella",
+     "ahora": 56990,
+     "antes": 94990,
+     "pct": 40,
+     "rubro": "perfumes",
+     "esMinimo": false,
+     "dias": 11,
+     "visto": "19:17"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1792449996779-c9-1.jpg",
+    "tmp-medios/1792449996779-c9-2.jpg"
+   ],
+   "texto": "🔥 OFERTA DEL DÍA\nCAROLINA HERRERA Perfume Hombre Bad Boy Edt 50Ml Carolina Herrera\nAhora: $56.990 (-40%)\nReferencia: $94.990\n🏪 Falabella\n\n✅ Precio visto hoy a las 19:17 en nuestro sistema.\n⏰ Puede cambiar o agotarse sin aviso.\n📲 Enlace directo en Telegram: t.me/ofertixcl\n\n#ofertaschile #perfumes #descuentoschile #ofertix #ofertasdeldia"
   }
  },
  "config": {
@@ -5564,7 +5593,7 @@
    "hasta": "2026-10-19T03:31:45.243Z",
    "veces": 1
   },
-  "ultimaPub": "2026-10-19T22:31:18.041Z"
+  "ultimaPub": "2026-10-19T22:47:02.922Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-18",
