@@ -28,7 +28,7 @@
   "1611333": "2026-10-18T11:47:43.383Z",
   "1634653": "2026-10-19T19:32:26.585Z",
   "1669911": "2026-10-19T14:33:02.063Z",
-  "1673324": "2026-10-18T11:47:43.383Z",
+  "1673324": "2026-10-19T21:02:11.843Z",
   "1673333": "2026-10-19T15:32:44.765Z",
   "1673340": "2026-10-18T12:17:22.517Z",
   "1695609": "2026-10-19T11:32:26.510Z",
@@ -67,7 +67,7 @@
   "nespresso cafetera essenza mini negra espumador": "2026-10-19T18:03:13.034Z",
   "fdv hervidor de vidrio crystal 1 7 lts kegs5813 gs fdv": "2026-10-19T20:33:06.024Z",
   "oferta mikrotik pwr line ap routeros l4 european plug type c": "2026-10-19T14:33:02.063Z",
-  "rabanne perfume hombre black xs edt 100ml rabanne": "2026-10-18T11:47:43.383Z",
+  "rabanne perfume hombre black xs edt 100ml rabanne": "2026-10-19T21:02:11.843Z",
   "carolina herrera perfume hombre bad boy edt 50ml carolina herrera": "2026-10-18T12:17:22.517Z",
   "nina ricci perfume mujer nina ricci nina edt 50ml nina ricci": "2026-10-19T15:32:44.765Z",
   "mikrotik mantbox 52 15s with routeros l4 license": "2026-10-19T11:32:26.510Z",
@@ -5355,6 +5355,35 @@
      "visto": "17:20"
     }
    ]
+  },
+  "2026-10-19-r-carrusel-1792443731843": {
+   "tipo": "carrusel",
+   "fecha": "2026-10-19",
+   "estado": "publicado",
+   "bloque": "populares",
+   "formato": "oferta",
+   "hora": "18:02",
+   "id": "18119208205935170",
+   "enlace": "https://www.instagram.com/p/DesLUObmASD/",
+   "ofertas": [
+    {
+     "id": "1673324",
+     "nombre": "RABANNE Perfume Hombre Black Xs Edt 100Ml Rabanne",
+     "tienda": "Falabella",
+     "ahora": 71990,
+     "antes": 119990,
+     "pct": 40,
+     "rubro": "perfumes",
+     "esMinimo": false,
+     "dias": 52,
+     "visto": "17:20"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1792443697939-c7-1.jpg",
+    "tmp-medios/1792443697939-c7-2.jpg"
+   ],
+   "texto": "🔥 OFERTA DEL DÍA\nRABANNE Perfume Hombre Black Xs Edt 100Ml Rabanne\nAhora: $71.990 (-40%)\nReferencia: $119.990\n🏪 Falabella\n\n✅ Precio visto hoy a las 17:20 en nuestro sistema.\n⏰ Puede cambiar o agotarse sin aviso.\n📲 Enlace directo en Telegram: t.me/ofertixcl\n\n#ofertaschile #perfumes #descuentoschile #ofertix #ofertasdeldia"
   }
  },
  "config": {
@@ -5374,7 +5403,7 @@
    "hasta": "2026-10-19T03:31:45.243Z",
    "veces": 1
   },
-  "ultimaPub": "2026-10-19T20:46:14.320Z"
+  "ultimaPub": "2026-10-19T21:02:11.843Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-18",
