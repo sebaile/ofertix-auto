@@ -12,7 +12,7 @@
   "1087242": "2026-10-18T02:32:54.056Z",
   "1087642": "2026-10-19T11:47:36.096Z",
   "1110715": "2026-10-18T01:48:02.274Z",
-  "1110717": "2026-10-18T01:17:59.177Z",
+  "1110717": "2026-10-19T17:32:27.025Z",
   "1118971": "2026-10-18T18:16:58.549Z",
   "1128340": "2026-10-19T11:32:26.510Z",
   "1131276": "2026-10-19T11:47:36.096Z",
@@ -39,8 +39,8 @@
   "1789332": "2026-10-19T15:02:18.743Z",
   "1795903": "2026-10-18T13:47:05.135Z",
   "1827803": "2026-10-19T14:33:02.063Z",
-  "1828224": "2026-10-18T00:33:43.734Z",
-  "1840943": "2026-10-18T02:03:26.431Z",
+  "1828224": "2026-10-19T17:32:27.025Z",
+  "1840943": "2026-10-19T17:32:27.025Z",
   "1841225": "2026-10-19T17:02:22.736Z",
   "1841233": "2026-10-19T11:47:36.096Z",
   "1841315": "2026-10-19T15:32:44.765Z",
@@ -61,7 +61,7 @@
   "teclado hyperx alloy core rgb 4p4f5ai hx kb5me2 la": "2026-10-19T11:47:36.096Z",
   "midea freidora de aire 4 litros mf tn40d2": "2026-10-18T13:47:05.135Z",
   "dolce gabbana perfume hombre edp dolce gabbana": "2026-10-18T12:02:44.588Z",
-  "ferragamo perfume hombre red men edp 50 ml ferragamo": "2026-10-18T01:17:59.177Z",
+  "ferragamo perfume hombre red men edp 50 ml ferragamo": "2026-10-19T17:32:27.025Z",
   "karcher aspiradora corta pelos mascotas pet clean 1 4 litros": "2026-10-18T13:33:08.972Z",
   "nespresso cafetera essenza mini negra espumador": "2026-10-18T02:32:54.056Z",
   "fdv hervidor de vidrio crystal 1 7 lts kegs5813 gs fdv": "2026-10-18T14:17:02.486Z",
@@ -81,13 +81,13 @@
   "benetton perfume mujer sisterland green jasmine edt 80 ml benetton": "2026-10-18T13:47:05.135Z",
   "rabanne perfume hombre one million elixir edp 200ml rabanne": "2026-10-18T13:33:08.972Z",
   "nex ventilador suelo industrial 42 negro": "2026-10-17T13:02:29.173Z",
-  "freidora de aire thomas th af130dv 13 l": "2026-10-18T00:33:43.734Z",
+  "freidora de aire thomas th af130dv 13 l": "2026-10-19T17:32:27.025Z",
   "licuadora easyways licuadora crush n roll 1 5 l": "2026-10-19T14:33:02.063Z",
   "hamilton beach microondas digital 23 litros inox hb p90d23el lxa": "2026-10-19T11:47:36.096Z",
   "hamilton beach batidora de mano 290 w multicolor bp 62650 cl": "2026-10-19T15:32:44.765Z",
   "hamilton beach batidora de pedestal 3 7 l 290 kw negro 64650 cl": "2026-10-19T15:32:44.765Z",
   "antonio banderas perfume edt hombre the icon edt 200 ml banderas": "2026-10-18T02:32:54.056Z",
-  "hamilton beach freidora de aire 2 5 litros fe 35051 cl": "2026-10-18T02:03:26.431Z",
+  "hamilton beach freidora de aire 2 5 litros fe 35051 cl": "2026-10-19T17:32:27.025Z",
   "volker campana convencional 60 cm inox": "2026-10-19T17:02:22.736Z",
   "thomas chimenea electrica 2000w conveccion th fp100 madera": "2026-10-19T13:03:06.060Z",
   "karcher limpiadora de vapor karcher sc 1 multi": "2026-10-19T15:02:18.743Z",
@@ -4870,6 +4870,57 @@
      "visto": "13:22"
     }
    ]
+  },
+  "2026-10-19-r-reel-1792431147026": {
+   "tipo": "reel",
+   "fecha": "2026-10-19",
+   "estado": "publicado",
+   "bloque": "comparativas",
+   "hora": "14:32",
+   "id": "18165819559487483",
+   "enlace": "https://www.instagram.com/reel/DerzRf1En9r/",
+   "ofertas": [
+    {
+     "id": "1840943",
+     "nombre": "HAMILTON BEACH Freidora de Aire 2.5 Litros FE-35051-CL",
+     "tienda": "Sodimac",
+     "ahora": 39990,
+     "antes": 89990,
+     "pct": 55,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 38,
+     "visto": "13:22"
+    },
+    {
+     "id": "1110717",
+     "nombre": "FERRAGAMO Perfume Hombre Red Men Edp 50 Ml Ferragamo",
+     "tienda": "Falabella",
+     "ahora": 48590,
+     "antes": 80990,
+     "pct": 40,
+     "rubro": "perfumes",
+     "esMinimo": true,
+     "dias": 81,
+     "visto": "13:22"
+    },
+    {
+     "id": "1828224",
+     "nombre": "Freidora de Aire Thomas TH-AF130DV 13 L",
+     "tienda": "ABC",
+     "ahora": 119990,
+     "antes": 199990,
+     "pct": 40,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 54,
+     "visto": "13:22"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1792431065945-r4.mp4"
+   ],
+   "texto": "🔥 3 ofertas en comparativa: mismo tipo de producto\n1. HAMILTON BEACH Freidora de Aire 2.5 Litros FE-35051-CL: $39.990 (-55%, referencia $89.990) en Sodimac\n2. FERRAGAMO Perfume Hombre Red Men Edp 50 Ml Ferragamo: $48.590 (-40%, referencia $80.990) en Falabella · 📉 mínimo de 81 días\n3. Freidora de Aire Thomas TH-AF130DV 13 L: $119.990 (-40%, referencia $199.990) en ABC · 📉 mínimo de 54 días\n\n⏰ Precios vistos hoy (19/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
   }
  },
  "config": {
@@ -4889,7 +4940,7 @@
    "hasta": "2026-10-19T03:31:45.243Z",
    "veces": 1
   },
-  "ultimaPub": "2026-10-19T17:16:32.266Z"
+  "ultimaPub": "2026-10-19T17:32:27.026Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-18",
