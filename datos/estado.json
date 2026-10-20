@@ -6,7 +6,7 @@
   "824734": "2026-10-19T20:03:00.725Z",
   "829028": "2026-10-19T13:03:06.060Z",
   "830761": "2026-10-19T20:33:06.024Z",
-  "1063781": "2026-10-19T11:47:36.096Z",
+  "1063781": "2026-10-20T15:32:28.442Z",
   "1087207": "2026-10-19T18:03:13.034Z",
   "1087230": "2026-10-19T18:03:13.034Z",
   "1087242": "2026-10-19T20:33:06.024Z",
@@ -15,7 +15,7 @@
   "1110717": "2026-10-19T17:32:27.025Z",
   "1118971": "2026-10-19T19:32:26.585Z",
   "1128340": "2026-10-20T14:32:12.424Z",
-  "1131276": "2026-10-19T11:47:36.096Z",
+  "1131276": "2026-10-20T15:32:28.442Z",
   "1137440": "2026-10-20T15:03:10.269Z",
   "1530831": "2026-10-19T18:03:13.034Z",
   "1531094": "2026-10-19T20:33:06.024Z",
@@ -43,7 +43,7 @@
   "1841233": "2026-10-19T11:47:36.096Z",
   "1841315": "2026-10-19T15:32:44.765Z",
   "1841316": "2026-10-19T15:32:44.765Z",
-  "1848566": "2026-10-19T13:03:06.060Z",
+  "1848566": "2026-10-20T15:32:28.442Z",
   "1857193": "2026-10-18T12:32:20.971Z",
   "1886008": "2026-10-19T14:33:02.063Z",
   "1896728": "2026-10-19T19:32:26.585Z",
@@ -53,10 +53,10 @@
  "nombres": {
   "encimera a gas 5 quemadores gris": "2026-10-19T13:17:00.341Z",
   "dolce gabbana perfume mujer light blue edt 200ml dolce gabbana": "2026-10-19T19:32:26.585Z",
-  "calvin klein calvin klein ck one eau de toilette unisex 50 ml": "2026-10-19T11:47:36.096Z",
+  "calvin klein calvin klein ck one eau de toilette unisex 50 ml": "2026-10-20T15:32:28.442Z",
   "primus mouse inalambrico gladius boba fett": "2026-10-20T15:03:10.269Z",
   "dolce gabbana set de tres regalos q by dolce gabbana edp": "2026-10-19T20:03:00.725Z",
-  "teclado hyperx alloy core rgb 4p4f5ai hx kb5me2 la": "2026-10-19T11:47:36.096Z",
+  "teclado hyperx alloy core rgb 4p4f5ai hx kb5me2 la": "2026-10-20T15:32:28.442Z",
   "midea freidora de aire 4 litros mf tn40d2": "2026-10-19T20:03:00.725Z",
   "dolce gabbana perfume hombre edp dolce gabbana": "2026-10-19T18:03:13.034Z",
   "ferragamo perfume hombre red men edp 50 ml ferragamo": "2026-10-19T17:32:27.025Z",
@@ -85,7 +85,7 @@
   "antonio banderas perfume edt hombre the icon edt 200 ml banderas": "2026-10-19T20:33:06.024Z",
   "hamilton beach freidora de aire 2 5 litros fe 35051 cl": "2026-10-19T17:32:27.025Z",
   "volker campana convencional 60 cm inox": "2026-10-19T17:02:22.736Z",
-  "thomas chimenea electrica 2000w conveccion th fp100 madera": "2026-10-19T13:03:06.060Z",
+  "thomas chimenea electrica 2000w conveccion th fp100 madera": "2026-10-20T15:32:28.442Z",
   "karcher limpiadora de vapor karcher sc 1 multi": "2026-10-19T15:02:18.743Z",
   "karcher aspiradora a bateria vc 4 cordless": "2026-10-18T12:32:20.971Z",
   "nex ventilador suelo industrial 36 negro": "2026-10-18T12:17:22.517Z",
@@ -4480,6 +4480,57 @@
      "visto": "11:45"
     }
    ]
+  },
+  "2026-10-20-r-reel-1792510348442": {
+   "tipo": "reel",
+   "fecha": "2026-10-20",
+   "estado": "publicado",
+   "bloque": "comparativas",
+   "hora": "12:32",
+   "id": "18178318468396891",
+   "enlace": "https://www.instagram.com/reel/DeuKVtGkyad/",
+   "ofertas": [
+    {
+     "id": "1848566",
+     "nombre": "THOMAS Chimenea Eléctrica 2000W Convección TH-FP100 Madera",
+     "tienda": "Sodimac",
+     "ahora": 152990,
+     "antes": 379990,
+     "pct": 59,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 89,
+     "visto": "11:45"
+    },
+    {
+     "id": "1063781",
+     "nombre": "CALVIN KLEIN Calvin Klein CK One Eau De Toilette Unisex 50 Ml",
+     "tienda": "Falabella",
+     "ahora": 24990,
+     "antes": 52990,
+     "pct": 52,
+     "rubro": "perfumes",
+     "esMinimo": true,
+     "dias": 80,
+     "visto": "11:45"
+    },
+    {
+     "id": "1131276",
+     "nombre": "Teclado HyperX Alloy Core RGB (4P4F5AI / HX-KB5ME2-LA)",
+     "tienda": "Valrod",
+     "ahora": 29990,
+     "antes": 49990,
+     "pct": 40,
+     "rubro": "gamer",
+     "esMinimo": true,
+     "dias": 48,
+     "visto": "11:45"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1792510265076-r1.mp4"
+   ],
+   "texto": "🔥 3 ofertas en comparativa: mismo tipo de producto\n1. THOMAS Chimenea Eléctrica 2000W Convección TH-FP100 Madera: $152.990 (-59%, referencia $379.990) en Sodimac · 📉 mínimo de 89 días\n2. CALVIN KLEIN Calvin Klein CK One Eau De Toilette Unisex 50 Ml: $24.990 (-52%, referencia $52.990) en Falabella · 📉 mínimo de 80 días\n3. Teclado HyperX Alloy Core RGB (4P4F5AI / HX-KB5ME2-LA): $29.990 (-40%, referencia $49.990) en Valrod · 📉 mínimo de 48 días\n\n⏰ Precios vistos hoy (20/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
   }
  },
  "config": {
@@ -4499,7 +4550,7 @@
    "hasta": "2026-10-20T14:02:24.670Z",
    "veces": 1
   },
-  "ultimaPub": "2026-10-20T15:16:11.452Z"
+  "ultimaPub": "2026-10-20T15:32:28.442Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-19",
