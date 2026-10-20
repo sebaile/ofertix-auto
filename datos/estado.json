@@ -40,7 +40,7 @@
   "1828224": "2026-10-19T17:32:27.025Z",
   "1840943": "2026-10-19T17:32:27.025Z",
   "1841225": "2026-10-19T17:02:22.736Z",
-  "1841233": "2026-10-19T11:47:36.096Z",
+  "1841233": "2026-10-20T16:02:40.340Z",
   "1841315": "2026-10-19T15:32:44.765Z",
   "1841316": "2026-10-19T15:32:44.765Z",
   "1848566": "2026-10-20T15:32:28.442Z",
@@ -79,7 +79,7 @@
   "rabanne perfume hombre one million elixir edp 200ml rabanne": "2026-10-19T18:03:13.034Z",
   "freidora de aire thomas th af130dv 13 l": "2026-10-19T17:32:27.025Z",
   "licuadora easyways licuadora crush n roll 1 5 l": "2026-10-19T14:33:02.063Z",
-  "hamilton beach microondas digital 23 litros inox hb p90d23el lxa": "2026-10-19T11:47:36.096Z",
+  "hamilton beach microondas digital 23 litros inox hb p90d23el lxa": "2026-10-20T16:02:40.340Z",
   "hamilton beach batidora de mano 290 w multicolor bp 62650 cl": "2026-10-19T15:32:44.765Z",
   "hamilton beach batidora de pedestal 3 7 l 290 kw negro 64650 cl": "2026-10-19T15:32:44.765Z",
   "antonio banderas perfume edt hombre the icon edt 200 ml banderas": "2026-10-19T20:33:06.024Z",
@@ -4553,6 +4553,35 @@
      "visto": "11:45"
     }
    ]
+  },
+  "2026-10-20-r-carrusel-1792512160341": {
+   "tipo": "carrusel",
+   "fecha": "2026-10-20",
+   "estado": "publicado",
+   "bloque": "comparativas",
+   "formato": "oferta",
+   "hora": "13:02",
+   "id": "18123016330936408",
+   "enlace": "https://www.instagram.com/p/DeuN1aulg8g/",
+   "ofertas": [
+    {
+     "id": "1841233",
+     "nombre": "HAMILTON BEACH Microondas Digital 23 Litros Inox HB-P90D23EL-LXA",
+     "tienda": "Sodimac",
+     "ahora": 44990,
+     "antes": 99990,
+     "pct": 55,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 39,
+     "visto": "11:45"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1792512128276-c2-1.jpg",
+    "tmp-medios/1792512128276-c2-2.jpg"
+   ],
+   "texto": "🔥 OFERTA DEL DÍA\nHAMILTON BEACH Microondas Digital 23 Litros Inox HB-P90D23EL-LXA\nAhora: $44.990 (-55%)\nReferencia: $99.990\n🏪 Sodimac\n\n✅ Precio visto hoy a las 11:45 en nuestro sistema.\n📉 Es el precio más bajo de los últimos 39 días.\n⏰ Puede cambiar o agotarse sin aviso.\n📲 Enlace directo en Telegram: t.me/ofertixcl\n\n#ofertaschile #hogar #descuentoschile #ofertix #ofertasdeldia"
   }
  },
  "config": {
@@ -4572,7 +4601,7 @@
    "hasta": "2026-10-20T14:02:24.670Z",
    "veces": 1
   },
-  "ultimaPub": "2026-10-20T15:46:42.911Z"
+  "ultimaPub": "2026-10-20T16:02:40.341Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-19",
