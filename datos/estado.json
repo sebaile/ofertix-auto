@@ -21,7 +21,7 @@
   "1531094": "2026-10-19T20:33:06.024Z",
   "1574456": "2026-10-20T19:32:28.654Z",
   "1576473": "2026-10-19T11:01:57.081Z",
-  "1583369": "2026-10-19T18:03:13.034Z",
+  "1583369": "2026-10-20T21:33:49.555Z",
   "1595843": "2026-10-18T12:17:22.517Z",
   "1611327": "2026-10-19T11:47:36.096Z",
   "1611333": "2026-10-20T16:32:52.287Z",
@@ -36,7 +36,7 @@
   "1784905": "2026-10-20T14:32:12.424Z",
   "1785375": "2026-10-19T22:17:06.885Z",
   "1789332": "2026-10-20T16:47:17.832Z",
-  "1795903": "2026-10-19T20:03:00.725Z",
+  "1795903": "2026-10-20T21:33:49.555Z",
   "1827803": "2026-10-20T16:32:52.286Z",
   "1828224": "2026-10-20T19:02:52.149Z",
   "1840943": "2026-10-20T21:02:56.845Z",
@@ -47,7 +47,7 @@
   "1848566": "2026-10-20T15:32:28.442Z",
   "1857193": "2026-10-18T12:32:20.971Z",
   "1886008": "2026-10-19T14:33:02.063Z",
-  "1896728": "2026-10-19T19:32:26.585Z",
+  "1896728": "2026-10-20T21:33:49.555Z",
   "1898707": "2026-10-19T20:03:00.725Z",
   "2000817": "2026-10-20T11:02:06.791Z"
  },
@@ -61,7 +61,7 @@
   "midea freidora de aire 4 litros mf tn40d2": "2026-10-19T20:03:00.725Z",
   "dolce gabbana perfume hombre edp dolce gabbana": "2026-10-20T19:32:28.654Z",
   "ferragamo perfume hombre red men edp 50 ml ferragamo": "2026-10-20T19:02:52.149Z",
-  "karcher aspiradora corta pelos mascotas pet clean 1 4 litros": "2026-10-19T18:03:13.034Z",
+  "karcher aspiradora corta pelos mascotas pet clean 1 4 litros": "2026-10-20T21:33:49.555Z",
   "nespresso cafetera essenza mini negra espumador": "2026-10-20T21:02:56.845Z",
   "fdv hervidor de vidrio crystal 1 7 lts kegs5813 gs fdv": "2026-10-19T20:33:06.024Z",
   "oferta mikrotik pwr line ap routeros l4 european plug type c": "2026-10-20T15:03:10.269Z",
@@ -76,7 +76,7 @@
   "parlante portatil aiwa aw a521 90w bluetooth negro": "2026-10-20T14:32:12.424Z",
   "albin trotter licuadora 1 5 litros multicolor at md mischung 3": "2026-10-19T22:17:06.885Z",
   "scanner panasonic kv s1015c x": "2026-10-20T14:32:12.424Z",
-  "benetton perfume mujer sisterland green jasmine edt 80 ml benetton": "2026-10-19T20:03:00.725Z",
+  "benetton perfume mujer sisterland green jasmine edt 80 ml benetton": "2026-10-20T21:33:49.555Z",
   "rabanne perfume hombre one million elixir edp 200ml rabanne": "2026-10-20T19:02:52.149Z",
   "freidora de aire thomas th af130dv 13 l": "2026-10-20T19:02:52.149Z",
   "licuadora easyways licuadora crush n roll 1 5 l": "2026-10-20T16:32:52.287Z",
@@ -92,7 +92,7 @@
   "nex ventilador suelo industrial 36 negro": "2026-10-18T12:17:22.517Z",
   "tous perfume mujer tous loveme emerald parfum 50ml": "2026-10-19T14:33:02.063Z",
   "prada perfume de prada infusion de figue eau de parfum 100ml unisex": "2026-10-19T20:33:06.024Z",
-  "nex aire acondicionado 9000btu acp09288 fcwifi": "2026-10-19T19:32:26.585Z",
+  "nex aire acondicionado 9000btu acp09288 fcwifi": "2026-10-20T21:33:49.555Z",
   "alisador gama cp14 dual plate led gold titanio": "2026-10-20T16:32:52.287Z",
   "nex aspiradora barril limpia alfombras y tapices 1600w 20 lt": "2026-10-19T20:03:00.725Z",
   "samsung encimera a gas 5 quemadores gris": "2026-10-20T18:32:50.993Z",
@@ -5250,6 +5250,57 @@
      "visto": "17:50"
     }
    ]
+  },
+  "2026-10-20-r-reel-1792532029555": {
+   "tipo": "reel",
+   "fecha": "2026-10-20",
+   "estado": "publicado",
+   "bloque": "populares",
+   "hora": "18:33",
+   "id": "18071037284780315",
+   "enlace": "https://www.instagram.com/reel/DeuztKhDMCv/",
+   "ofertas": [
+    {
+     "id": "1583369",
+     "nombre": "Kärcher Aspiradora corta pelos mascotas Pet Clean 1.4 litros",
+     "tienda": "Easy",
+     "ahora": 94990,
+     "antes": 169990,
+     "pct": 44,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 47,
+     "visto": "17:50"
+    },
+    {
+     "id": "1795903",
+     "nombre": "BENETTON Perfume Mujer Sisterland Green Jasmine Edt 80 Ml Benetton",
+     "tienda": "Falabella",
+     "ahora": 15990,
+     "antes": 32990,
+     "pct": 51,
+     "rubro": "perfumes",
+     "esMinimo": false,
+     "dias": 60,
+     "visto": "17:50"
+    },
+    {
+     "id": "1896728",
+     "nombre": "Nex Aire acondicionado 9000BTU ACP09288-FCWIFI",
+     "tienda": "Easy",
+     "ahora": 149990,
+     "antes": 299990,
+     "pct": 50,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 21,
+     "visto": "17:50"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1792531891007-r5.mp4"
+   ],
+   "texto": "🔥 3 ofertas de las más populares\n1. Kärcher Aspiradora corta pelos mascotas Pet Clean 1.4 litros: $94.990 (-44%, referencia $169.990) en Easy\n2. BENETTON Perfume Mujer Sisterland Green Jasmine Edt 80 Ml Benetton: $15.990 (-51%, referencia $32.990) en Falabella\n3. Nex Aire acondicionado 9000BTU ACP09288-FCWIFI: $149.990 (-50%, referencia $299.990) en Easy\n\n⏰ Precios vistos hoy (20/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
   }
  },
  "config": {
@@ -5269,7 +5320,7 @@
    "hasta": "2026-10-20T14:02:24.670Z",
    "veces": 1
   },
-  "ultimaPub": "2026-10-20T21:16:14.548Z"
+  "ultimaPub": "2026-10-20T21:33:49.555Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-19",
