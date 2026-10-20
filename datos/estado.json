@@ -8,7 +8,7 @@
   "830761": "2026-10-19T20:33:06.024Z",
   "1063781": "2026-10-20T15:32:28.442Z",
   "1087207": "2026-10-20T19:02:52.149Z",
-  "1087230": "2026-10-19T18:03:13.034Z",
+  "1087230": "2026-10-20T19:32:28.654Z",
   "1087242": "2026-10-19T20:33:06.024Z",
   "1087642": "2026-10-20T15:03:10.269Z",
   "1110715": "2026-10-19T20:03:00.725Z",
@@ -19,6 +19,7 @@
   "1137440": "2026-10-20T15:03:10.269Z",
   "1530831": "2026-10-19T18:03:13.034Z",
   "1531094": "2026-10-19T20:33:06.024Z",
+  "1574456": "2026-10-20T19:32:28.654Z",
   "1576473": "2026-10-19T11:01:57.081Z",
   "1583369": "2026-10-19T18:03:13.034Z",
   "1595843": "2026-10-18T12:17:22.517Z",
@@ -39,7 +40,7 @@
   "1827803": "2026-10-20T16:32:52.286Z",
   "1828224": "2026-10-20T19:02:52.149Z",
   "1840943": "2026-10-19T17:32:27.025Z",
-  "1841225": "2026-10-19T17:02:22.736Z",
+  "1841225": "2026-10-20T19:32:28.654Z",
   "1841233": "2026-10-20T16:02:40.340Z",
   "1841315": "2026-10-20T18:32:50.993Z",
   "1841316": "2026-10-20T19:02:52.149Z",
@@ -58,7 +59,7 @@
   "dolce gabbana set de tres regalos q by dolce gabbana edp": "2026-10-19T20:03:00.725Z",
   "teclado hyperx alloy core rgb 4p4f5ai hx kb5me2 la": "2026-10-20T15:32:28.442Z",
   "midea freidora de aire 4 litros mf tn40d2": "2026-10-19T20:03:00.725Z",
-  "dolce gabbana perfume hombre edp dolce gabbana": "2026-10-19T18:03:13.034Z",
+  "dolce gabbana perfume hombre edp dolce gabbana": "2026-10-20T19:32:28.654Z",
   "ferragamo perfume hombre red men edp 50 ml ferragamo": "2026-10-20T19:02:52.149Z",
   "karcher aspiradora corta pelos mascotas pet clean 1 4 litros": "2026-10-19T18:03:13.034Z",
   "nespresso cafetera essenza mini negra espumador": "2026-10-19T18:03:13.034Z",
@@ -84,7 +85,7 @@
   "hamilton beach batidora de pedestal 3 7 l 290 kw negro 64650 cl": "2026-10-20T19:02:52.149Z",
   "antonio banderas perfume edt hombre the icon edt 200 ml banderas": "2026-10-19T20:33:06.024Z",
   "hamilton beach freidora de aire 2 5 litros fe 35051 cl": "2026-10-19T17:32:27.025Z",
-  "volker campana convencional 60 cm inox": "2026-10-19T17:02:22.736Z",
+  "volker campana convencional 60 cm inox": "2026-10-20T19:32:28.654Z",
   "thomas chimenea electrica 2000w conveccion th fp100 madera": "2026-10-20T15:32:28.442Z",
   "karcher limpiadora de vapor karcher sc 1 multi": "2026-10-20T16:47:17.833Z",
   "karcher aspiradora a bateria vc 4 cordless": "2026-10-18T12:32:20.971Z",
@@ -98,7 +99,8 @@
   "xiaomi 17 ultra photography kit pro negro": "2026-10-19T11:01:57.081Z",
   "alisador gama dual plates led": "2026-10-19T11:47:36.096Z",
   "nex ventilador suelo industrial 30 negro": "2026-10-19T19:32:26.585Z",
-  "ursus trotter horno electrico 80 litros ut backofen pro80i": "2026-10-20T11:02:06.791Z"
+  "ursus trotter horno electrico 80 litros ut backofen pro80i": "2026-10-20T11:02:06.791Z",
+  "ursus trotter horno electrica 38 litros ut backofen pro38i": "2026-10-20T19:32:28.654Z"
  },
  "items": {
   "2026-10-17-r-carrusel-1792234939952": {
@@ -4999,6 +5001,57 @@
      "visto": "15:47"
     }
    ]
+  },
+  "2026-10-20-r-reel-1792524748655": {
+   "tipo": "reel",
+   "fecha": "2026-10-20",
+   "estado": "publicado",
+   "bloque": "populares",
+   "hora": "16:32",
+   "id": "18097406027437172",
+   "enlace": "https://www.instagram.com/reel/DeulzhsDRb3/",
+   "ofertas": [
+    {
+     "id": "1841225",
+     "nombre": "VOLKER Campana Convencional 60 cm Inox",
+     "tienda": "Sodimac",
+     "ahora": 59990,
+     "antes": 109990,
+     "pct": 45,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 88,
+     "visto": "15:47"
+    },
+    {
+     "id": "1087230",
+     "nombre": "DOLCE&GABBANA Perfume Hombre EDP Dolce&Gabbana",
+     "tienda": "Falabella",
+     "ahora": 91890,
+     "antes": 159990,
+     "pct": 42,
+     "rubro": "perfumes",
+     "esMinimo": false,
+     "dias": 19,
+     "visto": "15:47"
+    },
+    {
+     "id": "1574456",
+     "nombre": "URSUS TROTTER Horno Eléctrica 38 Litros UT-BACKOFEN PRO38I",
+     "tienda": "Sodimac",
+     "ahora": 59990,
+     "antes": 99990,
+     "pct": 40,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 41,
+     "visto": "15:47"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1792524656642-r4.mp4"
+   ],
+   "texto": "🔥 3 ofertas de las más populares\n1. VOLKER Campana Convencional 60 cm Inox: $59.990 (-45%, referencia $109.990) en Sodimac · 📉 mínimo de 88 días\n2. DOLCE&GABBANA Perfume Hombre EDP Dolce&Gabbana: $91.890 (-42%, referencia $159.990) en Falabella\n3. URSUS TROTTER Horno Eléctrica 38 Litros UT-BACKOFEN PRO38I: $59.990 (-40%, referencia $99.990) en Sodimac · 📉 mínimo de 41 días\n\n⏰ Precios vistos hoy (20/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
   }
  },
  "config": {
@@ -5018,7 +5071,7 @@
    "hasta": "2026-10-20T14:02:24.670Z",
    "veces": 1
   },
-  "ultimaPub": "2026-10-20T19:16:04.747Z"
+  "ultimaPub": "2026-10-20T19:32:28.655Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-19",
