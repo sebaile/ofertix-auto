@@ -9,7 +9,7 @@
   "1063781": "2026-10-20T15:32:28.442Z",
   "1087207": "2026-10-20T19:02:52.149Z",
   "1087230": "2026-10-20T19:32:28.654Z",
-  "1087242": "2026-10-19T20:33:06.024Z",
+  "1087242": "2026-10-20T22:47:59.741Z",
   "1087642": "2026-10-20T15:03:10.269Z",
   "1110715": "2026-10-20T21:02:56.845Z",
   "1110717": "2026-10-20T19:02:52.149Z",
@@ -32,10 +32,11 @@
   "1673333": "2026-10-20T18:32:50.993Z",
   "1673340": "2026-10-19T22:47:02.921Z",
   "1695609": "2026-10-20T14:32:12.424Z",
+  "1701548": "2026-10-20T22:47:59.741Z",
   "1755063": "2026-10-18T13:17:02.803Z",
   "1780881": "2026-10-18T00:33:43.734Z",
   "1784905": "2026-10-20T14:32:12.424Z",
-  "1785375": "2026-10-19T22:17:06.885Z",
+  "1785375": "2026-10-20T22:47:59.741Z",
   "1789332": "2026-10-20T16:47:17.832Z",
   "1795903": "2026-10-20T21:33:49.555Z",
   "1827803": "2026-10-20T16:32:52.286Z",
@@ -76,7 +77,7 @@
   "marc jacobs marc jacobs perfect intense eau de parfum para mujer 50 ml": "2026-10-18T00:33:43.734Z",
   "thierry mugler perfume mujer mugler angel edp 100 ml thierry mugler": "2026-10-20T16:32:52.287Z",
   "parlante portatil aiwa aw a521 90w bluetooth negro": "2026-10-20T14:32:12.424Z",
-  "albin trotter licuadora 1 5 litros multicolor at md mischung 3": "2026-10-19T22:17:06.885Z",
+  "albin trotter licuadora 1 5 litros multicolor at md mischung 3": "2026-10-20T22:47:59.741Z",
   "scanner panasonic kv s1015c x": "2026-10-20T14:32:12.424Z",
   "benetton perfume mujer sisterland green jasmine edt 80 ml benetton": "2026-10-20T21:33:49.555Z",
   "rabanne perfume hombre one million elixir edp 200ml rabanne": "2026-10-20T19:02:52.149Z",
@@ -85,7 +86,7 @@
   "hamilton beach microondas digital 23 litros inox hb p90d23el lxa": "2026-10-20T16:02:40.340Z",
   "hamilton beach batidora de mano 290 w multicolor bp 62650 cl": "2026-10-20T18:32:50.993Z",
   "hamilton beach batidora de pedestal 3 7 l 290 kw negro 64650 cl": "2026-10-20T19:02:52.149Z",
-  "antonio banderas perfume edt hombre the icon edt 200 ml banderas": "2026-10-19T20:33:06.024Z",
+  "antonio banderas perfume edt hombre the icon edt 200 ml banderas": "2026-10-20T22:47:59.741Z",
   "hamilton beach freidora de aire 2 5 litros fe 35051 cl": "2026-10-20T21:02:56.845Z",
   "volker campana convencional 60 cm inox": "2026-10-20T19:32:28.654Z",
   "thomas chimenea electrica 2000w conveccion th fp100 madera": "2026-10-20T15:32:28.442Z",
@@ -104,7 +105,8 @@
   "ursus trotter horno electrico 80 litros ut backofen pro80i": "2026-10-20T11:02:06.791Z",
   "ursus trotter horno electrica 38 litros ut backofen pro38i": "2026-10-20T19:32:28.654Z",
   "nex ventilador suelo industrial 42 negro": "2026-10-20T22:02:48.024Z",
-  "tous tous silver edt mujer 30 ml": "2026-10-20T22:02:48.024Z"
+  "tous tous silver edt mujer 30 ml": "2026-10-20T22:02:48.024Z",
+  "thomas termoventilador electrico 2000 w th fh31 blanco": "2026-10-20T22:47:59.741Z"
  },
  "items": {
   "2026-10-17-r-carrusel-1792234939952": {
@@ -5459,6 +5461,57 @@
      "visto": "18:44"
     }
    ]
+  },
+  "2026-10-20-r-reel-1792536479741": {
+   "tipo": "reel",
+   "fecha": "2026-10-20",
+   "estado": "publicado",
+   "bloque": "recopilaciones",
+   "hora": "19:47",
+   "id": "17951073270056507",
+   "enlace": "https://www.instagram.com/reel/Deu8LgEjoBH/",
+   "ofertas": [
+    {
+     "id": "1785375",
+     "nombre": "ALBIN TROTTER Licuadora 1.5 Litros Multicolor AT-MD MISCHUNG 3",
+     "tienda": "Sodimac",
+     "ahora": 76590,
+     "antes": 154990,
+     "pct": 50,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 6,
+     "visto": "18:44"
+    },
+    {
+     "id": "1087242",
+     "nombre": "ANTONIO BANDERAS Perfume EDT Hombre The Icon EDT 200 Ml Banderas",
+     "tienda": "Falabella",
+     "ahora": 22990,
+     "antes": 38990,
+     "pct": 41,
+     "rubro": "perfumes",
+     "esMinimo": false,
+     "dias": 75,
+     "visto": "18:44"
+    },
+    {
+     "id": "1701548",
+     "nombre": "THOMAS Termoventilador Eléctrico 2000 W TH-FH31 Blanco",
+     "tienda": "Sodimac",
+     "ahora": 21990,
+     "antes": 39990,
+     "pct": 45,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 88,
+     "visto": "18:44"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1792536357152-r6.mp4"
+   ],
+   "texto": "🔥 3 ofertas las mejores del día\n1. ALBIN TROTTER Licuadora 1.5 Litros Multicolor AT-MD MISCHUNG 3: $76.590 (-50%, referencia $154.990) en Sodimac\n2. ANTONIO BANDERAS Perfume EDT Hombre The Icon EDT 200 Ml Banderas: $22.990 (-41%, referencia $38.990) en Falabella\n3. THOMAS Termoventilador Eléctrico 2000 W TH-FH31 Blanco: $21.990 (-45%, referencia $39.990) en Sodimac\n\n⏰ Precios vistos hoy (20/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
   }
  },
  "config": {
@@ -5478,7 +5531,7 @@
    "hasta": "2026-10-20T14:02:24.670Z",
    "veces": 1
   },
-  "ultimaPub": "2026-10-20T22:31:45.264Z"
+  "ultimaPub": "2026-10-20T22:47:59.742Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-19",
