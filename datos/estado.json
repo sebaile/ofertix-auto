@@ -2,7 +2,7 @@
  "offset": 44460906,
  "usadas": {
   "67319": "2026-10-19T13:17:00.341Z",
-  "824715": "2026-10-18T12:17:22.517Z",
+  "824715": "2026-10-20T18:32:50.993Z",
   "824734": "2026-10-19T20:03:00.725Z",
   "829028": "2026-10-20T16:32:52.287Z",
   "830761": "2026-10-19T20:33:06.024Z",
@@ -27,7 +27,7 @@
   "1634653": "2026-10-19T19:32:26.585Z",
   "1669911": "2026-10-20T15:03:10.269Z",
   "1673324": "2026-10-19T21:02:11.843Z",
-  "1673333": "2026-10-19T15:32:44.765Z",
+  "1673333": "2026-10-20T18:32:50.993Z",
   "1673340": "2026-10-19T22:47:02.921Z",
   "1695609": "2026-10-20T14:32:12.424Z",
   "1755063": "2026-10-18T13:17:02.803Z",
@@ -41,7 +41,7 @@
   "1840943": "2026-10-19T17:32:27.025Z",
   "1841225": "2026-10-19T17:02:22.736Z",
   "1841233": "2026-10-20T16:02:40.340Z",
-  "1841315": "2026-10-19T15:32:44.765Z",
+  "1841315": "2026-10-20T18:32:50.993Z",
   "1841316": "2026-10-19T15:32:44.765Z",
   "1848566": "2026-10-20T15:32:28.442Z",
   "1857193": "2026-10-18T12:32:20.971Z",
@@ -66,7 +66,7 @@
   "oferta mikrotik pwr line ap routeros l4 european plug type c": "2026-10-20T15:03:10.269Z",
   "rabanne perfume hombre black xs edt 100ml rabanne": "2026-10-19T21:02:11.843Z",
   "carolina herrera perfume hombre bad boy edt 50ml carolina herrera": "2026-10-19T22:47:02.921Z",
-  "nina ricci perfume mujer nina ricci nina edt 50ml nina ricci": "2026-10-19T15:32:44.765Z",
+  "nina ricci perfume mujer nina ricci nina edt 50ml nina ricci": "2026-10-20T18:32:50.993Z",
   "mikrotik mantbox 52 15s with routeros l4 license": "2026-10-20T14:32:12.424Z",
   "samsung soundtower mx t40 2 0 ch 2020": "2026-10-18T13:17:02.803Z",
   "samsung audifonos in ear sm r400nzaalta bluetooth v5 2 gray": "2026-10-20T15:03:10.269Z",
@@ -80,7 +80,7 @@
   "freidora de aire thomas th af130dv 13 l": "2026-10-19T17:32:27.025Z",
   "licuadora easyways licuadora crush n roll 1 5 l": "2026-10-20T16:32:52.287Z",
   "hamilton beach microondas digital 23 litros inox hb p90d23el lxa": "2026-10-20T16:02:40.340Z",
-  "hamilton beach batidora de mano 290 w multicolor bp 62650 cl": "2026-10-19T15:32:44.765Z",
+  "hamilton beach batidora de mano 290 w multicolor bp 62650 cl": "2026-10-20T18:32:50.993Z",
   "hamilton beach batidora de pedestal 3 7 l 290 kw negro 64650 cl": "2026-10-19T15:32:44.765Z",
   "antonio banderas perfume edt hombre the icon edt 200 ml banderas": "2026-10-19T20:33:06.024Z",
   "hamilton beach freidora de aire 2 5 litros fe 35051 cl": "2026-10-19T17:32:27.025Z",
@@ -94,7 +94,7 @@
   "nex aire acondicionado 9000btu acp09288 fcwifi": "2026-10-19T19:32:26.585Z",
   "alisador gama cp14 dual plate led gold titanio": "2026-10-20T16:32:52.287Z",
   "nex aspiradora barril limpia alfombras y tapices 1600w 20 lt": "2026-10-19T20:03:00.725Z",
-  "samsung encimera a gas 5 quemadores gris": "2026-10-18T12:17:22.517Z",
+  "samsung encimera a gas 5 quemadores gris": "2026-10-20T18:32:50.993Z",
   "xiaomi 17 ultra photography kit pro negro": "2026-10-19T11:01:57.081Z",
   "alisador gama dual plates led": "2026-10-19T11:47:36.096Z",
   "nex ventilador suelo industrial 30 negro": "2026-10-19T19:32:26.585Z",
@@ -4816,6 +4816,57 @@
      "visto": "14:38"
     }
    ]
+  },
+  "2026-10-20-r-reel-1792521170994": {
+   "tipo": "reel",
+   "fecha": "2026-10-20",
+   "estado": "publicado",
+   "bloque": "populares",
+   "hora": "15:32",
+   "id": "17933543112408763",
+   "enlace": "https://www.instagram.com/reel/Deue_LiEm3_/",
+   "ofertas": [
+    {
+     "id": "824715",
+     "nombre": "SAMSUNG Encimera a Gas 5 Quemadores Gris",
+     "tienda": "Falabella Marketplace",
+     "ahora": 199990,
+     "antes": 359990,
+     "pct": 44,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 70,
+     "visto": "14:38"
+    },
+    {
+     "id": "1673333",
+     "nombre": "NINA RICCI Perfume Mujer Nina Ricci Nina EDT 50ml Nina Ricci",
+     "tienda": "Falabella",
+     "ahora": 49990,
+     "antes": 83990,
+     "pct": 40,
+     "rubro": "perfumes",
+     "esMinimo": true,
+     "dias": 15,
+     "visto": "14:38"
+    },
+    {
+     "id": "1841315",
+     "nombre": "HAMILTON BEACH Batidora De mano 290 W Multicolor BP-62650-CL",
+     "tienda": "Sodimac",
+     "ahora": 13990,
+     "antes": 29990,
+     "pct": 53,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 39,
+     "visto": "14:38"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1792521061599-r3.mp4"
+   ],
+   "texto": "🔥 3 ofertas de las más populares\n1. SAMSUNG Encimera a Gas 5 Quemadores Gris: $199.990 (-44%, referencia $359.990) en Falabella Marketplace · 📉 mínimo de 70 días\n2. NINA RICCI Perfume Mujer Nina Ricci Nina EDT 50ml Nina Ricci: $49.990 (-40%, referencia $83.990) en Falabella · 📉 mínimo de 15 días\n3. HAMILTON BEACH Batidora De mano 290 W Multicolor BP-62650-CL: $13.990 (-53%, referencia $29.990) en Sodimac · 📉 mínimo de 39 días\n\n⏰ Precios vistos hoy (20/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
   }
  },
  "config": {
@@ -4835,7 +4886,7 @@
    "hasta": "2026-10-20T14:02:24.670Z",
    "veces": 1
   },
-  "ultimaPub": "2026-10-20T18:16:12.090Z"
+  "ultimaPub": "2026-10-20T18:32:50.994Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-19",
