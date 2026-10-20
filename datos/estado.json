@@ -11,13 +11,13 @@
   "1087230": "2026-10-20T19:32:28.654Z",
   "1087242": "2026-10-19T20:33:06.024Z",
   "1087642": "2026-10-20T15:03:10.269Z",
-  "1110715": "2026-10-19T20:03:00.725Z",
+  "1110715": "2026-10-20T21:02:56.845Z",
   "1110717": "2026-10-20T19:02:52.149Z",
-  "1118971": "2026-10-19T19:32:26.585Z",
+  "1118971": "2026-10-20T21:02:56.844Z",
   "1128340": "2026-10-20T14:32:12.424Z",
   "1131276": "2026-10-20T15:32:28.442Z",
   "1137440": "2026-10-20T15:03:10.269Z",
-  "1530831": "2026-10-19T18:03:13.034Z",
+  "1530831": "2026-10-20T21:02:56.845Z",
   "1531094": "2026-10-19T20:33:06.024Z",
   "1574456": "2026-10-20T19:32:28.654Z",
   "1576473": "2026-10-19T11:01:57.081Z",
@@ -39,7 +39,7 @@
   "1795903": "2026-10-19T20:03:00.725Z",
   "1827803": "2026-10-20T16:32:52.286Z",
   "1828224": "2026-10-20T19:02:52.149Z",
-  "1840943": "2026-10-19T17:32:27.025Z",
+  "1840943": "2026-10-20T21:02:56.845Z",
   "1841225": "2026-10-20T19:32:28.654Z",
   "1841233": "2026-10-20T16:02:40.340Z",
   "1841315": "2026-10-20T18:32:50.993Z",
@@ -53,16 +53,16 @@
  },
  "nombres": {
   "encimera a gas 5 quemadores gris": "2026-10-19T13:17:00.341Z",
-  "dolce gabbana perfume mujer light blue edt 200ml dolce gabbana": "2026-10-19T19:32:26.585Z",
+  "dolce gabbana perfume mujer light blue edt 200ml dolce gabbana": "2026-10-20T21:02:56.845Z",
   "calvin klein calvin klein ck one eau de toilette unisex 50 ml": "2026-10-20T15:32:28.442Z",
   "primus mouse inalambrico gladius boba fett": "2026-10-20T15:03:10.269Z",
-  "dolce gabbana set de tres regalos q by dolce gabbana edp": "2026-10-19T20:03:00.725Z",
+  "dolce gabbana set de tres regalos q by dolce gabbana edp": "2026-10-20T21:02:56.845Z",
   "teclado hyperx alloy core rgb 4p4f5ai hx kb5me2 la": "2026-10-20T15:32:28.442Z",
   "midea freidora de aire 4 litros mf tn40d2": "2026-10-19T20:03:00.725Z",
   "dolce gabbana perfume hombre edp dolce gabbana": "2026-10-20T19:32:28.654Z",
   "ferragamo perfume hombre red men edp 50 ml ferragamo": "2026-10-20T19:02:52.149Z",
   "karcher aspiradora corta pelos mascotas pet clean 1 4 litros": "2026-10-19T18:03:13.034Z",
-  "nespresso cafetera essenza mini negra espumador": "2026-10-19T18:03:13.034Z",
+  "nespresso cafetera essenza mini negra espumador": "2026-10-20T21:02:56.845Z",
   "fdv hervidor de vidrio crystal 1 7 lts kegs5813 gs fdv": "2026-10-19T20:33:06.024Z",
   "oferta mikrotik pwr line ap routeros l4 european plug type c": "2026-10-20T15:03:10.269Z",
   "rabanne perfume hombre black xs edt 100ml rabanne": "2026-10-19T21:02:11.843Z",
@@ -84,7 +84,7 @@
   "hamilton beach batidora de mano 290 w multicolor bp 62650 cl": "2026-10-20T18:32:50.993Z",
   "hamilton beach batidora de pedestal 3 7 l 290 kw negro 64650 cl": "2026-10-20T19:02:52.149Z",
   "antonio banderas perfume edt hombre the icon edt 200 ml banderas": "2026-10-19T20:33:06.024Z",
-  "hamilton beach freidora de aire 2 5 litros fe 35051 cl": "2026-10-19T17:32:27.025Z",
+  "hamilton beach freidora de aire 2 5 litros fe 35051 cl": "2026-10-20T21:02:56.845Z",
   "volker campana convencional 60 cm inox": "2026-10-20T19:32:28.654Z",
   "thomas chimenea electrica 2000w conveccion th fp100 madera": "2026-10-20T15:32:28.442Z",
   "karcher limpiadora de vapor karcher sc 1 multi": "2026-10-20T16:47:17.833Z",
@@ -5162,6 +5162,72 @@
      "visto": "16:41"
     }
    ]
+  },
+  "2026-10-20-r-carrusel-1792530176845": {
+   "tipo": "carrusel",
+   "fecha": "2026-10-20",
+   "estado": "publicado",
+   "bloque": "populares",
+   "formato": "top5",
+   "hora": "18:02",
+   "id": "18099344471646132",
+   "enlace": "https://www.instagram.com/p/DeuwMa_GY_S/",
+   "ofertas": [
+    {
+     "id": "1118971",
+     "nombre": "DOLCE&GABBANA Perfume Mujer Light Blue Edt 200Ml Dolce&Gabbana",
+     "tienda": "Falabella",
+     "ahora": 89990,
+     "antes": 189990,
+     "pct": 52,
+     "rubro": "perfumes",
+     "esMinimo": true,
+     "dias": 35,
+     "visto": "16:41"
+    },
+    {
+     "id": "1840943",
+     "nombre": "HAMILTON BEACH Freidora de Aire 2.5 Litros FE-35051-CL",
+     "tienda": "Sodimac",
+     "ahora": 39990,
+     "antes": 89990,
+     "pct": 55,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 39,
+     "visto": "16:41"
+    },
+    {
+     "id": "1530831",
+     "nombre": "Nespresso Cafetera Essenza Mini Negra + Espumador",
+     "tienda": "Lider",
+     "ahora": 83990,
+     "antes": 179990,
+     "pct": 53,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 89,
+     "visto": "16:41"
+    },
+    {
+     "id": "1110715",
+     "nombre": "DOLCE&GABBANA Set De Tres Regalos Q By Dolce&Gabbana Edp",
+     "tienda": "Falabella",
+     "ahora": 86190,
+     "antes": 149990,
+     "pct": 42,
+     "rubro": "perfumes",
+     "esMinimo": false,
+     "dias": 19,
+     "visto": "16:41"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1792530139362-c5-1.jpg",
+    "tmp-medios/1792530139362-c5-2.jpg",
+    "tmp-medios/1792530139362-c5-3.jpg"
+   ],
+   "texto": "🏆 Los más populares\n1. DOLCE&GABBANA Perfume Mujer Light Blue Edt 200Ml Dolce&Gabbana: $89.990 (-52%) en Falabella · 📉 mínimo de 35 días\n2. HAMILTON BEACH Freidora de Aire 2.5 Litros FE-35051-CL: $39.990 (-55%) en Sodimac\n3. Nespresso Cafetera Essenza Mini Negra + Espumador: $83.990 (-53%) en Lider\n4. DOLCE&GABBANA Set De Tres Regalos Q By Dolce&Gabbana Edp: $86.190 (-42%) en Falabella\n\n⏰ Precios vistos hoy (20/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #top5 #descuentoschile #ofertix #ahorrar"
   }
  },
  "config": {
@@ -5181,7 +5247,7 @@
    "hasta": "2026-10-20T14:02:24.670Z",
    "veces": 1
   },
-  "ultimaPub": "2026-10-20T20:46:17.106Z"
+  "ultimaPub": "2026-10-20T21:02:56.845Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-19",
