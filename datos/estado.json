@@ -5,7 +5,7 @@
   "824715": "2026-10-20T18:32:50.993Z",
   "824734": "2026-10-19T20:03:00.725Z",
   "829028": "2026-10-20T16:32:52.287Z",
-  "830761": "2026-10-19T20:33:06.024Z",
+  "830761": "2026-10-20T22:02:48.024Z",
   "1063781": "2026-10-20T15:32:28.442Z",
   "1087207": "2026-10-20T19:02:52.149Z",
   "1087230": "2026-10-20T19:32:28.654Z",
@@ -22,6 +22,7 @@
   "1574456": "2026-10-20T19:32:28.654Z",
   "1576473": "2026-10-19T11:01:57.081Z",
   "1583369": "2026-10-20T21:33:49.555Z",
+  "1592754": "2026-10-20T22:02:48.024Z",
   "1595843": "2026-10-18T12:17:22.517Z",
   "1611327": "2026-10-19T11:47:36.096Z",
   "1611333": "2026-10-20T16:32:52.287Z",
@@ -48,8 +49,9 @@
   "1857193": "2026-10-18T12:32:20.971Z",
   "1886008": "2026-10-19T14:33:02.063Z",
   "1896728": "2026-10-20T21:33:49.555Z",
-  "1898707": "2026-10-19T20:03:00.725Z",
-  "2000817": "2026-10-20T11:02:06.791Z"
+  "1898707": "2026-10-20T22:02:48.024Z",
+  "2000817": "2026-10-20T11:02:06.791Z",
+  "2007710": "2026-10-20T22:02:48.024Z"
  },
  "nombres": {
   "encimera a gas 5 quemadores gris": "2026-10-19T13:17:00.341Z",
@@ -91,16 +93,18 @@
   "karcher aspiradora a bateria vc 4 cordless": "2026-10-18T12:32:20.971Z",
   "nex ventilador suelo industrial 36 negro": "2026-10-18T12:17:22.517Z",
   "tous perfume mujer tous loveme emerald parfum 50ml": "2026-10-19T14:33:02.063Z",
-  "prada perfume de prada infusion de figue eau de parfum 100ml unisex": "2026-10-19T20:33:06.024Z",
+  "prada perfume de prada infusion de figue eau de parfum 100ml unisex": "2026-10-20T22:02:48.024Z",
   "nex aire acondicionado 9000btu acp09288 fcwifi": "2026-10-20T21:33:49.555Z",
   "alisador gama cp14 dual plate led gold titanio": "2026-10-20T16:32:52.287Z",
-  "nex aspiradora barril limpia alfombras y tapices 1600w 20 lt": "2026-10-19T20:03:00.725Z",
+  "nex aspiradora barril limpia alfombras y tapices 1600w 20 lt": "2026-10-20T22:02:48.024Z",
   "samsung encimera a gas 5 quemadores gris": "2026-10-20T18:32:50.993Z",
   "xiaomi 17 ultra photography kit pro negro": "2026-10-19T11:01:57.081Z",
   "alisador gama dual plates led": "2026-10-19T11:47:36.096Z",
   "nex ventilador suelo industrial 30 negro": "2026-10-19T19:32:26.585Z",
   "ursus trotter horno electrico 80 litros ut backofen pro80i": "2026-10-20T11:02:06.791Z",
-  "ursus trotter horno electrica 38 litros ut backofen pro38i": "2026-10-20T19:32:28.654Z"
+  "ursus trotter horno electrica 38 litros ut backofen pro38i": "2026-10-20T19:32:28.654Z",
+  "nex ventilador suelo industrial 42 negro": "2026-10-20T22:02:48.024Z",
+  "tous tous silver edt mujer 30 ml": "2026-10-20T22:02:48.024Z"
  },
  "items": {
   "2026-10-17-r-carrusel-1792234939952": {
@@ -5345,6 +5349,72 @@
      "visto": "17:50"
     }
    ]
+  },
+  "2026-10-20-r-carrusel-1792533768024": {
+   "tipo": "carrusel",
+   "fecha": "2026-10-20",
+   "estado": "publicado",
+   "bloque": "recopilaciones",
+   "formato": "top5",
+   "hora": "19:02",
+   "id": "18114094241145298",
+   "enlace": "https://www.instagram.com/p/Deu3C1kIGVK/",
+   "ofertas": [
+    {
+     "id": "1592754",
+     "nombre": "Nex Ventilador suelo industrial 42'' negro",
+     "tienda": "Easy",
+     "ahora": 149990,
+     "antes": 319990,
+     "pct": 53,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 21,
+     "visto": "17:50"
+    },
+    {
+     "id": "830761",
+     "nombre": "PRADA Perfume de Prada Infusion de Figue Eau de Parfum 100ml Unisex",
+     "tienda": "Falabella",
+     "ahora": 109790,
+     "antes": 182990,
+     "pct": 40,
+     "rubro": "perfumes",
+     "esMinimo": false,
+     "dias": 15,
+     "visto": "17:50"
+    },
+    {
+     "id": "1898707",
+     "nombre": "Nex Aspiradora barril Limpia alfombras y tapices 1600W 20 lt",
+     "tienda": "Easy",
+     "ahora": 99990,
+     "antes": 179990,
+     "pct": 44,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 12,
+     "visto": "17:50"
+    },
+    {
+     "id": "2007710",
+     "nombre": "TOUS Tous Silver EDT Mujer 30 ML",
+     "tienda": "Falabella",
+     "ahora": 20000,
+     "antes": 36990,
+     "pct": 45,
+     "rubro": "perfumes",
+     "esMinimo": false,
+     "dias": 42,
+     "visto": "17:50"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1792533729269-c6-1.jpg",
+    "tmp-medios/1792533729269-c6-2.jpg",
+    "tmp-medios/1792533729269-c6-3.jpg"
+   ],
+   "texto": "🏆 Recopilación del día\n1. Nex Ventilador suelo industrial 42'' negro: $149.990 (-53%) en Easy\n2. PRADA Perfume de Prada Infusion de Figue Eau de Parfum 100ml Unisex: $109.790 (-40%) en Falabella\n3. Nex Aspiradora barril Limpia alfombras y tapices 1600W 20 lt: $99.990 (-44%) en Easy\n4. TOUS Tous Silver EDT Mujer 30 ML: $20.000 (-45%) en Falabella\n\n⏰ Precios vistos hoy (20/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #top5 #descuentoschile #ofertix #ahorrar"
   }
  },
  "config": {
@@ -5364,7 +5434,7 @@
    "hasta": "2026-10-20T14:02:24.670Z",
    "veces": 1
   },
-  "ultimaPub": "2026-10-20T21:56:47.582Z"
+  "ultimaPub": "2026-10-20T22:02:48.024Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-19",
