@@ -34,7 +34,7 @@
   "1780881": "2026-10-18T00:33:43.734Z",
   "1784905": "2026-10-20T14:32:12.424Z",
   "1785375": "2026-10-19T22:17:06.885Z",
-  "1789332": "2026-10-19T15:02:18.743Z",
+  "1789332": "2026-10-20T16:47:17.832Z",
   "1795903": "2026-10-19T20:03:00.725Z",
   "1827803": "2026-10-20T16:32:52.286Z",
   "1828224": "2026-10-19T17:32:27.025Z",
@@ -86,7 +86,7 @@
   "hamilton beach freidora de aire 2 5 litros fe 35051 cl": "2026-10-19T17:32:27.025Z",
   "volker campana convencional 60 cm inox": "2026-10-19T17:02:22.736Z",
   "thomas chimenea electrica 2000w conveccion th fp100 madera": "2026-10-20T15:32:28.442Z",
-  "karcher limpiadora de vapor karcher sc 1 multi": "2026-10-19T15:02:18.743Z",
+  "karcher limpiadora de vapor karcher sc 1 multi": "2026-10-20T16:47:17.833Z",
   "karcher aspiradora a bateria vc 4 cordless": "2026-10-18T12:32:20.971Z",
   "nex ventilador suelo industrial 36 negro": "2026-10-18T12:17:22.517Z",
   "tous perfume mujer tous loveme emerald parfum 50ml": "2026-10-19T14:33:02.063Z",
@@ -4655,6 +4655,35 @@
     "tmp-medios/1792513863215-r2.mp4"
    ],
    "texto": "🔥 3 ofertas en comparativa: mismo tipo de producto\n1. Licuadora Easyways Licuadora Crush n' roll 1,5 L: $29.990 (-55%, referencia $66.990) en ABC · 📉 mínimo de 76 días\n2. THIERRY MUGLER Perfume Mujer Mugler Angel EDP 100 ml Thierry Mugler: $104.990 (-40%, referencia $175.990) en Falabella · 📉 mínimo de 89 días\n3. Alisador Gama Cp14 Dual Plate Led Gold Titanio: $39.990 (-50%, referencia $79.990) en Hites\n\n⏰ Precios vistos hoy (20/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
+  },
+  "2026-10-20-r-carrusel-1792514837833": {
+   "tipo": "carrusel",
+   "fecha": "2026-10-20",
+   "estado": "publicado",
+   "bloque": "comparativas",
+   "formato": "oferta",
+   "hora": "13:47",
+   "id": "18023846093714683",
+   "enlace": "https://www.instagram.com/p/DeuS8N5FFxB/",
+   "ofertas": [
+    {
+     "id": "1789332",
+     "nombre": "KARCHER Limpiadora de vapor Karcher SC 1 Multi",
+     "tienda": "Falabella Marketplace",
+     "ahora": 59990,
+     "antes": 109990,
+     "pct": 45,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 48,
+     "visto": "12:45"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1792514808506-c3-1.jpg",
+    "tmp-medios/1792514808506-c3-2.jpg"
+   ],
+   "texto": "🔥 OFERTA DEL DÍA\nKARCHER Limpiadora de vapor Karcher SC 1 Multi\nAhora: $59.990 (-45%)\nReferencia: $109.990\n🏪 Falabella Marketplace\n\n✅ Precio visto hoy a las 12:45 en nuestro sistema.\n📉 Es el precio más bajo de los últimos 48 días.\n⏰ Puede cambiar o agotarse sin aviso.\n📲 Enlace directo en Telegram: t.me/ofertixcl\n\n#ofertaschile #hogar #descuentoschile #ofertix #ofertasdeldia"
   }
  },
  "config": {
@@ -4674,7 +4703,7 @@
    "hasta": "2026-10-20T14:02:24.670Z",
    "veces": 1
   },
-  "ultimaPub": "2026-10-20T16:32:52.287Z"
+  "ultimaPub": "2026-10-20T16:47:17.833Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-19",
