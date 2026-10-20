@@ -4,7 +4,7 @@
   "67319": "2026-10-19T13:17:00.341Z",
   "824715": "2026-10-18T12:17:22.517Z",
   "824734": "2026-10-19T20:03:00.725Z",
-  "829028": "2026-10-19T13:03:06.060Z",
+  "829028": "2026-10-20T16:32:52.287Z",
   "830761": "2026-10-19T20:33:06.024Z",
   "1063781": "2026-10-20T15:32:28.442Z",
   "1087207": "2026-10-19T18:03:13.034Z",
@@ -23,7 +23,7 @@
   "1583369": "2026-10-19T18:03:13.034Z",
   "1595843": "2026-10-18T12:17:22.517Z",
   "1611327": "2026-10-19T11:47:36.096Z",
-  "1611333": "2026-10-18T11:47:43.383Z",
+  "1611333": "2026-10-20T16:32:52.287Z",
   "1634653": "2026-10-19T19:32:26.585Z",
   "1669911": "2026-10-20T15:03:10.269Z",
   "1673324": "2026-10-19T21:02:11.843Z",
@@ -36,7 +36,7 @@
   "1785375": "2026-10-19T22:17:06.885Z",
   "1789332": "2026-10-19T15:02:18.743Z",
   "1795903": "2026-10-19T20:03:00.725Z",
-  "1827803": "2026-10-19T14:33:02.063Z",
+  "1827803": "2026-10-20T16:32:52.286Z",
   "1828224": "2026-10-19T17:32:27.025Z",
   "1840943": "2026-10-19T17:32:27.025Z",
   "1841225": "2026-10-19T17:02:22.736Z",
@@ -71,14 +71,14 @@
   "samsung soundtower mx t40 2 0 ch 2020": "2026-10-18T13:17:02.803Z",
   "samsung audifonos in ear sm r400nzaalta bluetooth v5 2 gray": "2026-10-20T15:03:10.269Z",
   "marc jacobs marc jacobs perfect intense eau de parfum para mujer 50 ml": "2026-10-18T00:33:43.734Z",
-  "thierry mugler perfume mujer mugler angel edp 100 ml thierry mugler": "2026-10-19T13:03:06.060Z",
+  "thierry mugler perfume mujer mugler angel edp 100 ml thierry mugler": "2026-10-20T16:32:52.287Z",
   "parlante portatil aiwa aw a521 90w bluetooth negro": "2026-10-20T14:32:12.424Z",
   "albin trotter licuadora 1 5 litros multicolor at md mischung 3": "2026-10-19T22:17:06.885Z",
   "scanner panasonic kv s1015c x": "2026-10-20T14:32:12.424Z",
   "benetton perfume mujer sisterland green jasmine edt 80 ml benetton": "2026-10-19T20:03:00.725Z",
   "rabanne perfume hombre one million elixir edp 200ml rabanne": "2026-10-19T18:03:13.034Z",
   "freidora de aire thomas th af130dv 13 l": "2026-10-19T17:32:27.025Z",
-  "licuadora easyways licuadora crush n roll 1 5 l": "2026-10-19T14:33:02.063Z",
+  "licuadora easyways licuadora crush n roll 1 5 l": "2026-10-20T16:32:52.287Z",
   "hamilton beach microondas digital 23 litros inox hb p90d23el lxa": "2026-10-20T16:02:40.340Z",
   "hamilton beach batidora de mano 290 w multicolor bp 62650 cl": "2026-10-19T15:32:44.765Z",
   "hamilton beach batidora de pedestal 3 7 l 290 kw negro 64650 cl": "2026-10-19T15:32:44.765Z",
@@ -92,7 +92,7 @@
   "tous perfume mujer tous loveme emerald parfum 50ml": "2026-10-19T14:33:02.063Z",
   "prada perfume de prada infusion de figue eau de parfum 100ml unisex": "2026-10-19T20:33:06.024Z",
   "nex aire acondicionado 9000btu acp09288 fcwifi": "2026-10-19T19:32:26.585Z",
-  "alisador gama cp14 dual plate led gold titanio": "2026-10-18T11:47:43.383Z",
+  "alisador gama cp14 dual plate led gold titanio": "2026-10-20T16:32:52.287Z",
   "nex aspiradora barril limpia alfombras y tapices 1600w 20 lt": "2026-10-19T20:03:00.725Z",
   "samsung encimera a gas 5 quemadores gris": "2026-10-18T12:17:22.517Z",
   "xiaomi 17 ultra photography kit pro negro": "2026-10-19T11:01:57.081Z",
@@ -4604,6 +4604,57 @@
      "visto": "12:45"
     }
    ]
+  },
+  "2026-10-20-r-reel-1792513972287": {
+   "tipo": "reel",
+   "fecha": "2026-10-20",
+   "estado": "publicado",
+   "bloque": "comparativas",
+   "hora": "13:32",
+   "id": "18155139274533278",
+   "enlace": "https://www.instagram.com/reel/DeuRPxvCAg5/",
+   "ofertas": [
+    {
+     "id": "1827803",
+     "nombre": "Licuadora Easyways Licuadora Crush n' roll 1,5 L",
+     "tienda": "ABC",
+     "ahora": 29990,
+     "antes": 66990,
+     "pct": 55,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 76,
+     "visto": "12:45"
+    },
+    {
+     "id": "829028",
+     "nombre": "THIERRY MUGLER Perfume Mujer Mugler Angel EDP 100 ml Thierry Mugler",
+     "tienda": "Falabella",
+     "ahora": 104990,
+     "antes": 175990,
+     "pct": 40,
+     "rubro": "perfumes",
+     "esMinimo": true,
+     "dias": 89,
+     "visto": "12:45"
+    },
+    {
+     "id": "1611333",
+     "nombre": "Alisador Gama Cp14 Dual Plate Led Gold Titanio",
+     "tienda": "Hites",
+     "ahora": 39990,
+     "antes": 79990,
+     "pct": 50,
+     "rubro": "belleza",
+     "esMinimo": false,
+     "dias": 27,
+     "visto": "12:45"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1792513863215-r2.mp4"
+   ],
+   "texto": "🔥 3 ofertas en comparativa: mismo tipo de producto\n1. Licuadora Easyways Licuadora Crush n' roll 1,5 L: $29.990 (-55%, referencia $66.990) en ABC · 📉 mínimo de 76 días\n2. THIERRY MUGLER Perfume Mujer Mugler Angel EDP 100 ml Thierry Mugler: $104.990 (-40%, referencia $175.990) en Falabella · 📉 mínimo de 89 días\n3. Alisador Gama Cp14 Dual Plate Led Gold Titanio: $39.990 (-50%, referencia $79.990) en Hites\n\n⏰ Precios vistos hoy (20/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
   }
  },
  "config": {
@@ -4623,7 +4674,7 @@
    "hasta": "2026-10-20T14:02:24.670Z",
    "veces": 1
   },
-  "ultimaPub": "2026-10-20T16:16:01.278Z"
+  "ultimaPub": "2026-10-20T16:32:52.287Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-19",
