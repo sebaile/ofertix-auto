@@ -4867,6 +4867,28 @@
     "tmp-medios/1792521061599-r3.mp4"
    ],
    "texto": "🔥 3 ofertas de las más populares\n1. SAMSUNG Encimera a Gas 5 Quemadores Gris: $199.990 (-44%, referencia $359.990) en Falabella Marketplace · 📉 mínimo de 70 días\n2. NINA RICCI Perfume Mujer Nina Ricci Nina EDT 50ml Nina Ricci: $49.990 (-40%, referencia $83.990) en Falabella · 📉 mínimo de 15 días\n3. HAMILTON BEACH Batidora De mano 290 W Multicolor BP-62650-CL: $13.990 (-53%, referencia $29.990) en Sodimac · 📉 mínimo de 39 días\n\n⏰ Precios vistos hoy (20/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
+  },
+  "2026-10-20-r-historia-1792521923237": {
+   "tipo": "historia",
+   "fecha": "2026-10-20",
+   "estado": "publicado",
+   "bloque": "populares",
+   "hora": "15:45",
+   "id": "18125032738901671",
+   "ofertas": [
+    {
+     "id": "2000817",
+     "nombre": "URSUS TROTTER Horno Eléctrico 80 Litros UT-BACKOFEN PRO80I",
+     "tienda": "Sodimac",
+     "ahora": 99990,
+     "antes": 179990,
+     "pct": 44,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 85,
+     "visto": "14:38"
+    }
+   ]
   }
  },
  "config": {
@@ -4886,7 +4908,7 @@
    "hasta": "2026-10-20T14:02:24.670Z",
    "veces": 1
   },
-  "ultimaPub": "2026-10-20T18:32:50.994Z"
+  "ultimaPub": "2026-10-20T18:45:23.238Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-19",
@@ -4923,6 +4945,7 @@
   "1841316": "2026-10-19T16:46:14.589Z",
   "1848566": "2026-10-20T17:01:11.504Z",
   "1886008": "2026-10-19T19:16:15.214Z",
-  "1896728": "2026-10-19T21:31:33.547Z"
+  "1896728": "2026-10-19T21:31:33.547Z",
+  "2000817": "2026-10-20T18:45:23.237Z"
  }
 }
