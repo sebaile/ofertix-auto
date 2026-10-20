@@ -7,12 +7,12 @@
   "829028": "2026-10-20T16:32:52.287Z",
   "830761": "2026-10-19T20:33:06.024Z",
   "1063781": "2026-10-20T15:32:28.442Z",
-  "1087207": "2026-10-19T18:03:13.034Z",
+  "1087207": "2026-10-20T19:02:52.149Z",
   "1087230": "2026-10-19T18:03:13.034Z",
   "1087242": "2026-10-19T20:33:06.024Z",
   "1087642": "2026-10-20T15:03:10.269Z",
   "1110715": "2026-10-19T20:03:00.725Z",
-  "1110717": "2026-10-19T17:32:27.025Z",
+  "1110717": "2026-10-20T19:02:52.149Z",
   "1118971": "2026-10-19T19:32:26.585Z",
   "1128340": "2026-10-20T14:32:12.424Z",
   "1131276": "2026-10-20T15:32:28.442Z",
@@ -37,12 +37,12 @@
   "1789332": "2026-10-20T16:47:17.832Z",
   "1795903": "2026-10-19T20:03:00.725Z",
   "1827803": "2026-10-20T16:32:52.286Z",
-  "1828224": "2026-10-19T17:32:27.025Z",
+  "1828224": "2026-10-20T19:02:52.149Z",
   "1840943": "2026-10-19T17:32:27.025Z",
   "1841225": "2026-10-19T17:02:22.736Z",
   "1841233": "2026-10-20T16:02:40.340Z",
   "1841315": "2026-10-20T18:32:50.993Z",
-  "1841316": "2026-10-19T15:32:44.765Z",
+  "1841316": "2026-10-20T19:02:52.149Z",
   "1848566": "2026-10-20T15:32:28.442Z",
   "1857193": "2026-10-18T12:32:20.971Z",
   "1886008": "2026-10-19T14:33:02.063Z",
@@ -59,7 +59,7 @@
   "teclado hyperx alloy core rgb 4p4f5ai hx kb5me2 la": "2026-10-20T15:32:28.442Z",
   "midea freidora de aire 4 litros mf tn40d2": "2026-10-19T20:03:00.725Z",
   "dolce gabbana perfume hombre edp dolce gabbana": "2026-10-19T18:03:13.034Z",
-  "ferragamo perfume hombre red men edp 50 ml ferragamo": "2026-10-19T17:32:27.025Z",
+  "ferragamo perfume hombre red men edp 50 ml ferragamo": "2026-10-20T19:02:52.149Z",
   "karcher aspiradora corta pelos mascotas pet clean 1 4 litros": "2026-10-19T18:03:13.034Z",
   "nespresso cafetera essenza mini negra espumador": "2026-10-19T18:03:13.034Z",
   "fdv hervidor de vidrio crystal 1 7 lts kegs5813 gs fdv": "2026-10-19T20:33:06.024Z",
@@ -76,12 +76,12 @@
   "albin trotter licuadora 1 5 litros multicolor at md mischung 3": "2026-10-19T22:17:06.885Z",
   "scanner panasonic kv s1015c x": "2026-10-20T14:32:12.424Z",
   "benetton perfume mujer sisterland green jasmine edt 80 ml benetton": "2026-10-19T20:03:00.725Z",
-  "rabanne perfume hombre one million elixir edp 200ml rabanne": "2026-10-19T18:03:13.034Z",
-  "freidora de aire thomas th af130dv 13 l": "2026-10-19T17:32:27.025Z",
+  "rabanne perfume hombre one million elixir edp 200ml rabanne": "2026-10-20T19:02:52.149Z",
+  "freidora de aire thomas th af130dv 13 l": "2026-10-20T19:02:52.149Z",
   "licuadora easyways licuadora crush n roll 1 5 l": "2026-10-20T16:32:52.287Z",
   "hamilton beach microondas digital 23 litros inox hb p90d23el lxa": "2026-10-20T16:02:40.340Z",
   "hamilton beach batidora de mano 290 w multicolor bp 62650 cl": "2026-10-20T18:32:50.993Z",
-  "hamilton beach batidora de pedestal 3 7 l 290 kw negro 64650 cl": "2026-10-19T15:32:44.765Z",
+  "hamilton beach batidora de pedestal 3 7 l 290 kw negro 64650 cl": "2026-10-20T19:02:52.149Z",
   "antonio banderas perfume edt hombre the icon edt 200 ml banderas": "2026-10-19T20:33:06.024Z",
   "hamilton beach freidora de aire 2 5 litros fe 35051 cl": "2026-10-19T17:32:27.025Z",
   "volker campana convencional 60 cm inox": "2026-10-19T17:02:22.736Z",
@@ -4911,6 +4911,72 @@
      "visto": "14:38"
     }
    ]
+  },
+  "2026-10-20-r-carrusel-1792522972150": {
+   "tipo": "carrusel",
+   "fecha": "2026-10-20",
+   "estado": "publicado",
+   "bloque": "populares",
+   "formato": "top5",
+   "hora": "16:02",
+   "id": "18094836077550462",
+   "enlace": "https://www.instagram.com/p/Deuidt1Gc-t/",
+   "ofertas": [
+    {
+     "id": "1841316",
+     "nombre": "HAMILTON BEACH Batidora de Pedestal 3.7 l 290 kW Negro 64650-CL",
+     "tienda": "Sodimac",
+     "ahora": 29990,
+     "antes": 59990,
+     "pct": 50,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 39,
+     "visto": "14:38"
+    },
+    {
+     "id": "1110717",
+     "nombre": "FERRAGAMO Perfume Hombre Red Men Edp 50 Ml Ferragamo",
+     "tienda": "Falabella",
+     "ahora": 48590,
+     "antes": 80990,
+     "pct": 40,
+     "rubro": "perfumes",
+     "esMinimo": true,
+     "dias": 82,
+     "visto": "14:38"
+    },
+    {
+     "id": "1828224",
+     "nombre": "Freidora de Aire Thomas TH-AF130DV 13 L",
+     "tienda": "ABC",
+     "ahora": 119990,
+     "antes": 199990,
+     "pct": 40,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 55,
+     "visto": "14:38"
+    },
+    {
+     "id": "1087207",
+     "nombre": "RABANNE Perfume Hombre One Million Elixir Edp 200Ml Rabanne",
+     "tienda": "Falabella",
+     "ahora": 101990,
+     "antes": 179990,
+     "pct": 43,
+     "rubro": "perfumes",
+     "esMinimo": false,
+     "dias": 61,
+     "visto": "14:38"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1792522939641-c4-1.jpg",
+    "tmp-medios/1792522939641-c4-2.jpg",
+    "tmp-medios/1792522939641-c4-3.jpg"
+   ],
+   "texto": "🏆 Los más populares\n1. HAMILTON BEACH Batidora de Pedestal 3.7 l 290 kW Negro 64650-CL: $29.990 (-50%) en Sodimac · 📉 mínimo de 39 días\n2. FERRAGAMO Perfume Hombre Red Men Edp 50 Ml Ferragamo: $48.590 (-40%) en Falabella · 📉 mínimo de 82 días\n3. Freidora de Aire Thomas TH-AF130DV 13 L: $119.990 (-40%) en ABC · 📉 mínimo de 55 días\n4. RABANNE Perfume Hombre One Million Elixir Edp 200Ml Rabanne: $101.990 (-43%) en Falabella\n\n⏰ Precios vistos hoy (20/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #top5 #descuentoschile #ofertix #ahorrar"
   }
  },
  "config": {
@@ -4930,7 +4996,7 @@
    "hasta": "2026-10-20T14:02:24.670Z",
    "veces": 1
   },
-  "ultimaPub": "2026-10-20T18:46:26.638Z"
+  "ultimaPub": "2026-10-20T19:02:52.150Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-19",
