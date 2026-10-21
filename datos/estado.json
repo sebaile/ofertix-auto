@@ -4174,6 +4174,28 @@
      "visto": "20:46"
     }
    ]
+  },
+  "2026-10-20-r-historia-1792542206159": {
+   "tipo": "historia",
+   "fecha": "2026-10-20",
+   "estado": "publicado",
+   "bloque": "recopilaciones",
+   "hora": "21:23",
+   "id": "18156797416524600",
+   "ofertas": [
+    {
+     "id": "1898707",
+     "nombre": "Nex Aspiradora barril Limpia alfombras y tapices 1600W 20 lt",
+     "tienda": "Easy",
+     "ahora": 99990,
+     "antes": 179990,
+     "pct": 44,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 13,
+     "visto": "20:46"
+    }
+   ]
   }
  },
  "config": {
@@ -4193,7 +4215,7 @@
    "hasta": "2026-10-20T14:02:24.670Z",
    "veces": 1
   },
-  "ultimaPub": "2026-10-21T00:16:38.898Z"
+  "ultimaPub": "2026-10-21T00:23:26.160Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-19",
@@ -4234,6 +4256,7 @@
   "1848566": "2026-10-20T17:01:11.504Z",
   "1886008": "2026-10-19T19:16:15.214Z",
   "1896728": "2026-10-20T22:31:45.263Z",
+  "1898707": "2026-10-21T00:23:26.159Z",
   "2000817": "2026-10-20T18:45:23.237Z"
  }
 }
