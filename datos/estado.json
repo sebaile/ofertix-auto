@@ -4,7 +4,7 @@
   "67319": "2026-10-19T13:17:00.341Z",
   "824715": "2026-10-20T18:32:50.993Z",
   "824734": "2026-10-21T00:03:11.036Z",
-  "829028": "2026-10-20T16:32:52.287Z",
+  "829028": "2026-10-21T19:32:33.477Z",
   "830761": "2026-10-20T22:02:48.024Z",
   "1063781": "2026-10-21T18:03:01.052Z",
   "1087207": "2026-10-20T19:02:52.149Z",
@@ -16,7 +16,7 @@
   "1118971": "2026-10-20T21:02:56.844Z",
   "1128340": "2026-10-21T17:17:28.726Z",
   "1131276": "2026-10-21T18:03:01.052Z",
-  "1137440": "2026-10-20T15:03:10.269Z",
+  "1137440": "2026-10-21T19:32:33.477Z",
   "1530831": "2026-10-20T21:02:56.845Z",
   "1531094": "2026-10-21T00:03:11.036Z",
   "1574456": "2026-10-20T19:32:28.654Z",
@@ -34,7 +34,7 @@
   "1701548": "2026-10-20T22:47:59.741Z",
   "1784905": "2026-10-21T18:03:01.052Z",
   "1785375": "2026-10-20T22:47:59.741Z",
-  "1789332": "2026-10-20T16:47:17.832Z",
+  "1789332": "2026-10-21T19:32:33.477Z",
   "1795903": "2026-10-20T21:33:49.555Z",
   "1827803": "2026-10-20T16:32:52.286Z",
   "1828224": "2026-10-20T19:02:52.149Z",
@@ -70,8 +70,8 @@
   "carolina herrera perfume hombre bad boy edt 50ml carolina herrera": "2026-10-21T00:03:11.036Z",
   "nina ricci perfume mujer nina ricci nina edt 50ml nina ricci": "2026-10-20T18:32:50.993Z",
   "mikrotik mantbox 52 15s with routeros l4 license": "2026-10-21T17:17:28.726Z",
-  "samsung audifonos in ear sm r400nzaalta bluetooth v5 2 gray": "2026-10-20T15:03:10.269Z",
-  "thierry mugler perfume mujer mugler angel edp 100 ml thierry mugler": "2026-10-20T16:32:52.287Z",
+  "samsung audifonos in ear sm r400nzaalta bluetooth v5 2 gray": "2026-10-21T19:32:33.477Z",
+  "thierry mugler perfume mujer mugler angel edp 100 ml thierry mugler": "2026-10-21T19:32:33.477Z",
   "parlante portatil aiwa aw a521 90w bluetooth negro": "2026-10-21T18:03:01.052Z",
   "albin trotter licuadora 1 5 litros multicolor at md mischung 3": "2026-10-20T22:47:59.741Z",
   "scanner panasonic kv s1015c x": "2026-10-21T17:17:28.726Z",
@@ -86,7 +86,7 @@
   "hamilton beach freidora de aire 2 5 litros fe 35051 cl": "2026-10-20T21:02:56.845Z",
   "volker campana convencional 60 cm inox": "2026-10-20T19:32:28.654Z",
   "thomas chimenea electrica 2000w conveccion th fp100 madera": "2026-10-21T18:03:01.052Z",
-  "karcher limpiadora de vapor karcher sc 1 multi": "2026-10-20T16:47:17.833Z",
+  "karcher limpiadora de vapor karcher sc 1 multi": "2026-10-21T19:32:33.477Z",
   "tous perfume mujer tous loveme emerald parfum 50ml": "2026-10-19T14:33:02.063Z",
   "prada perfume de prada infusion de figue eau de parfum 100ml unisex": "2026-10-20T22:02:48.024Z",
   "nex aire acondicionado 9000btu acp09288 fcwifi": "2026-10-20T21:33:49.555Z",
@@ -4568,6 +4568,57 @@
     "tmp-medios/1792608363995-r0.mp4"
    ],
    "texto": "🔥 3 ofertas de las más populares\n1. HAMILTON BEACH Microondas Digital 23 Litros Inox HB-P90D23EL-LXA: $44.990 (-55%, referencia $99.990) en Sodimac · 📉 mínimo de 40 días\n2. KATE SPADE Kate Spade Cherie Je Taime Edp 100Ml: $49.990 (-50%, referencia $99.990) en Falabella · 📉 mínimo de 16 días\n3. Silla Ergonómica de Oficina Cougar Fusion S - Black: $84.990 (-42%, referencia $147.990) en Central Tech\n\n⏰ Precios vistos hoy (21/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
+  },
+  "2026-10-21-r-reel-1792611153477": {
+   "tipo": "reel",
+   "fecha": "2026-10-21",
+   "estado": "publicado",
+   "bloque": "populares",
+   "hora": "16:32",
+   "id": "17977231559932171",
+   "enlace": "https://www.instagram.com/reel/DexKm9TgoOs/",
+   "ofertas": [
+    {
+     "id": "1789332",
+     "nombre": "KARCHER Limpiadora de vapor Karcher SC 1 Multi",
+     "tienda": "Falabella Marketplace",
+     "ahora": 59990,
+     "antes": 109990,
+     "pct": 45,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 49,
+     "visto": "16:14"
+    },
+    {
+     "id": "829028",
+     "nombre": "THIERRY MUGLER Perfume Mujer Mugler Angel EDP 100 ml Thierry Mugler",
+     "tienda": "Falabella",
+     "ahora": 104990,
+     "antes": 175990,
+     "pct": 40,
+     "rubro": "perfumes",
+     "esMinimo": true,
+     "dias": 89,
+     "visto": "16:14"
+    },
+    {
+     "id": "1137440",
+     "nombre": "Samsung Audífonos In Ear SM-R400NZAALTA Bluetooth v5.2 Gray",
+     "tienda": "Lider",
+     "ahora": 59990,
+     "antes": 99990,
+     "pct": 40,
+     "rubro": "tecnologia",
+     "esMinimo": true,
+     "dias": 14,
+     "visto": "16:14"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1792611057553-r1.mp4"
+   ],
+   "texto": "🔥 3 ofertas de las más populares\n1. KARCHER Limpiadora de vapor Karcher SC 1 Multi: $59.990 (-45%, referencia $109.990) en Falabella Marketplace · 📉 mínimo de 49 días\n2. THIERRY MUGLER Perfume Mujer Mugler Angel EDP 100 ml Thierry Mugler: $104.990 (-40%, referencia $175.990) en Falabella · 📉 mínimo de 89 días\n3. Samsung Audífonos In Ear SM-R400NZAALTA Bluetooth v5.2 Gray: $59.990 (-40%, referencia $99.990) en Lider · 📉 mínimo de 14 días\n\n⏰ Precios vistos hoy (21/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
   }
  },
  "config": {
@@ -4587,7 +4638,7 @@
    "hasta": "2026-10-21T17:02:28.212Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-21T18:47:28.029Z"
+  "ultimaPub": "2026-10-21T19:32:33.477Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-20",
