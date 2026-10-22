@@ -55,7 +55,10 @@
   "2047247": "2026-10-22T00:02:55.741Z",
   "2047249": "2026-10-21T18:47:28.028Z",
   "2047330": "2026-10-21T23:47:33.174Z",
-  "2048020": "2026-10-21T18:47:28.028Z"
+  "2048020": "2026-10-21T18:47:28.028Z",
+  "2084101": "2026-10-22T11:32:25.982Z",
+  "2085077": "2026-10-22T11:32:25.982Z",
+  "2086478": "2026-10-22T11:32:25.982Z"
  },
  "nombres": {
   "encimera a gas 5 quemadores gris": "2026-10-19T13:17:00.341Z",
@@ -112,7 +115,10 @@
   "toyotomi horno electrico empotrado 56 litros he9silver": "2026-10-21T23:47:33.174Z",
   "tcl aire acondicionado portatil frio tcl 9000 btu": "2026-10-22T00:02:55.741Z",
   "moncler perfume moncler pour femme edp 60ml": "2026-10-22T00:02:55.741Z",
-  "toyotomi encimera gas 2 platos egi 30en": "2026-10-22T01:32:18.517Z"
+  "toyotomi encimera gas 2 platos egi 30en": "2026-10-22T01:32:18.517Z",
+  "clinique fragancia clinique happy for men 100ml": "2026-10-22T11:32:25.982Z",
+  "celular zte nubia music pop art 128gb 4gb azul rojo liberado": "2026-10-22T11:32:25.982Z",
+  "caja abierta danada reloj smartwatch lhotse tw58 black n black": "2026-10-22T11:32:25.982Z"
  },
  "items": {
   "2026-10-19-r-carrusel-1792407717082": {
@@ -4661,6 +4667,57 @@
      "visto": "07:24"
     }
    ]
+  },
+  "2026-10-22-r-reel-1792668745983": {
+   "tipo": "reel",
+   "fecha": "2026-10-22",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "hora": "08:32",
+   "id": "17938631502123922",
+   "enlace": "https://www.instagram.com/reel/Dey4dQzgWbN/",
+   "ofertas": [
+    {
+     "id": "2084101",
+     "nombre": "CLINIQUE Fragancia Clinique Happy for Men 100ml",
+     "tienda": "Falabella",
+     "ahora": 34990,
+     "antes": 98900,
+     "pct": 64,
+     "rubro": "perfumes",
+     "esMinimo": false,
+     "dias": 51,
+     "visto": "07:24"
+    },
+    {
+     "id": "2085077",
+     "nombre": "Celular ZTE nubia Music Pop Art 128GB/4GB Azul/Rojo Liberado",
+     "tienda": "PC Factory",
+     "ahora": 92790,
+     "antes": 180290,
+     "pct": 48,
+     "rubro": "tecnologia",
+     "esMinimo": false,
+     "dias": 8,
+     "visto": "07:24"
+    },
+    {
+     "id": "2086478",
+     "nombre": "CAJA ABIERTA/DAÑADA Reloj Smartwatch Lhotse TW58 Black'n Black",
+     "tienda": "SP Digital",
+     "ahora": 88820,
+     "antes": 156740,
+     "pct": 43,
+     "rubro": "otros",
+     "esMinimo": false,
+     "dias": 0,
+     "visto": "07:24"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1792668655036-r0.mp4"
+   ],
+   "texto": "🔥 3 ofertas de tecnología\n1. CLINIQUE Fragancia Clinique Happy for Men 100ml: $34.990 (-64%, referencia $98.900) en Falabella\n2. Celular ZTE nubia Music Pop Art 128GB/4GB Azul/Rojo Liberado: $92.790 (-48%, referencia $180.290) en PC Factory\n3. CAJA ABIERTA/DAÑADA Reloj Smartwatch Lhotse TW58 Black'n Black: $88.820 (-43%, referencia $156.740) en SP Digital\n\n⏰ Precios vistos hoy (22/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
   }
  },
  "config": {
@@ -4680,7 +4737,7 @@
    "hasta": "2026-10-21T17:02:28.212Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-22T11:02:35.699Z"
+  "ultimaPub": "2026-10-22T11:32:25.983Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-21",
