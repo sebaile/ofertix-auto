@@ -2,7 +2,7 @@
  "offset": 44460906,
  "usadas": {
   "824715": "2026-10-22T01:18:15.952Z",
-  "824734": "2026-10-21T00:03:11.036Z",
+  "824734": "2026-10-22T13:50:25.540Z",
   "829028": "2026-10-21T19:32:33.477Z",
   "830761": "2026-10-22T13:17:47.649Z",
   "1063781": "2026-10-21T18:03:01.052Z",
@@ -30,12 +30,12 @@
   "1673333": "2026-10-22T01:18:15.953Z",
   "1673340": "2026-10-22T00:47:50.943Z",
   "1695609": "2026-10-21T17:17:28.726Z",
-  "1701548": "2026-10-20T22:47:59.741Z",
+  "1701548": "2026-10-22T13:50:25.540Z",
   "1784905": "2026-10-21T18:03:01.052Z",
   "1785375": "2026-10-20T22:47:59.741Z",
   "1789332": "2026-10-21T19:32:33.477Z",
   "1795903": "2026-10-22T01:32:18.517Z",
-  "1827803": "2026-10-20T16:32:52.286Z",
+  "1827803": "2026-10-22T13:50:25.540Z",
   "1828224": "2026-10-20T19:02:52.149Z",
   "1840943": "2026-10-22T00:47:50.943Z",
   "1841225": "2026-10-22T00:47:50.943Z",
@@ -69,7 +69,7 @@
   "primus mouse inalambrico gladius boba fett": "2026-10-21T23:47:33.174Z",
   "dolce gabbana set de tres regalos q by dolce gabbana edp": "2026-10-22T13:03:16.230Z",
   "teclado hyperx alloy core rgb 4p4f5ai hx kb5me2 la": "2026-10-21T18:03:01.052Z",
-  "midea freidora de aire 4 litros mf tn40d2": "2026-10-21T00:03:11.036Z",
+  "midea freidora de aire 4 litros mf tn40d2": "2026-10-22T13:50:25.540Z",
   "dolce gabbana perfume hombre edp dolce gabbana": "2026-10-22T13:03:16.230Z",
   "ferragamo perfume hombre red men edp 50 ml ferragamo": "2026-10-22T01:18:15.953Z",
   "karcher aspiradora corta pelos mascotas pet clean 1 4 litros": "2026-10-20T21:33:49.555Z",
@@ -88,7 +88,7 @@
   "benetton perfume mujer sisterland green jasmine edt 80 ml benetton": "2026-10-22T01:32:18.517Z",
   "rabanne perfume hombre one million elixir edp 200ml rabanne": "2026-10-22T01:47:18.098Z",
   "freidora de aire thomas th af130dv 13 l": "2026-10-20T19:02:52.149Z",
-  "licuadora easyways licuadora crush n roll 1 5 l": "2026-10-20T16:32:52.287Z",
+  "licuadora easyways licuadora crush n roll 1 5 l": "2026-10-22T13:50:25.540Z",
   "hamilton beach microondas digital 23 litros inox hb p90d23el lxa": "2026-10-21T18:47:28.028Z",
   "hamilton beach batidora de mano 290 w multicolor bp 62650 cl": "2026-10-21T23:47:33.174Z",
   "hamilton beach batidora de pedestal 3 7 l 290 kw negro 64650 cl": "2026-10-22T00:02:55.741Z",
@@ -109,7 +109,7 @@
   "ursus trotter horno electrica 38 litros ut backofen pro38i": "2026-10-22T13:03:16.230Z",
   "nex ventilador suelo industrial 42 negro": "2026-10-22T01:32:18.517Z",
   "tous tous silver edt mujer 30 ml": "2026-10-22T00:47:50.943Z",
-  "thomas termoventilador electrico 2000 w th fh31 blanco": "2026-10-20T22:47:59.741Z",
+  "thomas termoventilador electrico 2000 w th fh31 blanco": "2026-10-22T13:50:25.540Z",
   "kate spade kate spade cherie je taime edp 100ml": "2026-10-21T18:47:28.028Z",
   "silla ergonomica de oficina cougar fusion s black": "2026-10-21T18:47:28.028Z",
   "4711 perfume unisex white peach edc 170ml 4711": "2026-10-21T23:47:33.174Z",
@@ -5014,6 +5014,57 @@
      "visto": "10:25"
     }
    ]
+  },
+  "2026-10-22-r-reel-1792677025540": {
+   "tipo": "reel",
+   "fecha": "2026-10-22",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "hora": "10:50",
+   "id": "18419585758087348",
+   "enlace": "https://www.instagram.com/reel/DezIP8Yj2WI/",
+   "ofertas": [
+    {
+     "id": "1827803",
+     "nombre": "Licuadora Easyways Licuadora Crush n' roll 1,5 L",
+     "tienda": "ABC",
+     "ahora": 34990,
+     "antes": 66990,
+     "pct": 47,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 78,
+     "visto": "10:25"
+    },
+    {
+     "id": "1701548",
+     "nombre": "THOMAS Termoventilador Eléctrico 2000 W TH-FH31 Blanco",
+     "tienda": "Sodimac",
+     "ahora": 21990,
+     "antes": 39990,
+     "pct": 45,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 89,
+     "visto": "10:25"
+    },
+    {
+     "id": "824734",
+     "nombre": "MIDEA Freidora de Aire 4 litros MF-TN40D2",
+     "tienda": "Falabella Marketplace",
+     "ahora": 39990,
+     "antes": 69990,
+     "pct": 42,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 13,
+     "visto": "10:25"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1792676933959-r2.mp4"
+   ],
+   "texto": "🔥 3 ofertas de hogar\n1. Licuadora Easyways Licuadora Crush n' roll 1,5 L: $34.990 (-47%, referencia $66.990) en ABC\n2. THOMAS Termoventilador Eléctrico 2000 W TH-FH31 Blanco: $21.990 (-45%, referencia $39.990) en Sodimac\n3. MIDEA Freidora de Aire 4 litros MF-TN40D2: $39.990 (-42%, referencia $69.990) en Falabella Marketplace\n\n⏰ Precios vistos hoy (22/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #hogar #descuentoschile #ofertix #ofertasdeldia #ahorrar"
   }
  },
  "config": {
@@ -5033,7 +5084,7 @@
    "hasta": "2026-10-21T17:02:28.212Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-22T13:48:43.906Z"
+  "ultimaPub": "2026-10-22T13:50:25.540Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-21",
