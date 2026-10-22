@@ -29,7 +29,7 @@
   "1669911": "2026-10-21T17:17:28.726Z",
   "1673324": "2026-10-21T00:03:11.036Z",
   "1673333": "2026-10-20T18:32:50.993Z",
-  "1673340": "2026-10-21T00:03:11.036Z",
+  "1673340": "2026-10-22T00:47:50.943Z",
   "1695609": "2026-10-21T17:17:28.726Z",
   "1701548": "2026-10-20T22:47:59.741Z",
   "1784905": "2026-10-21T18:03:01.052Z",
@@ -38,8 +38,8 @@
   "1795903": "2026-10-20T21:33:49.555Z",
   "1827803": "2026-10-20T16:32:52.286Z",
   "1828224": "2026-10-20T19:02:52.149Z",
-  "1840943": "2026-10-20T21:02:56.845Z",
-  "1841225": "2026-10-20T19:32:28.654Z",
+  "1840943": "2026-10-22T00:47:50.943Z",
+  "1841225": "2026-10-22T00:47:50.943Z",
   "1841233": "2026-10-21T18:47:28.028Z",
   "1841315": "2026-10-21T23:47:33.174Z",
   "1841316": "2026-10-22T00:02:55.741Z",
@@ -49,7 +49,7 @@
   "1898707": "2026-10-20T22:02:48.024Z",
   "2000806": "2026-10-21T23:47:33.174Z",
   "2000817": "2026-10-20T11:02:06.791Z",
-  "2007710": "2026-10-20T22:02:48.024Z",
+  "2007710": "2026-10-22T00:47:50.943Z",
   "2047193": "2026-10-22T00:02:55.741Z",
   "2047247": "2026-10-22T00:02:55.741Z",
   "2047249": "2026-10-21T18:47:28.028Z",
@@ -71,7 +71,7 @@
   "fdv hervidor de vidrio crystal 1 7 lts kegs5813 gs fdv": "2026-10-21T00:03:11.036Z",
   "oferta mikrotik pwr line ap routeros l4 european plug type c": "2026-10-21T17:17:28.726Z",
   "rabanne perfume hombre black xs edt 100ml rabanne": "2026-10-21T00:03:11.036Z",
-  "carolina herrera perfume hombre bad boy edt 50ml carolina herrera": "2026-10-21T00:03:11.036Z",
+  "carolina herrera perfume hombre bad boy edt 50ml carolina herrera": "2026-10-22T00:47:50.943Z",
   "nina ricci perfume mujer nina ricci nina edt 50ml nina ricci": "2026-10-20T18:32:50.993Z",
   "mikrotik mantbox 52 15s with routeros l4 license": "2026-10-21T17:17:28.726Z",
   "samsung audifonos in ear sm r400nzaalta bluetooth v5 2 gray": "2026-10-21T19:32:33.477Z",
@@ -87,8 +87,8 @@
   "hamilton beach batidora de mano 290 w multicolor bp 62650 cl": "2026-10-21T23:47:33.174Z",
   "hamilton beach batidora de pedestal 3 7 l 290 kw negro 64650 cl": "2026-10-22T00:02:55.741Z",
   "antonio banderas perfume edt hombre the icon edt 200 ml banderas": "2026-10-20T22:47:59.741Z",
-  "hamilton beach freidora de aire 2 5 litros fe 35051 cl": "2026-10-20T21:02:56.845Z",
-  "volker campana convencional 60 cm inox": "2026-10-20T19:32:28.654Z",
+  "hamilton beach freidora de aire 2 5 litros fe 35051 cl": "2026-10-22T00:47:50.943Z",
+  "volker campana convencional 60 cm inox": "2026-10-22T00:47:50.943Z",
   "thomas chimenea electrica 2000w conveccion th fp100 madera": "2026-10-21T18:03:01.052Z",
   "karcher limpiadora de vapor karcher sc 1 multi": "2026-10-21T19:32:33.477Z",
   "tous perfume mujer tous loveme emerald parfum 50ml": "2026-10-19T14:33:02.063Z",
@@ -103,7 +103,7 @@
   "ursus trotter horno electrico 80 litros ut backofen pro80i": "2026-10-20T11:02:06.791Z",
   "ursus trotter horno electrica 38 litros ut backofen pro38i": "2026-10-20T19:32:28.654Z",
   "nex ventilador suelo industrial 42 negro": "2026-10-20T22:02:48.024Z",
-  "tous tous silver edt mujer 30 ml": "2026-10-20T22:02:48.024Z",
+  "tous tous silver edt mujer 30 ml": "2026-10-22T00:47:50.943Z",
   "thomas termoventilador electrico 2000 w th fh31 blanco": "2026-10-20T22:47:59.741Z",
   "kate spade kate spade cherie je taime edp 100ml": "2026-10-21T18:47:28.028Z",
   "silla ergonomica de oficina cougar fusion s black": "2026-10-21T18:47:28.028Z",
@@ -4066,6 +4066,72 @@
      "visto": "20:09"
     }
    ]
+  },
+  "2026-10-21-r-carrusel-1792630070944": {
+   "tipo": "carrusel",
+   "fecha": "2026-10-21",
+   "estado": "publicado",
+   "bloque": "recopilaciones",
+   "formato": "top5",
+   "hora": "21:47",
+   "id": "18131684173794915",
+   "enlace": "https://www.instagram.com/p/DexuuvzGCdN/",
+   "ofertas": [
+    {
+     "id": "1840943",
+     "nombre": "HAMILTON BEACH Freidora de Aire 2.5 Litros FE-35051-CL",
+     "tienda": "Sodimac",
+     "ahora": 39990,
+     "antes": 89990,
+     "pct": 55,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 41,
+     "visto": "21:20"
+    },
+    {
+     "id": "2007710",
+     "nombre": "TOUS Tous Silver EDT Mujer 30 ML",
+     "tienda": "Falabella",
+     "ahora": 19990,
+     "antes": 34990,
+     "pct": 42,
+     "rubro": "perfumes",
+     "esMinimo": true,
+     "dias": 43,
+     "visto": "21:20"
+    },
+    {
+     "id": "1841225",
+     "nombre": "VOLKER Campana Convencional 60 cm Inox",
+     "tienda": "Sodimac",
+     "ahora": 59990,
+     "antes": 109990,
+     "pct": 45,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 78,
+     "visto": "21:20"
+    },
+    {
+     "id": "1673340",
+     "nombre": "CAROLINA HERRERA Perfume Hombre Bad Boy Edt 50Ml Carolina Herrera",
+     "tienda": "Falabella",
+     "ahora": 56990,
+     "antes": 94990,
+     "pct": 40,
+     "rubro": "perfumes",
+     "esMinimo": true,
+     "dias": 14,
+     "visto": "21:20"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1792630029790-c3-1.jpg",
+    "tmp-medios/1792630029790-c3-2.jpg",
+    "tmp-medios/1792630029790-c3-3.jpg"
+   ],
+   "texto": "🏆 Recopilación del día\n1. HAMILTON BEACH Freidora de Aire 2.5 Litros FE-35051-CL: $39.990 (-55%) en Sodimac\n2. TOUS Tous Silver EDT Mujer 30 ML: $19.990 (-42%) en Falabella · 📉 mínimo de 43 días\n3. VOLKER Campana Convencional 60 cm Inox: $59.990 (-45%) en Sodimac · 📉 mínimo de 78 días\n4. CAROLINA HERRERA Perfume Hombre Bad Boy Edt 50Ml Carolina Herrera: $56.990 (-40%) en Falabella · 📉 mínimo de 14 días\n\n⏰ Precios vistos hoy (21/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #top5 #descuentoschile #ofertix #ahorrar"
   }
  },
  "config": {
@@ -4085,7 +4151,7 @@
    "hasta": "2026-10-21T17:02:28.212Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-22T00:31:20.913Z"
+  "ultimaPub": "2026-10-22T00:47:50.944Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-21",
