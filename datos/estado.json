@@ -3927,6 +3927,28 @@
     "tmp-medios/1792627296168-r2.mp4"
    ],
    "texto": "🔥 3 ofertas las mejores del día\n1. TCL Aire Acondicionado Portátil Frio TCL 9000 BTU: $159.990 (-64%, referencia $449.990) en Falabella\n2. MONCLER Perfume Moncler Pour Femme EDP 60ML: $59.990 (-40%, referencia $99.990) en Falabella · 📉 mínimo de 79 días\n3. HAMILTON BEACH Batidora de Pedestal 3.7 l 290 kW Negro 64650-CL: $29.990 (-50%, referencia $59.990) en Sodimac · 📉 mínimo de 41 días\n\n⏰ Precios vistos hoy (21/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
+  },
+  "2026-10-21-r-historia-1792628181309": {
+   "tipo": "historia",
+   "fecha": "2026-10-21",
+   "estado": "publicado",
+   "bloque": "recopilaciones",
+   "hora": "21:16",
+   "id": "17956480836257568",
+   "ofertas": [
+    {
+     "id": "2047249",
+     "nombre": "KATE SPADE Kate Spade Cherie Je Taime Edp 100Ml",
+     "tienda": "Falabella",
+     "ahora": 49990,
+     "antes": 99990,
+     "pct": 50,
+     "rubro": "perfumes",
+     "esMinimo": true,
+     "dias": 16,
+     "visto": "20:09"
+    }
+   ]
   }
  },
  "config": {
@@ -3946,7 +3968,7 @@
    "hasta": "2026-10-21T17:02:28.212Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-22T00:02:55.742Z"
+  "ultimaPub": "2026-10-22T00:16:21.310Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-20",
@@ -3988,6 +4010,7 @@
   "1898707": "2026-10-21T00:23:26.159Z",
   "2000806": "2026-10-22T00:01:23.367Z",
   "2000817": "2026-10-20T18:45:23.237Z",
+  "2047249": "2026-10-22T00:16:21.309Z",
   "2047330": "2026-10-21T22:19:51.042Z"
  }
 }
