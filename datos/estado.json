@@ -7,7 +7,7 @@
   "829028": "2026-10-21T19:32:33.477Z",
   "830761": "2026-10-20T22:02:48.024Z",
   "1063781": "2026-10-21T18:03:01.052Z",
-  "1087207": "2026-10-20T19:02:52.149Z",
+  "1087207": "2026-10-22T01:47:18.098Z",
   "1087230": "2026-10-20T19:32:28.654Z",
   "1087242": "2026-10-20T22:47:59.741Z",
   "1087642": "2026-10-21T23:47:33.174Z",
@@ -17,7 +17,7 @@
   "1128340": "2026-10-21T17:17:28.726Z",
   "1131276": "2026-10-21T18:03:01.052Z",
   "1137440": "2026-10-21T19:32:33.477Z",
-  "1530831": "2026-10-20T21:02:56.845Z",
+  "1530831": "2026-10-22T01:47:18.098Z",
   "1531094": "2026-10-21T00:03:11.036Z",
   "1574456": "2026-10-20T19:32:28.654Z",
   "1576473": "2026-10-19T11:01:57.081Z",
@@ -45,7 +45,7 @@
   "1841316": "2026-10-22T00:02:55.741Z",
   "1848566": "2026-10-21T18:03:01.052Z",
   "1886008": "2026-10-19T14:33:02.063Z",
-  "1896728": "2026-10-20T21:33:49.555Z",
+  "1896728": "2026-10-22T01:47:18.098Z",
   "1898707": "2026-10-22T01:18:15.953Z",
   "2000511": "2026-10-22T01:32:18.517Z",
   "2000806": "2026-10-21T23:47:33.174Z",
@@ -68,7 +68,7 @@
   "dolce gabbana perfume hombre edp dolce gabbana": "2026-10-20T19:32:28.654Z",
   "ferragamo perfume hombre red men edp 50 ml ferragamo": "2026-10-22T01:18:15.953Z",
   "karcher aspiradora corta pelos mascotas pet clean 1 4 litros": "2026-10-20T21:33:49.555Z",
-  "nespresso cafetera essenza mini negra espumador": "2026-10-20T21:02:56.845Z",
+  "nespresso cafetera essenza mini negra espumador": "2026-10-22T01:47:18.098Z",
   "fdv hervidor de vidrio crystal 1 7 lts kegs5813 gs fdv": "2026-10-21T00:03:11.036Z",
   "oferta mikrotik pwr line ap routeros l4 european plug type c": "2026-10-21T17:17:28.726Z",
   "rabanne perfume hombre black xs edt 100ml rabanne": "2026-10-21T00:03:11.036Z",
@@ -81,7 +81,7 @@
   "albin trotter licuadora 1 5 litros multicolor at md mischung 3": "2026-10-20T22:47:59.741Z",
   "scanner panasonic kv s1015c x": "2026-10-21T17:17:28.726Z",
   "benetton perfume mujer sisterland green jasmine edt 80 ml benetton": "2026-10-22T01:32:18.517Z",
-  "rabanne perfume hombre one million elixir edp 200ml rabanne": "2026-10-20T19:02:52.149Z",
+  "rabanne perfume hombre one million elixir edp 200ml rabanne": "2026-10-22T01:47:18.098Z",
   "freidora de aire thomas th af130dv 13 l": "2026-10-20T19:02:52.149Z",
   "licuadora easyways licuadora crush n roll 1 5 l": "2026-10-20T16:32:52.287Z",
   "hamilton beach microondas digital 23 litros inox hb p90d23el lxa": "2026-10-21T18:47:28.028Z",
@@ -94,7 +94,7 @@
   "karcher limpiadora de vapor karcher sc 1 multi": "2026-10-21T19:32:33.477Z",
   "tous perfume mujer tous loveme emerald parfum 50ml": "2026-10-19T14:33:02.063Z",
   "prada perfume de prada infusion de figue eau de parfum 100ml unisex": "2026-10-20T22:02:48.024Z",
-  "nex aire acondicionado 9000btu acp09288 fcwifi": "2026-10-20T21:33:49.555Z",
+  "nex aire acondicionado 9000btu acp09288 fcwifi": "2026-10-22T01:47:18.098Z",
   "alisador gama cp14 dual plate led gold titanio": "2026-10-21T18:03:01.052Z",
   "nex aspiradora barril limpia alfombras y tapices 1600w 20 lt": "2026-10-22T01:18:15.953Z",
   "samsung encimera a gas 5 quemadores gris": "2026-10-22T01:18:15.953Z",
@@ -4427,6 +4427,57 @@
      "visto": "22:10"
     }
    ]
+  },
+  "2026-10-21-r-reel-1792633638099": {
+   "tipo": "reel",
+   "fecha": "2026-10-21",
+   "estado": "publicado",
+   "bloque": "recopilaciones",
+   "hora": "22:47",
+   "id": "18102694715452600",
+   "enlace": "https://www.instagram.com/reel/Dex1hV3FQt7/",
+   "ofertas": [
+    {
+     "id": "1530831",
+     "nombre": "Nespresso Cafetera Essenza Mini Negra + Espumador",
+     "tienda": "Lider",
+     "ahora": 83990,
+     "antes": 179990,
+     "pct": 53,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 76,
+     "visto": "22:10"
+    },
+    {
+     "id": "1087207",
+     "nombre": "RABANNE Perfume Hombre One Million Elixir Edp 200Ml Rabanne",
+     "tienda": "Falabella",
+     "ahora": 101990,
+     "antes": 179990,
+     "pct": 43,
+     "rubro": "perfumes",
+     "esMinimo": false,
+     "dias": 63,
+     "visto": "22:10"
+    },
+    {
+     "id": "1896728",
+     "nombre": "Nex Aire acondicionado 9000BTU ACP09288-FCWIFI",
+     "tienda": "Easy",
+     "ahora": 149990,
+     "antes": 299990,
+     "pct": 50,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 22,
+     "visto": "22:10"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1792633570373-r4.mp4"
+   ],
+   "texto": "🔥 3 ofertas las mejores del día\n1. Nespresso Cafetera Essenza Mini Negra + Espumador: $83.990 (-53%, referencia $179.990) en Lider\n2. RABANNE Perfume Hombre One Million Elixir Edp 200Ml Rabanne: $101.990 (-43%, referencia $179.990) en Falabella\n3. Nex Aire acondicionado 9000BTU ACP09288-FCWIFI: $149.990 (-50%, referencia $299.990) en Easy\n\n⏰ Precios vistos hoy (21/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
   }
  },
  "config": {
@@ -4446,7 +4497,7 @@
    "hasta": "2026-10-21T17:02:28.212Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-22T01:46:00.319Z"
+  "ultimaPub": "2026-10-22T01:47:18.099Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-21",
