@@ -20,7 +20,7 @@
   "1530831": "2026-10-22T01:47:18.098Z",
   "1531094": "2026-10-21T00:03:11.036Z",
   "1574456": "2026-10-20T19:32:28.654Z",
-  "1576473": "2026-10-19T11:01:57.081Z",
+  "1576473": "2026-10-22T11:02:14.570Z",
   "1583369": "2026-10-20T21:33:49.555Z",
   "1592754": "2026-10-22T01:32:18.517Z",
   "1611327": "2026-10-19T11:47:36.096Z",
@@ -98,7 +98,7 @@
   "alisador gama cp14 dual plate led gold titanio": "2026-10-21T18:03:01.052Z",
   "nex aspiradora barril limpia alfombras y tapices 1600w 20 lt": "2026-10-22T01:18:15.953Z",
   "samsung encimera a gas 5 quemadores gris": "2026-10-22T01:18:15.953Z",
-  "xiaomi 17 ultra photography kit pro negro": "2026-10-19T11:01:57.081Z",
+  "xiaomi 17 ultra photography kit pro negro": "2026-10-22T11:02:14.570Z",
   "alisador gama dual plates led": "2026-10-19T11:47:36.096Z",
   "nex ventilador suelo industrial 30 negro": "2026-10-19T19:32:26.585Z",
   "ursus trotter horno electrico 80 litros ut backofen pro80i": "2026-10-20T11:02:06.791Z",
@@ -4610,6 +4610,35 @@
      "visto": "22:10"
     }
    ]
+  },
+  "2026-10-22-r-carrusel-1792666934570": {
+   "tipo": "carrusel",
+   "fecha": "2026-10-22",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "formato": "oferta",
+   "hora": "08:02",
+   "id": "17903093136606484",
+   "enlace": "https://www.instagram.com/p/Dey1ClMldfj/",
+   "ofertas": [
+    {
+     "id": "1576473",
+     "nombre": "Xiaomi 17 Ultra Photography Kit Pro Negro",
+     "tienda": "Xiaomi Chile",
+     "ahora": 99990,
+     "antes": 249990,
+     "pct": 60,
+     "rubro": "tecnologia",
+     "esMinimo": true,
+     "dias": 17,
+     "visto": "07:24"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1792666901615-c0-1.jpg",
+    "tmp-medios/1792666901615-c0-2.jpg"
+   ],
+   "texto": "🔥 OFERTA NUEVA\nXiaomi 17 Ultra Photography Kit Pro Negro\nAhora: $99.990 (-60%)\nReferencia: $249.990\n🏪 Xiaomi Chile\n\n✅ Precio visto hoy a las 07:24 en nuestro sistema.\n📉 Es el precio más bajo de los últimos 17 días.\n⏰ Puede cambiar o agotarse sin aviso.\n📲 Enlace directo en Telegram: t.me/ofertixcl\n\n#ofertaschile #tecnologia #descuentoschile #ofertix #ofertasdeldia"
   }
  },
  "config": {
@@ -4629,7 +4658,7 @@
    "hasta": "2026-10-21T17:02:28.212Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-22T02:32:04.791Z"
+  "ultimaPub": "2026-10-22T11:02:14.570Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-21",
