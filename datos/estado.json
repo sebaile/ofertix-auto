@@ -4718,6 +4718,28 @@
     "tmp-medios/1792668655036-r0.mp4"
    ],
    "texto": "🔥 3 ofertas de tecnología\n1. CLINIQUE Fragancia Clinique Happy for Men 100ml: $34.990 (-64%, referencia $98.900) en Falabella\n2. Celular ZTE nubia Music Pop Art 128GB/4GB Azul/Rojo Liberado: $92.790 (-48%, referencia $180.290) en PC Factory\n3. CAJA ABIERTA/DAÑADA Reloj Smartwatch Lhotse TW58 Black'n Black: $88.820 (-43%, referencia $156.740) en SP Digital\n\n⏰ Precios vistos hoy (22/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
+  },
+  "2026-10-22-r-historia-1792668769435": {
+   "tipo": "historia",
+   "fecha": "2026-10-22",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "hora": "08:32",
+   "id": "18058791317644678",
+   "ofertas": [
+    {
+     "id": "2047330",
+     "nombre": "4711 Perfume Unisex White Peach Edc 170Ml 4711",
+     "tienda": "Falabella",
+     "ahora": 19990,
+     "antes": 49990,
+     "pct": 60,
+     "rubro": "perfumes",
+     "esMinimo": true,
+     "dias": 16,
+     "visto": "07:24"
+    }
+   ]
   }
  },
  "config": {
@@ -4737,7 +4759,7 @@
    "hasta": "2026-10-21T17:02:28.212Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-22T11:32:25.983Z"
+  "ultimaPub": "2026-10-22T11:32:49.435Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-21",
@@ -4782,6 +4804,6 @@
   "2000817": "2026-10-20T18:45:23.237Z",
   "2047193": "2026-10-22T00:16:40.465Z",
   "2047249": "2026-10-22T00:16:21.309Z",
-  "2047330": "2026-10-21T22:19:51.042Z"
+  "2047330": "2026-10-22T11:32:49.435Z"
  }
 }
