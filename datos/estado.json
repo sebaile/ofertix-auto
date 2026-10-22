@@ -17,6 +17,7 @@
   "1128340": "2026-10-21T17:17:28.726Z",
   "1131276": "2026-10-21T18:03:01.052Z",
   "1137440": "2026-10-21T19:32:33.477Z",
+  "1157052": "2026-10-22T11:47:41.554Z",
   "1530831": "2026-10-22T01:47:18.098Z",
   "1531094": "2026-10-21T00:03:11.036Z",
   "1574456": "2026-10-20T19:32:28.654Z",
@@ -56,9 +57,13 @@
   "2047249": "2026-10-21T18:47:28.028Z",
   "2047330": "2026-10-21T23:47:33.174Z",
   "2048020": "2026-10-21T18:47:28.028Z",
+  "2048291": "2026-10-22T11:47:41.554Z",
+  "2066558": "2026-10-22T11:47:41.554Z",
+  "2084002": "2026-10-22T11:47:41.554Z",
   "2084101": "2026-10-22T11:32:25.982Z",
   "2085077": "2026-10-22T11:32:25.982Z",
-  "2086478": "2026-10-22T11:32:25.982Z"
+  "2086478": "2026-10-22T11:32:25.982Z",
+  "2086682": "2026-10-22T11:47:41.554Z"
  },
  "nombres": {
   "encimera a gas 5 quemadores gris": "2026-10-19T13:17:00.341Z",
@@ -118,7 +123,12 @@
   "toyotomi encimera gas 2 platos egi 30en": "2026-10-22T01:32:18.517Z",
   "clinique fragancia clinique happy for men 100ml": "2026-10-22T11:32:25.982Z",
   "celular zte nubia music pop art 128gb 4gb azul rojo liberado": "2026-10-22T11:32:25.982Z",
-  "caja abierta danada reloj smartwatch lhotse tw58 black n black": "2026-10-22T11:32:25.982Z"
+  "caja abierta danada reloj smartwatch lhotse tw58 black n black": "2026-10-22T11:32:25.982Z",
+  "clinique fragancia clinique happy perfume spray 100 ml": "2026-10-22T11:47:41.554Z",
+  "parlante portatil oracle red bull racing rb sk410": "2026-10-22T11:47:41.554Z",
+  "ventilador para pc apnx fp2 120 pwm argb color negro": "2026-10-22T11:47:41.554Z",
+  "recco enfriador de aire 50 w blanco bl 202dlr h": "2026-10-22T11:47:41.554Z",
+  "cartier perfume mujer la panthere elixir edp 100 ml cartier": "2026-10-22T11:47:41.554Z"
  },
  "items": {
   "2026-10-19-r-carrusel-1792407717082": {
@@ -4740,6 +4750,84 @@
      "visto": "07:24"
     }
    ]
+  },
+  "2026-10-22-r-carrusel-1792669661555": {
+   "tipo": "carrusel",
+   "fecha": "2026-10-22",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "formato": "top5",
+   "hora": "08:47",
+   "id": "18158126923509609",
+   "enlace": "https://www.instagram.com/p/Dey6Ph0lt8X/",
+   "ofertas": [
+    {
+     "id": "2084002",
+     "nombre": "CLINIQUE Fragancia Clinique Happy Perfume Spray 100 ml",
+     "tienda": "Falabella",
+     "ahora": 39990,
+     "antes": 109900,
+     "pct": 63,
+     "rubro": "perfumes",
+     "esMinimo": false,
+     "dias": 51,
+     "visto": "08:21"
+    },
+    {
+     "id": "1157052",
+     "nombre": "Parlante Portátil Oracle Red Bull Racing RB-SK410",
+     "tienda": "PC Factory",
+     "ahora": 20590,
+     "antes": 51590,
+     "pct": 60,
+     "rubro": "tecnologia",
+     "esMinimo": true,
+     "dias": 65,
+     "visto": "08:21"
+    },
+    {
+     "id": "2086682",
+     "nombre": "Ventilador para PC APNX FP2-120 PWM ARGB, Color Negro",
+     "tienda": "SP Digital",
+     "ahora": 15670,
+     "antes": 31340,
+     "pct": 50,
+     "rubro": "gamer",
+     "esMinimo": false,
+     "dias": 0,
+     "visto": "08:21"
+    },
+    {
+     "id": "2066558",
+     "nombre": "RECCO Enfriador de aire 50 W Blanco BL-202DLR-H",
+     "tienda": "Sodimac",
+     "ahora": 33990,
+     "antes": 59990,
+     "pct": 43,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 41,
+     "visto": "08:21"
+    },
+    {
+     "id": "2048291",
+     "nombre": "CARTIER Perfume Mujer La Panthere Elixir EDP 100 Ml Cartier",
+     "tienda": "Falabella",
+     "ahora": 99990,
+     "antes": 167200,
+     "pct": 40,
+     "rubro": "perfumes",
+     "esMinimo": false,
+     "dias": 1,
+     "visto": "08:21"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1792669618700-c1-1.jpg",
+    "tmp-medios/1792669618700-c1-2.jpg",
+    "tmp-medios/1792669618700-c1-3.jpg"
+   ],
+   "texto": "🏆 Ofertas nuevas de hoy\n1. CLINIQUE Fragancia Clinique Happy Perfume Spray 100 ml: $39.990 (-63%) en Falabella\n2. Parlante Portátil Oracle Red Bull Racing RB-SK410: $20.590 (-60%) en PC Factory · 📉 mínimo de 65 días\n3. Ventilador para PC APNX FP2-120 PWM ARGB, Color Negro: $15.670 (-50%) en SP Digital\n4. RECCO Enfriador de aire 50 W Blanco BL-202DLR-H: $33.990 (-43%) en Sodimac\n5. CARTIER Perfume Mujer La Panthere Elixir EDP 100 Ml Cartier: $99.990 (-40%) en Falabella\n\n⏰ Precios vistos hoy (22/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #top5 #descuentoschile #ofertix #ahorrar"
   }
  },
  "config": {
@@ -4759,7 +4847,7 @@
    "hasta": "2026-10-21T17:02:28.212Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-22T11:32:49.435Z"
+  "ultimaPub": "2026-10-22T11:47:41.555Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-21",
