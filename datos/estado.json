@@ -4373,6 +4373,28 @@
     "tmp-medios/1792755073732-r0.mp4"
    ],
    "texto": "🔥 3 ofertas de tecnología\n1. RECCO Estufa eléctrica Blanco 1200 W Radiación NSB-99Y Blanco: $12.490 (-58%, referencia $29.990) en Sodimac\n2. CAROLINA HERRERA Perfume Hombre Bad Boy Edt 50Ml Carolina Herrera: $56.990 (-40%, referencia $94.990) en Falabella · 📉 mínimo de 15 días\n3. RECCO Mini Calefactor 600 W Oleoeléctrica Blanco: $15.990 (-57%, referencia $37.990) en Sodimac\n\n⏰ Precios vistos hoy (23/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
+  },
+  "2026-10-23-r-historia-1792755181090": {
+   "tipo": "historia",
+   "fecha": "2026-10-23",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "hora": "08:33",
+   "id": "18001390869032381",
+   "ofertas": [
+    {
+     "id": "1500833",
+     "nombre": "Auriculares inalámbricos JBL - Tour One M3 Smart Tx -Mocha",
+     "tienda": "NotebookStore",
+     "ahora": 195990,
+     "antes": 345990,
+     "pct": 43,
+     "rubro": "tecnologia",
+     "esMinimo": true,
+     "dias": 87,
+     "visto": "07:51"
+    }
+   ]
   }
  },
  "config": {
@@ -4392,7 +4414,7 @@
    "hasta": "2026-10-22T23:32:20.894Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-23T11:32:37.839Z"
+  "ultimaPub": "2026-10-23T11:33:01.091Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-22",
@@ -4405,6 +4427,7 @@
   "1128340": "2026-10-23T00:14:03.767Z",
   "1137440": "2026-10-22T14:02:13.480Z",
   "1157052": "2026-10-22T13:48:43.906Z",
+  "1500833": "2026-10-23T11:33:01.090Z",
   "1530831": "2026-10-22T02:16:08.218Z",
   "1576473": "2026-10-23T00:14:27.464Z",
   "1592754": "2026-10-22T02:01:47.045Z",
