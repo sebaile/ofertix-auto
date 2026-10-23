@@ -7,10 +7,10 @@
   "830761": "2026-10-22T13:17:47.649Z",
   "1063781": "2026-10-23T01:29:24.375Z",
   "1087207": "2026-10-23T14:38:34.111Z",
-  "1087230": "2026-10-22T13:03:16.230Z",
+  "1087230": "2026-10-23T15:17:32.899Z",
   "1087242": "2026-10-20T22:47:59.741Z",
   "1087642": "2026-10-23T01:29:24.375Z",
-  "1110715": "2026-10-22T13:03:16.230Z",
+  "1110715": "2026-10-23T15:17:32.899Z",
   "1110717": "2026-10-23T14:32:35.895Z",
   "1118971": "2026-10-21T23:47:33.174Z",
   "1128340": "2026-10-22T17:28:56.095Z",
@@ -19,7 +19,7 @@
   "1157052": "2026-10-22T11:47:41.554Z",
   "1500833": "2026-10-23T00:18:43.547Z",
   "1530831": "2026-10-23T14:32:35.895Z",
-  "1531094": "2026-10-21T00:03:11.036Z",
+  "1531094": "2026-10-23T15:17:32.899Z",
   "1574456": "2026-10-23T13:20:10.872Z",
   "1576473": "2026-10-22T11:02:14.570Z",
   "1583369": "2026-10-20T21:33:49.555Z",
@@ -30,7 +30,7 @@
   "1673333": "2026-10-23T14:17:22.212Z",
   "1673340": "2026-10-23T11:32:37.839Z",
   "1695609": "2026-10-22T17:28:56.096Z",
-  "1701548": "2026-10-22T13:50:25.540Z",
+  "1701548": "2026-10-23T15:17:32.899Z",
   "1784905": "2026-10-23T00:52:09.898Z",
   "1785375": "2026-10-20T22:47:59.741Z",
   "1789332": "2026-10-23T11:47:44.182Z",
@@ -71,14 +71,14 @@
   "dolce gabbana perfume mujer light blue edt 200ml dolce gabbana": "2026-10-21T23:47:33.174Z",
   "calvin klein calvin klein ck one eau de toilette unisex 50 ml": "2026-10-23T01:29:24.375Z",
   "primus mouse inalambrico gladius boba fett": "2026-10-23T01:29:24.375Z",
-  "dolce gabbana set de tres regalos q by dolce gabbana edp": "2026-10-22T13:03:16.230Z",
+  "dolce gabbana set de tres regalos q by dolce gabbana edp": "2026-10-23T15:17:32.899Z",
   "teclado hyperx alloy core rgb 4p4f5ai hx kb5me2 la": "2026-10-23T00:52:09.898Z",
   "midea freidora de aire 4 litros mf tn40d2": "2026-10-22T13:50:25.540Z",
-  "dolce gabbana perfume hombre edp dolce gabbana": "2026-10-22T13:03:16.230Z",
+  "dolce gabbana perfume hombre edp dolce gabbana": "2026-10-23T15:17:32.899Z",
   "ferragamo perfume hombre red men edp 50 ml ferragamo": "2026-10-23T14:32:35.895Z",
   "karcher aspiradora corta pelos mascotas pet clean 1 4 litros": "2026-10-20T21:33:49.555Z",
   "nespresso cafetera essenza mini negra espumador": "2026-10-23T14:32:35.895Z",
-  "fdv hervidor de vidrio crystal 1 7 lts kegs5813 gs fdv": "2026-10-21T00:03:11.036Z",
+  "fdv hervidor de vidrio crystal 1 7 lts kegs5813 gs fdv": "2026-10-23T15:17:32.899Z",
   "oferta mikrotik pwr line ap routeros l4 european plug type c": "2026-10-22T17:28:56.096Z",
   "rabanne perfume hombre black xs edt 100ml rabanne": "2026-10-21T00:03:11.036Z",
   "carolina herrera perfume hombre bad boy edt 50ml carolina herrera": "2026-10-23T11:32:37.839Z",
@@ -110,7 +110,7 @@
   "ursus trotter horno electrica 38 litros ut backofen pro38i": "2026-10-23T13:20:10.872Z",
   "nex ventilador suelo industrial 42 negro": "2026-10-23T13:20:10.872Z",
   "tous tous silver edt mujer 30 ml": "2026-10-23T02:07:03.509Z",
-  "thomas termoventilador electrico 2000 w th fh31 blanco": "2026-10-22T13:50:25.540Z",
+  "thomas termoventilador electrico 2000 w th fh31 blanco": "2026-10-23T15:17:32.899Z",
   "kate spade kate spade cherie je taime edp 100ml": "2026-10-23T00:52:09.898Z",
   "silla ergonomica de oficina cougar fusion s black": "2026-10-21T18:47:28.028Z",
   "4711 perfume unisex white peach edc 170ml 4711": "2026-10-23T00:18:43.547Z",
@@ -5118,6 +5118,72 @@
      "visto": "10:50"
     }
    ]
+  },
+  "2026-10-23-r-carrusel-1792768652900": {
+   "tipo": "carrusel",
+   "fecha": "2026-10-23",
+   "estado": "publicado",
+   "bloque": "comparativas",
+   "formato": "top5",
+   "hora": "12:17",
+   "id": "18121261357939217",
+   "enlace": "https://www.instagram.com/p/De13DZ-oD6w/",
+   "ofertas": [
+    {
+     "id": "1087230",
+     "nombre": "DOLCE&GABBANA Perfume Hombre EDP Dolce&Gabbana",
+     "tienda": "Falabella",
+     "ahora": 91890,
+     "antes": 159990,
+     "pct": 42,
+     "rubro": "perfumes",
+     "esMinimo": false,
+     "dias": 22,
+     "visto": "12:00"
+    },
+    {
+     "id": "1701548",
+     "nombre": "THOMAS Termoventilador Eléctrico 2000 W TH-FH31 Blanco",
+     "tienda": "Sodimac",
+     "ahora": 21990,
+     "antes": 39990,
+     "pct": 45,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 79,
+     "visto": "12:00"
+    },
+    {
+     "id": "1110715",
+     "nombre": "DOLCE&GABBANA Set De Tres Regalos Q By Dolce&Gabbana Edp",
+     "tienda": "Falabella",
+     "ahora": 86190,
+     "antes": 149990,
+     "pct": 42,
+     "rubro": "perfumes",
+     "esMinimo": false,
+     "dias": 22,
+     "visto": "12:00"
+    },
+    {
+     "id": "1531094",
+     "nombre": "FDV Hervidor de Vidrio Crystal 1.7 Lts KEGS5813-GS FDV",
+     "tienda": "Lider",
+     "ahora": 19990,
+     "antes": 34990,
+     "pct": 42,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 18,
+     "visto": "12:00"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1792768616055-c5-1.jpg",
+    "tmp-medios/1792768616055-c5-2.jpg",
+    "tmp-medios/1792768616055-c5-3.jpg"
+   ],
+   "texto": "🏆 Descuentos destacados\n1. DOLCE&GABBANA Perfume Hombre EDP Dolce&Gabbana: $91.890 (-42%) en Falabella\n2. THOMAS Termoventilador Eléctrico 2000 W TH-FH31 Blanco: $21.990 (-45%) en Sodimac\n3. DOLCE&GABBANA Set De Tres Regalos Q By Dolce&Gabbana Edp: $86.190 (-42%) en Falabella\n4. FDV Hervidor de Vidrio Crystal 1.7 Lts KEGS5813-GS FDV: $19.990 (-42%) en Lider\n\n⏰ Precios vistos hoy (23/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #top5 #descuentoschile #ofertix #ahorrar"
   }
  },
  "config": {
@@ -5137,7 +5203,7 @@
    "hasta": "2026-10-22T23:32:20.894Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-23T15:07:56.137Z"
+  "ultimaPub": "2026-10-23T15:17:32.900Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-22",
