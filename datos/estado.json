@@ -28,7 +28,7 @@
   "1669911": "2026-10-22T17:28:56.096Z",
   "1673324": "2026-10-21T00:03:11.036Z",
   "1673333": "2026-10-22T01:18:15.953Z",
-  "1673340": "2026-10-22T00:47:50.943Z",
+  "1673340": "2026-10-23T11:32:37.839Z",
   "1695609": "2026-10-22T17:28:56.096Z",
   "1701548": "2026-10-22T13:50:25.540Z",
   "1784905": "2026-10-23T00:52:09.898Z",
@@ -61,6 +61,8 @@
   "2085077": "2026-10-22T11:32:25.982Z",
   "2086478": "2026-10-22T11:32:25.982Z",
   "2086682": "2026-10-22T11:47:41.554Z",
+  "2103253": "2026-10-23T11:32:37.839Z",
+  "2103254": "2026-10-23T11:32:37.839Z",
   "2103256": "2026-10-23T02:07:03.509Z",
   "2132513": "2026-10-23T11:02:07.142Z"
  },
@@ -78,7 +80,7 @@
   "fdv hervidor de vidrio crystal 1 7 lts kegs5813 gs fdv": "2026-10-21T00:03:11.036Z",
   "oferta mikrotik pwr line ap routeros l4 european plug type c": "2026-10-22T17:28:56.096Z",
   "rabanne perfume hombre black xs edt 100ml rabanne": "2026-10-21T00:03:11.036Z",
-  "carolina herrera perfume hombre bad boy edt 50ml carolina herrera": "2026-10-22T00:47:50.943Z",
+  "carolina herrera perfume hombre bad boy edt 50ml carolina herrera": "2026-10-23T11:32:37.839Z",
   "nina ricci perfume mujer nina ricci nina edt 50ml nina ricci": "2026-10-22T01:18:15.953Z",
   "mikrotik mantbox 52 15s with routeros l4 license": "2026-10-22T17:28:56.096Z",
   "samsung audifonos in ear sm r400nzaalta bluetooth v5 2 gray": "2026-10-23T02:07:03.509Z",
@@ -126,7 +128,9 @@
   "auriculares inalambricos jbl tour one m3 smart tx mocha": "2026-10-23T00:18:43.547Z",
   "wurden convector conveccion qnq 101f blanco": "2026-10-23T02:07:03.509Z",
   "moncler perfume moncler pour homme edp 60ml": "2026-10-23T02:08:27.017Z",
-  "jimmy choo perfume hombre j choo man extreme 30ml": "2026-10-23T11:02:07.142Z"
+  "jimmy choo perfume hombre j choo man extreme 30ml": "2026-10-23T11:02:07.142Z",
+  "recco estufa electrica blanco 1200 w radiacion nsb 99y blanco": "2026-10-23T11:32:37.839Z",
+  "recco mini calefactor 600 w oleoelectrica blanco": "2026-10-23T11:32:37.839Z"
  },
  "items": {
   "2026-10-20-r-carrusel-1792494126791": {
@@ -4318,6 +4322,57 @@
      "visto": "07:51"
     }
    ]
+  },
+  "2026-10-23-r-reel-1792755157839": {
+   "tipo": "reel",
+   "fecha": "2026-10-23",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "hora": "08:32",
+   "id": "18131454094784266",
+   "enlace": "https://www.instagram.com/reel/De1dSRBjON9/",
+   "ofertas": [
+    {
+     "id": "2103253",
+     "nombre": "RECCO Estufa eléctrica Blanco 1200 W Radiación NSB-99Y Blanco",
+     "tienda": "Sodimac",
+     "ahora": 12490,
+     "antes": 29990,
+     "pct": 58,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 84,
+     "visto": "07:51"
+    },
+    {
+     "id": "1673340",
+     "nombre": "CAROLINA HERRERA Perfume Hombre Bad Boy Edt 50Ml Carolina Herrera",
+     "tienda": "Falabella",
+     "ahora": 56990,
+     "antes": 94990,
+     "pct": 40,
+     "rubro": "perfumes",
+     "esMinimo": true,
+     "dias": 15,
+     "visto": "07:51"
+    },
+    {
+     "id": "2103254",
+     "nombre": "RECCO Mini Calefactor 600 W Oleoeléctrica Blanco",
+     "tienda": "Sodimac",
+     "ahora": 15990,
+     "antes": 37990,
+     "pct": 57,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 68,
+     "visto": "07:51"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1792755073732-r0.mp4"
+   ],
+   "texto": "🔥 3 ofertas de tecnología\n1. RECCO Estufa eléctrica Blanco 1200 W Radiación NSB-99Y Blanco: $12.490 (-58%, referencia $29.990) en Sodimac\n2. CAROLINA HERRERA Perfume Hombre Bad Boy Edt 50Ml Carolina Herrera: $56.990 (-40%, referencia $94.990) en Falabella · 📉 mínimo de 15 días\n3. RECCO Mini Calefactor 600 W Oleoeléctrica Blanco: $15.990 (-57%, referencia $37.990) en Sodimac\n\n⏰ Precios vistos hoy (23/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
   }
  },
  "config": {
@@ -4337,7 +4392,7 @@
    "hasta": "2026-10-22T23:32:20.894Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-23T11:16:33.253Z"
+  "ultimaPub": "2026-10-23T11:32:37.839Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-22",
