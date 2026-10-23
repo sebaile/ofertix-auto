@@ -1,7 +1,7 @@
 {
  "offset": 44460906,
  "usadas": {
-  "824715": "2026-10-22T01:18:15.952Z",
+  "824715": "2026-10-23T12:17:23.191Z",
   "824734": "2026-10-22T13:50:25.540Z",
   "829028": "2026-10-23T02:07:03.509Z",
   "830761": "2026-10-22T13:17:47.649Z",
@@ -56,11 +56,11 @@
   "2048020": "2026-10-21T18:47:28.028Z",
   "2048291": "2026-10-22T11:47:41.554Z",
   "2066558": "2026-10-22T11:47:41.554Z",
-  "2084002": "2026-10-22T11:47:41.554Z",
+  "2084002": "2026-10-23T12:17:23.191Z",
   "2084101": "2026-10-23T11:47:44.182Z",
   "2085077": "2026-10-23T11:47:44.182Z",
   "2086478": "2026-10-23T11:47:44.182Z",
-  "2086682": "2026-10-22T11:47:41.554Z",
+  "2086682": "2026-10-23T12:17:23.191Z",
   "2103253": "2026-10-23T11:32:37.839Z",
   "2103254": "2026-10-23T11:32:37.839Z",
   "2103256": "2026-10-23T02:07:03.509Z",
@@ -104,7 +104,7 @@
   "nex aire acondicionado 9000btu acp09288 fcwifi": "2026-10-22T01:47:18.098Z",
   "alisador gama cp14 dual plate led gold titanio": "2026-10-23T00:52:09.898Z",
   "nex aspiradora barril limpia alfombras y tapices 1600w 20 lt": "2026-10-22T01:18:15.953Z",
-  "samsung encimera a gas 5 quemadores gris": "2026-10-22T01:18:15.953Z",
+  "samsung encimera a gas 5 quemadores gris": "2026-10-23T12:17:23.191Z",
   "xiaomi 17 ultra photography kit pro negro": "2026-10-22T11:02:14.570Z",
   "ursus trotter horno electrica 38 litros ut backofen pro38i": "2026-10-22T13:03:16.230Z",
   "nex ventilador suelo industrial 42 negro": "2026-10-22T01:32:18.517Z",
@@ -120,9 +120,9 @@
   "clinique fragancia clinique happy for men 100ml": "2026-10-23T11:47:44.182Z",
   "celular zte nubia music pop art 128gb 4gb azul rojo liberado": "2026-10-23T11:47:44.182Z",
   "caja abierta danada reloj smartwatch lhotse tw58 black n black": "2026-10-23T11:47:44.182Z",
-  "clinique fragancia clinique happy perfume spray 100 ml": "2026-10-22T11:47:41.554Z",
+  "clinique fragancia clinique happy perfume spray 100 ml": "2026-10-23T12:17:23.191Z",
   "parlante portatil oracle red bull racing rb sk410": "2026-10-22T11:47:41.554Z",
-  "ventilador para pc apnx fp2 120 pwm argb color negro": "2026-10-22T11:47:41.554Z",
+  "ventilador para pc apnx fp2 120 pwm argb color negro": "2026-10-23T12:17:23.191Z",
   "recco enfriador de aire 50 w blanco bl 202dlr h": "2026-10-22T11:47:41.554Z",
   "cartier perfume mujer la panthere elixir edp 100 ml cartier": "2026-10-22T11:47:41.554Z",
   "auriculares inalambricos jbl tour one m3 smart tx mocha": "2026-10-23T00:18:43.547Z",
@@ -4539,6 +4539,57 @@
      "visto": "07:51"
     }
    ]
+  },
+  "2026-10-23-r-reel-1792757843191": {
+   "tipo": "reel",
+   "fecha": "2026-10-23",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "hora": "09:17",
+   "id": "17912249916549351",
+   "enlace": "https://www.instagram.com/reel/De1iZtdiaDA/",
+   "ofertas": [
+    {
+     "id": "2084002",
+     "nombre": "CLINIQUE Fragancia Clinique Happy Perfume Spray 100 ml",
+     "tienda": "Falabella",
+     "ahora": 39990,
+     "antes": 109900,
+     "pct": 63,
+     "rubro": "perfumes",
+     "esMinimo": false,
+     "dias": 52,
+     "visto": "08:47"
+    },
+    {
+     "id": "2086682",
+     "nombre": "Ventilador para PC APNX FP2-120 PWM ARGB, Color Negro",
+     "tienda": "SP Digital",
+     "ahora": 15670,
+     "antes": 31340,
+     "pct": 50,
+     "rubro": "gamer",
+     "esMinimo": false,
+     "dias": 1,
+     "visto": "08:47"
+    },
+    {
+     "id": "824715",
+     "nombre": "SAMSUNG Encimera a Gas 5 Quemadores Gris",
+     "tienda": "Falabella Marketplace",
+     "ahora": 199990,
+     "antes": 359990,
+     "pct": 44,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 73,
+     "visto": "08:47"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1792757755646-r1.mp4"
+   ],
+   "texto": "🔥 3 ofertas nuevas de hoy\n1. CLINIQUE Fragancia Clinique Happy Perfume Spray 100 ml: $39.990 (-63%, referencia $109.900) en Falabella\n2. Ventilador para PC APNX FP2-120 PWM ARGB, Color Negro: $15.670 (-50%, referencia $31.340) en SP Digital\n3. SAMSUNG Encimera a Gas 5 Quemadores Gris: $199.990 (-44%, referencia $359.990) en Falabella Marketplace · 📉 mínimo de 73 días\n\n⏰ Precios vistos hoy (23/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
   }
  },
  "config": {
@@ -4558,7 +4609,7 @@
    "hasta": "2026-10-22T23:32:20.894Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-23T12:01:30.517Z"
+  "ultimaPub": "2026-10-23T12:17:23.191Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-22",
