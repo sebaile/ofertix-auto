@@ -55,7 +55,7 @@
   "2047330": "2026-10-23T00:18:43.547Z",
   "2048020": "2026-10-21T18:47:28.028Z",
   "2048291": "2026-10-22T11:47:41.554Z",
-  "2066558": "2026-10-22T11:47:41.554Z",
+  "2066558": "2026-10-23T12:32:17.321Z",
   "2084002": "2026-10-23T12:17:23.191Z",
   "2084101": "2026-10-23T11:47:44.182Z",
   "2085077": "2026-10-23T11:47:44.182Z",
@@ -123,7 +123,7 @@
   "clinique fragancia clinique happy perfume spray 100 ml": "2026-10-23T12:17:23.191Z",
   "parlante portatil oracle red bull racing rb sk410": "2026-10-22T11:47:41.554Z",
   "ventilador para pc apnx fp2 120 pwm argb color negro": "2026-10-23T12:17:23.191Z",
-  "recco enfriador de aire 50 w blanco bl 202dlr h": "2026-10-22T11:47:41.554Z",
+  "recco enfriador de aire 50 w blanco bl 202dlr h": "2026-10-23T12:32:17.321Z",
   "cartier perfume mujer la panthere elixir edp 100 ml cartier": "2026-10-22T11:47:41.554Z",
   "auriculares inalambricos jbl tour one m3 smart tx mocha": "2026-10-23T00:18:43.547Z",
   "wurden convector conveccion qnq 101f blanco": "2026-10-23T02:07:03.509Z",
@@ -4612,6 +4612,35 @@
      "visto": "08:47"
     }
    ]
+  },
+  "2026-10-23-r-carrusel-1792758737322": {
+   "tipo": "carrusel",
+   "fecha": "2026-10-23",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "formato": "oferta",
+   "hora": "09:32",
+   "id": "18140246056548471",
+   "enlace": "https://www.instagram.com/p/De1kI6loP1i/",
+   "ofertas": [
+    {
+     "id": "2066558",
+     "nombre": "RECCO Enfriador de aire 50 W Blanco BL-202DLR-H",
+     "tienda": "Sodimac",
+     "ahora": 33990,
+     "antes": 59990,
+     "pct": 43,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 42,
+     "visto": "08:47"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1792758702596-c2-1.jpg",
+    "tmp-medios/1792758702596-c2-2.jpg"
+   ],
+   "texto": "🔥 OFERTA NUEVA\nRECCO Enfriador de aire 50 W Blanco BL-202DLR-H\nAhora: $33.990 (-43%)\nReferencia: $59.990\n🏪 Sodimac\n\n✅ Precio visto hoy a las 08:47 en nuestro sistema.\n⏰ Puede cambiar o agotarse sin aviso.\n📲 Enlace directo en Telegram: t.me/ofertixcl\n\n#ofertaschile #hogar #descuentoschile #ofertix #ofertasdeldia"
   }
  },
  "config": {
@@ -4631,7 +4660,7 @@
    "hasta": "2026-10-22T23:32:20.894Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-23T12:17:43.826Z"
+  "ultimaPub": "2026-10-23T12:32:17.322Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-22",
