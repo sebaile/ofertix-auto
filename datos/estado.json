@@ -62,7 +62,8 @@
   "2085077": "2026-10-22T11:32:25.982Z",
   "2086478": "2026-10-22T11:32:25.982Z",
   "2086682": "2026-10-22T11:47:41.554Z",
-  "2103256": "2026-10-23T02:07:03.509Z"
+  "2103256": "2026-10-23T02:07:03.509Z",
+  "2132513": "2026-10-23T11:02:07.142Z"
  },
  "nombres": {
   "dolce gabbana perfume mujer light blue edt 200ml dolce gabbana": "2026-10-21T23:47:33.174Z",
@@ -126,7 +127,8 @@
   "cartier perfume mujer la panthere elixir edp 100 ml cartier": "2026-10-22T11:47:41.554Z",
   "auriculares inalambricos jbl tour one m3 smart tx mocha": "2026-10-23T00:18:43.547Z",
   "wurden convector conveccion qnq 101f blanco": "2026-10-23T02:07:03.509Z",
-  "moncler perfume moncler pour homme edp 60ml": "2026-10-23T02:08:27.017Z"
+  "moncler perfume moncler pour homme edp 60ml": "2026-10-23T02:08:27.017Z",
+  "jimmy choo perfume hombre j choo man extreme 30ml": "2026-10-23T11:02:07.142Z"
  },
  "items": {
   "2026-10-20-r-carrusel-1792494126791": {
@@ -4245,6 +4247,35 @@
      "visto": "22:40"
     }
    ]
+  },
+  "2026-10-23-r-carrusel-1792753327142": {
+   "tipo": "carrusel",
+   "fecha": "2026-10-23",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "formato": "oferta",
+   "hora": "08:02",
+   "id": "18118376047785303",
+   "enlace": "https://www.instagram.com/p/De1Z1PBFWhh/",
+   "ofertas": [
+    {
+     "id": "2132513",
+     "nombre": "JIMMY CHOO Perfume Hombre J Choo Man Extreme 30Ml",
+     "tienda": "Falabella",
+     "ahora": 32990,
+     "antes": 59990,
+     "pct": 45,
+     "rubro": "perfumes",
+     "esMinimo": true,
+     "dias": 69,
+     "visto": "06:44"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1792753303971-c0-1.jpg",
+    "tmp-medios/1792753303971-c0-2.jpg"
+   ],
+   "texto": "🔥 OFERTA NUEVA\nJIMMY CHOO Perfume Hombre J Choo Man Extreme 30Ml\nAhora: $32.990 (-45%)\nReferencia: $59.990\n🏪 Falabella\n\n✅ Precio visto hoy a las 06:44 en nuestro sistema.\n📉 Es el precio más bajo de los últimos 69 días.\n⏰ Puede cambiar o agotarse sin aviso.\n📲 Enlace directo en Telegram: t.me/ofertixcl\n\n#ofertaschile #perfumes #descuentoschile #ofertix #ofertasdeldia"
   }
  },
  "config": {
@@ -4264,7 +4295,7 @@
    "hasta": "2026-10-22T23:32:20.894Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-23T02:31:37.420Z"
+  "ultimaPub": "2026-10-23T11:02:07.142Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-22",
