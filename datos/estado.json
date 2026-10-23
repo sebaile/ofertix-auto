@@ -27,7 +27,7 @@
   "1611333": "2026-10-23T00:52:09.898Z",
   "1669911": "2026-10-22T17:28:56.096Z",
   "1673324": "2026-10-21T00:03:11.036Z",
-  "1673333": "2026-10-22T01:18:15.953Z",
+  "1673333": "2026-10-23T14:17:22.212Z",
   "1673340": "2026-10-23T11:32:37.839Z",
   "1695609": "2026-10-22T17:28:56.096Z",
   "1701548": "2026-10-22T13:50:25.540Z",
@@ -82,7 +82,7 @@
   "oferta mikrotik pwr line ap routeros l4 european plug type c": "2026-10-22T17:28:56.096Z",
   "rabanne perfume hombre black xs edt 100ml rabanne": "2026-10-21T00:03:11.036Z",
   "carolina herrera perfume hombre bad boy edt 50ml carolina herrera": "2026-10-23T11:32:37.839Z",
-  "nina ricci perfume mujer nina ricci nina edt 50ml nina ricci": "2026-10-22T01:18:15.953Z",
+  "nina ricci perfume mujer nina ricci nina edt 50ml nina ricci": "2026-10-23T14:17:22.212Z",
   "mikrotik mantbox 52 15s with routeros l4 license": "2026-10-22T17:28:56.096Z",
   "samsung audifonos in ear sm r400nzaalta bluetooth v5 2 gray": "2026-10-23T02:07:03.509Z",
   "thierry mugler perfume mujer mugler angel edp 100 ml thierry mugler": "2026-10-23T02:07:03.509Z",
@@ -4899,6 +4899,35 @@
      "visto": "10:50"
     }
    ]
+  },
+  "2026-10-23-r-carrusel-1792765042213": {
+   "tipo": "carrusel",
+   "fecha": "2026-10-23",
+   "estado": "publicado",
+   "bloque": "comparativas",
+   "formato": "oferta",
+   "hora": "11:17",
+   "id": "18116061416085823",
+   "enlace": "https://www.instagram.com/p/De1wKt9lrXk/",
+   "ofertas": [
+    {
+     "id": "1673333",
+     "nombre": "NINA RICCI Perfume Mujer Nina Ricci Nina EDT 50ml Nina Ricci",
+     "tienda": "Falabella",
+     "ahora": 49990,
+     "antes": 83990,
+     "pct": 40,
+     "rubro": "perfumes",
+     "esMinimo": true,
+     "dias": 17,
+     "visto": "10:50"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1792765008913-c4-1.jpg",
+    "tmp-medios/1792765008913-c4-2.jpg"
+   ],
+   "texto": "🔥 OFERTA DEL DÍA\nNINA RICCI Perfume Mujer Nina Ricci Nina EDT 50ml Nina Ricci\nAhora: $49.990 (-40%)\nReferencia: $83.990\n🏪 Falabella\n\n✅ Precio visto hoy a las 10:50 en nuestro sistema.\n📉 Es el precio más bajo de los últimos 17 días.\n⏰ Puede cambiar o agotarse sin aviso.\n📲 Enlace directo en Telegram: t.me/ofertixcl\n\n#ofertaschile #perfumes #descuentoschile #ofertix #ofertasdeldia"
   }
  },
  "config": {
@@ -4918,7 +4947,7 @@
    "hasta": "2026-10-22T23:32:20.894Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-23T14:16:07.469Z"
+  "ultimaPub": "2026-10-23T14:17:22.213Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-22",
