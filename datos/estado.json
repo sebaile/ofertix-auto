@@ -55,6 +55,7 @@
   "2047330": "2026-10-23T00:18:43.547Z",
   "2048020": "2026-10-21T18:47:28.028Z",
   "2048291": "2026-10-22T11:47:41.554Z",
+  "2048348": "2026-10-23T13:18:41.118Z",
   "2066558": "2026-10-23T12:32:17.321Z",
   "2084002": "2026-10-23T12:17:23.191Z",
   "2084101": "2026-10-23T11:47:44.182Z",
@@ -130,7 +131,8 @@
   "moncler perfume moncler pour homme edp 60ml": "2026-10-23T02:08:27.017Z",
   "jimmy choo perfume hombre j choo man extreme 30ml": "2026-10-23T11:02:07.142Z",
   "recco estufa electrica blanco 1200 w radiacion nsb 99y blanco": "2026-10-23T11:32:37.839Z",
-  "recco mini calefactor 600 w oleoelectrica blanco": "2026-10-23T11:32:37.839Z"
+  "recco mini calefactor 600 w oleoelectrica blanco": "2026-10-23T11:32:37.839Z",
+  "moncler perfume mujer moncler pour femme edp 100 ml": "2026-10-23T13:18:41.118Z"
  },
  "items": {
   "2026-10-20-r-carrusel-1792494126791": {
@@ -4685,6 +4687,35 @@
      "visto": "09:55"
     }
    ]
+  },
+  "2026-10-23-r-carrusel-1792761521119": {
+   "tipo": "carrusel",
+   "fecha": "2026-10-23",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "formato": "oferta",
+   "hora": "10:18",
+   "id": "17955042192339661",
+   "enlace": "https://www.instagram.com/p/De1pc-IFH0G/",
+   "ofertas": [
+    {
+     "id": "2048348",
+     "nombre": "MONCLER Perfume Mujer Moncler Pour Femme Edp 100 Ml",
+     "tienda": "Falabella",
+     "ahora": 89990,
+     "antes": 149990,
+     "pct": 40,
+     "rubro": "perfumes",
+     "esMinimo": true,
+     "dias": 80,
+     "visto": "09:55"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1792761490232-c3-1.jpg",
+    "tmp-medios/1792761490232-c3-2.jpg"
+   ],
+   "texto": "🔥 OFERTA DEL DÍA\nMONCLER Perfume Mujer Moncler Pour Femme Edp 100 Ml\nAhora: $89.990 (-40%)\nReferencia: $149.990\n🏪 Falabella\n\n✅ Precio visto hoy a las 09:55 en nuestro sistema.\n📉 Es el precio más bajo de los últimos 80 días.\n⏰ Puede cambiar o agotarse sin aviso.\n📲 Enlace directo en Telegram: t.me/ofertixcl\n\n#ofertaschile #perfumes #descuentoschile #ofertix #ofertasdeldia"
   }
  },
  "config": {
@@ -4704,7 +4735,7 @@
    "hasta": "2026-10-22T23:32:20.894Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-23T13:16:47.553Z"
+  "ultimaPub": "2026-10-23T13:18:41.119Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-22",
