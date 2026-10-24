@@ -4179,6 +4179,28 @@
     "tmp-medios/1792842416094-c1-3.jpg"
    ],
    "texto": "🏆 Ofertas nuevas de hoy\n1. RECCO Estufa eléctrica Blanco 1200 W Radiación NSB-99Y Blanco: $12.490 (-58%) en Sodimac\n2. CALVIN KLEIN Calvin Klein CK One Eau De Toilette Unisex 50 Ml: $24.990 (-52%) en Falabella · 📉 mínimo de 84 días\n3. LG Parlante Bluetooth Grab Amexlbk LG: $59.990 (-40%) en Falabella\n4. RECCO Mini Calefactor 600 W Oleoeléctrica Blanco: $15.990 (-57%) en Sodimac\n\n⏰ Precios vistos hoy (24/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #top5 #descuentoschile #ofertix #ahorrar"
+  },
+  "2026-10-24-r-historia-1792843286763": {
+   "tipo": "historia",
+   "fecha": "2026-10-24",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "hora": "09:01",
+   "id": "17913774066470455",
+   "ofertas": [
+    {
+     "id": "2132513",
+     "nombre": "JIMMY CHOO Perfume Hombre J Choo Man Extreme 30Ml",
+     "tienda": "Falabella",
+     "ahora": 32990,
+     "antes": 59990,
+     "pct": 45,
+     "rubro": "perfumes",
+     "esMinimo": true,
+     "dias": 70,
+     "visto": "08:18"
+    }
+   ]
   }
  },
  "config": {
@@ -4198,7 +4220,7 @@
    "hasta": "2026-10-24T05:01:15.121Z",
    "veces": 1
   },
-  "ultimaPub": "2026-10-24T11:47:31.249Z"
+  "ultimaPub": "2026-10-24T12:01:26.764Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-23",
@@ -4229,6 +4251,6 @@
   "2103253": "2026-10-24T01:46:29.201Z",
   "2103254": "2026-10-23T12:01:30.516Z",
   "2103256": "2026-10-24T00:46:11.832Z",
-  "2132513": "2026-10-23T11:16:33.253Z"
+  "2132513": "2026-10-24T12:01:26.763Z"
  }
 }
