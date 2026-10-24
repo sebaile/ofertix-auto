@@ -29,13 +29,13 @@
   "1673340": "2026-10-23T11:32:37.839Z",
   "1695609": "2026-10-23T18:37:53.150Z",
   "1701548": "2026-10-23T15:17:32.899Z",
-  "1784905": "2026-10-23T00:52:09.898Z",
+  "1784905": "2026-10-24T01:33:54.869Z",
   "1789332": "2026-10-23T11:47:44.182Z",
   "1795903": "2026-10-23T14:38:34.111Z",
   "1827803": "2026-10-23T14:38:34.111Z",
   "1840943": "2026-10-23T02:08:27.017Z",
   "1841225": "2026-10-23T11:47:44.182Z",
-  "1841233": "2026-10-23T00:52:09.898Z",
+  "1841233": "2026-10-24T01:33:54.869Z",
   "1841315": "2026-10-23T02:07:03.509Z",
   "1841316": "2026-10-23T02:08:27.017Z",
   "1848566": "2026-10-24T01:17:52.219Z",
@@ -47,7 +47,7 @@
   "2047193": "2026-10-23T13:20:10.872Z",
   "2047234": "2026-10-23T02:08:27.017Z",
   "2047247": "2026-10-22T00:02:55.741Z",
-  "2047249": "2026-10-23T00:52:09.898Z",
+  "2047249": "2026-10-24T01:33:54.869Z",
   "2047330": "2026-10-24T01:17:52.219Z",
   "2048020": "2026-10-21T18:47:28.028Z",
   "2048291": "2026-10-23T18:37:53.150Z",
@@ -80,12 +80,12 @@
   "mikrotik mantbox 52 15s with routeros l4 license": "2026-10-23T18:37:53.150Z",
   "samsung audifonos in ear sm r400nzaalta bluetooth v5 2 gray": "2026-10-23T02:07:03.509Z",
   "thierry mugler perfume mujer mugler angel edp 100 ml thierry mugler": "2026-10-23T02:07:03.509Z",
-  "parlante portatil aiwa aw a521 90w bluetooth negro": "2026-10-23T00:52:09.898Z",
+  "parlante portatil aiwa aw a521 90w bluetooth negro": "2026-10-24T01:33:54.869Z",
   "scanner panasonic kv s1015c x": "2026-10-22T17:28:56.096Z",
   "benetton perfume mujer sisterland green jasmine edt 80 ml benetton": "2026-10-23T14:38:34.111Z",
   "rabanne perfume hombre one million elixir edp 200ml rabanne": "2026-10-23T14:38:34.111Z",
   "licuadora easyways licuadora crush n roll 1 5 l": "2026-10-23T14:38:34.111Z",
-  "hamilton beach microondas digital 23 litros inox hb p90d23el lxa": "2026-10-23T00:52:09.898Z",
+  "hamilton beach microondas digital 23 litros inox hb p90d23el lxa": "2026-10-24T01:33:54.869Z",
   "hamilton beach batidora de mano 290 w multicolor bp 62650 cl": "2026-10-23T02:07:03.509Z",
   "hamilton beach batidora de pedestal 3 7 l 290 kw negro 64650 cl": "2026-10-23T02:08:27.017Z",
   "hamilton beach freidora de aire 2 5 litros fe 35051 cl": "2026-10-23T02:08:27.017Z",
@@ -102,7 +102,7 @@
   "nex ventilador suelo industrial 42 negro": "2026-10-23T13:20:10.872Z",
   "tous tous silver edt mujer 30 ml": "2026-10-23T02:07:03.509Z",
   "thomas termoventilador electrico 2000 w th fh31 blanco": "2026-10-23T15:17:32.899Z",
-  "kate spade kate spade cherie je taime edp 100ml": "2026-10-23T00:52:09.898Z",
+  "kate spade kate spade cherie je taime edp 100ml": "2026-10-24T01:33:54.869Z",
   "silla ergonomica de oficina cougar fusion s black": "2026-10-21T18:47:28.028Z",
   "4711 perfume unisex white peach edc 170ml 4711": "2026-10-24T01:17:52.219Z",
   "toyotomi horno electrico empotrado 56 litros he9silver": "2026-10-23T01:29:24.375Z",
@@ -3914,6 +3914,57 @@
      "visto": "22:05"
     }
    ]
+  },
+  "2026-10-23-r-reel-1792805634869": {
+   "tipo": "reel",
+   "fecha": "2026-10-23",
+   "estado": "publicado",
+   "bloque": "recopilaciones",
+   "hora": "22:33",
+   "id": "18641051410048729",
+   "enlace": "https://www.instagram.com/reel/De29kS0AWe6/",
+   "ofertas": [
+    {
+     "id": "1841233",
+     "nombre": "HAMILTON BEACH Microondas Digital 23 Litros Inox HB-P90D23EL-LXA",
+     "tienda": "Sodimac",
+     "ahora": 44990,
+     "antes": 99990,
+     "pct": 55,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 43,
+     "visto": "22:05"
+    },
+    {
+     "id": "2047249",
+     "nombre": "KATE SPADE Kate Spade Cherie Je Taime Edp 100Ml",
+     "tienda": "Falabella",
+     "ahora": 49990,
+     "antes": 99990,
+     "pct": 50,
+     "rubro": "perfumes",
+     "esMinimo": true,
+     "dias": 18,
+     "visto": "22:05"
+    },
+    {
+     "id": "1784905",
+     "nombre": "Parlante Portátil Aiwa AW-A521 90W Bluetooth Negro",
+     "tienda": "ABC",
+     "ahora": 74990,
+     "antes": 149990,
+     "pct": 50,
+     "rubro": "tecnologia",
+     "esMinimo": false,
+     "dias": 23,
+     "visto": "22:05"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1792805510368-r6.mp4"
+   ],
+   "texto": "🔥 3 ofertas las mejores del día\n1. HAMILTON BEACH Microondas Digital 23 Litros Inox HB-P90D23EL-LXA: $44.990 (-55%, referencia $99.990) en Sodimac · 📉 mínimo de 43 días\n2. KATE SPADE Kate Spade Cherie Je Taime Edp 100Ml: $49.990 (-50%, referencia $99.990) en Falabella · 📉 mínimo de 18 días\n3. Parlante Portátil Aiwa AW-A521 90W Bluetooth Negro: $74.990 (-50%, referencia $149.990) en ABC\n\n⏰ Precios vistos hoy (23/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
   }
  },
  "config": {
@@ -3933,7 +3984,7 @@
    "hasta": "2026-10-24T00:38:49.455Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-24T01:31:40.293Z"
+  "ultimaPub": "2026-10-24T01:33:54.870Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-23",
