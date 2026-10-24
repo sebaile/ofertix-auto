@@ -4201,6 +4201,28 @@
      "visto": "08:18"
     }
    ]
+  },
+  "2026-10-24-r-historia-1792844165936": {
+   "tipo": "historia",
+   "fecha": "2026-10-24",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "hora": "09:16",
+   "id": "18144222367590372",
+   "ofertas": [
+    {
+     "id": "1087642",
+     "nombre": "PRIMUS Mouse inalámbrico Gladius Boba Fett",
+     "tienda": "Falabella Marketplace",
+     "ahora": 22990,
+     "antes": 39990,
+     "pct": 42,
+     "rubro": "tecnologia",
+     "esMinimo": true,
+     "dias": 84,
+     "visto": "08:18"
+    }
+   ]
   }
  },
  "config": {
@@ -4220,14 +4242,14 @@
    "hasta": "2026-10-24T05:01:15.121Z",
    "veces": 1
   },
-  "ultimaPub": "2026-10-24T12:01:26.764Z"
+  "ultimaPub": "2026-10-24T12:16:05.937Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-23",
  "usadasH": {
   "824715": "2026-10-24T01:16:03.423Z",
   "1063781": "2026-10-23T15:07:56.137Z",
-  "1087642": "2026-10-23T13:16:47.553Z",
+  "1087642": "2026-10-24T12:16:05.936Z",
   "1128340": "2026-10-23T12:17:43.826Z",
   "1137440": "2026-10-23T13:45:57.550Z",
   "1157052": "2026-10-22T13:48:43.906Z",
