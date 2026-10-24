@@ -8,7 +8,7 @@
   "1063781": "2026-10-23T01:29:24.375Z",
   "1087207": "2026-10-23T14:38:34.111Z",
   "1087230": "2026-10-23T15:17:32.899Z",
-  "1087642": "2026-10-23T01:29:24.375Z",
+  "1087642": "2026-10-24T11:01:58.543Z",
   "1110715": "2026-10-23T15:17:32.899Z",
   "1110717": "2026-10-23T14:32:35.895Z",
   "1118971": "2026-10-21T23:47:33.174Z",
@@ -66,7 +66,7 @@
  "nombres": {
   "dolce gabbana perfume mujer light blue edt 200ml dolce gabbana": "2026-10-21T23:47:33.174Z",
   "calvin klein calvin klein ck one eau de toilette unisex 50 ml": "2026-10-23T01:29:24.375Z",
-  "primus mouse inalambrico gladius boba fett": "2026-10-23T01:29:24.375Z",
+  "primus mouse inalambrico gladius boba fett": "2026-10-24T11:01:58.543Z",
   "dolce gabbana set de tres regalos q by dolce gabbana edp": "2026-10-23T15:17:32.899Z",
   "teclado hyperx alloy core rgb 4p4f5ai hx kb5me2 la": "2026-10-24T01:17:52.219Z",
   "midea freidora de aire 4 litros mf tn40d2": "2026-10-22T13:50:25.540Z",
@@ -4009,6 +4009,35 @@
      "visto": "22:05"
     }
    ]
+  },
+  "2026-10-24-r-carrusel-1792839718543": {
+   "tipo": "carrusel",
+   "fecha": "2026-10-24",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "formato": "oferta",
+   "hora": "08:01",
+   "id": "18137849332728680",
+   "enlace": "https://www.instagram.com/p/De3-mVPkUH8/",
+   "ofertas": [
+    {
+     "id": "1087642",
+     "nombre": "PRIMUS Mouse inalámbrico Gladius Boba Fett",
+     "tienda": "Falabella Marketplace",
+     "ahora": 22990,
+     "antes": 39990,
+     "pct": 42,
+     "rubro": "tecnologia",
+     "esMinimo": true,
+     "dias": 84,
+     "visto": "07:10"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1792839689924-c0-1.jpg",
+    "tmp-medios/1792839689924-c0-2.jpg"
+   ],
+   "texto": "🔥 OFERTA NUEVA\nPRIMUS Mouse inalámbrico Gladius Boba Fett\nAhora: $22.990 (-42%)\nReferencia: $39.990\n🏪 Falabella Marketplace\n\n✅ Precio visto hoy a las 07:10 en nuestro sistema.\n📉 Es el precio más bajo de los últimos 84 días.\n⏰ Puede cambiar o agotarse sin aviso.\n📲 Enlace directo en Telegram: t.me/ofertixcl\n\n#ofertaschile #tecnologia #descuentoschile #ofertix #ofertasdeldia"
   }
  },
  "config": {
@@ -4028,7 +4057,7 @@
    "hasta": "2026-10-24T05:01:15.121Z",
    "veces": 1
   },
-  "ultimaPub": "2026-10-24T01:46:29.201Z"
+  "ultimaPub": "2026-10-24T11:01:58.543Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-23",
