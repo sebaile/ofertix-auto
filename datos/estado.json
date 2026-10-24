@@ -5256,6 +5256,28 @@
     "tmp-medios/1792873866823-r6.mp4"
    ],
    "texto": "🔥 3 ofertas de las más populares\n1. FDV Hervidor de Vidrio Crystal 1.7 Lts KEGS5813-GS FDV: $19.990 (-42%, referencia $34.990) en Lider\n2. FERRAGAMO Perfume Hombre Red Men Edp 50 Ml Ferragamo: $48.590 (-40%, referencia $80.990) en Falabella · 📉 mínimo de 86 días\n3. RABANNE Perfume Hombre One Million Elixir Edp 200Ml Rabanne: $101.990 (-43%, referencia $179.990) en Falabella\n\n⏰ Precios vistos hoy (24/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
+  },
+  "2026-10-24-r-historia-1792874766270": {
+   "tipo": "historia",
+   "fecha": "2026-10-24",
+   "estado": "publicado",
+   "bloque": "populares",
+   "hora": "17:46",
+   "id": "17950878294325697",
+   "ofertas": [
+    {
+     "id": "2047234",
+     "nombre": "MONCLER Perfume Moncler Pour Homme EDP 60ML",
+     "tienda": "Falabella",
+     "ahora": 59990,
+     "antes": 99990,
+     "pct": 40,
+     "rubro": "perfumes",
+     "esMinimo": true,
+     "dias": 81,
+     "visto": "17:19"
+    }
+   ]
   }
  },
  "config": {
@@ -5275,7 +5297,7 @@
    "hasta": "2026-10-24T05:01:15.121Z",
    "veces": 1
   },
-  "ultimaPub": "2026-10-24T20:32:35.146Z"
+  "ultimaPub": "2026-10-24T20:46:06.270Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-23",
@@ -5302,6 +5324,7 @@
   "2007710": "2026-10-24T19:16:10.787Z",
   "2047193": "2026-10-24T18:31:28.261Z",
   "2047194": "2026-10-24T18:46:03.274Z",
+  "2047234": "2026-10-24T20:46:06.270Z",
   "2047247": "2026-10-24T20:16:30.161Z",
   "2047249": "2026-10-24T17:10:44.070Z",
   "2047330": "2026-10-24T16:29:17.398Z",
