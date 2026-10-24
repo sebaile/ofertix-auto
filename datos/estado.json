@@ -4347,6 +4347,28 @@
     "tmp-medios/1792847815537-c2-2.jpg"
    ],
    "texto": "🔥 OFERTA NUEVA\nVOLKER Campana Convencional 60 cm Inox\nAhora: $59.990 (-45%)\nReferencia: $109.990\n🏪 Sodimac\n\n✅ Precio visto hoy a las 09:12 en nuestro sistema.\n📉 Es el precio más bajo de los últimos 81 días.\n⏰ Puede cambiar o agotarse sin aviso.\n📲 Enlace directo en Telegram: t.me/ofertixcl\n\n#ofertaschile #hogar #descuentoschile #ofertix #ofertasdeldia"
+  },
+  "2026-10-24-r-historia-1792848686186": {
+   "tipo": "historia",
+   "fecha": "2026-10-24",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "hora": "10:31",
+   "id": "18117056125821728",
+   "ofertas": [
+    {
+     "id": "2103256",
+     "nombre": "WURDEN Convector Convección QNQ-101F Blanco",
+     "tienda": "Sodimac",
+     "ahora": 44990,
+     "antes": 89990,
+     "pct": 50,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 86,
+     "visto": "09:12"
+    }
+   ]
   }
  },
  "config": {
@@ -4366,7 +4388,7 @@
    "hasta": "2026-10-24T05:01:15.121Z",
    "veces": 1
   },
-  "ultimaPub": "2026-10-24T13:17:25.449Z"
+  "ultimaPub": "2026-10-24T13:31:26.186Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-23",
@@ -4396,7 +4418,7 @@
   "2085077": "2026-10-23T11:02:28.117Z",
   "2103253": "2026-10-24T01:46:29.201Z",
   "2103254": "2026-10-24T12:31:37.448Z",
-  "2103256": "2026-10-24T00:46:11.832Z",
+  "2103256": "2026-10-24T13:31:26.186Z",
   "2132513": "2026-10-24T12:01:26.763Z"
  }
 }
