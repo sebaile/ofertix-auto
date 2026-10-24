@@ -35,7 +35,7 @@
   "1795903": "2026-10-23T14:38:34.111Z",
   "1827803": "2026-10-23T14:38:34.111Z",
   "1840943": "2026-10-23T02:08:27.017Z",
-  "1841225": "2026-10-23T11:47:44.182Z",
+  "1841225": "2026-10-24T13:17:25.448Z",
   "1841233": "2026-10-24T01:33:54.869Z",
   "1841315": "2026-10-23T02:07:03.509Z",
   "1841316": "2026-10-23T02:08:27.017Z",
@@ -90,7 +90,7 @@
   "hamilton beach batidora de mano 290 w multicolor bp 62650 cl": "2026-10-23T02:07:03.509Z",
   "hamilton beach batidora de pedestal 3 7 l 290 kw negro 64650 cl": "2026-10-23T02:08:27.017Z",
   "hamilton beach freidora de aire 2 5 litros fe 35051 cl": "2026-10-23T02:08:27.017Z",
-  "volker campana convencional 60 cm inox": "2026-10-23T11:47:44.182Z",
+  "volker campana convencional 60 cm inox": "2026-10-24T13:17:25.448Z",
   "thomas chimenea electrica 2000w conveccion th fp100 madera": "2026-10-24T01:17:52.219Z",
   "karcher limpiadora de vapor karcher sc 1 multi": "2026-10-23T11:47:44.182Z",
   "prada perfume de prada infusion de figue eau de parfum 100ml unisex": "2026-10-23T18:37:53.150Z",
@@ -4318,6 +4318,35 @@
     "tmp-medios/1792846900627-r1.mp4"
    ],
    "texto": "🔥 3 ofertas nuevas de hoy\n1. TOYOTOMI Horno Eléctrico Empotrado 56 Litros HE9SILVER: $249.990 (-50%, referencia $499.990) en Sodimac · 📉 mínimo de 43 días\n2. THIERRY MUGLER Perfume Mujer Mugler Angel EDP 100 ml Thierry Mugler: $104.990 (-40%, referencia $175.990) en Falabella · 📉 mínimo de 88 días\n3. Celular ZTE nubia Music Pop Art 128GB/4GB Azul/Rojo Liberado: $92.790 (-48%, referencia $180.290) en PC Factory\n\n⏰ Precios vistos hoy (24/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
+  },
+  "2026-10-24-r-carrusel-1792847845449": {
+   "tipo": "carrusel",
+   "fecha": "2026-10-24",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "formato": "oferta",
+   "hora": "10:17",
+   "id": "18346275646270604",
+   "enlace": "https://www.instagram.com/p/De4OGWam-dK/",
+   "ofertas": [
+    {
+     "id": "1841225",
+     "nombre": "VOLKER Campana Convencional 60 cm Inox",
+     "tienda": "Sodimac",
+     "ahora": 59990,
+     "antes": 109990,
+     "pct": 45,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 81,
+     "visto": "09:12"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1792847815537-c2-1.jpg",
+    "tmp-medios/1792847815537-c2-2.jpg"
+   ],
+   "texto": "🔥 OFERTA NUEVA\nVOLKER Campana Convencional 60 cm Inox\nAhora: $59.990 (-45%)\nReferencia: $109.990\n🏪 Sodimac\n\n✅ Precio visto hoy a las 09:12 en nuestro sistema.\n📉 Es el precio más bajo de los últimos 81 días.\n⏰ Puede cambiar o agotarse sin aviso.\n📲 Enlace directo en Telegram: t.me/ofertixcl\n\n#ofertaschile #hogar #descuentoschile #ofertix #ofertasdeldia"
   }
  },
  "config": {
@@ -4337,7 +4366,7 @@
    "hasta": "2026-10-24T05:01:15.121Z",
    "veces": 1
   },
-  "ultimaPub": "2026-10-24T13:03:03.716Z"
+  "ultimaPub": "2026-10-24T13:17:25.449Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-23",
