@@ -3,9 +3,10 @@
  "usadas": {
   "824715": "2026-10-23T12:17:23.191Z",
   "824734": "2026-10-22T13:50:25.540Z",
+  "825870": "2026-10-24T11:47:31.248Z",
   "829028": "2026-10-23T02:07:03.509Z",
   "830761": "2026-10-23T18:37:53.150Z",
-  "1063781": "2026-10-23T01:29:24.375Z",
+  "1063781": "2026-10-24T11:47:31.248Z",
   "1087207": "2026-10-23T14:38:34.111Z",
   "1087230": "2026-10-23T15:17:32.899Z",
   "1087642": "2026-10-24T11:01:58.543Z",
@@ -58,14 +59,14 @@
   "2085077": "2026-10-23T11:47:44.182Z",
   "2086478": "2026-10-23T11:47:44.182Z",
   "2086682": "2026-10-23T12:17:23.191Z",
-  "2103253": "2026-10-23T11:32:37.839Z",
-  "2103254": "2026-10-23T11:32:37.839Z",
+  "2103253": "2026-10-24T11:47:31.248Z",
+  "2103254": "2026-10-24T11:47:31.248Z",
   "2103256": "2026-10-24T11:33:15.411Z",
   "2132513": "2026-10-24T11:33:15.411Z"
  },
  "nombres": {
   "dolce gabbana perfume mujer light blue edt 200ml dolce gabbana": "2026-10-21T23:47:33.174Z",
-  "calvin klein calvin klein ck one eau de toilette unisex 50 ml": "2026-10-23T01:29:24.375Z",
+  "calvin klein calvin klein ck one eau de toilette unisex 50 ml": "2026-10-24T11:47:31.248Z",
   "primus mouse inalambrico gladius boba fett": "2026-10-24T11:01:58.543Z",
   "dolce gabbana set de tres regalos q by dolce gabbana edp": "2026-10-23T15:17:32.899Z",
   "teclado hyperx alloy core rgb 4p4f5ai hx kb5me2 la": "2026-10-24T01:17:52.219Z",
@@ -121,10 +122,11 @@
   "wurden convector conveccion qnq 101f blanco": "2026-10-24T11:33:15.411Z",
   "moncler perfume moncler pour homme edp 60ml": "2026-10-23T02:08:27.017Z",
   "jimmy choo perfume hombre j choo man extreme 30ml": "2026-10-24T11:33:15.411Z",
-  "recco estufa electrica blanco 1200 w radiacion nsb 99y blanco": "2026-10-23T11:32:37.839Z",
-  "recco mini calefactor 600 w oleoelectrica blanco": "2026-10-23T11:32:37.839Z",
+  "recco estufa electrica blanco 1200 w radiacion nsb 99y blanco": "2026-10-24T11:47:31.248Z",
+  "recco mini calefactor 600 w oleoelectrica blanco": "2026-10-24T11:47:31.248Z",
   "moncler perfume mujer moncler pour femme edp 100 ml": "2026-10-23T13:18:41.118Z",
-  "alisador gama dual plates led": "2026-10-24T01:17:52.219Z"
+  "alisador gama dual plates led": "2026-10-24T01:17:52.219Z",
+  "lg parlante bluetooth grab amexlbk lg": "2026-10-24T11:47:31.248Z"
  },
  "items": {
   "2026-10-21-r-carrusel-1792603048726": {
@@ -4111,6 +4113,72 @@
     "tmp-medios/1792841472494-r0.mp4"
    ],
    "texto": "🔥 3 ofertas de tecnología\n1. WURDEN Convector Convección QNQ-101F Blanco: $44.990 (-50%, referencia $89.990) en Sodimac · 📉 mínimo de 86 días\n2. JIMMY CHOO Perfume Hombre J Choo Man Extreme 30Ml: $32.990 (-45%, referencia $59.990) en Falabella · 📉 mínimo de 70 días\n3. Samsung Audífonos In Ear SM-R400NZAALTA Bluetooth v5.2 Gray: $59.990 (-40%, referencia $99.990) en Lider · 📉 mínimo de 17 días\n\n⏰ Precios vistos hoy (24/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
+  },
+  "2026-10-24-r-carrusel-1792842451249": {
+   "tipo": "carrusel",
+   "fecha": "2026-10-24",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "formato": "top5",
+   "hora": "08:47",
+   "id": "18120486977279369",
+   "enlace": "https://www.instagram.com/p/De4D0HOlep2/",
+   "ofertas": [
+    {
+     "id": "2103253",
+     "nombre": "RECCO Estufa eléctrica Blanco 1200 W Radiación NSB-99Y Blanco",
+     "tienda": "Sodimac",
+     "ahora": 12490,
+     "antes": 29990,
+     "pct": 58,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 85,
+     "visto": "08:18"
+    },
+    {
+     "id": "1063781",
+     "nombre": "CALVIN KLEIN Calvin Klein CK One Eau De Toilette Unisex 50 Ml",
+     "tienda": "Falabella",
+     "ahora": 24990,
+     "antes": 52990,
+     "pct": 52,
+     "rubro": "perfumes",
+     "esMinimo": true,
+     "dias": 84,
+     "visto": "08:18"
+    },
+    {
+     "id": "825870",
+     "nombre": "LG Parlante Bluetooth Grab Amexlbk LG",
+     "tienda": "Falabella",
+     "ahora": 59990,
+     "antes": 99990,
+     "pct": 40,
+     "rubro": "tecnologia",
+     "esMinimo": false,
+     "dias": 88,
+     "visto": "08:18"
+    },
+    {
+     "id": "2103254",
+     "nombre": "RECCO Mini Calefactor 600 W Oleoeléctrica Blanco",
+     "tienda": "Sodimac",
+     "ahora": 15990,
+     "antes": 37990,
+     "pct": 57,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 69,
+     "visto": "08:18"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1792842416094-c1-1.jpg",
+    "tmp-medios/1792842416094-c1-2.jpg",
+    "tmp-medios/1792842416094-c1-3.jpg"
+   ],
+   "texto": "🏆 Ofertas nuevas de hoy\n1. RECCO Estufa eléctrica Blanco 1200 W Radiación NSB-99Y Blanco: $12.490 (-58%) en Sodimac\n2. CALVIN KLEIN Calvin Klein CK One Eau De Toilette Unisex 50 Ml: $24.990 (-52%) en Falabella · 📉 mínimo de 84 días\n3. LG Parlante Bluetooth Grab Amexlbk LG: $59.990 (-40%) en Falabella\n4. RECCO Mini Calefactor 600 W Oleoeléctrica Blanco: $15.990 (-57%) en Sodimac\n\n⏰ Precios vistos hoy (24/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #top5 #descuentoschile #ofertix #ahorrar"
   }
  },
  "config": {
@@ -4130,7 +4198,7 @@
    "hasta": "2026-10-24T05:01:15.121Z",
    "veces": 1
   },
-  "ultimaPub": "2026-10-24T11:33:15.411Z"
+  "ultimaPub": "2026-10-24T11:47:31.249Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-23",
