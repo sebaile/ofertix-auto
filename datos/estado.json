@@ -26,10 +26,11 @@
   "1611327": "2026-10-24T01:17:52.219Z",
   "1611333": "2026-10-23T00:52:09.898Z",
   "1669911": "2026-10-22T17:28:56.096Z",
+  "1673324": "2026-10-24T20:02:59.387Z",
   "1673333": "2026-10-24T17:47:29.406Z",
   "1673340": "2026-10-24T17:32:36.422Z",
-  "1695609": "2026-10-23T18:37:53.150Z",
-  "1701548": "2026-10-23T15:17:32.899Z",
+  "1695609": "2026-10-24T20:02:59.387Z",
+  "1701548": "2026-10-24T20:02:59.387Z",
   "1784905": "2026-10-24T01:33:54.869Z",
   "1789332": "2026-10-23T11:47:44.182Z",
   "1795903": "2026-10-24T17:47:29.406Z",
@@ -50,9 +51,9 @@
   "2047247": "2026-10-22T00:02:55.741Z",
   "2047249": "2026-10-24T01:33:54.869Z",
   "2047330": "2026-10-24T01:17:52.219Z",
-  "2048291": "2026-10-23T18:37:53.150Z",
+  "2048291": "2026-10-24T20:02:59.387Z",
   "2048348": "2026-10-24T15:02:27.912Z",
-  "2066558": "2026-10-23T12:32:17.321Z",
+  "2066558": "2026-10-24T20:02:59.387Z",
   "2084002": "2026-10-24T17:18:04.333Z",
   "2084101": "2026-10-24T15:32:26.709Z",
   "2085077": "2026-10-24T13:03:03.715Z",
@@ -77,7 +78,7 @@
   "oferta mikrotik pwr line ap routeros l4 european plug type c": "2026-10-22T17:28:56.096Z",
   "carolina herrera perfume hombre bad boy edt 50ml carolina herrera": "2026-10-24T17:32:36.422Z",
   "nina ricci perfume mujer nina ricci nina edt 50ml nina ricci": "2026-10-24T17:47:29.406Z",
-  "mikrotik mantbox 52 15s with routeros l4 license": "2026-10-23T18:37:53.150Z",
+  "mikrotik mantbox 52 15s with routeros l4 license": "2026-10-24T20:02:59.387Z",
   "samsung audifonos in ear sm r400nzaalta bluetooth v5 2 gray": "2026-10-24T11:33:15.411Z",
   "thierry mugler perfume mujer mugler angel edp 100 ml thierry mugler": "2026-10-24T13:03:03.715Z",
   "parlante portatil aiwa aw a521 90w bluetooth negro": "2026-10-24T01:33:54.869Z",
@@ -101,7 +102,7 @@
   "ursus trotter horno electrica 38 litros ut backofen pro38i": "2026-10-23T13:20:10.872Z",
   "nex ventilador suelo industrial 42 negro": "2026-10-24T17:18:04.333Z",
   "tous tous silver edt mujer 30 ml": "2026-10-24T15:17:16.598Z",
-  "thomas termoventilador electrico 2000 w th fh31 blanco": "2026-10-23T15:17:32.899Z",
+  "thomas termoventilador electrico 2000 w th fh31 blanco": "2026-10-24T20:02:59.387Z",
   "kate spade kate spade cherie je taime edp 100ml": "2026-10-24T01:33:54.869Z",
   "4711 perfume unisex white peach edc 170ml 4711": "2026-10-24T01:17:52.219Z",
   "toyotomi horno electrico empotrado 56 litros he9silver": "2026-10-24T13:03:03.715Z",
@@ -114,8 +115,8 @@
   "clinique fragancia clinique happy perfume spray 100 ml": "2026-10-24T17:18:04.333Z",
   "parlante portatil oracle red bull racing rb sk410": "2026-10-22T11:47:41.554Z",
   "ventilador para pc apnx fp2 120 pwm argb color negro": "2026-10-24T15:32:26.709Z",
-  "recco enfriador de aire 50 w blanco bl 202dlr h": "2026-10-23T12:32:17.321Z",
-  "cartier perfume mujer la panthere elixir edp 100 ml cartier": "2026-10-23T18:37:53.150Z",
+  "recco enfriador de aire 50 w blanco bl 202dlr h": "2026-10-24T20:02:59.387Z",
+  "cartier perfume mujer la panthere elixir edp 100 ml cartier": "2026-10-24T20:02:59.387Z",
   "auriculares inalambricos jbl tour one m3 smart tx mocha": "2026-10-24T01:17:52.219Z",
   "wurden convector conveccion qnq 101f blanco": "2026-10-24T11:33:15.411Z",
   "moncler perfume moncler pour homme edp 60ml": "2026-10-24T17:18:04.333Z",
@@ -124,7 +125,8 @@
   "recco mini calefactor 600 w oleoelectrica blanco": "2026-10-24T11:47:31.248Z",
   "moncler perfume mujer moncler pour femme edp 100 ml": "2026-10-24T15:02:27.912Z",
   "alisador gama dual plates led": "2026-10-24T01:17:52.219Z",
-  "lg parlante bluetooth grab amexlbk lg": "2026-10-24T11:47:31.248Z"
+  "lg parlante bluetooth grab amexlbk lg": "2026-10-24T11:47:31.248Z",
+  "rabanne perfume hombre black xs edt 100ml rabanne": "2026-10-24T20:02:59.387Z"
  },
  "items": {
   "2026-10-21-r-carrusel-1792603048726": {
@@ -5103,6 +5105,84 @@
      "visto": "15:18"
     }
    ]
+  },
+  "2026-10-24-r-carrusel-1792872179388": {
+   "tipo": "carrusel",
+   "fecha": "2026-10-24",
+   "estado": "publicado",
+   "bloque": "populares",
+   "formato": "top5",
+   "hora": "17:02",
+   "id": "18113313146592367",
+   "enlace": "https://www.instagram.com/p/De48hTblFRc/",
+   "ofertas": [
+    {
+     "id": "1701548",
+     "nombre": "THOMAS Termoventilador Eléctrico 2000 W TH-FH31 Blanco",
+     "tienda": "Sodimac",
+     "ahora": 21990,
+     "antes": 39990,
+     "pct": 45,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 81,
+     "visto": "16:32"
+    },
+    {
+     "id": "2048291",
+     "nombre": "CARTIER Perfume Mujer La Panthere Elixir EDP 100 Ml Cartier",
+     "tienda": "Falabella",
+     "ahora": 99990,
+     "antes": 167200,
+     "pct": 40,
+     "rubro": "perfumes",
+     "esMinimo": false,
+     "dias": 3,
+     "visto": "16:32"
+    },
+    {
+     "id": "1695609",
+     "nombre": "MIKROTIK mANTBox 52 15s with RouterOS L4 license",
+     "tienda": "Tecnomas.cl",
+     "ahora": 132990,
+     "antes": 223990,
+     "pct": 40,
+     "rubro": "tecnologia",
+     "esMinimo": true,
+     "dias": 63,
+     "visto": "16:32"
+    },
+    {
+     "id": "2066558",
+     "nombre": "RECCO Enfriador de aire 50 W Blanco BL-202DLR-H",
+     "tienda": "Sodimac",
+     "ahora": 33990,
+     "antes": 59990,
+     "pct": 43,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 43,
+     "visto": "16:32"
+    },
+    {
+     "id": "1673324",
+     "nombre": "RABANNE Perfume Hombre Black Xs Edt 100Ml Rabanne",
+     "tienda": "Falabella",
+     "ahora": 71990,
+     "antes": 119990,
+     "pct": 40,
+     "rubro": "perfumes",
+     "esMinimo": false,
+     "dias": 57,
+     "visto": "16:32"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1792872147734-c6-1.jpg",
+    "tmp-medios/1792872147734-c6-2.jpg",
+    "tmp-medios/1792872147734-c6-3.jpg"
+   ],
+   "texto": "🏆 Los más populares\n1. THOMAS Termoventilador Eléctrico 2000 W TH-FH31 Blanco: $21.990 (-45%) en Sodimac\n2. CARTIER Perfume Mujer La Panthere Elixir EDP 100 Ml Cartier: $99.990 (-40%) en Falabella\n3. MIKROTIK mANTBox 52 15s with RouterOS L4 license: $132.990 (-40%) en Tecnomas.cl · 📉 mínimo de 63 días\n4. RECCO Enfriador de aire 50 W Blanco BL-202DLR-H: $33.990 (-43%) en Sodimac\n5. RABANNE Perfume Hombre Black Xs Edt 100Ml Rabanne: $71.990 (-40%) en Falabella\n\n⏰ Precios vistos hoy (24/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #top5 #descuentoschile #ofertix #ahorrar"
   }
  },
  "config": {
@@ -5122,7 +5202,7 @@
    "hasta": "2026-10-24T05:01:15.121Z",
    "veces": 1
   },
-  "ultimaPub": "2026-10-24T19:46:03.257Z"
+  "ultimaPub": "2026-10-24T20:02:59.388Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-23",
