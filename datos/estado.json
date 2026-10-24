@@ -52,7 +52,7 @@
   "2047330": "2026-10-24T01:17:52.219Z",
   "2048020": "2026-10-21T18:47:28.028Z",
   "2048291": "2026-10-23T18:37:53.150Z",
-  "2048348": "2026-10-23T13:18:41.118Z",
+  "2048348": "2026-10-24T15:02:27.912Z",
   "2066558": "2026-10-23T12:32:17.321Z",
   "2084002": "2026-10-23T12:17:23.191Z",
   "2084101": "2026-10-23T11:47:44.182Z",
@@ -124,7 +124,7 @@
   "jimmy choo perfume hombre j choo man extreme 30ml": "2026-10-24T11:33:15.411Z",
   "recco estufa electrica blanco 1200 w radiacion nsb 99y blanco": "2026-10-24T11:47:31.248Z",
   "recco mini calefactor 600 w oleoelectrica blanco": "2026-10-24T11:47:31.248Z",
-  "moncler perfume mujer moncler pour femme edp 100 ml": "2026-10-23T13:18:41.118Z",
+  "moncler perfume mujer moncler pour femme edp 100 ml": "2026-10-24T15:02:27.912Z",
   "alisador gama dual plates led": "2026-10-24T01:17:52.219Z",
   "lg parlante bluetooth grab amexlbk lg": "2026-10-24T11:47:31.248Z"
  },
@@ -4530,6 +4530,35 @@
      "visto": "11:14"
     }
    ]
+  },
+  "2026-10-24-r-carrusel-1792854147912": {
+   "tipo": "carrusel",
+   "fecha": "2026-10-24",
+   "estado": "publicado",
+   "bloque": "comparativas",
+   "formato": "oferta",
+   "hora": "12:02",
+   "id": "17899609320397309",
+   "enlace": "https://www.instagram.com/p/De4aHskmztm/",
+   "ofertas": [
+    {
+     "id": "2048348",
+     "nombre": "MONCLER Perfume Mujer Moncler Pour Femme Edp 100 Ml",
+     "tienda": "Falabella",
+     "ahora": 89990,
+     "antes": 149990,
+     "pct": 40,
+     "rubro": "perfumes",
+     "esMinimo": true,
+     "dias": 81,
+     "visto": "11:14"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1792854112606-c3-1.jpg",
+    "tmp-medios/1792854112606-c3-2.jpg"
+   ],
+   "texto": "🔥 OFERTA DEL DÍA\nMONCLER Perfume Mujer Moncler Pour Femme Edp 100 Ml\nAhora: $89.990 (-40%)\nReferencia: $149.990\n🏪 Falabella\n\n✅ Precio visto hoy a las 11:14 en nuestro sistema.\n📉 Es el precio más bajo de los últimos 81 días.\n⏰ Puede cambiar o agotarse sin aviso.\n📲 Enlace directo en Telegram: t.me/ofertixcl\n\n#ofertaschile #perfumes #descuentoschile #ofertix #ofertasdeldia"
   }
  },
  "config": {
@@ -4549,7 +4578,7 @@
    "hasta": "2026-10-24T05:01:15.121Z",
    "veces": 1
   },
-  "ultimaPub": "2026-10-24T14:46:14.840Z"
+  "ultimaPub": "2026-10-24T15:02:27.912Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-23",
