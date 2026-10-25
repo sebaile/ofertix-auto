@@ -4225,6 +4225,28 @@
     "tmp-medios/1792926094049-c0-2.jpg"
    ],
    "texto": "🔥 OFERTA NUEVA\nXiaomi 17 Ultra Photography Kit Pro Negro\nAhora: $99.990 (-60%)\nReferencia: $249.990\n🏪 Xiaomi Chile\n\n✅ Precio visto hoy a las 07:42 en nuestro sistema.\n📉 Es el precio más bajo de los últimos 20 días.\n⏰ Puede cambiar o agotarse sin aviso.\n📲 Enlace directo en Telegram: t.me/ofertixcl\n\n#ofertaschile #tecnologia #descuentoschile #ofertix #ofertasdeldia"
+  },
+  "2026-10-25-r-historia-1792926153325": {
+   "tipo": "historia",
+   "fecha": "2026-10-25",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "hora": "08:02",
+   "id": "18108479198362252",
+   "ofertas": [
+    {
+     "id": "1576473",
+     "nombre": "Xiaomi 17 Ultra Photography Kit Pro Negro",
+     "tienda": "Xiaomi Chile",
+     "ahora": 99990,
+     "antes": 249990,
+     "pct": 60,
+     "rubro": "tecnologia",
+     "esMinimo": true,
+     "dias": 20,
+     "visto": "07:42"
+    }
+   ]
   }
  },
  "config": {
@@ -4244,7 +4266,7 @@
    "hasta": "2026-10-25T03:02:39.054Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-25T11:02:10.744Z"
+  "ultimaPub": "2026-10-25T11:02:33.325Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-24",
@@ -4257,6 +4279,7 @@
   "1137440": "2026-10-24T12:46:10.103Z",
   "1500833": "2026-10-24T14:16:00.715Z",
   "1530831": "2026-10-24T19:29:29.075Z",
+  "1576473": "2026-10-25T11:02:33.325Z",
   "1673340": "2026-10-24T19:01:03.210Z",
   "1695609": "2026-10-24T11:16:29.855Z",
   "1784905": "2026-10-24T13:46:02.792Z",
