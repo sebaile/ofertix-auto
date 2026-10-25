@@ -43,6 +43,7 @@
   "2000806": "2026-10-24T13:03:03.715Z",
   "2007710": "2026-10-24T15:17:16.598Z",
   "2047193": "2026-10-24T15:32:26.709Z",
+  "2047194": "2026-10-25T12:32:06.423Z",
   "2047234": "2026-10-24T17:18:04.333Z",
   "2047249": "2026-10-25T11:32:26.513Z",
   "2047330": "2026-10-24T01:17:52.219Z",
@@ -116,7 +117,8 @@
   "moncler perfume mujer moncler pour femme edp 100 ml": "2026-10-24T15:02:27.912Z",
   "alisador gama dual plates led": "2026-10-25T11:47:33.620Z",
   "lg parlante bluetooth grab amexlbk lg": "2026-10-24T11:47:31.248Z",
-  "rabanne perfume hombre black xs edt 100ml rabanne": "2026-10-24T20:02:59.387Z"
+  "rabanne perfume hombre black xs edt 100ml rabanne": "2026-10-24T20:02:59.387Z",
+  "tcl aire acondicionado portatil frio calor tcl 12000 btu": "2026-10-25T12:32:06.423Z"
  },
  "items": {
   "2026-10-22-r-carrusel-1792666934570": {
@@ -4557,6 +4559,35 @@
      "visto": "08:36"
     }
    ]
+  },
+  "2026-10-25-r-carrusel-1792931526424": {
+   "tipo": "carrusel",
+   "fecha": "2026-10-25",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "formato": "oferta",
+   "hora": "09:32",
+   "id": "18090549293252589",
+   "enlace": "https://www.instagram.com/p/De6ttcnmx7i/",
+   "ofertas": [
+    {
+     "id": "2047194",
+     "nombre": "TCL Aire Acondicionado Portátil Frio-Calor TCL 12000 BTU",
+     "tienda": "Falabella",
+     "ahora": 199990,
+     "antes": 499990,
+     "pct": 60,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 4,
+     "visto": "08:36"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1792931492620-c2-1.jpg",
+    "tmp-medios/1792931492620-c2-2.jpg"
+   ],
+   "texto": "🔥 OFERTA NUEVA\nTCL Aire Acondicionado Portátil Frio-Calor TCL 12000 BTU\nAhora: $199.990 (-60%)\nReferencia: $499.990\n🏪 Falabella\n\n✅ Precio visto hoy a las 08:36 en nuestro sistema.\n⏰ Puede cambiar o agotarse sin aviso.\n📲 Enlace directo en Telegram: t.me/ofertixcl\n\n#ofertaschile #hogar #descuentoschile #ofertix #ofertasdeldia"
   }
  },
  "config": {
@@ -4576,7 +4607,7 @@
    "hasta": "2026-10-25T03:02:39.054Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-25T12:18:07.048Z"
+  "ultimaPub": "2026-10-25T12:32:06.424Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-24",
