@@ -5218,6 +5218,28 @@
      "visto": "14:48"
     }
    ]
+  },
+  "2026-10-25-r-historia-1792954873317": {
+   "tipo": "historia",
+   "fecha": "2026-10-25",
+   "estado": "publicado",
+   "bloque": "populares",
+   "hora": "16:01",
+   "id": "18109736192249098",
+   "ofertas": [
+    {
+     "id": "2132513",
+     "nombre": "JIMMY CHOO Perfume Hombre J Choo Man Extreme 30Ml",
+     "tienda": "Falabella",
+     "ahora": 32990,
+     "antes": 59990,
+     "pct": 45,
+     "rubro": "perfumes",
+     "esMinimo": true,
+     "dias": 71,
+     "visto": "15:44"
+    }
+   ]
   }
  },
  "config": {
@@ -5237,7 +5259,7 @@
    "hasta": "2026-10-25T17:04:59.049Z",
    "veces": 1
   },
-  "ultimaPub": "2026-10-25T18:46:01.711Z"
+  "ultimaPub": "2026-10-25T19:01:13.318Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-24",
@@ -5274,6 +5296,6 @@
   "2103253": "2026-10-24T01:46:29.201Z",
   "2103254": "2026-10-24T12:31:37.448Z",
   "2103256": "2026-10-25T18:17:47.716Z",
-  "2132513": "2026-10-24T12:01:26.763Z"
+  "2132513": "2026-10-25T19:01:13.317Z"
  }
 }
