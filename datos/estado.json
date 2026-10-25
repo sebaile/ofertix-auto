@@ -3,12 +3,13 @@
  "usadas": {
   "824715": "2026-10-24T13:50:33.585Z",
   "824734": "2026-10-22T13:50:25.540Z",
-  "825870": "2026-10-24T11:47:31.248Z",
+  "825870": "2026-10-25T13:02:23.267Z",
   "829028": "2026-10-24T13:03:03.715Z",
   "830761": "2026-10-23T18:37:53.150Z",
   "1063781": "2026-10-25T12:17:43.457Z",
   "1087207": "2026-10-24T20:32:35.146Z",
   "1087230": "2026-10-25T11:47:33.620Z",
+  "1087242": "2026-10-25T13:02:23.267Z",
   "1087642": "2026-10-25T11:32:26.513Z",
   "1110715": "2026-10-23T15:17:32.899Z",
   "1110717": "2026-10-24T20:32:35.146Z",
@@ -55,7 +56,7 @@
   "2085077": "2026-10-24T13:03:03.715Z",
   "2086478": "2026-10-24T17:18:04.333Z",
   "2086682": "2026-10-24T15:32:26.709Z",
-  "2103253": "2026-10-24T11:47:31.248Z",
+  "2103253": "2026-10-25T13:02:23.267Z",
   "2103254": "2026-10-24T11:47:31.248Z",
   "2103256": "2026-10-25T12:17:43.457Z",
   "2132513": "2026-10-24T11:33:15.411Z"
@@ -112,13 +113,14 @@
   "wurden convector conveccion qnq 101f blanco": "2026-10-25T12:17:43.458Z",
   "moncler perfume moncler pour homme edp 60ml": "2026-10-24T17:18:04.333Z",
   "jimmy choo perfume hombre j choo man extreme 30ml": "2026-10-24T11:33:15.411Z",
-  "recco estufa electrica blanco 1200 w radiacion nsb 99y blanco": "2026-10-24T11:47:31.248Z",
+  "recco estufa electrica blanco 1200 w radiacion nsb 99y blanco": "2026-10-25T13:02:23.267Z",
   "recco mini calefactor 600 w oleoelectrica blanco": "2026-10-24T11:47:31.248Z",
   "moncler perfume mujer moncler pour femme edp 100 ml": "2026-10-24T15:02:27.912Z",
   "alisador gama dual plates led": "2026-10-25T11:47:33.620Z",
-  "lg parlante bluetooth grab amexlbk lg": "2026-10-24T11:47:31.248Z",
+  "lg parlante bluetooth grab amexlbk lg": "2026-10-25T13:02:23.267Z",
   "rabanne perfume hombre black xs edt 100ml rabanne": "2026-10-24T20:02:59.387Z",
-  "tcl aire acondicionado portatil frio calor tcl 12000 btu": "2026-10-25T12:32:06.423Z"
+  "tcl aire acondicionado portatil frio calor tcl 12000 btu": "2026-10-25T12:32:06.423Z",
+  "antonio banderas perfume edt hombre the icon edt 200 ml banderas": "2026-10-25T13:02:23.267Z"
  },
  "items": {
   "2026-10-22-r-carrusel-1792666934570": {
@@ -4654,6 +4656,57 @@
      "visto": "08:36"
     }
    ]
+  },
+  "2026-10-25-r-reel-1792933343268": {
+   "tipo": "reel",
+   "fecha": "2026-10-25",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "hora": "10:02",
+   "id": "17968419507194860",
+   "enlace": "https://www.instagram.com/reel/De6xI3Zk0EG/",
+   "ofertas": [
+    {
+     "id": "2103253",
+     "nombre": "RECCO Estufa eléctrica Blanco 1200 W Radiación NSB-99Y Blanco",
+     "tienda": "Sodimac",
+     "ahora": 12490,
+     "antes": 29990,
+     "pct": 58,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 86,
+     "visto": "08:36"
+    },
+    {
+     "id": "1087242",
+     "nombre": "ANTONIO BANDERAS Perfume EDT Hombre The Icon EDT 200 Ml Banderas",
+     "tienda": "Falabella",
+     "ahora": 22990,
+     "antes": 38990,
+     "pct": 41,
+     "rubro": "perfumes",
+     "esMinimo": false,
+     "dias": 80,
+     "visto": "08:36"
+    },
+    {
+     "id": "825870",
+     "nombre": "LG Parlante Bluetooth Grab Amexlbk LG",
+     "tienda": "Falabella",
+     "ahora": 59990,
+     "antes": 99990,
+     "pct": 40,
+     "rubro": "tecnologia",
+     "esMinimo": false,
+     "dias": 89,
+     "visto": "08:36"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1792933269481-r2.mp4"
+   ],
+   "texto": "🔥 3 ofertas de hogar\n1. RECCO Estufa eléctrica Blanco 1200 W Radiación NSB-99Y Blanco: $12.490 (-58%, referencia $29.990) en Sodimac\n2. ANTONIO BANDERAS Perfume EDT Hombre The Icon EDT 200 Ml Banderas: $22.990 (-41%, referencia $38.990) en Falabella\n3. LG Parlante Bluetooth Grab Amexlbk LG: $59.990 (-40%, referencia $99.990) en Falabella\n\n⏰ Precios vistos hoy (25/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
   }
  },
  "config": {
@@ -4673,7 +4726,7 @@
    "hasta": "2026-10-25T03:02:39.054Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-25T12:46:23.298Z"
+  "ultimaPub": "2026-10-25T13:02:23.268Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-24",
