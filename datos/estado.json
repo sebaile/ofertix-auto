@@ -37,8 +37,8 @@
   "1840943": "2026-10-24T17:18:04.333Z",
   "1841225": "2026-10-25T14:02:10.994Z",
   "1841233": "2026-10-25T11:47:33.620Z",
-  "1841315": "2026-10-24T13:50:33.585Z",
-  "1841316": "2026-10-24T13:50:33.585Z",
+  "1841315": "2026-10-25T14:03:24.086Z",
+  "1841316": "2026-10-25T14:03:24.086Z",
   "1848566": "2026-10-25T11:32:26.513Z",
   "1896728": "2026-10-24T17:32:36.422Z",
   "2000806": "2026-10-25T13:17:39.450Z",
@@ -59,7 +59,7 @@
   "2103253": "2026-10-25T13:02:23.267Z",
   "2103254": "2026-10-25T13:17:39.450Z",
   "2103256": "2026-10-25T12:17:43.457Z",
-  "2132513": "2026-10-24T11:33:15.411Z"
+  "2132513": "2026-10-25T14:03:24.086Z"
  },
  "nombres": {
   "calvin klein calvin klein ck one eau de toilette unisex 50 ml": "2026-10-25T12:17:43.457Z",
@@ -83,8 +83,8 @@
   "rabanne perfume hombre one million elixir edp 200ml rabanne": "2026-10-24T20:32:35.146Z",
   "licuadora easyways licuadora crush n roll 1 5 l": "2026-10-24T17:47:29.406Z",
   "hamilton beach microondas digital 23 litros inox hb p90d23el lxa": "2026-10-25T11:47:33.620Z",
-  "hamilton beach batidora de mano 290 w multicolor bp 62650 cl": "2026-10-24T13:50:33.585Z",
-  "hamilton beach batidora de pedestal 3 7 l 290 kw negro 64650 cl": "2026-10-24T13:50:33.585Z",
+  "hamilton beach batidora de mano 290 w multicolor bp 62650 cl": "2026-10-25T14:03:24.086Z",
+  "hamilton beach batidora de pedestal 3 7 l 290 kw negro 64650 cl": "2026-10-25T14:03:24.086Z",
   "hamilton beach freidora de aire 2 5 litros fe 35051 cl": "2026-10-24T17:18:04.333Z",
   "volker campana convencional 60 cm inox": "2026-10-25T14:02:10.994Z",
   "thomas chimenea electrica 2000w conveccion th fp100 madera": "2026-10-25T11:32:26.513Z",
@@ -112,7 +112,7 @@
   "auriculares inalambricos jbl tour one m3 smart tx mocha": "2026-10-24T01:17:52.219Z",
   "wurden convector conveccion qnq 101f blanco": "2026-10-25T12:17:43.458Z",
   "moncler perfume moncler pour homme edp 60ml": "2026-10-24T17:18:04.333Z",
-  "jimmy choo perfume hombre j choo man extreme 30ml": "2026-10-24T11:33:15.411Z",
+  "jimmy choo perfume hombre j choo man extreme 30ml": "2026-10-25T14:03:24.086Z",
   "recco estufa electrica blanco 1200 w radiacion nsb 99y blanco": "2026-10-25T13:02:23.267Z",
   "recco mini calefactor 600 w oleoelectrica blanco": "2026-10-25T13:17:39.450Z",
   "moncler perfume mujer moncler pour femme edp 100 ml": "2026-10-24T15:02:27.912Z",
@@ -4912,6 +4912,57 @@
     "tmp-medios/1792936900470-c4-2.jpg"
    ],
    "texto": "🔥 OFERTA DEL DÍA\nVOLKER Campana Convencional 60 cm Inox\nAhora: $59.990 (-45%)\nReferencia: $109.990\n🏪 Sodimac\n\n✅ Precio visto hoy a las 10:45 en nuestro sistema.\n📉 Es el precio más bajo de los últimos 82 días.\n⏰ Puede cambiar o agotarse sin aviso.\n📲 Enlace directo en Telegram: t.me/ofertixcl\n\n#ofertaschile #hogar #descuentoschile #ofertix #ofertasdeldia"
+  },
+  "2026-10-25-r-reel-1792937004087": {
+   "tipo": "reel",
+   "fecha": "2026-10-25",
+   "estado": "publicado",
+   "bloque": "comparativas",
+   "hora": "11:03",
+   "id": "18353432803265368",
+   "enlace": "https://www.instagram.com/reel/De64JIhAEnK/",
+   "ofertas": [
+    {
+     "id": "1841315",
+     "nombre": "HAMILTON BEACH Batidora De mano 290 W Multicolor BP-62650-CL",
+     "tienda": "Sodimac",
+     "ahora": 13990,
+     "antes": 29990,
+     "pct": 53,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 44,
+     "visto": "10:45"
+    },
+    {
+     "id": "2132513",
+     "nombre": "JIMMY CHOO Perfume Hombre J Choo Man Extreme 30Ml",
+     "tienda": "Falabella",
+     "ahora": 32990,
+     "antes": 59990,
+     "pct": 45,
+     "rubro": "perfumes",
+     "esMinimo": true,
+     "dias": 71,
+     "visto": "10:45"
+    },
+    {
+     "id": "1841316",
+     "nombre": "HAMILTON BEACH Batidora de Pedestal 3.7 l 290 kW Negro 64650-CL",
+     "tienda": "Sodimac",
+     "ahora": 29990,
+     "antes": 59990,
+     "pct": 50,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 44,
+     "visto": "10:45"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1792936941360-r3.mp4"
+   ],
+   "texto": "🔥 3 ofertas en comparativa: mismo tipo de producto\n1. HAMILTON BEACH Batidora De mano 290 W Multicolor BP-62650-CL: $13.990 (-53%, referencia $29.990) en Sodimac · 📉 mínimo de 44 días\n2. JIMMY CHOO Perfume Hombre J Choo Man Extreme 30Ml: $32.990 (-45%, referencia $59.990) en Falabella · 📉 mínimo de 71 días\n3. HAMILTON BEACH Batidora de Pedestal 3.7 l 290 kW Negro 64650-CL: $29.990 (-50%, referencia $59.990) en Sodimac · 📉 mínimo de 44 días\n\n⏰ Precios vistos hoy (25/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
   }
  },
  "config": {
@@ -4931,7 +4982,7 @@
    "hasta": "2026-10-25T03:02:39.054Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-25T14:02:10.994Z"
+  "ultimaPub": "2026-10-25T14:03:24.087Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-24",
