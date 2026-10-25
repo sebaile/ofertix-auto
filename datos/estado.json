@@ -33,7 +33,7 @@
   "1789332": "2026-10-23T11:47:44.182Z",
   "1795903": "2026-10-24T17:47:29.406Z",
   "1827803": "2026-10-24T17:47:29.406Z",
-  "1840943": "2026-10-24T17:18:04.333Z",
+  "1840943": "2026-10-25T17:32:12.977Z",
   "1841225": "2026-10-25T14:02:10.994Z",
   "1841233": "2026-10-25T11:47:33.620Z",
   "1841315": "2026-10-25T14:03:24.086Z",
@@ -51,10 +51,10 @@
   "2048348": "2026-10-24T15:02:27.912Z",
   "2066558": "2026-10-24T20:02:59.387Z",
   "2084002": "2026-10-24T17:18:04.333Z",
-  "2084101": "2026-10-24T15:32:26.709Z",
+  "2084101": "2026-10-25T17:32:12.976Z",
   "2085077": "2026-10-25T13:17:39.450Z",
   "2086478": "2026-10-24T17:18:04.333Z",
-  "2086682": "2026-10-24T15:32:26.709Z",
+  "2086682": "2026-10-25T17:32:12.977Z",
   "2103253": "2026-10-25T13:02:23.267Z",
   "2103254": "2026-10-25T13:17:39.450Z",
   "2103256": "2026-10-25T12:17:43.457Z",
@@ -83,7 +83,7 @@
   "hamilton beach microondas digital 23 litros inox hb p90d23el lxa": "2026-10-25T11:47:33.620Z",
   "hamilton beach batidora de mano 290 w multicolor bp 62650 cl": "2026-10-25T14:03:24.086Z",
   "hamilton beach batidora de pedestal 3 7 l 290 kw negro 64650 cl": "2026-10-25T14:03:24.086Z",
-  "hamilton beach freidora de aire 2 5 litros fe 35051 cl": "2026-10-24T17:18:04.333Z",
+  "hamilton beach freidora de aire 2 5 litros fe 35051 cl": "2026-10-25T17:32:12.977Z",
   "volker campana convencional 60 cm inox": "2026-10-25T14:02:10.994Z",
   "thomas chimenea electrica 2000w conveccion th fp100 madera": "2026-10-25T11:32:26.513Z",
   "karcher limpiadora de vapor karcher sc 1 multi": "2026-10-23T11:47:44.182Z",
@@ -100,11 +100,11 @@
   "4711 perfume unisex white peach edc 170ml 4711": "2026-10-24T01:17:52.219Z",
   "toyotomi horno electrico empotrado 56 litros he9silver": "2026-10-25T13:17:39.450Z",
   "tcl aire acondicionado portatil frio tcl 9000 btu": "2026-10-24T15:32:26.709Z",
-  "clinique fragancia clinique happy for men 100ml": "2026-10-24T15:32:26.709Z",
+  "clinique fragancia clinique happy for men 100ml": "2026-10-25T17:32:12.977Z",
   "celular zte nubia music pop art 128gb 4gb azul rojo liberado": "2026-10-25T13:17:39.450Z",
   "caja abierta danada reloj smartwatch lhotse tw58 black n black": "2026-10-24T17:18:04.333Z",
   "clinique fragancia clinique happy perfume spray 100 ml": "2026-10-24T17:18:04.333Z",
-  "ventilador para pc apnx fp2 120 pwm argb color negro": "2026-10-24T15:32:26.709Z",
+  "ventilador para pc apnx fp2 120 pwm argb color negro": "2026-10-25T17:32:12.977Z",
   "recco enfriador de aire 50 w blanco bl 202dlr h": "2026-10-24T20:02:59.387Z",
   "cartier perfume mujer la panthere elixir edp 100 ml cartier": "2026-10-24T20:02:59.387Z",
   "auriculares inalambricos jbl tour one m3 smart tx mocha": "2026-10-24T01:17:52.219Z",
@@ -4983,6 +4983,57 @@
      "visto": "13:39"
     }
    ]
+  },
+  "2026-10-25-r-reel-1792949532977": {
+   "tipo": "reel",
+   "fecha": "2026-10-25",
+   "estado": "publicado",
+   "bloque": "comparativas",
+   "hora": "14:32",
+   "id": "17932103619162509",
+   "enlace": "https://www.instagram.com/reel/De7QBSfFLd6/",
+   "ofertas": [
+    {
+     "id": "2084101",
+     "nombre": "CLINIQUE Fragancia Clinique Happy for Men 100ml",
+     "tienda": "Falabella",
+     "ahora": 34990,
+     "antes": 98900,
+     "pct": 64,
+     "rubro": "perfumes",
+     "esMinimo": false,
+     "dias": 54,
+     "visto": "13:39"
+    },
+    {
+     "id": "1840943",
+     "nombre": "HAMILTON BEACH Freidora de Aire 2.5 Litros FE-35051-CL",
+     "tienda": "Sodimac",
+     "ahora": 39990,
+     "antes": 89990,
+     "pct": 55,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 44,
+     "visto": "13:39"
+    },
+    {
+     "id": "2086682",
+     "nombre": "Ventilador para PC APNX FP2-120 PWM ARGB, Color Negro",
+     "tienda": "SP Digital",
+     "ahora": 15670,
+     "antes": 31340,
+     "pct": 50,
+     "rubro": "gamer",
+     "esMinimo": false,
+     "dias": 3,
+     "visto": "13:39"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1792949459190-r4.mp4"
+   ],
+   "texto": "🔥 3 ofertas en comparativa: mismo tipo de producto\n1. CLINIQUE Fragancia Clinique Happy for Men 100ml: $34.990 (-64%, referencia $98.900) en Falabella\n2. HAMILTON BEACH Freidora de Aire 2.5 Litros FE-35051-CL: $39.990 (-55%, referencia $89.990) en Sodimac\n3. Ventilador para PC APNX FP2-120 PWM ARGB, Color Negro: $15.670 (-50%, referencia $31.340) en SP Digital\n\n⏰ Precios vistos hoy (25/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
   }
  },
  "config": {
@@ -5002,7 +5053,7 @@
    "hasta": "2026-10-25T17:04:59.049Z",
    "veces": 1
   },
-  "ultimaPub": "2026-10-25T17:16:01.060Z"
+  "ultimaPub": "2026-10-25T17:32:12.977Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-24",
