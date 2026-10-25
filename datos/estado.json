@@ -5657,6 +5657,28 @@
      "visto": "18:50"
     }
    ]
+  },
+  "2026-10-25-r-historia-1792967489452": {
+   "tipo": "historia",
+   "fecha": "2026-10-25",
+   "estado": "publicado",
+   "bloque": "recopilaciones",
+   "hora": "19:31",
+   "id": "18101409653633458",
+   "ofertas": [
+    {
+     "id": "829028",
+     "nombre": "THIERRY MUGLER Perfume Mujer Mugler Angel EDP 100 ml Thierry Mugler",
+     "tienda": "Falabella",
+     "ahora": 104990,
+     "antes": 175990,
+     "pct": 40,
+     "rubro": "perfumes",
+     "esMinimo": true,
+     "dias": 89,
+     "visto": "18:50"
+    }
+   ]
   }
  },
  "config": {
@@ -5676,13 +5698,14 @@
    "hasta": "2026-10-25T17:04:59.049Z",
    "veces": 1
   },
-  "ultimaPub": "2026-10-25T22:21:22.175Z"
+  "ultimaPub": "2026-10-25T22:31:29.453Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-24",
  "usadasH": {
   "824715": "2026-10-25T13:17:53.393Z",
   "825870": "2026-10-25T13:31:27.965Z",
+  "829028": "2026-10-25T22:31:29.452Z",
   "1063781": "2026-10-25T13:46:29.622Z",
   "1087642": "2026-10-25T12:01:16.777Z",
   "1110717": "2026-10-25T21:31:09.712Z",
