@@ -20,7 +20,7 @@
   "1530831": "2026-10-24T17:32:36.422Z",
   "1531094": "2026-10-24T20:32:35.146Z",
   "1574456": "2026-10-23T13:20:10.872Z",
-  "1576473": "2026-10-22T11:02:14.570Z",
+  "1576473": "2026-10-25T11:02:10.743Z",
   "1592754": "2026-10-24T17:18:04.333Z",
   "1611327": "2026-10-24T01:17:52.219Z",
   "1611333": "2026-10-23T00:52:09.898Z",
@@ -92,7 +92,7 @@
   "nex aire acondicionado 9000btu acp09288 fcwifi": "2026-10-24T17:32:36.422Z",
   "alisador gama cp14 dual plate led gold titanio": "2026-10-23T00:52:09.898Z",
   "samsung encimera a gas 5 quemadores gris": "2026-10-24T13:50:33.585Z",
-  "xiaomi 17 ultra photography kit pro negro": "2026-10-22T11:02:14.570Z",
+  "xiaomi 17 ultra photography kit pro negro": "2026-10-25T11:02:10.743Z",
   "ursus trotter horno electrica 38 litros ut backofen pro38i": "2026-10-23T13:20:10.872Z",
   "nex ventilador suelo industrial 42 negro": "2026-10-24T17:18:04.333Z",
   "tous tous silver edt mujer 30 ml": "2026-10-24T15:17:16.598Z",
@@ -4196,6 +4196,35 @@
      "visto": "17:19"
     }
    ]
+  },
+  "2026-10-25-r-carrusel-1792926130744": {
+   "tipo": "carrusel",
+   "fecha": "2026-10-25",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "formato": "oferta",
+   "hora": "08:02",
+   "id": "18222785305358516",
+   "enlace": "https://www.instagram.com/p/De6jaXUmzpJ/",
+   "ofertas": [
+    {
+     "id": "1576473",
+     "nombre": "Xiaomi 17 Ultra Photography Kit Pro Negro",
+     "tienda": "Xiaomi Chile",
+     "ahora": 99990,
+     "antes": 249990,
+     "pct": 60,
+     "rubro": "tecnologia",
+     "esMinimo": true,
+     "dias": 20,
+     "visto": "07:42"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1792926094049-c0-1.jpg",
+    "tmp-medios/1792926094049-c0-2.jpg"
+   ],
+   "texto": "🔥 OFERTA NUEVA\nXiaomi 17 Ultra Photography Kit Pro Negro\nAhora: $99.990 (-60%)\nReferencia: $249.990\n🏪 Xiaomi Chile\n\n✅ Precio visto hoy a las 07:42 en nuestro sistema.\n📉 Es el precio más bajo de los últimos 20 días.\n⏰ Puede cambiar o agotarse sin aviso.\n📲 Enlace directo en Telegram: t.me/ofertixcl\n\n#ofertaschile #tecnologia #descuentoschile #ofertix #ofertasdeldia"
   }
  },
  "config": {
@@ -4215,7 +4244,7 @@
    "hasta": "2026-10-25T03:02:39.054Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-24T20:46:06.270Z"
+  "ultimaPub": "2026-10-25T11:02:10.744Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-24",
