@@ -5030,6 +5030,28 @@
     "tmp-medios/1792949459190-r4.mp4"
    ],
    "texto": "🔥 3 ofertas en comparativa: mismo tipo de producto\n1. CLINIQUE Fragancia Clinique Happy for Men 100ml: $34.990 (-64%, referencia $98.900) en Falabella\n2. HAMILTON BEACH Freidora de Aire 2.5 Litros FE-35051-CL: $39.990 (-55%, referencia $89.990) en Sodimac\n3. Ventilador para PC APNX FP2-120 PWM ARGB, Color Negro: $15.670 (-50%, referencia $31.340) en SP Digital\n\n⏰ Precios vistos hoy (25/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
+  },
+  "2026-10-25-r-historia-1792949952771": {
+   "tipo": "historia",
+   "fecha": "2026-10-25",
+   "estado": "publicado",
+   "bloque": "comparativas",
+   "hora": "14:39",
+   "id": "18077991713450007",
+   "ofertas": [
+    {
+     "id": "2084101",
+     "nombre": "CLINIQUE Fragancia Clinique Happy for Men 100ml",
+     "tienda": "Falabella",
+     "ahora": 34990,
+     "antes": 98900,
+     "pct": 64,
+     "rubro": "perfumes",
+     "esMinimo": false,
+     "dias": 54,
+     "visto": "13:39"
+    }
+   ]
   }
  },
  "config": {
@@ -5049,7 +5071,7 @@
    "hasta": "2026-10-25T17:04:59.049Z",
    "veces": 1
   },
-  "ultimaPub": "2026-10-25T17:32:12.977Z"
+  "ultimaPub": "2026-10-25T17:39:12.771Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-24",
@@ -5081,7 +5103,7 @@
   "2047330": "2026-10-24T16:29:17.398Z",
   "2048348": "2026-10-24T18:16:12.991Z",
   "2084002": "2026-10-24T19:46:03.256Z",
-  "2084101": "2026-10-24T19:31:33.911Z",
+  "2084101": "2026-10-25T17:39:12.771Z",
   "2085077": "2026-10-25T13:02:45.472Z",
   "2103253": "2026-10-24T01:46:29.201Z",
   "2103254": "2026-10-24T12:31:37.448Z",
