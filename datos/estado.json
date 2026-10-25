@@ -5496,6 +5496,28 @@
     "tmp-medios/1792960273481-r6.mp4"
    ],
    "texto": "🔥 3 ofertas de las más populares\n1. RECCO Enfriador de aire 50 W Blanco BL-202DLR-H: $33.990 (-43%, referencia $59.990) en Sodimac\n2. PRADA Perfume de Prada Infusion de Figue Eau de Parfum 100ml Unisex: $109.790 (-40%, referencia $182.990) en Falabella\n3. MIKROTIK mANTBox 52 15s with RouterOS L4 license: $132.990 (-40%, referencia $223.990) en Tecnomas.cl · 📉 mínimo de 64 días\n\n⏰ Precios vistos hoy (25/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
+  },
+  "2026-10-25-r-historia-1792962558466": {
+   "tipo": "historia",
+   "fecha": "2026-10-25",
+   "estado": "publicado",
+   "bloque": "populares",
+   "hora": "18:09",
+   "id": "18078379310723510",
+   "ofertas": [
+    {
+     "id": "1673333",
+     "nombre": "NINA RICCI Perfume Mujer Nina Ricci Nina EDT 50ml Nina Ricci",
+     "tienda": "Falabella",
+     "ahora": 49990,
+     "antes": 83990,
+     "pct": 40,
+     "rubro": "perfumes",
+     "esMinimo": true,
+     "dias": 20,
+     "visto": "17:43"
+    }
+   ]
   }
  },
  "config": {
@@ -5515,7 +5537,7 @@
    "hasta": "2026-10-25T17:04:59.049Z",
    "veces": 1
   },
-  "ultimaPub": "2026-10-25T20:32:36.929Z"
+  "ultimaPub": "2026-10-25T21:09:18.467Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-24",
@@ -5528,6 +5550,7 @@
   "1500833": "2026-10-24T14:16:00.715Z",
   "1530831": "2026-10-25T19:46:31.840Z",
   "1576473": "2026-10-25T11:02:33.325Z",
+  "1673333": "2026-10-25T21:09:18.466Z",
   "1673340": "2026-10-25T18:46:01.710Z",
   "1695609": "2026-10-25T11:32:46.060Z",
   "1784905": "2026-10-25T12:46:04.960Z",
