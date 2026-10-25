@@ -35,7 +35,7 @@
   "1795903": "2026-10-24T17:47:29.406Z",
   "1827803": "2026-10-24T17:47:29.406Z",
   "1840943": "2026-10-24T17:18:04.333Z",
-  "1841225": "2026-10-24T13:17:25.448Z",
+  "1841225": "2026-10-25T14:02:10.994Z",
   "1841233": "2026-10-25T11:47:33.620Z",
   "1841315": "2026-10-24T13:50:33.585Z",
   "1841316": "2026-10-24T13:50:33.585Z",
@@ -86,7 +86,7 @@
   "hamilton beach batidora de mano 290 w multicolor bp 62650 cl": "2026-10-24T13:50:33.585Z",
   "hamilton beach batidora de pedestal 3 7 l 290 kw negro 64650 cl": "2026-10-24T13:50:33.585Z",
   "hamilton beach freidora de aire 2 5 litros fe 35051 cl": "2026-10-24T17:18:04.333Z",
-  "volker campana convencional 60 cm inox": "2026-10-24T13:17:25.448Z",
+  "volker campana convencional 60 cm inox": "2026-10-25T14:02:10.994Z",
   "thomas chimenea electrica 2000w conveccion th fp100 madera": "2026-10-25T11:32:26.513Z",
   "karcher limpiadora de vapor karcher sc 1 multi": "2026-10-23T11:47:44.182Z",
   "prada perfume de prada infusion de figue eau de parfum 100ml unisex": "2026-10-23T18:37:53.150Z",
@@ -4883,6 +4883,35 @@
      "visto": "08:36"
     }
    ]
+  },
+  "2026-10-25-r-carrusel-1792936930994": {
+   "tipo": "carrusel",
+   "fecha": "2026-10-25",
+   "estado": "publicado",
+   "bloque": "comparativas",
+   "formato": "oferta",
+   "hora": "11:02",
+   "id": "17988644781097589",
+   "enlace": "https://www.instagram.com/p/De64BYFlNS6/",
+   "ofertas": [
+    {
+     "id": "1841225",
+     "nombre": "VOLKER Campana Convencional 60 cm Inox",
+     "tienda": "Sodimac",
+     "ahora": 59990,
+     "antes": 109990,
+     "pct": 45,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 82,
+     "visto": "10:45"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1792936900470-c4-1.jpg",
+    "tmp-medios/1792936900470-c4-2.jpg"
+   ],
+   "texto": "🔥 OFERTA DEL DÍA\nVOLKER Campana Convencional 60 cm Inox\nAhora: $59.990 (-45%)\nReferencia: $109.990\n🏪 Sodimac\n\n✅ Precio visto hoy a las 10:45 en nuestro sistema.\n📉 Es el precio más bajo de los últimos 82 días.\n⏰ Puede cambiar o agotarse sin aviso.\n📲 Enlace directo en Telegram: t.me/ofertixcl\n\n#ofertaschile #hogar #descuentoschile #ofertix #ofertasdeldia"
   }
  },
  "config": {
@@ -4902,7 +4931,7 @@
    "hasta": "2026-10-25T03:02:39.054Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-25T13:46:29.622Z"
+  "ultimaPub": "2026-10-25T14:02:10.994Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-24",
