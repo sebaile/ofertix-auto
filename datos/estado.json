@@ -4,7 +4,7 @@
   "824715": "2026-10-24T13:50:33.585Z",
   "824734": "2026-10-22T13:50:25.540Z",
   "825870": "2026-10-25T13:02:23.267Z",
-  "829028": "2026-10-24T13:03:03.715Z",
+  "829028": "2026-10-25T13:17:39.450Z",
   "830761": "2026-10-23T18:37:53.150Z",
   "1063781": "2026-10-25T12:17:43.457Z",
   "1087207": "2026-10-24T20:32:35.146Z",
@@ -41,7 +41,7 @@
   "1841316": "2026-10-24T13:50:33.585Z",
   "1848566": "2026-10-25T11:32:26.513Z",
   "1896728": "2026-10-24T17:32:36.422Z",
-  "2000806": "2026-10-24T13:03:03.715Z",
+  "2000806": "2026-10-25T13:17:39.450Z",
   "2007710": "2026-10-24T15:17:16.598Z",
   "2047193": "2026-10-24T15:32:26.709Z",
   "2047194": "2026-10-25T12:32:06.423Z",
@@ -53,11 +53,11 @@
   "2066558": "2026-10-24T20:02:59.387Z",
   "2084002": "2026-10-24T17:18:04.333Z",
   "2084101": "2026-10-24T15:32:26.709Z",
-  "2085077": "2026-10-24T13:03:03.715Z",
+  "2085077": "2026-10-25T13:17:39.450Z",
   "2086478": "2026-10-24T17:18:04.333Z",
   "2086682": "2026-10-24T15:32:26.709Z",
   "2103253": "2026-10-25T13:02:23.267Z",
-  "2103254": "2026-10-24T11:47:31.248Z",
+  "2103254": "2026-10-25T13:17:39.450Z",
   "2103256": "2026-10-25T12:17:43.457Z",
   "2132513": "2026-10-24T11:33:15.411Z"
  },
@@ -76,7 +76,7 @@
   "nina ricci perfume mujer nina ricci nina edt 50ml nina ricci": "2026-10-24T17:47:29.406Z",
   "mikrotik mantbox 52 15s with routeros l4 license": "2026-10-24T20:02:59.387Z",
   "samsung audifonos in ear sm r400nzaalta bluetooth v5 2 gray": "2026-10-25T11:47:33.620Z",
-  "thierry mugler perfume mujer mugler angel edp 100 ml thierry mugler": "2026-10-24T13:03:03.715Z",
+  "thierry mugler perfume mujer mugler angel edp 100 ml thierry mugler": "2026-10-25T13:17:39.450Z",
   "parlante portatil aiwa aw a521 90w bluetooth negro": "2026-10-25T12:17:43.458Z",
   "scanner panasonic kv s1015c x": "2026-10-22T17:28:56.096Z",
   "benetton perfume mujer sisterland green jasmine edt 80 ml benetton": "2026-10-24T17:47:29.406Z",
@@ -100,10 +100,10 @@
   "thomas termoventilador electrico 2000 w th fh31 blanco": "2026-10-24T20:02:59.387Z",
   "kate spade kate spade cherie je taime edp 100ml": "2026-10-25T11:32:26.513Z",
   "4711 perfume unisex white peach edc 170ml 4711": "2026-10-24T01:17:52.219Z",
-  "toyotomi horno electrico empotrado 56 litros he9silver": "2026-10-24T13:03:03.715Z",
+  "toyotomi horno electrico empotrado 56 litros he9silver": "2026-10-25T13:17:39.450Z",
   "tcl aire acondicionado portatil frio tcl 9000 btu": "2026-10-24T15:32:26.709Z",
   "clinique fragancia clinique happy for men 100ml": "2026-10-24T15:32:26.709Z",
-  "celular zte nubia music pop art 128gb 4gb azul rojo liberado": "2026-10-24T13:03:03.715Z",
+  "celular zte nubia music pop art 128gb 4gb azul rojo liberado": "2026-10-25T13:17:39.450Z",
   "caja abierta danada reloj smartwatch lhotse tw58 black n black": "2026-10-24T17:18:04.333Z",
   "clinique fragancia clinique happy perfume spray 100 ml": "2026-10-24T17:18:04.333Z",
   "ventilador para pc apnx fp2 120 pwm argb color negro": "2026-10-24T15:32:26.709Z",
@@ -114,7 +114,7 @@
   "moncler perfume moncler pour homme edp 60ml": "2026-10-24T17:18:04.333Z",
   "jimmy choo perfume hombre j choo man extreme 30ml": "2026-10-24T11:33:15.411Z",
   "recco estufa electrica blanco 1200 w radiacion nsb 99y blanco": "2026-10-25T13:02:23.267Z",
-  "recco mini calefactor 600 w oleoelectrica blanco": "2026-10-24T11:47:31.248Z",
+  "recco mini calefactor 600 w oleoelectrica blanco": "2026-10-25T13:17:39.450Z",
   "moncler perfume mujer moncler pour femme edp 100 ml": "2026-10-24T15:02:27.912Z",
   "alisador gama dual plates led": "2026-10-25T11:47:33.620Z",
   "lg parlante bluetooth grab amexlbk lg": "2026-10-25T13:02:23.267Z",
@@ -4729,6 +4729,72 @@
      "visto": "08:36"
     }
    ]
+  },
+  "2026-10-25-r-carrusel-1792934259451": {
+   "tipo": "carrusel",
+   "fecha": "2026-10-25",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "formato": "top5",
+   "hora": "10:17",
+   "id": "18130139788880769",
+   "enlace": "https://www.instagram.com/p/De6y68mIIYg/",
+   "ofertas": [
+    {
+     "id": "2000806",
+     "nombre": "TOYOTOMI Horno Eléctrico Empotrado 56 Litros HE9SILVER",
+     "tienda": "Sodimac",
+     "ahora": 249990,
+     "antes": 499990,
+     "pct": 50,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 44,
+     "visto": "08:36"
+    },
+    {
+     "id": "829028",
+     "nombre": "THIERRY MUGLER Perfume Mujer Mugler Angel EDP 100 ml Thierry Mugler",
+     "tienda": "Falabella",
+     "ahora": 104990,
+     "antes": 175990,
+     "pct": 40,
+     "rubro": "perfumes",
+     "esMinimo": true,
+     "dias": 89,
+     "visto": "08:36"
+    },
+    {
+     "id": "2085077",
+     "nombre": "Celular ZTE nubia Music Pop Art 128GB/4GB Azul/Rojo Liberado",
+     "tienda": "PC Factory",
+     "ahora": 92790,
+     "antes": 180290,
+     "pct": 48,
+     "rubro": "tecnologia",
+     "esMinimo": false,
+     "dias": 11,
+     "visto": "08:36"
+    },
+    {
+     "id": "2103254",
+     "nombre": "RECCO Mini Calefactor 600 W Oleoeléctrica Blanco",
+     "tienda": "Sodimac",
+     "ahora": 15990,
+     "antes": 37990,
+     "pct": 57,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 70,
+     "visto": "08:36"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1792934222203-c3-1.jpg",
+    "tmp-medios/1792934222203-c3-2.jpg",
+    "tmp-medios/1792934222203-c3-3.jpg"
+   ],
+   "texto": "🏆 Top 5 en tecnología\n1. TOYOTOMI Horno Eléctrico Empotrado 56 Litros HE9SILVER: $249.990 (-50%) en Sodimac · 📉 mínimo de 44 días\n2. THIERRY MUGLER Perfume Mujer Mugler Angel EDP 100 ml Thierry Mugler: $104.990 (-40%) en Falabella · 📉 mínimo de 89 días\n3. Celular ZTE nubia Music Pop Art 128GB/4GB Azul/Rojo Liberado: $92.790 (-48%) en PC Factory\n4. RECCO Mini Calefactor 600 W Oleoeléctrica Blanco: $15.990 (-57%) en Sodimac\n\n⏰ Precios vistos hoy (25/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #top5 #descuentoschile #ofertix #ahorrar"
   }
  },
  "config": {
@@ -4748,7 +4814,7 @@
    "hasta": "2026-10-25T03:02:39.054Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-25T13:02:45.473Z"
+  "ultimaPub": "2026-10-25T13:17:39.451Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-24",
