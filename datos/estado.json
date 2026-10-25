@@ -4420,6 +4420,28 @@
     "tmp-medios/1792928813825-c1-3.jpg"
    ],
    "texto": "🏆 Ofertas nuevas de hoy\n1. HAMILTON BEACH Microondas Digital 23 Litros Inox HB-P90D23EL-LXA: $44.990 (-55%) en Sodimac · 📉 mínimo de 44 días\n2. Samsung Audífonos In Ear SM-R400NZAALTA Bluetooth v5.2 Gray: $59.990 (-40%) en Lider · 📉 mínimo de 18 días\n3. Teclado HyperX Alloy Core RGB (4P4F5AI / HX-KB5ME2-LA): $29.990 (-40%) en Valrod · 📉 mínimo de 53 días\n4. DOLCE&GABBANA Perfume Hombre EDP Dolce&Gabbana: $91.890 (-42%) en Falabella\n5. Alisador Gama Dual Plates Led: $34.990 (-41%) en Hites\n\n⏰ Precios vistos hoy (25/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #top5 #descuentoschile #ofertix #ahorrar"
+  },
+  "2026-10-25-r-historia-1792928874442": {
+   "tipo": "historia",
+   "fecha": "2026-10-25",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "hora": "08:47",
+   "id": "18126026500918124",
+   "ofertas": [
+    {
+     "id": "1841233",
+     "nombre": "HAMILTON BEACH Microondas Digital 23 Litros Inox HB-P90D23EL-LXA",
+     "tienda": "Sodimac",
+     "ahora": 44990,
+     "antes": 99990,
+     "pct": 55,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 44,
+     "visto": "07:42"
+    }
+   ]
   }
  },
  "config": {
@@ -4439,7 +4461,7 @@
    "hasta": "2026-10-25T03:02:39.054Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-25T11:47:33.621Z"
+  "ultimaPub": "2026-10-25T11:47:54.443Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-24",
@@ -4458,7 +4480,7 @@
   "1784905": "2026-10-24T13:46:02.792Z",
   "1840943": "2026-10-24T01:01:35.723Z",
   "1841225": "2026-10-24T18:01:25.873Z",
-  "1841233": "2026-10-24T15:46:05.063Z",
+  "1841233": "2026-10-25T11:47:54.442Z",
   "1841315": "2026-10-23T15:17:53.197Z",
   "1841316": "2026-10-24T00:46:32.947Z",
   "1848566": "2026-10-25T11:16:20.592Z",
