@@ -26,6 +26,7 @@
   "1695609": "2026-10-25T20:32:36.929Z",
   "1701548": "2026-10-24T20:02:59.387Z",
   "1784905": "2026-10-26T13:21:17.276Z",
+  "1785097": "2026-10-26T19:32:06.242Z",
   "1795903": "2026-10-26T13:33:21.167Z",
   "1827803": "2026-10-25T20:03:01.761Z",
   "1840943": "2026-10-25T17:32:12.977Z",
@@ -43,13 +44,13 @@
   "2047249": "2026-10-26T12:03:28.590Z",
   "2047330": "2026-10-24T01:17:52.219Z",
   "2048291": "2026-10-24T20:02:59.387Z",
-  "2048348": "2026-10-25T18:20:39.952Z",
+  "2048348": "2026-10-26T19:32:06.242Z",
   "2066558": "2026-10-25T20:32:36.929Z",
   "2084002": "2026-10-25T19:32:18.095Z",
   "2084101": "2026-10-25T17:32:12.976Z",
   "2085077": "2026-10-26T13:33:21.167Z",
   "2086478": "2026-10-25T18:20:39.952Z",
-  "2086682": "2026-10-25T17:32:12.977Z",
+  "2086682": "2026-10-26T19:32:06.242Z",
   "2103253": "2026-10-26T13:33:21.167Z",
   "2103254": "2026-10-26T13:33:21.167Z",
   "2103256": "2026-10-26T13:21:17.276Z",
@@ -93,7 +94,7 @@
   "celular zte nubia music pop art 128gb 4gb azul rojo liberado": "2026-10-26T13:33:21.167Z",
   "caja abierta danada reloj smartwatch lhotse tw58 black n black": "2026-10-25T18:20:39.952Z",
   "clinique fragancia clinique happy perfume spray 100 ml": "2026-10-25T19:32:18.095Z",
-  "ventilador para pc apnx fp2 120 pwm argb color negro": "2026-10-25T17:32:12.977Z",
+  "ventilador para pc apnx fp2 120 pwm argb color negro": "2026-10-26T19:32:06.242Z",
   "recco enfriador de aire 50 w blanco bl 202dlr h": "2026-10-25T20:32:36.929Z",
   "cartier perfume mujer la panthere elixir edp 100 ml cartier": "2026-10-24T20:02:59.387Z",
   "auriculares inalambricos jbl tour one m3 smart tx mocha": "2026-10-24T01:17:52.219Z",
@@ -102,13 +103,14 @@
   "jimmy choo perfume hombre j choo man extreme 30ml": "2026-10-26T14:48:45.841Z",
   "recco estufa electrica blanco 1200 w radiacion nsb 99y blanco": "2026-10-26T13:33:21.167Z",
   "recco mini calefactor 600 w oleoelectrica blanco": "2026-10-26T13:33:21.167Z",
-  "moncler perfume mujer moncler pour femme edp 100 ml": "2026-10-25T18:20:39.952Z",
+  "moncler perfume mujer moncler pour femme edp 100 ml": "2026-10-26T19:32:06.242Z",
   "alisador gama dual plates led": "2026-10-25T11:47:33.620Z",
   "lg parlante bluetooth grab amexlbk lg": "2026-10-26T13:47:21.814Z",
   "rabanne perfume hombre black xs edt 100ml rabanne": "2026-10-24T20:02:59.387Z",
   "tcl aire acondicionado portatil frio calor tcl 12000 btu": "2026-10-25T12:32:06.423Z",
   "antonio banderas perfume edt hombre the icon edt 200 ml banderas": "2026-10-26T13:47:21.814Z",
-  "nex ventilador suelo industrial 36 negro": "2026-10-26T15:17:20.886Z"
+  "nex ventilador suelo industrial 36 negro": "2026-10-26T15:17:20.886Z",
+  "ursus trotter horno electrico sobremesa 25 litros ut backofen pro b": "2026-10-26T19:32:06.242Z"
  },
  "items": {
   "2026-10-23-r-carrusel-1792753327142": {
@@ -5412,6 +5414,57 @@
      "visto": "15:03"
     }
    ]
+  },
+  "2026-10-26-r-reel-1793043126242": {
+   "tipo": "reel",
+   "fecha": "2026-10-26",
+   "estado": "publicado",
+   "bloque": "populares",
+   "hora": "16:32",
+   "id": "17899579938394523",
+   "enlace": "https://www.instagram.com/reel/De-CiLXkxAu/",
+   "ofertas": [
+    {
+     "id": "2048348",
+     "nombre": "MONCLER Perfume Mujer Moncler Pour Femme Edp 100 Ml",
+     "tienda": "Falabella",
+     "ahora": 89990,
+     "antes": 149990,
+     "pct": 40,
+     "rubro": "perfumes",
+     "esMinimo": true,
+     "dias": 84,
+     "visto": "16:13"
+    },
+    {
+     "id": "2086682",
+     "nombre": "Ventilador para PC APNX FP2-120 PWM ARGB, Color Negro",
+     "tienda": "SP Digital",
+     "ahora": 15670,
+     "antes": 31340,
+     "pct": 50,
+     "rubro": "gamer",
+     "esMinimo": false,
+     "dias": 4,
+     "visto": "16:13"
+    },
+    {
+     "id": "1785097",
+     "nombre": "URSUS TROTTER Horno Eléctrico Sobremesa 25 Litros UT-BACKOFEN PRO-B",
+     "tienda": "Sodimac",
+     "ahora": 34990,
+     "antes": 59990,
+     "pct": 41,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 62,
+     "visto": "16:13"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1793043051196-r4.mp4"
+   ],
+   "texto": "🔥 3 ofertas de las más populares\n1. MONCLER Perfume Mujer Moncler Pour Femme Edp 100 Ml: $89.990 (-40%, referencia $149.990) en Falabella · 📉 mínimo de 84 días\n2. Ventilador para PC APNX FP2-120 PWM ARGB, Color Negro: $15.670 (-50%, referencia $31.340) en SP Digital\n3. URSUS TROTTER Horno Eléctrico Sobremesa 25 Litros UT-BACKOFEN PRO-B: $34.990 (-41%, referencia $59.990) en Sodimac\n\n⏰ Precios vistos hoy (26/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
   }
  },
  "config": {
@@ -5431,7 +5484,7 @@
    "hasta": "2026-10-26T18:46:10.747Z",
    "veces": 1
   },
-  "ultimaPub": "2026-10-26T19:16:05.100Z"
+  "ultimaPub": "2026-10-26T19:32:06.242Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-25",
