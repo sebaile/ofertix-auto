@@ -5792,6 +5792,28 @@
      "visto": "20:17"
     }
    ]
+  },
+  "2026-10-26-r-historia-1793058546036": {
+   "tipo": "historia",
+   "fecha": "2026-10-26",
+   "estado": "publicado",
+   "bloque": "recopilaciones",
+   "hora": "20:49",
+   "id": "18129281930311023",
+   "ofertas": [
+    {
+     "id": "824715",
+     "nombre": "SAMSUNG Encimera a Gas 5 Quemadores Gris",
+     "tienda": "Falabella Marketplace",
+     "ahora": 199990,
+     "antes": 359990,
+     "pct": 44,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 77,
+     "visto": "20:17"
+    }
+   ]
   }
  },
  "config": {
@@ -5811,12 +5833,12 @@
    "hasta": "2026-10-26T18:46:10.747Z",
    "veces": 1
   },
-  "ultimaPub": "2026-10-26T23:47:56.529Z"
+  "ultimaPub": "2026-10-26T23:49:06.036Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-25",
  "usadasH": {
-  "824715": "2026-10-25T13:17:53.393Z",
+  "824715": "2026-10-26T23:49:06.036Z",
   "825870": "2026-10-26T14:16:47.272Z",
   "829028": "2026-10-25T22:31:29.452Z",
   "1063781": "2026-10-26T22:23:04.133Z",
