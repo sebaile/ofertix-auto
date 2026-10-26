@@ -2,13 +2,13 @@
  "offset": 44460906,
  "usadas": {
   "824715": "2026-10-25T19:32:18.095Z",
-  "825870": "2026-10-25T13:02:23.267Z",
+  "825870": "2026-10-26T13:47:21.814Z",
   "829028": "2026-10-26T13:33:21.167Z",
   "830761": "2026-10-25T20:32:36.929Z",
   "1063781": "2026-10-26T13:21:17.276Z",
   "1087207": "2026-10-26T12:17:30.883Z",
   "1087230": "2026-10-26T12:17:30.883Z",
-  "1087242": "2026-10-25T13:02:23.267Z",
+  "1087242": "2026-10-26T13:47:21.814Z",
   "1087642": "2026-10-26T11:54:52.166Z",
   "1110715": "2026-10-23T15:17:32.899Z",
   "1110717": "2026-10-25T21:16:57.917Z",
@@ -16,7 +16,7 @@
   "1137440": "2026-10-26T12:03:28.590Z",
   "1500833": "2026-10-24T01:17:52.219Z",
   "1530831": "2026-10-25T18:20:39.952Z",
-  "1531094": "2026-10-24T20:32:35.146Z",
+  "1531094": "2026-10-26T13:47:21.814Z",
   "1576473": "2026-10-25T11:02:10.743Z",
   "1592754": "2026-10-25T18:20:39.952Z",
   "1611327": "2026-10-25T11:47:33.620Z",
@@ -63,7 +63,7 @@
   "dolce gabbana perfume hombre edp dolce gabbana": "2026-10-26T12:17:30.883Z",
   "ferragamo perfume hombre red men edp 50 ml ferragamo": "2026-10-25T21:16:57.917Z",
   "nespresso cafetera essenza mini negra espumador": "2026-10-25T18:20:39.952Z",
-  "fdv hervidor de vidrio crystal 1 7 lts kegs5813 gs fdv": "2026-10-24T20:32:35.146Z",
+  "fdv hervidor de vidrio crystal 1 7 lts kegs5813 gs fdv": "2026-10-26T13:47:21.814Z",
   "carolina herrera perfume hombre bad boy edt 50ml carolina herrera": "2026-10-25T18:20:39.952Z",
   "nina ricci perfume mujer nina ricci nina edt 50ml nina ricci": "2026-10-25T20:03:01.761Z",
   "mikrotik mantbox 52 15s with routeros l4 license": "2026-10-25T20:32:36.929Z",
@@ -105,10 +105,10 @@
   "recco mini calefactor 600 w oleoelectrica blanco": "2026-10-26T13:33:21.167Z",
   "moncler perfume mujer moncler pour femme edp 100 ml": "2026-10-25T18:20:39.952Z",
   "alisador gama dual plates led": "2026-10-25T11:47:33.620Z",
-  "lg parlante bluetooth grab amexlbk lg": "2026-10-25T13:02:23.267Z",
+  "lg parlante bluetooth grab amexlbk lg": "2026-10-26T13:47:21.814Z",
   "rabanne perfume hombre black xs edt 100ml rabanne": "2026-10-24T20:02:59.387Z",
   "tcl aire acondicionado portatil frio calor tcl 12000 btu": "2026-10-25T12:32:06.423Z",
-  "antonio banderas perfume edt hombre the icon edt 200 ml banderas": "2026-10-25T13:02:23.267Z"
+  "antonio banderas perfume edt hombre the icon edt 200 ml banderas": "2026-10-26T13:47:21.814Z"
  },
  "items": {
   "2026-10-23-r-carrusel-1792753327142": {
@@ -5032,6 +5032,57 @@
     "tmp-medios/1793021569715-c3-3.jpg"
    ],
    "texto": "🏆 Top 5 en tecnología\n1. THIERRY MUGLER Perfume Mujer Mugler Angel EDP 100 ml Thierry Mugler: $104.990 (-40%) en Falabella · 📉 mínimo de 71 días\n2. RECCO Estufa eléctrica Blanco 1200 W Radiación NSB-99Y Blanco: $12.490 (-58%) en Sodimac\n3. Celular ZTE nubia Music Pop Art 128GB/4GB Azul/Rojo Liberado: $92.790 (-48%) en PC Factory\n4. RECCO Mini Calefactor 600 W Oleoeléctrica Blanco: $15.990 (-57%) en Sodimac\n5. BENETTON Perfume Mujer Sisterland Green Jasmine Edt 80 Ml Benetton: $15.990 (-51%) en Falabella\n\n⏰ Precios vistos hoy (26/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #top5 #descuentoschile #ofertix #ahorrar"
+  },
+  "2026-10-26-r-reel-1793022441814": {
+   "tipo": "reel",
+   "fecha": "2026-10-26",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "hora": "10:47",
+   "id": "18122674549736091",
+   "enlace": "https://www.instagram.com/reel/De9bFHdjh-I/",
+   "ofertas": [
+    {
+     "id": "1531094",
+     "nombre": "FDV Hervidor de Vidrio Crystal 1.7 Lts KEGS5813-GS FDV",
+     "tienda": "Lider",
+     "ahora": 19990,
+     "antes": 34990,
+     "pct": 42,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 21,
+     "visto": "10:09"
+    },
+    {
+     "id": "1087242",
+     "nombre": "ANTONIO BANDERAS Perfume EDT Hombre The Icon EDT 200 Ml Banderas",
+     "tienda": "Falabella",
+     "ahora": 22990,
+     "antes": 38990,
+     "pct": 41,
+     "rubro": "perfumes",
+     "esMinimo": false,
+     "dias": 81,
+     "visto": "10:09"
+    },
+    {
+     "id": "825870",
+     "nombre": "LG Parlante Bluetooth Grab Amexlbk LG",
+     "tienda": "Falabella",
+     "ahora": 59990,
+     "antes": 99990,
+     "pct": 40,
+     "rubro": "tecnologia",
+     "esMinimo": false,
+     "dias": 86,
+     "visto": "10:09"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1793022372425-r2.mp4"
+   ],
+   "texto": "🔥 3 ofertas de hogar\n1. FDV Hervidor de Vidrio Crystal 1.7 Lts KEGS5813-GS FDV: $19.990 (-42%, referencia $34.990) en Lider\n2. ANTONIO BANDERAS Perfume EDT Hombre The Icon EDT 200 Ml Banderas: $22.990 (-41%, referencia $38.990) en Falabella\n3. LG Parlante Bluetooth Grab Amexlbk LG: $59.990 (-40%, referencia $99.990) en Falabella\n\n⏰ Precios vistos hoy (26/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
   }
  },
  "config": {
@@ -5051,7 +5102,7 @@
    "hasta": "2026-10-26T05:16:01.460Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-26T13:33:21.167Z"
+  "ultimaPub": "2026-10-26T13:47:21.814Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-25",
