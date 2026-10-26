@@ -5156,6 +5156,28 @@
      "visto": "10:09"
     }
    ]
+  },
+  "2026-10-26-r-historia-1793024207272": {
+   "tipo": "historia",
+   "fecha": "2026-10-26",
+   "estado": "publicado",
+   "bloque": "comparativas",
+   "hora": "11:16",
+   "id": "17899223406608958",
+   "ofertas": [
+    {
+     "id": "825870",
+     "nombre": "LG Parlante Bluetooth Grab Amexlbk LG",
+     "tienda": "Falabella",
+     "ahora": 59990,
+     "antes": 99990,
+     "pct": 40,
+     "rubro": "tecnologia",
+     "esMinimo": false,
+     "dias": 86,
+     "visto": "10:09"
+    }
+   ]
   }
  },
  "config": {
@@ -5175,13 +5197,13 @@
    "hasta": "2026-10-26T05:16:01.460Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-26T14:16:26.781Z"
+  "ultimaPub": "2026-10-26T14:16:47.273Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-25",
  "usadasH": {
   "824715": "2026-10-25T13:17:53.393Z",
-  "825870": "2026-10-25T13:31:27.965Z",
+  "825870": "2026-10-26T14:16:47.272Z",
   "829028": "2026-10-25T22:31:29.452Z",
   "1063781": "2026-10-25T13:46:29.622Z",
   "1087642": "2026-10-26T12:17:50.955Z",
