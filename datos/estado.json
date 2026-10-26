@@ -3,7 +3,7 @@
  "usadas": {
   "824715": "2026-10-25T19:32:18.095Z",
   "825870": "2026-10-25T13:02:23.267Z",
-  "829028": "2026-10-25T13:17:39.450Z",
+  "829028": "2026-10-26T13:33:21.167Z",
   "830761": "2026-10-25T20:32:36.929Z",
   "1063781": "2026-10-26T13:21:17.276Z",
   "1087207": "2026-10-26T12:17:30.883Z",
@@ -26,7 +26,7 @@
   "1695609": "2026-10-25T20:32:36.929Z",
   "1701548": "2026-10-24T20:02:59.387Z",
   "1784905": "2026-10-26T13:21:17.276Z",
-  "1795903": "2026-10-24T17:47:29.406Z",
+  "1795903": "2026-10-26T13:33:21.167Z",
   "1827803": "2026-10-25T20:03:01.761Z",
   "1840943": "2026-10-25T17:32:12.977Z",
   "1841225": "2026-10-25T14:02:10.994Z",
@@ -47,11 +47,11 @@
   "2066558": "2026-10-25T20:32:36.929Z",
   "2084002": "2026-10-25T19:32:18.095Z",
   "2084101": "2026-10-25T17:32:12.976Z",
-  "2085077": "2026-10-25T13:17:39.450Z",
+  "2085077": "2026-10-26T13:33:21.167Z",
   "2086478": "2026-10-25T18:20:39.952Z",
   "2086682": "2026-10-25T17:32:12.977Z",
-  "2103253": "2026-10-25T13:02:23.267Z",
-  "2103254": "2026-10-25T13:17:39.450Z",
+  "2103253": "2026-10-26T13:33:21.167Z",
+  "2103254": "2026-10-26T13:33:21.167Z",
   "2103256": "2026-10-26T13:21:17.276Z",
   "2132513": "2026-10-25T14:03:24.086Z"
  },
@@ -68,9 +68,9 @@
   "nina ricci perfume mujer nina ricci nina edt 50ml nina ricci": "2026-10-25T20:03:01.761Z",
   "mikrotik mantbox 52 15s with routeros l4 license": "2026-10-25T20:32:36.929Z",
   "samsung audifonos in ear sm r400nzaalta bluetooth v5 2 gray": "2026-10-26T12:03:28.590Z",
-  "thierry mugler perfume mujer mugler angel edp 100 ml thierry mugler": "2026-10-25T13:17:39.450Z",
+  "thierry mugler perfume mujer mugler angel edp 100 ml thierry mugler": "2026-10-26T13:33:21.167Z",
   "parlante portatil aiwa aw a521 90w bluetooth negro": "2026-10-26T13:21:17.276Z",
-  "benetton perfume mujer sisterland green jasmine edt 80 ml benetton": "2026-10-24T17:47:29.406Z",
+  "benetton perfume mujer sisterland green jasmine edt 80 ml benetton": "2026-10-26T13:33:21.167Z",
   "rabanne perfume hombre one million elixir edp 200ml rabanne": "2026-10-26T12:17:30.883Z",
   "licuadora easyways licuadora crush n roll 1 5 l": "2026-10-25T20:03:01.761Z",
   "hamilton beach microondas digital 23 litros inox hb p90d23el lxa": "2026-10-26T12:03:28.590Z",
@@ -91,7 +91,7 @@
   "toyotomi horno electrico empotrado 56 litros he9silver": "2026-10-26T13:19:42.659Z",
   "tcl aire acondicionado portatil frio tcl 9000 btu": "2026-10-26T12:17:30.883Z",
   "clinique fragancia clinique happy for men 100ml": "2026-10-25T17:32:12.977Z",
-  "celular zte nubia music pop art 128gb 4gb azul rojo liberado": "2026-10-25T13:17:39.450Z",
+  "celular zte nubia music pop art 128gb 4gb azul rojo liberado": "2026-10-26T13:33:21.167Z",
   "caja abierta danada reloj smartwatch lhotse tw58 black n black": "2026-10-25T18:20:39.952Z",
   "clinique fragancia clinique happy perfume spray 100 ml": "2026-10-25T19:32:18.095Z",
   "ventilador para pc apnx fp2 120 pwm argb color negro": "2026-10-25T17:32:12.977Z",
@@ -101,8 +101,8 @@
   "wurden convector conveccion qnq 101f blanco": "2026-10-26T13:21:17.276Z",
   "moncler perfume moncler pour homme edp 60ml": "2026-10-25T20:03:01.761Z",
   "jimmy choo perfume hombre j choo man extreme 30ml": "2026-10-25T14:03:24.086Z",
-  "recco estufa electrica blanco 1200 w radiacion nsb 99y blanco": "2026-10-25T13:02:23.267Z",
-  "recco mini calefactor 600 w oleoelectrica blanco": "2026-10-25T13:17:39.450Z",
+  "recco estufa electrica blanco 1200 w radiacion nsb 99y blanco": "2026-10-26T13:33:21.167Z",
+  "recco mini calefactor 600 w oleoelectrica blanco": "2026-10-26T13:33:21.167Z",
   "moncler perfume mujer moncler pour femme edp 100 ml": "2026-10-25T18:20:39.952Z",
   "alisador gama dual plates led": "2026-10-25T11:47:33.620Z",
   "lg parlante bluetooth grab amexlbk lg": "2026-10-25T13:02:23.267Z",
@@ -4954,6 +4954,84 @@
      "visto": "10:09"
     }
    ]
+  },
+  "2026-10-26-r-carrusel-1793021601167": {
+   "tipo": "carrusel",
+   "fecha": "2026-10-26",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "formato": "top5",
+   "hora": "10:33",
+   "id": "18146922253607783",
+   "enlace": "https://www.instagram.com/p/De9ZhhbkXoi/",
+   "ofertas": [
+    {
+     "id": "829028",
+     "nombre": "THIERRY MUGLER Perfume Mujer Mugler Angel EDP 100 ml Thierry Mugler",
+     "tienda": "Falabella",
+     "ahora": 104990,
+     "antes": 175990,
+     "pct": 40,
+     "rubro": "perfumes",
+     "esMinimo": true,
+     "dias": 71,
+     "visto": "10:09"
+    },
+    {
+     "id": "2103253",
+     "nombre": "RECCO Estufa eléctrica Blanco 1200 W Radiación NSB-99Y Blanco",
+     "tienda": "Sodimac",
+     "ahora": 12490,
+     "antes": 29990,
+     "pct": 58,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 87,
+     "visto": "10:09"
+    },
+    {
+     "id": "2085077",
+     "nombre": "Celular ZTE nubia Music Pop Art 128GB/4GB Azul/Rojo Liberado",
+     "tienda": "PC Factory",
+     "ahora": 92790,
+     "antes": 180290,
+     "pct": 48,
+     "rubro": "tecnologia",
+     "esMinimo": false,
+     "dias": 12,
+     "visto": "10:09"
+    },
+    {
+     "id": "2103254",
+     "nombre": "RECCO Mini Calefactor 600 W Oleoeléctrica Blanco",
+     "tienda": "Sodimac",
+     "ahora": 15990,
+     "antes": 37990,
+     "pct": 57,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 71,
+     "visto": "10:09"
+    },
+    {
+     "id": "1795903",
+     "nombre": "BENETTON Perfume Mujer Sisterland Green Jasmine Edt 80 Ml Benetton",
+     "tienda": "Falabella",
+     "ahora": 15990,
+     "antes": 32990,
+     "pct": 51,
+     "rubro": "perfumes",
+     "esMinimo": false,
+     "dias": 65,
+     "visto": "10:09"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1793021569715-c3-1.jpg",
+    "tmp-medios/1793021569715-c3-2.jpg",
+    "tmp-medios/1793021569715-c3-3.jpg"
+   ],
+   "texto": "🏆 Top 5 en tecnología\n1. THIERRY MUGLER Perfume Mujer Mugler Angel EDP 100 ml Thierry Mugler: $104.990 (-40%) en Falabella · 📉 mínimo de 71 días\n2. RECCO Estufa eléctrica Blanco 1200 W Radiación NSB-99Y Blanco: $12.490 (-58%) en Sodimac\n3. Celular ZTE nubia Music Pop Art 128GB/4GB Azul/Rojo Liberado: $92.790 (-48%) en PC Factory\n4. RECCO Mini Calefactor 600 W Oleoeléctrica Blanco: $15.990 (-57%) en Sodimac\n5. BENETTON Perfume Mujer Sisterland Green Jasmine Edt 80 Ml Benetton: $15.990 (-51%) en Falabella\n\n⏰ Precios vistos hoy (26/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #top5 #descuentoschile #ofertix #ahorrar"
   }
  },
  "config": {
@@ -4973,7 +5051,7 @@
    "hasta": "2026-10-26T05:16:01.460Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-26T13:31:25.180Z"
+  "ultimaPub": "2026-10-26T13:33:21.167Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-25",
