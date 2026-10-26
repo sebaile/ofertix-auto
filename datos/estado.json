@@ -19,6 +19,7 @@
   "1531094": "2026-10-26T13:47:21.814Z",
   "1576473": "2026-10-25T11:02:10.743Z",
   "1592754": "2026-10-25T18:20:39.952Z",
+  "1595843": "2026-10-26T15:17:20.886Z",
   "1611327": "2026-10-25T11:47:33.620Z",
   "1673324": "2026-10-24T20:02:59.387Z",
   "1673333": "2026-10-25T20:03:01.761Z",
@@ -108,7 +109,8 @@
   "lg parlante bluetooth grab amexlbk lg": "2026-10-26T13:47:21.814Z",
   "rabanne perfume hombre black xs edt 100ml rabanne": "2026-10-24T20:02:59.387Z",
   "tcl aire acondicionado portatil frio calor tcl 12000 btu": "2026-10-25T12:32:06.423Z",
-  "antonio banderas perfume edt hombre the icon edt 200 ml banderas": "2026-10-26T13:47:21.814Z"
+  "antonio banderas perfume edt hombre the icon edt 200 ml banderas": "2026-10-26T13:47:21.814Z",
+  "nex ventilador suelo industrial 36 negro": "2026-10-26T15:17:20.886Z"
  },
  "items": {
   "2026-10-23-r-carrusel-1792753327142": {
@@ -5339,6 +5341,35 @@
      "visto": "11:06"
     }
    ]
+  },
+  "2026-10-26-r-carrusel-1793027840887": {
+   "tipo": "carrusel",
+   "fecha": "2026-10-26",
+   "estado": "publicado",
+   "bloque": "comparativas",
+   "formato": "oferta",
+   "hora": "12:17",
+   "id": "18178848058384516",
+   "enlace": "https://www.instagram.com/p/De9lafKkWFW/",
+   "ofertas": [
+    {
+     "id": "1595843",
+     "nombre": "Nex Ventilador suelo industrial 36'' negro",
+     "tienda": "Easy",
+     "ahora": 119990,
+     "antes": 239990,
+     "pct": 50,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 27,
+     "visto": "11:06"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1793027805556-c5-1.jpg",
+    "tmp-medios/1793027805556-c5-2.jpg"
+   ],
+   "texto": "🔥 OFERTA DEL DÍA\nNex Ventilador suelo industrial 36'' negro\nAhora: $119.990 (-50%)\nReferencia: $239.990\n🏪 Easy\n\n✅ Precio visto hoy a las 11:06 en nuestro sistema.\n⏰ Puede cambiar o agotarse sin aviso.\n📲 Enlace directo en Telegram: t.me/ofertixcl\n\n#ofertaschile #hogar #descuentoschile #ofertix #ofertasdeldia"
   }
  },
  "config": {
@@ -5358,7 +5389,7 @@
    "hasta": "2026-10-26T05:16:01.460Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-26T15:02:01.390Z"
+  "ultimaPub": "2026-10-26T15:17:20.887Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-25",
