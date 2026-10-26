@@ -5,7 +5,7 @@
   "825870": "2026-10-25T13:02:23.267Z",
   "829028": "2026-10-25T13:17:39.450Z",
   "830761": "2026-10-25T20:32:36.929Z",
-  "1063781": "2026-10-25T12:17:43.457Z",
+  "1063781": "2026-10-26T13:21:17.276Z",
   "1087207": "2026-10-26T12:17:30.883Z",
   "1087230": "2026-10-26T12:17:30.883Z",
   "1087242": "2026-10-25T13:02:23.267Z",
@@ -26,7 +26,7 @@
   "1673340": "2026-10-25T18:20:39.952Z",
   "1695609": "2026-10-25T20:32:36.929Z",
   "1701548": "2026-10-24T20:02:59.387Z",
-  "1784905": "2026-10-25T12:17:43.458Z",
+  "1784905": "2026-10-26T13:21:17.276Z",
   "1795903": "2026-10-24T17:47:29.406Z",
   "1827803": "2026-10-25T20:03:01.761Z",
   "1840943": "2026-10-25T17:32:12.977Z",
@@ -53,11 +53,11 @@
   "2086682": "2026-10-25T17:32:12.977Z",
   "2103253": "2026-10-25T13:02:23.267Z",
   "2103254": "2026-10-25T13:17:39.450Z",
-  "2103256": "2026-10-25T12:17:43.457Z",
+  "2103256": "2026-10-26T13:21:17.276Z",
   "2132513": "2026-10-25T14:03:24.086Z"
  },
  "nombres": {
-  "calvin klein calvin klein ck one eau de toilette unisex 50 ml": "2026-10-25T12:17:43.457Z",
+  "calvin klein calvin klein ck one eau de toilette unisex 50 ml": "2026-10-26T13:21:17.276Z",
   "primus mouse inalambrico gladius boba fett": "2026-10-26T11:54:52.167Z",
   "dolce gabbana set de tres regalos q by dolce gabbana edp": "2026-10-23T15:17:32.899Z",
   "teclado hyperx alloy core rgb 4p4f5ai hx kb5me2 la": "2026-10-26T12:03:28.590Z",
@@ -70,7 +70,7 @@
   "mikrotik mantbox 52 15s with routeros l4 license": "2026-10-25T20:32:36.929Z",
   "samsung audifonos in ear sm r400nzaalta bluetooth v5 2 gray": "2026-10-26T12:03:28.590Z",
   "thierry mugler perfume mujer mugler angel edp 100 ml thierry mugler": "2026-10-25T13:17:39.450Z",
-  "parlante portatil aiwa aw a521 90w bluetooth negro": "2026-10-25T12:17:43.458Z",
+  "parlante portatil aiwa aw a521 90w bluetooth negro": "2026-10-26T13:21:17.276Z",
   "benetton perfume mujer sisterland green jasmine edt 80 ml benetton": "2026-10-24T17:47:29.406Z",
   "rabanne perfume hombre one million elixir edp 200ml rabanne": "2026-10-26T12:17:30.883Z",
   "licuadora easyways licuadora crush n roll 1 5 l": "2026-10-25T20:03:01.761Z",
@@ -100,7 +100,7 @@
   "recco enfriador de aire 50 w blanco bl 202dlr h": "2026-10-25T20:32:36.929Z",
   "cartier perfume mujer la panthere elixir edp 100 ml cartier": "2026-10-24T20:02:59.387Z",
   "auriculares inalambricos jbl tour one m3 smart tx mocha": "2026-10-24T01:17:52.219Z",
-  "wurden convector conveccion qnq 101f blanco": "2026-10-25T12:17:43.458Z",
+  "wurden convector conveccion qnq 101f blanco": "2026-10-26T13:21:17.276Z",
   "moncler perfume moncler pour homme edp 60ml": "2026-10-25T20:03:01.761Z",
   "jimmy choo perfume hombre j choo man extreme 30ml": "2026-10-25T14:03:24.086Z",
   "recco estufa electrica blanco 1200 w radiacion nsb 99y blanco": "2026-10-25T13:02:23.267Z",
@@ -4883,6 +4883,57 @@
     "tmp-medios/1793020754249-c2-2.jpg"
    ],
    "texto": "🔥 OFERTA NUEVA\nTOYOTOMI Horno Eléctrico Empotrado 56 Litros HE9SILVER\nAhora: $249.990 (-50%)\nReferencia: $499.990\n🏪 Sodimac\n\n✅ Precio visto hoy a las 08:58 en nuestro sistema.\n📉 Es el precio más bajo de los últimos 45 días.\n⏰ Puede cambiar o agotarse sin aviso.\n📲 Enlace directo en Telegram: t.me/ofertixcl\n\n#ofertaschile #hogar #descuentoschile #ofertix #ofertasdeldia"
+  },
+  "2026-10-26-r-reel-1793020877276": {
+   "tipo": "reel",
+   "fecha": "2026-10-26",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "hora": "10:21",
+   "id": "18433496119145964",
+   "enlace": "https://www.instagram.com/reel/De9YGTOAIe6/",
+   "ofertas": [
+    {
+     "id": "1063781",
+     "nombre": "CALVIN KLEIN Calvin Klein CK One Eau De Toilette Unisex 50 Ml",
+     "tienda": "Falabella",
+     "ahora": 24990,
+     "antes": 52990,
+     "pct": 52,
+     "rubro": "perfumes",
+     "esMinimo": true,
+     "dias": 86,
+     "visto": "08:58"
+    },
+    {
+     "id": "2103256",
+     "nombre": "WURDEN Convector Convección QNQ-101F Blanco",
+     "tienda": "Sodimac",
+     "ahora": 44990,
+     "antes": 89990,
+     "pct": 50,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 88,
+     "visto": "08:58"
+    },
+    {
+     "id": "1784905",
+     "nombre": "Parlante Portátil Aiwa AW-A521 90W Bluetooth Negro",
+     "tienda": "ABC",
+     "ahora": 74990,
+     "antes": 149990,
+     "pct": 50,
+     "rubro": "tecnologia",
+     "esMinimo": false,
+     "dias": 26,
+     "visto": "08:58"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1793020794459-r1.mp4"
+   ],
+   "texto": "🔥 3 ofertas nuevas de hoy\n1. CALVIN KLEIN Calvin Klein CK One Eau De Toilette Unisex 50 Ml: $24.990 (-52%, referencia $52.990) en Falabella · 📉 mínimo de 86 días\n2. WURDEN Convector Convección QNQ-101F Blanco: $44.990 (-50%, referencia $89.990) en Sodimac · 📉 mínimo de 88 días\n3. Parlante Portátil Aiwa AW-A521 90W Bluetooth Negro: $74.990 (-50%, referencia $149.990) en ABC\n\n⏰ Precios vistos hoy (26/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
   }
  },
  "config": {
@@ -4902,7 +4953,7 @@
    "hasta": "2026-10-26T05:16:01.460Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-26T13:19:42.659Z"
+  "ultimaPub": "2026-10-26T13:21:17.276Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-25",
