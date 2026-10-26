@@ -45,9 +45,9 @@
   "2047330": "2026-10-24T01:17:52.219Z",
   "2048291": "2026-10-24T20:02:59.387Z",
   "2048348": "2026-10-26T19:32:06.242Z",
-  "2066558": "2026-10-25T20:32:36.929Z",
-  "2084002": "2026-10-25T19:32:18.095Z",
-  "2084101": "2026-10-25T17:32:12.976Z",
+  "2066558": "2026-10-26T21:17:31.153Z",
+  "2084002": "2026-10-26T21:17:31.153Z",
+  "2084101": "2026-10-26T21:17:31.153Z",
   "2085077": "2026-10-26T13:33:21.167Z",
   "2086478": "2026-10-26T21:03:07.160Z",
   "2086682": "2026-10-26T19:32:06.242Z",
@@ -90,12 +90,12 @@
   "4711 perfume unisex white peach edc 170ml 4711": "2026-10-24T01:17:52.219Z",
   "toyotomi horno electrico empotrado 56 litros he9silver": "2026-10-26T13:19:42.659Z",
   "tcl aire acondicionado portatil frio tcl 9000 btu": "2026-10-26T12:17:30.883Z",
-  "clinique fragancia clinique happy for men 100ml": "2026-10-25T17:32:12.977Z",
+  "clinique fragancia clinique happy for men 100ml": "2026-10-26T21:17:31.153Z",
   "celular zte nubia music pop art 128gb 4gb azul rojo liberado": "2026-10-26T13:33:21.167Z",
   "caja abierta danada reloj smartwatch lhotse tw58 black n black": "2026-10-26T21:03:07.160Z",
-  "clinique fragancia clinique happy perfume spray 100 ml": "2026-10-25T19:32:18.095Z",
+  "clinique fragancia clinique happy perfume spray 100 ml": "2026-10-26T21:17:31.153Z",
   "ventilador para pc apnx fp2 120 pwm argb color negro": "2026-10-26T19:32:06.242Z",
-  "recco enfriador de aire 50 w blanco bl 202dlr h": "2026-10-25T20:32:36.929Z",
+  "recco enfriador de aire 50 w blanco bl 202dlr h": "2026-10-26T21:17:31.153Z",
   "cartier perfume mujer la panthere elixir edp 100 ml cartier": "2026-10-24T20:02:59.387Z",
   "auriculares inalambricos jbl tour one m3 smart tx mocha": "2026-10-24T01:17:52.219Z",
   "wurden convector conveccion qnq 101f blanco": "2026-10-26T13:21:17.276Z",
@@ -5653,6 +5653,57 @@
      "visto": "17:05"
     }
    ]
+  },
+  "2026-10-26-r-reel-1793049451153": {
+   "tipo": "reel",
+   "fecha": "2026-10-26",
+   "estado": "publicado",
+   "bloque": "populares",
+   "hora": "18:17",
+   "id": "18154541365532105",
+   "enlace": "https://www.instagram.com/reel/De-OmehmNxN/",
+   "ofertas": [
+    {
+     "id": "2084101",
+     "nombre": "CLINIQUE Fragancia Clinique Happy for Men 100ml",
+     "tienda": "Falabella",
+     "ahora": 34990,
+     "antes": 98900,
+     "pct": 64,
+     "rubro": "perfumes",
+     "esMinimo": false,
+     "dias": 55,
+     "visto": "17:05"
+    },
+    {
+     "id": "2066558",
+     "nombre": "RECCO Enfriador de aire 50 W Blanco BL-202DLR-H",
+     "tienda": "Sodimac",
+     "ahora": 33990,
+     "antes": 59990,
+     "pct": 43,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 45,
+     "visto": "17:05"
+    },
+    {
+     "id": "2084002",
+     "nombre": "CLINIQUE Fragancia Clinique Happy Perfume Spray 100 ml",
+     "tienda": "Falabella",
+     "ahora": 39990,
+     "antes": 109900,
+     "pct": 63,
+     "rubro": "perfumes",
+     "esMinimo": false,
+     "dias": 55,
+     "visto": "17:05"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1793049375132-r5.mp4"
+   ],
+   "texto": "🔥 3 ofertas de las más populares\n1. CLINIQUE Fragancia Clinique Happy for Men 100ml: $34.990 (-64%, referencia $98.900) en Falabella\n2. RECCO Enfriador de aire 50 W Blanco BL-202DLR-H: $33.990 (-43%, referencia $59.990) en Sodimac\n3. CLINIQUE Fragancia Clinique Happy Perfume Spray 100 ml: $39.990 (-63%, referencia $109.900) en Falabella\n\n⏰ Precios vistos hoy (26/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
   }
  },
  "config": {
@@ -5672,7 +5723,7 @@
    "hasta": "2026-10-26T18:46:10.747Z",
    "veces": 1
   },
-  "ultimaPub": "2026-10-26T21:08:31.369Z"
+  "ultimaPub": "2026-10-26T21:17:31.153Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-25",
