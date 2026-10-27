@@ -9,13 +9,13 @@
   "1087207": "2026-10-26T12:17:30.883Z",
   "1087230": "2026-10-26T12:17:30.883Z",
   "1087242": "2026-10-26T13:47:21.814Z",
-  "1087642": "2026-10-26T11:54:52.166Z",
+  "1087642": "2026-10-27T17:17:48.075Z",
   "1110717": "2026-10-25T21:16:57.917Z",
   "1131276": "2026-10-26T12:03:28.590Z",
   "1137440": "2026-10-26T12:03:28.590Z",
   "1530831": "2026-10-27T00:33:08.235Z",
   "1531094": "2026-10-26T13:47:21.814Z",
-  "1576473": "2026-10-25T11:02:10.743Z",
+  "1576473": "2026-10-27T17:17:48.074Z",
   "1592754": "2026-10-25T18:20:39.952Z",
   "1595843": "2026-10-26T15:17:20.886Z",
   "1611327": "2026-10-25T11:47:33.620Z",
@@ -24,7 +24,7 @@
   "1673340": "2026-10-26T21:03:07.160Z",
   "1695609": "2026-10-26T21:03:07.160Z",
   "1701548": "2026-10-27T01:47:23.737Z",
-  "1784905": "2026-10-26T13:21:17.276Z",
+  "1784905": "2026-10-27T17:17:48.074Z",
   "1785097": "2026-10-26T19:32:06.242Z",
   "1795903": "2026-10-26T13:33:21.167Z",
   "1827803": "2026-10-27T00:48:02.395Z",
@@ -56,7 +56,7 @@
  },
  "nombres": {
   "calvin klein calvin klein ck one eau de toilette unisex 50 ml": "2026-10-26T13:21:17.276Z",
-  "primus mouse inalambrico gladius boba fett": "2026-10-26T11:54:52.167Z",
+  "primus mouse inalambrico gladius boba fett": "2026-10-27T17:17:48.075Z",
   "teclado hyperx alloy core rgb 4p4f5ai hx kb5me2 la": "2026-10-26T12:03:28.590Z",
   "dolce gabbana perfume hombre edp dolce gabbana": "2026-10-26T12:17:30.883Z",
   "ferragamo perfume hombre red men edp 50 ml ferragamo": "2026-10-25T21:16:57.917Z",
@@ -67,7 +67,7 @@
   "mikrotik mantbox 52 15s with routeros l4 license": "2026-10-26T21:03:07.160Z",
   "samsung audifonos in ear sm r400nzaalta bluetooth v5 2 gray": "2026-10-26T12:03:28.590Z",
   "thierry mugler perfume mujer mugler angel edp 100 ml thierry mugler": "2026-10-26T13:33:21.167Z",
-  "parlante portatil aiwa aw a521 90w bluetooth negro": "2026-10-26T13:21:17.276Z",
+  "parlante portatil aiwa aw a521 90w bluetooth negro": "2026-10-27T17:17:48.075Z",
   "benetton perfume mujer sisterland green jasmine edt 80 ml benetton": "2026-10-26T13:33:21.167Z",
   "rabanne perfume hombre one million elixir edp 200ml rabanne": "2026-10-26T12:17:30.883Z",
   "licuadora easyways licuadora crush n roll 1 5 l": "2026-10-27T00:48:02.395Z",
@@ -80,7 +80,7 @@
   "prada perfume de prada infusion de figue eau de parfum 100ml unisex": "2026-10-27T00:48:02.395Z",
   "nex aire acondicionado 9000btu acp09288 fcwifi": "2026-10-27T00:48:02.395Z",
   "samsung encimera a gas 5 quemadores gris": "2026-10-26T21:03:07.160Z",
-  "xiaomi 17 ultra photography kit pro negro": "2026-10-25T11:02:10.743Z",
+  "xiaomi 17 ultra photography kit pro negro": "2026-10-27T17:17:48.074Z",
   "nex ventilador suelo industrial 42 negro": "2026-10-25T18:20:39.952Z",
   "tous tous silver edt mujer 30 ml": "2026-10-26T21:03:07.160Z",
   "thomas termoventilador electrico 2000 w th fh31 blanco": "2026-10-27T01:47:23.737Z",
@@ -4865,6 +4865,60 @@
      "visto": "22:19"
     }
    ]
+  },
+  "2026-10-27-r-carrusel-1793121468075": {
+   "tipo": "carrusel",
+   "fecha": "2026-10-27",
+   "estado": "publicado",
+   "bloque": "comparativas",
+   "formato": "comp",
+   "hora": "14:17",
+   "id": "18109280815944257",
+   "enlace": "https://www.instagram.com/p/DfAX_gJkVWr/",
+   "ofertas": [
+    {
+     "id": "1576473",
+     "nombre": "Xiaomi 17 Ultra Photography Kit Pro Negro",
+     "tienda": "Xiaomi Chile",
+     "ahora": 99990,
+     "antes": 249990,
+     "pct": 60,
+     "rubro": "tecnologia",
+     "esMinimo": true,
+     "dias": 22,
+     "visto": "13:34"
+    },
+    {
+     "id": "1784905",
+     "nombre": "Parlante Portátil Aiwa AW-A521 90W Bluetooth Negro",
+     "tienda": "ABC",
+     "ahora": 74990,
+     "antes": 149990,
+     "pct": 50,
+     "rubro": "tecnologia",
+     "esMinimo": false,
+     "dias": 27,
+     "visto": "13:34"
+    },
+    {
+     "id": "1087642",
+     "nombre": "PRIMUS Mouse inalámbrico Gladius Boba Fett",
+     "tienda": "Falabella Marketplace",
+     "ahora": 22990,
+     "antes": 39990,
+     "pct": 42,
+     "rubro": "tecnologia",
+     "esMinimo": true,
+     "dias": 87,
+     "visto": "13:34"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1793121418951-c0-1.jpg",
+    "tmp-medios/1793121418951-c0-2.jpg",
+    "tmp-medios/1793121418951-c0-3.jpg"
+   ],
+   "texto": "🏆 Comparativa: 3 opciones en tecnología\n1. Xiaomi 17 Ultra Photography Kit Pro Negro: $99.990 (-60%) en Xiaomi Chile · 📉 mínimo de 22 días\n2. Parlante Portátil Aiwa AW-A521 90W Bluetooth Negro: $74.990 (-50%) en ABC\n3. PRIMUS Mouse inalámbrico Gladius Boba Fett: $22.990 (-42%) en Falabella Marketplace · 📉 mínimo de 87 días\n\n⏰ Precios vistos hoy (27/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #tecnologia #top5 #descuentoschile #ofertix #ahorrar"
   }
  },
  "config": {
@@ -4884,7 +4938,7 @@
    "hasta": "2026-10-27T17:01:57.023Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-27T01:47:45.743Z"
+  "ultimaPub": "2026-10-27T17:17:48.075Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-26",
