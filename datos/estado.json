@@ -47,13 +47,13 @@
   "2066558": "2026-10-26T21:17:31.153Z",
   "2084002": "2026-10-26T21:17:31.153Z",
   "2084101": "2026-10-26T21:17:31.153Z",
-  "2085077": "2026-10-26T13:33:21.167Z",
+  "2085077": "2026-10-27T19:10:46.044Z",
   "2086478": "2026-10-26T21:03:07.160Z",
   "2086682": "2026-10-26T19:32:06.242Z",
   "2103253": "2026-10-26T13:33:21.167Z",
   "2103254": "2026-10-26T13:33:21.167Z",
-  "2103256": "2026-10-26T13:21:17.276Z",
-  "2132513": "2026-10-26T14:48:45.841Z"
+  "2103256": "2026-10-27T19:10:46.044Z",
+  "2132513": "2026-10-27T19:10:46.044Z"
  },
  "nombres": {
   "calvin klein calvin klein ck one eau de toilette unisex 50 ml": "2026-10-26T13:21:17.276Z",
@@ -89,15 +89,15 @@
   "toyotomi horno electrico empotrado 56 litros he9silver": "2026-10-27T18:03:14.149Z",
   "tcl aire acondicionado portatil frio tcl 9000 btu": "2026-10-26T12:17:30.883Z",
   "clinique fragancia clinique happy for men 100ml": "2026-10-26T21:17:31.153Z",
-  "celular zte nubia music pop art 128gb 4gb azul rojo liberado": "2026-10-26T13:33:21.167Z",
+  "celular zte nubia music pop art 128gb 4gb azul rojo liberado": "2026-10-27T19:10:46.044Z",
   "caja abierta danada reloj smartwatch lhotse tw58 black n black": "2026-10-26T21:03:07.160Z",
   "clinique fragancia clinique happy perfume spray 100 ml": "2026-10-26T21:17:31.153Z",
   "ventilador para pc apnx fp2 120 pwm argb color negro": "2026-10-26T19:32:06.242Z",
   "recco enfriador de aire 50 w blanco bl 202dlr h": "2026-10-26T21:17:31.153Z",
   "cartier perfume mujer la panthere elixir edp 100 ml cartier": "2026-10-27T01:47:23.737Z",
-  "wurden convector conveccion qnq 101f blanco": "2026-10-26T13:21:17.276Z",
+  "wurden convector conveccion qnq 101f blanco": "2026-10-27T19:10:46.044Z",
   "moncler perfume moncler pour homme edp 60ml": "2026-10-27T00:33:08.235Z",
-  "jimmy choo perfume hombre j choo man extreme 30ml": "2026-10-26T14:48:45.841Z",
+  "jimmy choo perfume hombre j choo man extreme 30ml": "2026-10-27T19:10:46.044Z",
   "recco estufa electrica blanco 1200 w radiacion nsb 99y blanco": "2026-10-26T13:33:21.167Z",
   "recco mini calefactor 600 w oleoelectrica blanco": "2026-10-26T13:33:21.167Z",
   "moncler perfume mujer moncler pour femme edp 100 ml": "2026-10-26T19:32:06.242Z",
@@ -4999,6 +4999,57 @@
     "tmp-medios/1793124156020-c1-3.jpg"
    ],
    "texto": "🏆 Los más populares\n1. TOYOTOMI Horno Eléctrico Empotrado 56 Litros HE9SILVER: $249.990 (-50%) en Sodimac · 📉 mínimo de 46 días\n2. KATE SPADE Kate Spade Cherie Je Taime Edp 100Ml: $49.990 (-50%) en Falabella · 📉 mínimo de 22 días\n3. JBL JBL Audifonos Tune 680NC Beige: $59.990 (-40%) en Falabella · 📉 mínimo de 33 días\n4. Teclado HyperX Alloy Core RGB (4P4F5AI / HX-KB5ME2-LA): $29.990 (-40%) en Valrod · 📉 mínimo de 55 días\n5. VOLKER Campana Convencional 60 cm Inox: $59.990 (-45%) en Sodimac · 📉 mínimo de 84 días\n\n⏰ Precios vistos hoy (27/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #top5 #descuentoschile #ofertix #ahorrar"
+  },
+  "2026-10-27-r-reel-1793128246045": {
+   "tipo": "reel",
+   "fecha": "2026-10-27",
+   "estado": "publicado",
+   "bloque": "populares",
+   "hora": "16:10",
+   "id": "18158027851510081",
+   "enlace": "https://www.instagram.com/reel/DfAk4UFCpyQ/",
+   "ofertas": [
+    {
+     "id": "2103256",
+     "nombre": "WURDEN Convector Convección QNQ-101F Blanco",
+     "tienda": "Sodimac",
+     "ahora": 44990,
+     "antes": 89990,
+     "pct": 50,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 89,
+     "visto": "15:36"
+    },
+    {
+     "id": "2132513",
+     "nombre": "JIMMY CHOO Perfume Hombre J Choo Man Extreme 30Ml",
+     "tienda": "Falabella",
+     "ahora": 32990,
+     "antes": 59990,
+     "pct": 45,
+     "rubro": "perfumes",
+     "esMinimo": true,
+     "dias": 73,
+     "visto": "15:36"
+    },
+    {
+     "id": "2085077",
+     "nombre": "Celular ZTE nubia Music Pop Art 128GB/4GB Azul/Rojo Liberado",
+     "tienda": "PC Factory",
+     "ahora": 92790,
+     "antes": 180290,
+     "pct": 48,
+     "rubro": "tecnologia",
+     "esMinimo": false,
+     "dias": 13,
+     "visto": "15:36"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1793128156883-r0.mp4"
+   ],
+   "texto": "🔥 3 ofertas de las más populares\n1. WURDEN Convector Convección QNQ-101F Blanco: $44.990 (-50%, referencia $89.990) en Sodimac · 📉 mínimo de 89 días\n2. JIMMY CHOO Perfume Hombre J Choo Man Extreme 30Ml: $32.990 (-45%, referencia $59.990) en Falabella · 📉 mínimo de 73 días\n3. Celular ZTE nubia Music Pop Art 128GB/4GB Azul/Rojo Liberado: $92.790 (-48%, referencia $180.290) en PC Factory\n\n⏰ Precios vistos hoy (27/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
   }
  },
  "config": {
@@ -5018,7 +5069,7 @@
    "hasta": "2026-10-27T17:01:57.023Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-27T18:03:14.150Z"
+  "ultimaPub": "2026-10-27T19:10:46.045Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-26",
