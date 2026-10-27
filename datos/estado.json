@@ -19,11 +19,11 @@
   "1592754": "2026-10-25T18:20:39.952Z",
   "1595843": "2026-10-26T15:17:20.886Z",
   "1611327": "2026-10-25T11:47:33.620Z",
-  "1673324": "2026-10-24T20:02:59.387Z",
+  "1673324": "2026-10-27T01:47:23.737Z",
   "1673333": "2026-10-27T00:48:02.395Z",
   "1673340": "2026-10-26T21:03:07.160Z",
   "1695609": "2026-10-26T21:03:07.160Z",
-  "1701548": "2026-10-24T20:02:59.387Z",
+  "1701548": "2026-10-27T01:47:23.737Z",
   "1784905": "2026-10-26T13:21:17.276Z",
   "1785097": "2026-10-26T19:32:06.242Z",
   "1795903": "2026-10-26T13:33:21.167Z",
@@ -41,7 +41,7 @@
   "2047194": "2026-10-25T12:32:06.423Z",
   "2047234": "2026-10-27T00:33:08.235Z",
   "2047249": "2026-10-26T12:03:28.590Z",
-  "2048291": "2026-10-24T20:02:59.387Z",
+  "2048291": "2026-10-27T01:47:23.737Z",
   "2048348": "2026-10-26T19:32:06.242Z",
   "2066558": "2026-10-26T21:17:31.153Z",
   "2084002": "2026-10-26T21:17:31.153Z",
@@ -83,7 +83,7 @@
   "xiaomi 17 ultra photography kit pro negro": "2026-10-25T11:02:10.743Z",
   "nex ventilador suelo industrial 42 negro": "2026-10-25T18:20:39.952Z",
   "tous tous silver edt mujer 30 ml": "2026-10-26T21:03:07.160Z",
-  "thomas termoventilador electrico 2000 w th fh31 blanco": "2026-10-24T20:02:59.387Z",
+  "thomas termoventilador electrico 2000 w th fh31 blanco": "2026-10-27T01:47:23.737Z",
   "kate spade kate spade cherie je taime edp 100ml": "2026-10-26T12:03:28.590Z",
   "toyotomi horno electrico empotrado 56 litros he9silver": "2026-10-26T13:19:42.659Z",
   "tcl aire acondicionado portatil frio tcl 9000 btu": "2026-10-26T12:17:30.883Z",
@@ -93,7 +93,7 @@
   "clinique fragancia clinique happy perfume spray 100 ml": "2026-10-26T21:17:31.153Z",
   "ventilador para pc apnx fp2 120 pwm argb color negro": "2026-10-26T19:32:06.242Z",
   "recco enfriador de aire 50 w blanco bl 202dlr h": "2026-10-26T21:17:31.153Z",
-  "cartier perfume mujer la panthere elixir edp 100 ml cartier": "2026-10-24T20:02:59.387Z",
+  "cartier perfume mujer la panthere elixir edp 100 ml cartier": "2026-10-27T01:47:23.737Z",
   "wurden convector conveccion qnq 101f blanco": "2026-10-26T13:21:17.276Z",
   "moncler perfume moncler pour homme edp 60ml": "2026-10-27T00:33:08.235Z",
   "jimmy choo perfume hombre j choo man extreme 30ml": "2026-10-26T14:48:45.841Z",
@@ -102,7 +102,7 @@
   "moncler perfume mujer moncler pour femme edp 100 ml": "2026-10-26T19:32:06.242Z",
   "alisador gama dual plates led": "2026-10-25T11:47:33.620Z",
   "lg parlante bluetooth grab amexlbk lg": "2026-10-26T13:47:21.814Z",
-  "rabanne perfume hombre black xs edt 100ml rabanne": "2026-10-24T20:02:59.387Z",
+  "rabanne perfume hombre black xs edt 100ml rabanne": "2026-10-27T01:47:23.737Z",
   "tcl aire acondicionado portatil frio calor tcl 12000 btu": "2026-10-25T12:32:06.423Z",
   "antonio banderas perfume edt hombre the icon edt 200 ml banderas": "2026-10-26T13:47:21.814Z",
   "nex ventilador suelo industrial 36 negro": "2026-10-26T15:17:20.886Z",
@@ -4792,6 +4792,57 @@
      "visto": "21:09"
     }
    ]
+  },
+  "2026-10-26-r-reel-1793065643738": {
+   "tipo": "reel",
+   "fecha": "2026-10-26",
+   "estado": "publicado",
+   "bloque": "recopilaciones",
+   "hora": "22:47",
+   "id": "18108920726575431",
+   "enlace": "https://www.instagram.com/reel/De-tfOkDQWQ/",
+   "ofertas": [
+    {
+     "id": "2048291",
+     "nombre": "CARTIER Perfume Mujer La Panthere Elixir EDP 100 Ml Cartier",
+     "tienda": "Falabella",
+     "ahora": 99990,
+     "antes": 167200,
+     "pct": 40,
+     "rubro": "perfumes",
+     "esMinimo": false,
+     "dias": 5,
+     "visto": "22:19"
+    },
+    {
+     "id": "1701548",
+     "nombre": "THOMAS Termoventilador Eléctrico 2000 W TH-FH31 Blanco",
+     "tienda": "Sodimac",
+     "ahora": 21990,
+     "antes": 39990,
+     "pct": 45,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 83,
+     "visto": "22:19"
+    },
+    {
+     "id": "1673324",
+     "nombre": "RABANNE Perfume Hombre Black Xs Edt 100Ml Rabanne",
+     "tienda": "Falabella",
+     "ahora": 71990,
+     "antes": 119990,
+     "pct": 40,
+     "rubro": "perfumes",
+     "esMinimo": false,
+     "dias": 59,
+     "visto": "22:19"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1793065550070-r7.mp4"
+   ],
+   "texto": "🔥 3 ofertas las mejores del día\n1. CARTIER Perfume Mujer La Panthere Elixir EDP 100 Ml Cartier: $99.990 (-40%, referencia $167.200) en Falabella\n2. THOMAS Termoventilador Eléctrico 2000 W TH-FH31 Blanco: $21.990 (-45%, referencia $39.990) en Sodimac\n3. RABANNE Perfume Hombre Black Xs Edt 100Ml Rabanne: $71.990 (-40%, referencia $119.990) en Falabella\n\n⏰ Precios vistos hoy (26/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
   }
  },
  "config": {
@@ -4811,7 +4862,7 @@
    "hasta": "2026-10-26T18:46:10.747Z",
    "veces": 1
   },
-  "ultimaPub": "2026-10-27T01:31:37.104Z"
+  "ultimaPub": "2026-10-27T01:47:23.738Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-26",
