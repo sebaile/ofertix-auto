@@ -14,7 +14,7 @@
   "1131276": "2026-10-26T12:03:28.590Z",
   "1137440": "2026-10-26T12:03:28.590Z",
   "1500833": "2026-10-24T01:17:52.219Z",
-  "1530831": "2026-10-25T18:20:39.952Z",
+  "1530831": "2026-10-27T00:33:08.235Z",
   "1531094": "2026-10-26T13:47:21.814Z",
   "1576473": "2026-10-25T11:02:10.743Z",
   "1592754": "2026-10-25T18:20:39.952Z",
@@ -29,7 +29,7 @@
   "1785097": "2026-10-26T19:32:06.242Z",
   "1795903": "2026-10-26T13:33:21.167Z",
   "1827803": "2026-10-25T20:03:01.761Z",
-  "1840943": "2026-10-25T17:32:12.977Z",
+  "1840943": "2026-10-27T00:33:08.235Z",
   "1841225": "2026-10-26T14:13:44.764Z",
   "1841233": "2026-10-26T12:03:28.590Z",
   "1841315": "2026-10-26T14:48:45.841Z",
@@ -40,7 +40,7 @@
   "2007710": "2026-10-26T21:03:07.160Z",
   "2047193": "2026-10-26T12:17:30.883Z",
   "2047194": "2026-10-25T12:32:06.423Z",
-  "2047234": "2026-10-25T20:03:01.761Z",
+  "2047234": "2026-10-27T00:33:08.235Z",
   "2047249": "2026-10-26T12:03:28.590Z",
   "2047330": "2026-10-24T01:17:52.219Z",
   "2048291": "2026-10-24T20:02:59.387Z",
@@ -62,7 +62,7 @@
   "teclado hyperx alloy core rgb 4p4f5ai hx kb5me2 la": "2026-10-26T12:03:28.590Z",
   "dolce gabbana perfume hombre edp dolce gabbana": "2026-10-26T12:17:30.883Z",
   "ferragamo perfume hombre red men edp 50 ml ferragamo": "2026-10-25T21:16:57.917Z",
-  "nespresso cafetera essenza mini negra espumador": "2026-10-25T18:20:39.952Z",
+  "nespresso cafetera essenza mini negra espumador": "2026-10-27T00:33:08.235Z",
   "fdv hervidor de vidrio crystal 1 7 lts kegs5813 gs fdv": "2026-10-26T13:47:21.814Z",
   "carolina herrera perfume hombre bad boy edt 50ml carolina herrera": "2026-10-26T21:03:07.160Z",
   "nina ricci perfume mujer nina ricci nina edt 50ml nina ricci": "2026-10-25T20:03:01.761Z",
@@ -76,7 +76,7 @@
   "hamilton beach microondas digital 23 litros inox hb p90d23el lxa": "2026-10-26T12:03:28.590Z",
   "hamilton beach batidora de mano 290 w multicolor bp 62650 cl": "2026-10-26T14:48:45.841Z",
   "hamilton beach batidora de pedestal 3 7 l 290 kw negro 64650 cl": "2026-10-26T14:48:45.841Z",
-  "hamilton beach freidora de aire 2 5 litros fe 35051 cl": "2026-10-25T17:32:12.977Z",
+  "hamilton beach freidora de aire 2 5 litros fe 35051 cl": "2026-10-27T00:33:08.235Z",
   "volker campana convencional 60 cm inox": "2026-10-26T14:13:44.764Z",
   "thomas chimenea electrica 2000w conveccion th fp100 madera": "2026-10-26T12:03:28.590Z",
   "prada perfume de prada infusion de figue eau de parfum 100ml unisex": "2026-10-25T20:32:36.929Z",
@@ -99,7 +99,7 @@
   "cartier perfume mujer la panthere elixir edp 100 ml cartier": "2026-10-24T20:02:59.387Z",
   "auriculares inalambricos jbl tour one m3 smart tx mocha": "2026-10-24T01:17:52.219Z",
   "wurden convector conveccion qnq 101f blanco": "2026-10-26T13:21:17.276Z",
-  "moncler perfume moncler pour homme edp 60ml": "2026-10-25T20:03:01.761Z",
+  "moncler perfume moncler pour homme edp 60ml": "2026-10-27T00:33:08.235Z",
   "jimmy choo perfume hombre j choo man extreme 30ml": "2026-10-26T14:48:45.841Z",
   "recco estufa electrica blanco 1200 w radiacion nsb 99y blanco": "2026-10-26T13:33:21.167Z",
   "recco mini calefactor 600 w oleoelectrica blanco": "2026-10-26T13:33:21.167Z",
@@ -5836,6 +5836,57 @@
      "visto": "21:09"
     }
    ]
+  },
+  "2026-10-26-r-reel-1793061188236": {
+   "tipo": "reel",
+   "fecha": "2026-10-26",
+   "estado": "publicado",
+   "bloque": "recopilaciones",
+   "hora": "21:33",
+   "id": "18158916253509692",
+   "enlace": "https://www.instagram.com/reel/De-k_AskTgY/",
+   "ofertas": [
+    {
+     "id": "1840943",
+     "nombre": "HAMILTON BEACH Freidora de Aire 2.5 Litros FE-35051-CL",
+     "tienda": "Sodimac",
+     "ahora": 39990,
+     "antes": 89990,
+     "pct": 55,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 46,
+     "visto": "21:09"
+    },
+    {
+     "id": "2047234",
+     "nombre": "MONCLER Perfume Moncler Pour Homme EDP 60ML",
+     "tienda": "Falabella",
+     "ahora": 59990,
+     "antes": 99990,
+     "pct": 40,
+     "rubro": "perfumes",
+     "esMinimo": true,
+     "dias": 83,
+     "visto": "21:09"
+    },
+    {
+     "id": "1530831",
+     "nombre": "Nespresso Cafetera Essenza Mini Negra + Espumador",
+     "tienda": "Lider",
+     "ahora": 83990,
+     "antes": 179990,
+     "pct": 53,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 81,
+     "visto": "21:09"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1793061106312-r6.mp4"
+   ],
+   "texto": "🔥 3 ofertas las mejores del día\n1. HAMILTON BEACH Freidora de Aire 2.5 Litros FE-35051-CL: $39.990 (-55%, referencia $89.990) en Sodimac\n2. MONCLER Perfume Moncler Pour Homme EDP 60ML: $59.990 (-40%, referencia $99.990) en Falabella · 📉 mínimo de 83 días\n3. Nespresso Cafetera Essenza Mini Negra + Espumador: $83.990 (-53%, referencia $179.990) en Lider\n\n⏰ Precios vistos hoy (26/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
   }
  },
  "config": {
@@ -5855,7 +5906,7 @@
    "hasta": "2026-10-26T18:46:10.747Z",
    "veces": 1
   },
-  "ultimaPub": "2026-10-27T00:31:33.870Z"
+  "ultimaPub": "2026-10-27T00:33:08.236Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-25",
