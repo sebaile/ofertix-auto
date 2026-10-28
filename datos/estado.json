@@ -5064,6 +5064,28 @@
      "visto": "08:45"
     }
    ]
+  },
+  "2026-10-28-r-historia-1793192483233": {
+   "tipo": "historia",
+   "fecha": "2026-10-28",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "hora": "10:01",
+   "id": "18049470947814135",
+   "ofertas": [
+    {
+     "id": "2330924",
+     "nombre": "ELECTRONIC ARTS Juego Ea Sports Fc 26 Latam Ns2 Electronic Arts",
+     "tienda": "Falabella",
+     "ahora": 21990,
+     "antes": 47990,
+     "pct": 54,
+     "rubro": "gamer",
+     "esMinimo": false,
+     "dias": 75,
+     "visto": "08:45"
+    }
+   ]
   }
  },
  "config": {
@@ -5083,7 +5105,7 @@
    "hasta": "2026-10-27T17:01:57.023Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-28T12:46:39.092Z"
+  "ultimaPub": "2026-10-28T13:01:23.234Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-27",
@@ -5123,6 +5145,7 @@
   "2103256": "2026-10-28T01:16:23.856Z",
   "2132513": "2026-10-26T20:31:33.563Z",
   "2330908": "2026-10-28T11:17:22.344Z",
-  "2330918": "2026-10-28T12:46:39.092Z"
+  "2330918": "2026-10-28T12:46:39.092Z",
+  "2330924": "2026-10-28T13:01:23.233Z"
  }
 }
