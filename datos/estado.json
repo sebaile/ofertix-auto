@@ -16,7 +16,7 @@
   "1131276": "2026-10-27T18:03:14.149Z",
   "1137440": "2026-10-28T00:18:29.402Z",
   "1530831": "2026-10-27T00:33:08.235Z",
-  "1531094": "2026-10-26T13:47:21.814Z",
+  "1531094": "2026-10-28T13:18:13.038Z",
   "1576473": "2026-10-27T17:17:48.074Z",
   "1592754": "2026-10-28T02:17:48.438Z",
   "1595843": "2026-10-28T02:19:22.192Z",
@@ -67,7 +67,7 @@
   "dolce gabbana perfume hombre edp dolce gabbana": "2026-10-26T12:17:30.883Z",
   "ferragamo perfume hombre red men edp 50 ml ferragamo": "2026-10-28T11:47:54.768Z",
   "nespresso cafetera essenza mini negra espumador": "2026-10-27T00:33:08.235Z",
-  "fdv hervidor de vidrio crystal 1 7 lts kegs5813 gs fdv": "2026-10-26T13:47:21.814Z",
+  "fdv hervidor de vidrio crystal 1 7 lts kegs5813 gs fdv": "2026-10-28T13:18:13.038Z",
   "carolina herrera perfume hombre bad boy edt 50ml carolina herrera": "2026-10-28T02:17:48.438Z",
   "nina ricci perfume mujer nina ricci nina edt 50ml nina ricci": "2026-10-28T02:19:22.192Z",
   "mikrotik mantbox 52 15s with routeros l4 license": "2026-10-28T00:04:09.267Z",
@@ -5108,6 +5108,35 @@
      "visto": "08:45"
     }
    ]
+  },
+  "2026-10-28-r-carrusel-1793193493039": {
+   "tipo": "carrusel",
+   "fecha": "2026-10-28",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "formato": "oferta",
+   "hora": "10:18",
+   "id": "18095937044662531",
+   "enlace": "https://www.instagram.com/p/DfChXw-nCKS/",
+   "ofertas": [
+    {
+     "id": "1531094",
+     "nombre": "FDV Hervidor de Vidrio Crystal 1.7 Lts KEGS5813-GS FDV",
+     "tienda": "Lider",
+     "ahora": 19990,
+     "antes": 34990,
+     "pct": 42,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 23,
+     "visto": "09:53"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1793193463816-c3-1.jpg",
+    "tmp-medios/1793193463816-c3-2.jpg"
+   ],
+   "texto": "🔥 OFERTA DEL DÍA\nFDV Hervidor de Vidrio Crystal 1.7 Lts KEGS5813-GS FDV\nAhora: $19.990 (-42%)\nReferencia: $34.990\n🏪 Lider\n\n✅ Precio visto hoy a las 09:53 en nuestro sistema.\n⏰ Puede cambiar o agotarse sin aviso.\n📲 Enlace directo en Telegram: t.me/ofertixcl\n\n#ofertaschile #hogar #descuentoschile #ofertix #ofertasdeldia"
   }
  },
  "config": {
@@ -5127,7 +5156,7 @@
    "hasta": "2026-10-27T17:01:57.023Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-28T13:01:44.538Z"
+  "ultimaPub": "2026-10-28T13:18:13.039Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-27",
