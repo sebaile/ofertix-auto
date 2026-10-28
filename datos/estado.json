@@ -5042,6 +5042,28 @@
      "visto": "08:45"
     }
    ]
+  },
+  "2026-10-28-r-historia-1793191599092": {
+   "tipo": "historia",
+   "fecha": "2026-10-28",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "hora": "09:46",
+   "id": "18630765121034147",
+   "ofertas": [
+    {
+     "id": "2330918",
+     "nombre": "ELECTRONIC ARTS Juego Ea Sports Fc 26 Latam Ps5 Electronic Arts",
+     "tienda": "Falabella",
+     "ahora": 21990,
+     "antes": 47990,
+     "pct": 54,
+     "rubro": "gamer",
+     "esMinimo": false,
+     "dias": 57,
+     "visto": "08:45"
+    }
+   ]
   }
  },
  "config": {
@@ -5061,7 +5083,7 @@
    "hasta": "2026-10-27T17:01:57.023Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-28T12:46:15.497Z"
+  "ultimaPub": "2026-10-28T12:46:39.092Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-27",
@@ -5100,6 +5122,7 @@
   "2103254": "2026-10-28T02:31:18.500Z",
   "2103256": "2026-10-28T01:16:23.856Z",
   "2132513": "2026-10-26T20:31:33.563Z",
-  "2330908": "2026-10-28T11:17:22.344Z"
+  "2330908": "2026-10-28T11:17:22.344Z",
+  "2330918": "2026-10-28T12:46:39.092Z"
  }
 }
