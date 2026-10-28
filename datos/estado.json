@@ -6,7 +6,7 @@
   "825801": "2026-10-28T11:47:54.768Z",
   "825870": "2026-10-26T13:47:21.814Z",
   "829028": "2026-10-28T00:47:54.231Z",
-  "830761": "2026-10-27T00:48:02.395Z",
+  "830761": "2026-10-28T12:17:22.968Z",
   "1063781": "2026-10-28T00:47:54.230Z",
   "1087207": "2026-10-26T12:17:30.883Z",
   "1087230": "2026-10-26T12:17:30.883Z",
@@ -24,7 +24,7 @@
   "1673333": "2026-10-28T02:19:22.192Z",
   "1673340": "2026-10-28T02:17:48.438Z",
   "1695609": "2026-10-28T00:04:09.267Z",
-  "1701548": "2026-10-27T01:47:23.737Z",
+  "1701548": "2026-10-28T12:17:22.968Z",
   "1753017": "2026-10-27T18:03:14.149Z",
   "1780881": "2026-10-27T21:32:06.127Z",
   "1784905": "2026-10-27T17:17:48.074Z",
@@ -44,7 +44,7 @@
   "2047194": "2026-10-25T12:32:06.423Z",
   "2047234": "2026-10-28T02:17:48.438Z",
   "2047249": "2026-10-27T18:03:14.149Z",
-  "2048291": "2026-10-27T01:47:23.737Z",
+  "2048291": "2026-10-28T12:17:22.968Z",
   "2048348": "2026-10-28T01:32:39.485Z",
   "2066558": "2026-10-26T21:17:31.153Z",
   "2084002": "2026-10-28T00:18:29.402Z",
@@ -84,13 +84,13 @@
   "hamilton beach freidora de aire 2 5 litros fe 35051 cl": "2026-10-28T00:47:54.231Z",
   "volker campana convencional 60 cm inox": "2026-10-27T18:03:14.149Z",
   "thomas chimenea electrica 2000w conveccion th fp100 madera": "2026-10-28T00:04:09.267Z",
-  "prada perfume de prada infusion de figue eau de parfum 100ml unisex": "2026-10-27T00:48:02.395Z",
+  "prada perfume de prada infusion de figue eau de parfum 100ml unisex": "2026-10-28T12:17:22.968Z",
   "nex aire acondicionado 9000btu acp09288 fcwifi": "2026-10-28T02:19:22.191Z",
   "samsung encimera a gas 5 quemadores gris": "2026-10-28T01:32:39.485Z",
   "xiaomi 17 ultra photography kit pro negro": "2026-10-27T17:17:48.074Z",
   "nex ventilador suelo industrial 42 negro": "2026-10-28T02:17:48.438Z",
   "tous tous silver edt mujer 30 ml": "2026-10-26T21:03:07.160Z",
-  "thomas termoventilador electrico 2000 w th fh31 blanco": "2026-10-27T01:47:23.737Z",
+  "thomas termoventilador electrico 2000 w th fh31 blanco": "2026-10-28T12:17:22.968Z",
   "kate spade kate spade cherie je taime edp 100ml": "2026-10-27T18:03:14.149Z",
   "toyotomi horno electrico empotrado 56 litros he9silver": "2026-10-27T18:03:14.149Z",
   "tcl aire acondicionado portatil frio tcl 9000 btu": "2026-10-27T21:32:06.127Z",
@@ -100,7 +100,7 @@
   "clinique fragancia clinique happy perfume spray 100 ml": "2026-10-28T00:18:29.402Z",
   "ventilador para pc apnx fp2 120 pwm argb color negro": "2026-10-27T21:32:06.127Z",
   "recco enfriador de aire 50 w blanco bl 202dlr h": "2026-10-26T21:17:31.153Z",
-  "cartier perfume mujer la panthere elixir edp 100 ml cartier": "2026-10-27T01:47:23.737Z",
+  "cartier perfume mujer la panthere elixir edp 100 ml cartier": "2026-10-28T12:17:22.968Z",
   "wurden convector conveccion qnq 101f blanco": "2026-10-27T19:10:46.044Z",
   "moncler perfume moncler pour homme edp 60ml": "2026-10-28T02:17:48.438Z",
   "jimmy choo perfume hombre j choo man extreme 30ml": "2026-10-27T19:10:46.044Z",
@@ -4898,6 +4898,57 @@
      "visto": "08:45"
     }
    ]
+  },
+  "2026-10-28-r-reel-1793189842968": {
+   "tipo": "reel",
+   "fecha": "2026-10-28",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "hora": "09:17",
+   "id": "18033923009913594",
+   "enlace": "https://www.instagram.com/reel/DfCaYAcgncw/",
+   "ofertas": [
+    {
+     "id": "830761",
+     "nombre": "PRADA Perfume de Prada Infusion de Figue Eau de Parfum 100ml Unisex",
+     "tienda": "Falabella",
+     "ahora": 109790,
+     "antes": 182990,
+     "pct": 40,
+     "rubro": "perfumes",
+     "esMinimo": false,
+     "dias": 23,
+     "visto": "08:45"
+    },
+    {
+     "id": "1701548",
+     "nombre": "THOMAS Termoventilador Eléctrico 2000 W TH-FH31 Blanco",
+     "tienda": "Sodimac",
+     "ahora": 21990,
+     "antes": 39990,
+     "pct": 45,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 84,
+     "visto": "08:45"
+    },
+    {
+     "id": "2048291",
+     "nombre": "CARTIER Perfume Mujer La Panthere Elixir EDP 100 Ml Cartier",
+     "tienda": "Falabella",
+     "ahora": 99990,
+     "antes": 167200,
+     "pct": 40,
+     "rubro": "perfumes",
+     "esMinimo": false,
+     "dias": 7,
+     "visto": "08:45"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1793189748776-r1.mp4"
+   ],
+   "texto": "🔥 3 ofertas nuevas de hoy\n1. PRADA Perfume de Prada Infusion de Figue Eau de Parfum 100ml Unisex: $109.790 (-40%, referencia $182.990) en Falabella\n2. THOMAS Termoventilador Eléctrico 2000 W TH-FH31 Blanco: $21.990 (-45%, referencia $39.990) en Sodimac\n3. CARTIER Perfume Mujer La Panthere Elixir EDP 100 Ml Cartier: $99.990 (-40%, referencia $167.200) en Falabella\n\n⏰ Precios vistos hoy (28/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
   }
  },
  "config": {
@@ -4917,7 +4968,7 @@
    "hasta": "2026-10-27T17:01:57.023Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-28T12:01:36.618Z"
+  "ultimaPub": "2026-10-28T12:17:22.968Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-27",
