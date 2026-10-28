@@ -16,12 +16,12 @@
   "1530831": "2026-10-27T00:33:08.235Z",
   "1531094": "2026-10-26T13:47:21.814Z",
   "1576473": "2026-10-27T17:17:48.074Z",
-  "1592754": "2026-10-25T18:20:39.952Z",
+  "1592754": "2026-10-28T02:17:48.438Z",
   "1595843": "2026-10-26T15:17:20.886Z",
   "1611327": "2026-10-25T11:47:33.620Z",
   "1673324": "2026-10-27T01:47:23.737Z",
   "1673333": "2026-10-27T00:48:02.395Z",
-  "1673340": "2026-10-26T21:03:07.160Z",
+  "1673340": "2026-10-28T02:17:48.438Z",
   "1695609": "2026-10-28T00:04:09.267Z",
   "1701548": "2026-10-27T01:47:23.737Z",
   "1753017": "2026-10-27T18:03:14.149Z",
@@ -41,7 +41,7 @@
   "2007710": "2026-10-26T21:03:07.160Z",
   "2047193": "2026-10-27T21:32:06.127Z",
   "2047194": "2026-10-25T12:32:06.423Z",
-  "2047234": "2026-10-27T00:33:08.235Z",
+  "2047234": "2026-10-28T02:17:48.438Z",
   "2047249": "2026-10-27T18:03:14.149Z",
   "2048291": "2026-10-27T01:47:23.737Z",
   "2048348": "2026-10-28T01:32:39.485Z",
@@ -52,7 +52,7 @@
   "2086478": "2026-10-28T00:04:09.267Z",
   "2086682": "2026-10-27T21:32:06.127Z",
   "2103253": "2026-10-28T01:32:39.485Z",
-  "2103254": "2026-10-26T13:33:21.167Z",
+  "2103254": "2026-10-28T02:17:48.438Z",
   "2103256": "2026-10-27T19:10:46.044Z",
   "2132513": "2026-10-27T19:10:46.044Z"
  },
@@ -64,7 +64,7 @@
   "ferragamo perfume hombre red men edp 50 ml ferragamo": "2026-10-25T21:16:57.917Z",
   "nespresso cafetera essenza mini negra espumador": "2026-10-27T00:33:08.235Z",
   "fdv hervidor de vidrio crystal 1 7 lts kegs5813 gs fdv": "2026-10-26T13:47:21.814Z",
-  "carolina herrera perfume hombre bad boy edt 50ml carolina herrera": "2026-10-26T21:03:07.160Z",
+  "carolina herrera perfume hombre bad boy edt 50ml carolina herrera": "2026-10-28T02:17:48.438Z",
   "nina ricci perfume mujer nina ricci nina edt 50ml nina ricci": "2026-10-27T00:48:02.395Z",
   "mikrotik mantbox 52 15s with routeros l4 license": "2026-10-28T00:04:09.267Z",
   "samsung audifonos in ear sm r400nzaalta bluetooth v5 2 gray": "2026-10-28T00:18:29.402Z",
@@ -83,7 +83,7 @@
   "nex aire acondicionado 9000btu acp09288 fcwifi": "2026-10-27T00:48:02.395Z",
   "samsung encimera a gas 5 quemadores gris": "2026-10-28T01:32:39.485Z",
   "xiaomi 17 ultra photography kit pro negro": "2026-10-27T17:17:48.074Z",
-  "nex ventilador suelo industrial 42 negro": "2026-10-25T18:20:39.952Z",
+  "nex ventilador suelo industrial 42 negro": "2026-10-28T02:17:48.438Z",
   "tous tous silver edt mujer 30 ml": "2026-10-26T21:03:07.160Z",
   "thomas termoventilador electrico 2000 w th fh31 blanco": "2026-10-27T01:47:23.737Z",
   "kate spade kate spade cherie je taime edp 100ml": "2026-10-27T18:03:14.149Z",
@@ -97,10 +97,10 @@
   "recco enfriador de aire 50 w blanco bl 202dlr h": "2026-10-26T21:17:31.153Z",
   "cartier perfume mujer la panthere elixir edp 100 ml cartier": "2026-10-27T01:47:23.737Z",
   "wurden convector conveccion qnq 101f blanco": "2026-10-27T19:10:46.044Z",
-  "moncler perfume moncler pour homme edp 60ml": "2026-10-27T00:33:08.235Z",
+  "moncler perfume moncler pour homme edp 60ml": "2026-10-28T02:17:48.438Z",
   "jimmy choo perfume hombre j choo man extreme 30ml": "2026-10-27T19:10:46.044Z",
   "recco estufa electrica blanco 1200 w radiacion nsb 99y blanco": "2026-10-28T01:32:39.485Z",
-  "recco mini calefactor 600 w oleoelectrica blanco": "2026-10-26T13:33:21.167Z",
+  "recco mini calefactor 600 w oleoelectrica blanco": "2026-10-28T02:17:48.438Z",
   "moncler perfume mujer moncler pour femme edp 100 ml": "2026-10-28T01:32:39.485Z",
   "alisador gama dual plates led": "2026-10-25T11:47:33.620Z",
   "lg parlante bluetooth grab amexlbk lg": "2026-10-26T13:47:21.814Z",
@@ -4449,6 +4449,72 @@
      "visto": "22:36"
     }
    ]
+  },
+  "2026-10-27-r-carrusel-1793153868439": {
+   "tipo": "carrusel",
+   "fecha": "2026-10-27",
+   "estado": "publicado",
+   "bloque": "recopilaciones",
+   "formato": "top5",
+   "hora": "23:17",
+   "id": "17982237426131425",
+   "enlace": "https://www.instagram.com/p/DfBVzA6mm-K/",
+   "ofertas": [
+    {
+     "id": "2103254",
+     "nombre": "RECCO Mini Calefactor 600 W Oleoeléctrica Blanco",
+     "tienda": "Sodimac",
+     "ahora": 15990,
+     "antes": 37990,
+     "pct": 57,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 72,
+     "visto": "22:36"
+    },
+    {
+     "id": "2047234",
+     "nombre": "MONCLER Perfume Moncler Pour Homme EDP 60ML",
+     "tienda": "Falabella",
+     "ahora": 59990,
+     "antes": 99990,
+     "pct": 40,
+     "rubro": "perfumes",
+     "esMinimo": true,
+     "dias": 84,
+     "visto": "22:36"
+    },
+    {
+     "id": "1592754",
+     "nombre": "Nex Ventilador suelo industrial 42'' negro",
+     "tienda": "Easy",
+     "ahora": 149990,
+     "antes": 319990,
+     "pct": 53,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 28,
+     "visto": "22:36"
+    },
+    {
+     "id": "1673340",
+     "nombre": "CAROLINA HERRERA Perfume Hombre Bad Boy Edt 50Ml Carolina Herrera",
+     "tienda": "Falabella",
+     "ahora": 56990,
+     "antes": 94990,
+     "pct": 40,
+     "rubro": "perfumes",
+     "esMinimo": true,
+     "dias": 20,
+     "visto": "22:36"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1793153828505-c4-1.jpg",
+    "tmp-medios/1793153828505-c4-2.jpg",
+    "tmp-medios/1793153828505-c4-3.jpg"
+   ],
+   "texto": "🏆 Recopilación del día\n1. RECCO Mini Calefactor 600 W Oleoeléctrica Blanco: $15.990 (-57%) en Sodimac\n2. MONCLER Perfume Moncler Pour Homme EDP 60ML: $59.990 (-40%) en Falabella · 📉 mínimo de 84 días\n3. Nex Ventilador suelo industrial 42'' negro: $149.990 (-53%) en Easy\n4. CAROLINA HERRERA Perfume Hombre Bad Boy Edt 50Ml Carolina Herrera: $56.990 (-40%) en Falabella · 📉 mínimo de 20 días\n\n⏰ Precios vistos hoy (27/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #top5 #descuentoschile #ofertix #ahorrar"
   }
  },
  "config": {
@@ -4468,7 +4534,7 @@
    "hasta": "2026-10-27T17:01:57.023Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-28T02:01:52.479Z"
+  "ultimaPub": "2026-10-28T02:17:48.439Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-27",
