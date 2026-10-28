@@ -54,7 +54,8 @@
   "2103253": "2026-10-28T01:32:39.485Z",
   "2103254": "2026-10-28T02:17:48.438Z",
   "2103256": "2026-10-27T19:10:46.044Z",
-  "2132513": "2026-10-27T19:10:46.044Z"
+  "2132513": "2026-10-27T19:10:46.044Z",
+  "2330908": "2026-10-28T11:02:24.840Z"
  },
  "nombres": {
   "calvin klein calvin klein ck one eau de toilette unisex 50 ml": "2026-10-28T00:47:54.231Z",
@@ -110,7 +111,8 @@
   "nex ventilador suelo industrial 36 negro": "2026-10-28T02:19:22.192Z",
   "ursus trotter horno electrico sobremesa 25 litros ut backofen pro b": "2026-10-26T19:32:06.242Z",
   "jbl jbl audifonos tune 680nc beige": "2026-10-27T18:03:14.149Z",
-  "marc jacobs marc jacobs perfect intense eau de parfum para mujer 50 ml": "2026-10-27T21:32:06.127Z"
+  "marc jacobs marc jacobs perfect intense eau de parfum para mujer 50 ml": "2026-10-27T21:32:06.127Z",
+  "midea refrigerador top mount no frost 266 litros mdrt385mte50in midea": "2026-10-28T11:02:24.840Z"
  },
  "items": {
   "2026-10-25-r-carrusel-1792926130744": {
@@ -4610,6 +4612,35 @@
      "visto": "22:36"
     }
    ]
+  },
+  "2026-10-28-r-carrusel-1793185344840": {
+   "tipo": "carrusel",
+   "fecha": "2026-10-28",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "formato": "oferta",
+   "hora": "08:02",
+   "id": "18081027083379547",
+   "enlace": "https://www.instagram.com/p/DfCR1GOFs75/",
+   "ofertas": [
+    {
+     "id": "2330908",
+     "nombre": "MIDEA Refrigerador Top Mount No Frost 266 Litros MDRT385MTE50IN Midea",
+     "tienda": "Falabella",
+     "ahora": 139990,
+     "antes": 279990,
+     "pct": 50,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 83,
+     "visto": "06:43"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1793185316095-c0-1.jpg",
+    "tmp-medios/1793185316095-c0-2.jpg"
+   ],
+   "texto": "🔥 OFERTA NUEVA\nMIDEA Refrigerador Top Mount No Frost 266 Litros MDRT385MTE50IN Midea\nAhora: $139.990 (-50%)\nReferencia: $279.990\n🏪 Falabella\n\n✅ Precio visto hoy a las 06:43 en nuestro sistema.\n📉 Es el precio más bajo de los últimos 83 días.\n⏰ Puede cambiar o agotarse sin aviso.\n📲 Enlace directo en Telegram: t.me/ofertixcl\n\n#ofertaschile #hogar #descuentoschile #ofertix #ofertasdeldia"
   }
  },
  "config": {
@@ -4629,7 +4660,7 @@
    "hasta": "2026-10-27T17:01:57.023Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-28T02:32:43.797Z"
+  "ultimaPub": "2026-10-28T11:02:24.840Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-27",
