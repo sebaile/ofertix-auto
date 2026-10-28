@@ -1,7 +1,9 @@
 {
  "offset": 44460906,
  "usadas": {
+  "181585": "2026-10-28T11:47:54.768Z",
   "824715": "2026-10-28T01:32:39.485Z",
+  "825801": "2026-10-28T11:47:54.768Z",
   "825870": "2026-10-26T13:47:21.814Z",
   "829028": "2026-10-28T00:47:54.231Z",
   "830761": "2026-10-27T00:48:02.395Z",
@@ -10,7 +12,7 @@
   "1087230": "2026-10-26T12:17:30.883Z",
   "1087242": "2026-10-26T13:47:21.814Z",
   "1087642": "2026-10-27T17:17:48.075Z",
-  "1110717": "2026-10-25T21:16:57.917Z",
+  "1110717": "2026-10-28T11:47:54.768Z",
   "1131276": "2026-10-27T18:03:14.149Z",
   "1137440": "2026-10-28T00:18:29.402Z",
   "1530831": "2026-10-27T00:33:08.235Z",
@@ -29,7 +31,7 @@
   "1784905": "2026-10-27T17:17:48.074Z",
   "1785097": "2026-10-26T19:32:06.242Z",
   "1795903": "2026-10-26T13:33:21.167Z",
-  "1827803": "2026-10-27T00:48:02.395Z",
+  "1827803": "2026-10-28T11:47:54.768Z",
   "1840943": "2026-10-28T00:47:54.231Z",
   "1841225": "2026-10-27T18:03:14.149Z",
   "1841233": "2026-10-28T00:04:09.267Z",
@@ -65,7 +67,7 @@
   "primus mouse inalambrico gladius boba fett": "2026-10-27T17:17:48.075Z",
   "teclado hyperx alloy core rgb 4p4f5ai hx kb5me2 la": "2026-10-27T18:03:14.149Z",
   "dolce gabbana perfume hombre edp dolce gabbana": "2026-10-26T12:17:30.883Z",
-  "ferragamo perfume hombre red men edp 50 ml ferragamo": "2026-10-25T21:16:57.917Z",
+  "ferragamo perfume hombre red men edp 50 ml ferragamo": "2026-10-28T11:47:54.768Z",
   "nespresso cafetera essenza mini negra espumador": "2026-10-27T00:33:08.235Z",
   "fdv hervidor de vidrio crystal 1 7 lts kegs5813 gs fdv": "2026-10-26T13:47:21.814Z",
   "carolina herrera perfume hombre bad boy edt 50ml carolina herrera": "2026-10-28T02:17:48.438Z",
@@ -76,7 +78,7 @@
   "parlante portatil aiwa aw a521 90w bluetooth negro": "2026-10-27T17:17:48.075Z",
   "benetton perfume mujer sisterland green jasmine edt 80 ml benetton": "2026-10-26T13:33:21.167Z",
   "rabanne perfume hombre one million elixir edp 200ml rabanne": "2026-10-26T12:17:30.883Z",
-  "licuadora easyways licuadora crush n roll 1 5 l": "2026-10-27T00:48:02.395Z",
+  "licuadora easyways licuadora crush n roll 1 5 l": "2026-10-28T11:47:54.768Z",
   "hamilton beach microondas digital 23 litros inox hb p90d23el lxa": "2026-10-28T00:04:09.267Z",
   "hamilton beach batidora de mano 290 w multicolor bp 62650 cl": "2026-10-28T00:18:29.402Z",
   "hamilton beach batidora de pedestal 3 7 l 290 kw negro 64650 cl": "2026-10-28T00:47:54.231Z",
@@ -118,7 +120,9 @@
   "midea refrigerador top mount no frost 266 litros mdrt385mte50in midea": "2026-10-28T11:02:24.840Z",
   "electronic arts juego ea sports fc 26 latam ps5 electronic arts": "2026-10-28T11:32:32.870Z",
   "electrolux lavadora carga superior 16 kg emtl16 electrolux": "2026-10-28T11:32:32.870Z",
-  "jo malone london cologne fig lotus and flower 30 ml jo malone london": "2026-10-28T11:32:32.870Z"
+  "jo malone london cologne fig lotus and flower 30 ml jo malone london": "2026-10-28T11:32:32.870Z",
+  "cafetera espresso electrolux capsula ecm70": "2026-10-28T11:47:54.768Z",
+  "siegen alisador sg 4704 siegen airflow fast style": "2026-10-28T11:47:54.768Z"
  },
  "items": {
   "2026-10-25-r-carrusel-1792926130744": {
@@ -4764,6 +4768,72 @@
      "visto": "07:49"
     }
    ]
+  },
+  "2026-10-28-r-carrusel-1793188074769": {
+   "tipo": "carrusel",
+   "fecha": "2026-10-28",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "formato": "top5",
+   "hora": "08:47",
+   "id": "18417000295080933",
+   "enlace": "https://www.instagram.com/p/DfCXCO_Ec_L/",
+   "ofertas": [
+    {
+     "id": "181585",
+     "nombre": "Cafetera Espresso Electrolux Cápsula Ecm70",
+     "tienda": "Mercado Libre",
+     "ahora": 84990,
+     "antes": 159920,
+     "pct": 46,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 83,
+     "visto": "07:49"
+    },
+    {
+     "id": "825801",
+     "nombre": "SIEGEN Alisador SG-4704 Siegen Airflow + Fast Style",
+     "tienda": "Falabella",
+     "ahora": 45990,
+     "antes": 79990,
+     "pct": 42,
+     "rubro": "belleza",
+     "esMinimo": true,
+     "dias": 62,
+     "visto": "07:49"
+    },
+    {
+     "id": "1110717",
+     "nombre": "FERRAGAMO Perfume Hombre Red Men Edp 50 Ml Ferragamo",
+     "tienda": "Falabella",
+     "ahora": 48590,
+     "antes": 80990,
+     "pct": 40,
+     "rubro": "perfumes",
+     "esMinimo": true,
+     "dias": 89,
+     "visto": "07:49"
+    },
+    {
+     "id": "1827803",
+     "nombre": "Licuadora Easyways Licuadora Crush n' roll 1,5 L",
+     "tienda": "ABC",
+     "ahora": 34990,
+     "antes": 66990,
+     "pct": 47,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 83,
+     "visto": "07:49"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1793188032659-c1-1.jpg",
+    "tmp-medios/1793188032659-c1-2.jpg",
+    "tmp-medios/1793188032659-c1-3.jpg"
+   ],
+   "texto": "🏆 Ofertas nuevas de hoy\n1. Cafetera Espresso Electrolux Cápsula Ecm70: $84.990 (-46%) en Mercado Libre · 📉 mínimo de 83 días\n2. SIEGEN Alisador SG-4704 Siegen Airflow + Fast Style: $45.990 (-42%) en Falabella · 📉 mínimo de 62 días\n3. FERRAGAMO Perfume Hombre Red Men Edp 50 Ml Ferragamo: $48.590 (-40%) en Falabella · 📉 mínimo de 89 días\n4. Licuadora Easyways Licuadora Crush n' roll 1,5 L: $34.990 (-47%) en ABC\n\n⏰ Precios vistos hoy (28/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #top5 #descuentoschile #ofertix #ahorrar"
   }
  },
  "config": {
@@ -4783,7 +4853,7 @@
    "hasta": "2026-10-27T17:01:57.023Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-28T11:32:48.640Z"
+  "ultimaPub": "2026-10-28T11:47:54.769Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-27",
