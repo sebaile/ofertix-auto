@@ -4,7 +4,7 @@
   "181585": "2026-10-28T11:47:54.768Z",
   "824715": "2026-10-29T02:17:12.349Z",
   "825797": "2026-10-29T11:33:37.387Z",
-  "825801": "2026-10-28T11:47:54.768Z",
+  "825801": "2026-10-29T12:16:56.294Z",
   "825870": "2026-10-26T13:47:21.814Z",
   "829028": "2026-10-28T00:47:54.231Z",
   "830761": "2026-10-28T12:17:22.968Z",
@@ -19,7 +19,7 @@
   "1530831": "2026-10-27T00:33:08.235Z",
   "1531094": "2026-10-28T13:18:13.038Z",
   "1576473": "2026-10-28T22:49:33.602Z",
-  "1592754": "2026-10-28T02:17:48.438Z",
+  "1592754": "2026-10-29T12:16:56.294Z",
   "1595843": "2026-10-28T02:19:22.192Z",
   "1673324": "2026-10-27T01:47:23.737Z",
   "1673333": "2026-10-28T02:19:22.192Z",
@@ -59,7 +59,7 @@
   "2330908": "2026-10-28T11:02:24.840Z",
   "2330918": "2026-10-28T11:32:32.870Z",
   "2330924": "2026-10-29T11:33:37.386Z",
-  "2330968": "2026-10-28T11:32:32.870Z",
+  "2330968": "2026-10-29T12:16:56.294Z",
   "2332098": "2026-10-29T11:46:52.847Z",
   "2368169": "2026-10-29T01:34:07.125Z",
   "2376071": "2026-10-29T11:02:31.717Z",
@@ -92,7 +92,7 @@
   "nex aire acondicionado 9000btu acp09288 fcwifi": "2026-10-28T02:19:22.191Z",
   "samsung encimera a gas 5 quemadores gris": "2026-10-29T02:17:12.349Z",
   "xiaomi 17 ultra photography kit pro negro": "2026-10-28T22:49:33.602Z",
-  "nex ventilador suelo industrial 42 negro": "2026-10-28T02:17:48.438Z",
+  "nex ventilador suelo industrial 42 negro": "2026-10-29T12:16:56.294Z",
   "tous tous silver edt mujer 30 ml": "2026-10-26T21:03:07.160Z",
   "thomas termoventilador electrico 2000 w th fh31 blanco": "2026-10-28T12:17:22.968Z",
   "kate spade kate spade cherie je taime edp 100ml": "2026-10-28T22:49:33.602Z",
@@ -121,9 +121,9 @@
   "midea refrigerador top mount no frost 266 litros mdrt385mte50in midea": "2026-10-28T11:02:24.840Z",
   "electronic arts juego ea sports fc 26 latam ps5 electronic arts": "2026-10-28T11:32:32.870Z",
   "electrolux lavadora carga superior 16 kg emtl16 electrolux": "2026-10-29T11:46:52.847Z",
-  "jo malone london cologne fig lotus and flower 30 ml jo malone london": "2026-10-28T11:32:32.870Z",
+  "jo malone london cologne fig lotus and flower 30 ml jo malone london": "2026-10-29T12:16:56.294Z",
   "cafetera espresso electrolux capsula ecm70": "2026-10-28T11:47:54.768Z",
-  "siegen alisador sg 4704 siegen airflow fast style": "2026-10-28T11:47:54.768Z",
+  "siegen alisador sg 4704 siegen airflow fast style": "2026-10-29T12:16:56.294Z",
   "viktor rolf perfume mujer flowerbomb edp 100ml viktor rolf": "2026-10-29T01:34:07.125Z",
   "audifonos jbl tune 500": "2026-10-29T11:02:31.717Z",
   "electronic arts juego ea sports fc 26 latam ns2 electronic arts": "2026-10-29T11:33:37.386Z",
@@ -4705,6 +4705,57 @@
      "visto": "08:11"
     }
    ]
+  },
+  "2026-10-29-r-reel-1793276216295": {
+   "tipo": "reel",
+   "fecha": "2026-10-29",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "hora": "09:16",
+   "id": "17932813614162102",
+   "enlace": "https://www.instagram.com/reel/DfE_HUPjHCt/",
+   "ofertas": [
+    {
+     "id": "2330968",
+     "nombre": "JO MALONE LONDON Cologne Fig Lotus and Flower 30 ml Jo Malone London",
+     "tienda": "Falabella",
+     "ahora": 46790,
+     "antes": 78000,
+     "pct": 40,
+     "rubro": "perfumes",
+     "esMinimo": false,
+     "dias": 1,
+     "visto": "08:11"
+    },
+    {
+     "id": "825801",
+     "nombre": "SIEGEN Alisador SG-4704 Siegen Airflow + Fast Style",
+     "tienda": "Falabella",
+     "ahora": 45990,
+     "antes": 79990,
+     "pct": 42,
+     "rubro": "belleza",
+     "esMinimo": true,
+     "dias": 63,
+     "visto": "08:11"
+    },
+    {
+     "id": "1592754",
+     "nombre": "Nex Ventilador suelo industrial 42'' negro",
+     "tienda": "Easy",
+     "ahora": 149990,
+     "antes": 319990,
+     "pct": 53,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 29,
+     "visto": "08:11"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1793276145659-r1.mp4"
+   ],
+   "texto": "🔥 3 ofertas nuevas de hoy\n1. JO MALONE LONDON Cologne Fig Lotus and Flower 30 ml Jo Malone London: $46.790 (-40%, referencia $78.000) en Falabella\n2. SIEGEN Alisador SG-4704 Siegen Airflow + Fast Style: $45.990 (-42%, referencia $79.990) en Falabella · 📉 mínimo de 63 días\n3. Nex Ventilador suelo industrial 42'' negro: $149.990 (-53%, referencia $319.990) en Easy\n\n⏰ Precios vistos hoy (29/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
   }
  },
  "config": {
@@ -4724,7 +4775,7 @@
    "hasta": "2026-10-28T22:37:52.045Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-29T12:02:04.983Z"
+  "ultimaPub": "2026-10-29T12:16:56.295Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-28",
