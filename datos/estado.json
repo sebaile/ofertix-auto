@@ -31,8 +31,8 @@
   "1785097": "2026-10-26T19:32:06.242Z",
   "1795903": "2026-10-26T13:33:21.167Z",
   "1827803": "2026-10-28T11:47:54.768Z",
-  "1840943": "2026-10-28T00:47:54.231Z",
-  "1841225": "2026-10-27T18:03:14.149Z",
+  "1840943": "2026-10-29T02:03:10.418Z",
+  "1841225": "2026-10-29T02:03:10.418Z",
   "1841233": "2026-10-29T00:49:25.527Z",
   "1841315": "2026-10-29T00:49:25.527Z",
   "1841316": "2026-10-29T01:34:07.125Z",
@@ -44,7 +44,7 @@
   "2047234": "2026-10-28T02:17:48.438Z",
   "2047249": "2026-10-28T22:49:33.602Z",
   "2048291": "2026-10-28T12:17:22.968Z",
-  "2048348": "2026-10-28T01:32:39.485Z",
+  "2048348": "2026-10-29T02:03:10.418Z",
   "2066558": "2026-10-28T12:32:14.418Z",
   "2084002": "2026-10-29T00:49:25.527Z",
   "2084101": "2026-10-29T00:34:41.774Z",
@@ -54,7 +54,7 @@
   "2103253": "2026-10-28T01:32:39.485Z",
   "2103254": "2026-10-28T02:17:48.438Z",
   "2103256": "2026-10-29T01:03:10.709Z",
-  "2132513": "2026-10-27T19:10:46.044Z",
+  "2132513": "2026-10-29T02:03:10.418Z",
   "2330908": "2026-10-28T11:02:24.840Z",
   "2330918": "2026-10-28T11:32:32.870Z",
   "2330968": "2026-10-28T11:32:32.870Z",
@@ -81,8 +81,8 @@
   "hamilton beach microondas digital 23 litros inox hb p90d23el lxa": "2026-10-29T00:49:25.527Z",
   "hamilton beach batidora de mano 290 w multicolor bp 62650 cl": "2026-10-29T00:49:25.527Z",
   "hamilton beach batidora de pedestal 3 7 l 290 kw negro 64650 cl": "2026-10-29T01:34:07.125Z",
-  "hamilton beach freidora de aire 2 5 litros fe 35051 cl": "2026-10-28T00:47:54.231Z",
-  "volker campana convencional 60 cm inox": "2026-10-27T18:03:14.149Z",
+  "hamilton beach freidora de aire 2 5 litros fe 35051 cl": "2026-10-29T02:03:10.418Z",
+  "volker campana convencional 60 cm inox": "2026-10-29T02:03:10.418Z",
   "thomas chimenea electrica 2000w conveccion th fp100 madera": "2026-10-29T00:34:41.774Z",
   "prada perfume de prada infusion de figue eau de parfum 100ml unisex": "2026-10-28T12:17:22.968Z",
   "nex aire acondicionado 9000btu acp09288 fcwifi": "2026-10-28T02:19:22.191Z",
@@ -103,10 +103,10 @@
   "cartier perfume mujer la panthere elixir edp 100 ml cartier": "2026-10-28T12:17:22.968Z",
   "wurden convector conveccion qnq 101f blanco": "2026-10-29T01:03:10.709Z",
   "moncler perfume moncler pour homme edp 60ml": "2026-10-28T02:17:48.438Z",
-  "jimmy choo perfume hombre j choo man extreme 30ml": "2026-10-27T19:10:46.044Z",
+  "jimmy choo perfume hombre j choo man extreme 30ml": "2026-10-29T02:03:10.418Z",
   "recco estufa electrica blanco 1200 w radiacion nsb 99y blanco": "2026-10-28T01:32:39.485Z",
   "recco mini calefactor 600 w oleoelectrica blanco": "2026-10-28T02:17:48.438Z",
-  "moncler perfume mujer moncler pour femme edp 100 ml": "2026-10-28T01:32:39.485Z",
+  "moncler perfume mujer moncler pour femme edp 100 ml": "2026-10-29T02:03:10.418Z",
   "lg parlante bluetooth grab amexlbk lg": "2026-10-26T13:47:21.814Z",
   "rabanne perfume hombre black xs edt 100ml rabanne": "2026-10-27T01:47:23.737Z",
   "antonio banderas perfume edt hombre the icon edt 200 ml banderas": "2026-10-26T13:47:21.814Z",
@@ -4295,6 +4295,72 @@
      "visto": "22:04"
     }
    ]
+  },
+  "2026-10-28-r-carrusel-1793239390419": {
+   "tipo": "carrusel",
+   "fecha": "2026-10-28",
+   "estado": "publicado",
+   "bloque": "recopilaciones",
+   "formato": "top5",
+   "hora": "23:03",
+   "id": "17906050248356473",
+   "enlace": "https://www.instagram.com/p/DfD46oWDa_x/",
+   "ofertas": [
+    {
+     "id": "1840943",
+     "nombre": "HAMILTON BEACH Freidora de Aire 2.5 Litros FE-35051-CL",
+     "tienda": "Sodimac",
+     "ahora": 39990,
+     "antes": 89990,
+     "pct": 55,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 48,
+     "visto": "22:04"
+    },
+    {
+     "id": "2048348",
+     "nombre": "MONCLER Perfume Mujer Moncler Pour Femme Edp 100 Ml",
+     "tienda": "Falabella",
+     "ahora": 89990,
+     "antes": 149990,
+     "pct": 40,
+     "rubro": "perfumes",
+     "esMinimo": true,
+     "dias": 86,
+     "visto": "22:04"
+    },
+    {
+     "id": "1841225",
+     "nombre": "VOLKER Campana Convencional 60 cm Inox",
+     "tienda": "Sodimac",
+     "ahora": 59990,
+     "antes": 109990,
+     "pct": 45,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 85,
+     "visto": "22:04"
+    },
+    {
+     "id": "2132513",
+     "nombre": "JIMMY CHOO Perfume Hombre J Choo Man Extreme 30Ml",
+     "tienda": "Falabella",
+     "ahora": 32990,
+     "antes": 59990,
+     "pct": 45,
+     "rubro": "perfumes",
+     "esMinimo": true,
+     "dias": 74,
+     "visto": "22:04"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1793239348149-c6-1.jpg",
+    "tmp-medios/1793239348149-c6-2.jpg",
+    "tmp-medios/1793239348149-c6-3.jpg"
+   ],
+   "texto": "🏆 Recopilación del día\n1. HAMILTON BEACH Freidora de Aire 2.5 Litros FE-35051-CL: $39.990 (-55%) en Sodimac\n2. MONCLER Perfume Mujer Moncler Pour Femme Edp 100 Ml: $89.990 (-40%) en Falabella · 📉 mínimo de 86 días\n3. VOLKER Campana Convencional 60 cm Inox: $59.990 (-45%) en Sodimac · 📉 mínimo de 85 días\n4. JIMMY CHOO Perfume Hombre J Choo Man Extreme 30Ml: $32.990 (-45%) en Falabella · 📉 mínimo de 74 días\n\n⏰ Precios vistos hoy (28/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #top5 #descuentoschile #ofertix #ahorrar"
   }
  },
  "config": {
@@ -4314,7 +4380,7 @@
    "hasta": "2026-10-28T22:37:52.045Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-29T02:01:12.986Z"
+  "ultimaPub": "2026-10-29T02:03:10.419Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-28",
