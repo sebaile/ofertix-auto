@@ -4509,6 +4509,28 @@
     "tmp-medios/1793271721542-c0-2.jpg"
    ],
    "texto": "🔥 OFERTA NUEVA\nAudífonos JBL Tune 500\nAhora: $14.990 (-50%)\nReferencia: $29.990\n🏪 Hites\n\n✅ Precio visto hoy a las 07:03 en nuestro sistema.\n⏰ Puede cambiar o agotarse sin aviso.\n📲 Enlace directo en Telegram: t.me/ofertixcl\n\n#ofertaschile #tecnologia #descuentoschile #ofertix #ofertasdeldia"
+  },
+  "2026-10-29-r-historia-1793271771628": {
+   "tipo": "historia",
+   "fecha": "2026-10-29",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "hora": "08:02",
+   "id": "17888388012653026",
+   "ofertas": [
+    {
+     "id": "2376071",
+     "nombre": "Audífonos JBL Tune 500",
+     "tienda": "Hites",
+     "ahora": 14990,
+     "antes": 29990,
+     "pct": 50,
+     "rubro": "tecnologia",
+     "esMinimo": false,
+     "dias": 85,
+     "visto": "07:03"
+    }
+   ]
   }
  },
  "config": {
@@ -4528,7 +4550,7 @@
    "hasta": "2026-10-28T22:37:52.045Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-29T11:02:31.718Z"
+  "ultimaPub": "2026-10-29T11:02:51.628Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-28",
@@ -4561,6 +4583,7 @@
   "2330908": "2026-10-28T11:17:22.344Z",
   "2330918": "2026-10-28T12:46:39.092Z",
   "2330924": "2026-10-28T13:01:23.233Z",
-  "2332098": "2026-10-28T13:01:44.537Z"
+  "2332098": "2026-10-28T13:01:44.537Z",
+  "2376071": "2026-10-29T11:02:51.628Z"
  }
 }
