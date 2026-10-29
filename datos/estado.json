@@ -4661,6 +4661,28 @@
     "tmp-medios/1793274384995-c1-2.jpg"
    ],
    "texto": "🔥 OFERTA DEL DÍA\nELECTROLUX Lavadora Carga Superior 16 Kg EMTL16 Electrolux\nAhora: $249.990 (-40%)\nReferencia: $419.990\n🏪 Falabella\n\n✅ Precio visto hoy a las 08:11 en nuestro sistema.\n⏰ Puede cambiar o agotarse sin aviso.\n📲 Enlace directo en Telegram: t.me/ofertixcl\n\n#ofertaschile #hogar #descuentoschile #ofertix #ofertasdeldia"
+  },
+  "2026-10-29-r-historia-1793274432961": {
+   "tipo": "historia",
+   "fecha": "2026-10-29",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "hora": "08:47",
+   "id": "18127090489913212",
+   "ofertas": [
+    {
+     "id": "2332098",
+     "nombre": "ELECTROLUX Lavadora Carga Superior 16 Kg EMTL16 Electrolux",
+     "tienda": "Falabella",
+     "ahora": 249990,
+     "antes": 419990,
+     "pct": 40,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 44,
+     "visto": "08:11"
+    }
+   ]
   }
  },
  "config": {
@@ -4680,7 +4702,7 @@
    "hasta": "2026-10-28T22:37:52.045Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-29T11:46:52.847Z"
+  "ultimaPub": "2026-10-29T11:47:12.962Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-28",
@@ -4713,7 +4735,7 @@
   "2330908": "2026-10-28T11:17:22.344Z",
   "2330918": "2026-10-28T12:46:39.092Z",
   "2330924": "2026-10-28T13:01:23.233Z",
-  "2332098": "2026-10-28T13:01:44.537Z",
+  "2332098": "2026-10-29T11:47:12.961Z",
   "2368169": "2026-10-29T11:16:09.852Z",
   "2376071": "2026-10-29T11:02:51.628Z"
  }
