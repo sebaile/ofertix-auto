@@ -4229,6 +4229,28 @@
      "visto": "22:04"
     }
    ]
+  },
+  "2026-10-28-r-historia-1793238366574": {
+   "tipo": "historia",
+   "fecha": "2026-10-28",
+   "estado": "publicado",
+   "bloque": "recopilaciones",
+   "hora": "22:46",
+   "id": "18341923927281655",
+   "ofertas": [
+    {
+     "id": "1063781",
+     "nombre": "CALVIN KLEIN Calvin Klein CK One Eau De Toilette Unisex 50 Ml",
+     "tienda": "Falabella",
+     "ahora": 24990,
+     "antes": 52990,
+     "pct": 52,
+     "rubro": "perfumes",
+     "esMinimo": true,
+     "dias": 88,
+     "visto": "22:04"
+    }
+   ]
   }
  },
  "config": {
@@ -4248,13 +4270,13 @@
    "hasta": "2026-10-28T22:37:52.045Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-29T01:34:31.170Z"
+  "ultimaPub": "2026-10-29T01:46:06.574Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-28",
  "usadasH": {
   "824715": "2026-10-28T02:01:30.364Z",
-  "1063781": "2026-10-28T01:01:43.365Z",
+  "1063781": "2026-10-29T01:46:06.574Z",
   "1087642": "2026-10-28T11:32:48.640Z",
   "1137440": "2026-10-28T12:01:13.054Z",
   "1576473": "2026-10-28T23:31:42.299Z",
