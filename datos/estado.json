@@ -2,7 +2,7 @@
  "offset": 44460906,
  "usadas": {
   "181585": "2026-10-28T11:47:54.768Z",
-  "824715": "2026-10-28T01:32:39.485Z",
+  "824715": "2026-10-29T02:17:12.349Z",
   "825801": "2026-10-28T11:47:54.768Z",
   "825870": "2026-10-26T13:47:21.814Z",
   "829028": "2026-10-28T00:47:54.231Z",
@@ -10,7 +10,7 @@
   "1063781": "2026-10-29T01:03:10.709Z",
   "1087207": "2026-10-26T12:17:30.883Z",
   "1087230": "2026-10-26T12:17:30.883Z",
-  "1087242": "2026-10-26T13:47:21.814Z",
+  "1087242": "2026-10-29T02:17:12.349Z",
   "1087642": "2026-10-29T01:03:10.709Z",
   "1110717": "2026-10-28T11:47:54.768Z",
   "1131276": "2026-10-29T00:34:41.774Z",
@@ -51,7 +51,7 @@
   "2085077": "2026-10-29T00:34:41.774Z",
   "2086478": "2026-10-29T00:34:41.774Z",
   "2086682": "2026-10-29T00:49:25.527Z",
-  "2103253": "2026-10-28T01:32:39.485Z",
+  "2103253": "2026-10-29T02:17:12.349Z",
   "2103254": "2026-10-28T02:17:48.438Z",
   "2103256": "2026-10-29T01:03:10.709Z",
   "2132513": "2026-10-29T02:03:10.418Z",
@@ -86,7 +86,7 @@
   "thomas chimenea electrica 2000w conveccion th fp100 madera": "2026-10-29T00:34:41.774Z",
   "prada perfume de prada infusion de figue eau de parfum 100ml unisex": "2026-10-28T12:17:22.968Z",
   "nex aire acondicionado 9000btu acp09288 fcwifi": "2026-10-28T02:19:22.191Z",
-  "samsung encimera a gas 5 quemadores gris": "2026-10-28T01:32:39.485Z",
+  "samsung encimera a gas 5 quemadores gris": "2026-10-29T02:17:12.349Z",
   "xiaomi 17 ultra photography kit pro negro": "2026-10-28T22:49:33.602Z",
   "nex ventilador suelo industrial 42 negro": "2026-10-28T02:17:48.438Z",
   "tous tous silver edt mujer 30 ml": "2026-10-26T21:03:07.160Z",
@@ -104,12 +104,12 @@
   "wurden convector conveccion qnq 101f blanco": "2026-10-29T01:03:10.709Z",
   "moncler perfume moncler pour homme edp 60ml": "2026-10-28T02:17:48.438Z",
   "jimmy choo perfume hombre j choo man extreme 30ml": "2026-10-29T02:03:10.418Z",
-  "recco estufa electrica blanco 1200 w radiacion nsb 99y blanco": "2026-10-28T01:32:39.485Z",
+  "recco estufa electrica blanco 1200 w radiacion nsb 99y blanco": "2026-10-29T02:17:12.349Z",
   "recco mini calefactor 600 w oleoelectrica blanco": "2026-10-28T02:17:48.438Z",
   "moncler perfume mujer moncler pour femme edp 100 ml": "2026-10-29T02:03:10.418Z",
   "lg parlante bluetooth grab amexlbk lg": "2026-10-26T13:47:21.814Z",
   "rabanne perfume hombre black xs edt 100ml rabanne": "2026-10-27T01:47:23.737Z",
-  "antonio banderas perfume edt hombre the icon edt 200 ml banderas": "2026-10-26T13:47:21.814Z",
+  "antonio banderas perfume edt hombre the icon edt 200 ml banderas": "2026-10-29T02:17:12.349Z",
   "nex ventilador suelo industrial 36 negro": "2026-10-28T02:19:22.192Z",
   "ursus trotter horno electrico sobremesa 25 litros ut backofen pro b": "2026-10-26T19:32:06.242Z",
   "jbl jbl audifonos tune 680nc beige": "2026-10-27T18:03:14.149Z",
@@ -4361,6 +4361,57 @@
     "tmp-medios/1793239348149-c6-3.jpg"
    ],
    "texto": "🏆 Recopilación del día\n1. HAMILTON BEACH Freidora de Aire 2.5 Litros FE-35051-CL: $39.990 (-55%) en Sodimac\n2. MONCLER Perfume Mujer Moncler Pour Femme Edp 100 Ml: $89.990 (-40%) en Falabella · 📉 mínimo de 86 días\n3. VOLKER Campana Convencional 60 cm Inox: $59.990 (-45%) en Sodimac · 📉 mínimo de 85 días\n4. JIMMY CHOO Perfume Hombre J Choo Man Extreme 30Ml: $32.990 (-45%) en Falabella · 📉 mínimo de 74 días\n\n⏰ Precios vistos hoy (28/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #top5 #descuentoschile #ofertix #ahorrar"
+  },
+  "2026-10-28-r-reel-1793240232349": {
+   "tipo": "reel",
+   "fecha": "2026-10-28",
+   "estado": "publicado",
+   "bloque": "recopilaciones",
+   "hora": "23:17",
+   "id": "17995222347101478",
+   "enlace": "https://www.instagram.com/reel/DfD6eU4jKtt/",
+   "ofertas": [
+    {
+     "id": "824715",
+     "nombre": "SAMSUNG Encimera a Gas 5 Quemadores Gris",
+     "tienda": "Falabella Marketplace",
+     "ahora": 199990,
+     "antes": 359990,
+     "pct": 44,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 79,
+     "visto": "22:56"
+    },
+    {
+     "id": "1087242",
+     "nombre": "ANTONIO BANDERAS Perfume EDT Hombre The Icon EDT 200 Ml Banderas",
+     "tienda": "Falabella",
+     "ahora": 22990,
+     "antes": 38990,
+     "pct": 41,
+     "rubro": "perfumes",
+     "esMinimo": false,
+     "dias": 83,
+     "visto": "22:56"
+    },
+    {
+     "id": "2103253",
+     "nombre": "RECCO Estufa eléctrica Blanco 1200 W Radiación NSB-99Y Blanco",
+     "tienda": "Sodimac",
+     "ahora": 12490,
+     "antes": 29990,
+     "pct": 58,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 63,
+     "visto": "22:56"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1793240147269-r6.mp4"
+   ],
+   "texto": "🔥 3 ofertas las mejores del día\n1. SAMSUNG Encimera a Gas 5 Quemadores Gris: $199.990 (-44%, referencia $359.990) en Falabella Marketplace · 📉 mínimo de 79 días\n2. ANTONIO BANDERAS Perfume EDT Hombre The Icon EDT 200 Ml Banderas: $22.990 (-41%, referencia $38.990) en Falabella\n3. RECCO Estufa eléctrica Blanco 1200 W Radiación NSB-99Y Blanco: $12.490 (-58%, referencia $29.990) en Sodimac\n\n⏰ Precios vistos hoy (28/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
   }
  },
  "config": {
@@ -4380,7 +4431,7 @@
    "hasta": "2026-10-28T22:37:52.045Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-29T02:03:10.419Z"
+  "ultimaPub": "2026-10-29T02:17:12.349Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-28",
