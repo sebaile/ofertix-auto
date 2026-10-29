@@ -40,7 +40,7 @@
   "2000806": "2026-10-28T22:49:33.602Z",
   "2007710": "2026-10-26T21:03:07.160Z",
   "2047193": "2026-10-29T00:04:41.987Z",
-  "2047234": "2026-10-28T02:17:48.438Z",
+  "2047234": "2026-10-29T12:32:04.883Z",
   "2047249": "2026-10-28T22:49:33.602Z",
   "2048291": "2026-10-28T12:17:22.968Z",
   "2048348": "2026-10-29T02:03:10.418Z",
@@ -102,7 +102,7 @@
   "recco enfriador de aire 50 w blanco bl 202dlr h": "2026-10-28T12:32:14.418Z",
   "cartier perfume mujer la panthere elixir edp 100 ml cartier": "2026-10-28T12:17:22.968Z",
   "wurden convector conveccion qnq 101f blanco": "2026-10-29T01:03:10.709Z",
-  "moncler perfume moncler pour homme edp 60ml": "2026-10-28T02:17:48.438Z",
+  "moncler perfume moncler pour homme edp 60ml": "2026-10-29T12:32:04.884Z",
   "jimmy choo perfume hombre j choo man extreme 30ml": "2026-10-29T02:03:10.418Z",
   "recco estufa electrica blanco 1200 w radiacion nsb 99y blanco": "2026-10-29T02:17:12.349Z",
   "recco mini calefactor 600 w oleoelectrica blanco": "2026-10-28T02:17:48.438Z",
@@ -4774,6 +4774,35 @@
      "visto": "08:11"
     }
    ]
+  },
+  "2026-10-29-r-carrusel-1793277124884": {
+   "tipo": "carrusel",
+   "fecha": "2026-10-29",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "formato": "oferta",
+   "hora": "09:32",
+   "id": "18120916631321251",
+   "enlace": "https://www.instagram.com/p/DfFA4teEQTd/",
+   "ofertas": [
+    {
+     "id": "2047234",
+     "nombre": "MONCLER Perfume Moncler Pour Homme EDP 60ML",
+     "tienda": "Falabella",
+     "ahora": 59990,
+     "antes": 99990,
+     "pct": 40,
+     "rubro": "perfumes",
+     "esMinimo": true,
+     "dias": 86,
+     "visto": "09:06"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1793277090432-c2-1.jpg",
+    "tmp-medios/1793277090432-c2-2.jpg"
+   ],
+   "texto": "🔥 OFERTA NUEVA\nMONCLER Perfume Moncler Pour Homme EDP 60ML\nAhora: $59.990 (-40%)\nReferencia: $99.990\n🏪 Falabella\n\n✅ Precio visto hoy a las 09:06 en nuestro sistema.\n📉 Es el precio más bajo de los últimos 86 días.\n⏰ Puede cambiar o agotarse sin aviso.\n📲 Enlace directo en Telegram: t.me/ofertixcl\n\n#ofertaschile #perfumes #descuentoschile #ofertix #ofertasdeldia"
   }
  },
  "config": {
@@ -4793,7 +4822,7 @@
    "hasta": "2026-10-28T22:37:52.045Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-29T12:17:19.119Z"
+  "ultimaPub": "2026-10-29T12:32:04.884Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-28",
