@@ -4531,6 +4531,28 @@
      "visto": "07:03"
     }
    ]
+  },
+  "2026-10-29-r-historia-1793272569852": {
+   "tipo": "historia",
+   "fecha": "2026-10-29",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "hora": "08:16",
+   "id": "18099842867542228",
+   "ofertas": [
+    {
+     "id": "2368169",
+     "nombre": "VIKTOR & ROLF Perfume Mujer Flowerbomb Edp 100Ml Viktor & Rolf",
+     "tienda": "Falabella",
+     "ahora": 119990,
+     "antes": 199990,
+     "pct": 40,
+     "rubro": "perfumes",
+     "esMinimo": true,
+     "dias": 87,
+     "visto": "07:03"
+    }
+   ]
   }
  },
  "config": {
@@ -4550,7 +4572,7 @@
    "hasta": "2026-10-28T22:37:52.045Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-29T11:02:51.628Z"
+  "ultimaPub": "2026-10-29T11:16:09.853Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-28",
@@ -4584,6 +4606,7 @@
   "2330918": "2026-10-28T12:46:39.092Z",
   "2330924": "2026-10-28T13:01:23.233Z",
   "2332098": "2026-10-28T13:01:44.537Z",
+  "2368169": "2026-10-29T11:16:09.852Z",
   "2376071": "2026-10-29T11:02:51.628Z"
  }
 }
