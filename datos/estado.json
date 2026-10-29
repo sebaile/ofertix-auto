@@ -21,7 +21,7 @@
   "1595843": "2026-10-28T02:19:22.192Z",
   "1673324": "2026-10-27T01:47:23.737Z",
   "1673333": "2026-10-28T02:19:22.192Z",
-  "1673340": "2026-10-28T02:17:48.438Z",
+  "1673340": "2026-10-29T13:16:55.900Z",
   "1695609": "2026-10-29T00:49:25.527Z",
   "1701548": "2026-10-29T13:02:17.664Z",
   "1753017": "2026-10-27T18:03:14.149Z",
@@ -70,7 +70,7 @@
   "ferragamo perfume hombre red men edp 50 ml ferragamo": "2026-10-28T11:47:54.768Z",
   "nespresso cafetera essenza mini negra espumador": "2026-10-27T00:33:08.235Z",
   "fdv hervidor de vidrio crystal 1 7 lts kegs5813 gs fdv": "2026-10-28T13:18:13.038Z",
-  "carolina herrera perfume hombre bad boy edt 50ml carolina herrera": "2026-10-28T02:17:48.438Z",
+  "carolina herrera perfume hombre bad boy edt 50ml carolina herrera": "2026-10-29T13:16:55.900Z",
   "nina ricci perfume mujer nina ricci nina edt 50ml nina ricci": "2026-10-28T02:19:22.192Z",
   "mikrotik mantbox 52 15s with routeros l4 license": "2026-10-29T00:49:25.527Z",
   "samsung audifonos in ear sm r400nzaalta bluetooth v5 2 gray": "2026-10-29T01:34:07.125Z",
@@ -4942,6 +4942,35 @@
      "visto": "09:06"
     }
    ]
+  },
+  "2026-10-29-r-carrusel-1793279815900": {
+   "tipo": "carrusel",
+   "fecha": "2026-10-29",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "formato": "oferta",
+   "hora": "10:16",
+   "id": "18144482671609373",
+   "enlace": "https://www.instagram.com/p/DfFGBYEFkQ4/",
+   "ofertas": [
+    {
+     "id": "1673340",
+     "nombre": "CAROLINA HERRERA Perfume Hombre Bad Boy Edt 50Ml Carolina Herrera",
+     "tienda": "Falabella",
+     "ahora": 56990,
+     "antes": 94990,
+     "pct": 40,
+     "rubro": "perfumes",
+     "esMinimo": true,
+     "dias": 21,
+     "visto": "09:06"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1793279784938-c3-1.jpg",
+    "tmp-medios/1793279784938-c3-2.jpg"
+   ],
+   "texto": "🔥 OFERTA DEL DÍA\nCAROLINA HERRERA Perfume Hombre Bad Boy Edt 50Ml Carolina Herrera\nAhora: $56.990 (-40%)\nReferencia: $94.990\n🏪 Falabella\n\n✅ Precio visto hoy a las 09:06 en nuestro sistema.\n📉 Es el precio más bajo de los últimos 21 días.\n⏰ Puede cambiar o agotarse sin aviso.\n📲 Enlace directo en Telegram: t.me/ofertixcl\n\n#ofertaschile #perfumes #descuentoschile #ofertix #ofertasdeldia"
   }
  },
  "config": {
@@ -4961,7 +4990,7 @@
    "hasta": "2026-10-28T22:37:52.045Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-29T13:02:40.071Z"
+  "ultimaPub": "2026-10-29T13:16:55.900Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-28",
