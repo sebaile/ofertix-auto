@@ -23,7 +23,7 @@
   "1673324": "2026-10-27T01:47:23.737Z",
   "1673333": "2026-10-28T02:19:22.192Z",
   "1673340": "2026-10-28T02:17:48.438Z",
-  "1695609": "2026-10-28T00:04:09.267Z",
+  "1695609": "2026-10-29T00:49:25.527Z",
   "1701548": "2026-10-28T12:17:22.968Z",
   "1753017": "2026-10-27T18:03:14.149Z",
   "1780881": "2026-10-29T00:04:41.987Z",
@@ -33,8 +33,8 @@
   "1827803": "2026-10-28T11:47:54.768Z",
   "1840943": "2026-10-28T00:47:54.231Z",
   "1841225": "2026-10-27T18:03:14.149Z",
-  "1841233": "2026-10-28T00:04:09.267Z",
-  "1841315": "2026-10-28T00:18:29.402Z",
+  "1841233": "2026-10-29T00:49:25.527Z",
+  "1841315": "2026-10-29T00:49:25.527Z",
   "1841316": "2026-10-28T00:47:54.231Z",
   "1848566": "2026-10-29T00:34:41.774Z",
   "1896728": "2026-10-28T02:19:22.191Z",
@@ -46,11 +46,11 @@
   "2048291": "2026-10-28T12:17:22.968Z",
   "2048348": "2026-10-28T01:32:39.485Z",
   "2066558": "2026-10-28T12:32:14.418Z",
-  "2084002": "2026-10-28T00:18:29.402Z",
+  "2084002": "2026-10-29T00:49:25.527Z",
   "2084101": "2026-10-29T00:34:41.774Z",
   "2085077": "2026-10-29T00:34:41.774Z",
   "2086478": "2026-10-29T00:34:41.774Z",
-  "2086682": "2026-10-27T21:32:06.127Z",
+  "2086682": "2026-10-29T00:49:25.527Z",
   "2103253": "2026-10-28T01:32:39.485Z",
   "2103254": "2026-10-28T02:17:48.438Z",
   "2103256": "2026-10-27T19:10:46.044Z",
@@ -70,15 +70,15 @@
   "fdv hervidor de vidrio crystal 1 7 lts kegs5813 gs fdv": "2026-10-28T13:18:13.038Z",
   "carolina herrera perfume hombre bad boy edt 50ml carolina herrera": "2026-10-28T02:17:48.438Z",
   "nina ricci perfume mujer nina ricci nina edt 50ml nina ricci": "2026-10-28T02:19:22.192Z",
-  "mikrotik mantbox 52 15s with routeros l4 license": "2026-10-28T00:04:09.267Z",
+  "mikrotik mantbox 52 15s with routeros l4 license": "2026-10-29T00:49:25.527Z",
   "samsung audifonos in ear sm r400nzaalta bluetooth v5 2 gray": "2026-10-28T00:18:29.402Z",
   "thierry mugler perfume mujer mugler angel edp 100 ml thierry mugler": "2026-10-28T00:47:54.231Z",
   "parlante portatil aiwa aw a521 90w bluetooth negro": "2026-10-29T00:04:41.987Z",
   "benetton perfume mujer sisterland green jasmine edt 80 ml benetton": "2026-10-26T13:33:21.167Z",
   "rabanne perfume hombre one million elixir edp 200ml rabanne": "2026-10-26T12:17:30.883Z",
   "licuadora easyways licuadora crush n roll 1 5 l": "2026-10-28T11:47:54.768Z",
-  "hamilton beach microondas digital 23 litros inox hb p90d23el lxa": "2026-10-28T00:04:09.267Z",
-  "hamilton beach batidora de mano 290 w multicolor bp 62650 cl": "2026-10-28T00:18:29.402Z",
+  "hamilton beach microondas digital 23 litros inox hb p90d23el lxa": "2026-10-29T00:49:25.527Z",
+  "hamilton beach batidora de mano 290 w multicolor bp 62650 cl": "2026-10-29T00:49:25.527Z",
   "hamilton beach batidora de pedestal 3 7 l 290 kw negro 64650 cl": "2026-10-28T00:47:54.231Z",
   "hamilton beach freidora de aire 2 5 litros fe 35051 cl": "2026-10-28T00:47:54.231Z",
   "volker campana convencional 60 cm inox": "2026-10-27T18:03:14.149Z",
@@ -96,8 +96,8 @@
   "clinique fragancia clinique happy for men 100ml": "2026-10-29T00:34:41.774Z",
   "celular zte nubia music pop art 128gb 4gb azul rojo liberado": "2026-10-29T00:34:41.774Z",
   "caja abierta danada reloj smartwatch lhotse tw58 black n black": "2026-10-29T00:34:41.774Z",
-  "clinique fragancia clinique happy perfume spray 100 ml": "2026-10-28T00:18:29.402Z",
-  "ventilador para pc apnx fp2 120 pwm argb color negro": "2026-10-27T21:32:06.127Z",
+  "clinique fragancia clinique happy perfume spray 100 ml": "2026-10-29T00:49:25.527Z",
+  "ventilador para pc apnx fp2 120 pwm argb color negro": "2026-10-29T00:49:25.527Z",
   "recco enfriador de aire 50 w blanco bl 202dlr h": "2026-10-28T12:32:14.418Z",
   "cartier perfume mujer la panthere elixir edp 100 ml cartier": "2026-10-28T12:17:22.968Z",
   "wurden convector conveccion qnq 101f blanco": "2026-10-27T19:10:46.044Z",
@@ -3915,6 +3915,84 @@
      "visto": "20:54"
     }
    ]
+  },
+  "2026-10-28-r-carrusel-1793234965528": {
+   "tipo": "carrusel",
+   "fecha": "2026-10-28",
+   "estado": "publicado",
+   "bloque": "recopilaciones",
+   "formato": "top5",
+   "hora": "21:49",
+   "id": "18378793165300535",
+   "enlace": "https://www.instagram.com/p/DfDweXzCdn5/",
+   "ofertas": [
+    {
+     "id": "1841233",
+     "nombre": "HAMILTON BEACH Microondas Digital 23 Litros Inox HB-P90D23EL-LXA",
+     "tienda": "Sodimac",
+     "ahora": 44990,
+     "antes": 99990,
+     "pct": 55,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 48,
+     "visto": "20:54"
+    },
+    {
+     "id": "2084002",
+     "nombre": "CLINIQUE Fragancia Clinique Happy Perfume Spray 100 ml",
+     "tienda": "Falabella",
+     "ahora": 39990,
+     "antes": 109900,
+     "pct": 63,
+     "rubro": "perfumes",
+     "esMinimo": false,
+     "dias": 58,
+     "visto": "20:54"
+    },
+    {
+     "id": "1695609",
+     "nombre": "MIKROTIK mANTBox 52 15s with RouterOS L4 license",
+     "tienda": "Tecnomas.cl",
+     "ahora": 132990,
+     "antes": 223990,
+     "pct": 40,
+     "rubro": "tecnologia",
+     "esMinimo": true,
+     "dias": 67,
+     "visto": "20:54"
+    },
+    {
+     "id": "2086682",
+     "nombre": "Ventilador para PC APNX FP2-120 PWM ARGB, Color Negro",
+     "tienda": "SP Digital",
+     "ahora": 15670,
+     "antes": 31340,
+     "pct": 50,
+     "rubro": "gamer",
+     "esMinimo": false,
+     "dias": 6,
+     "visto": "20:54"
+    },
+    {
+     "id": "1841315",
+     "nombre": "HAMILTON BEACH Batidora De mano 290 W Multicolor BP-62650-CL",
+     "tienda": "Sodimac",
+     "ahora": 13990,
+     "antes": 29990,
+     "pct": 53,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 48,
+     "visto": "20:54"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1793234927905-c5-1.jpg",
+    "tmp-medios/1793234927905-c5-2.jpg",
+    "tmp-medios/1793234927905-c5-3.jpg"
+   ],
+   "texto": "🏆 Recopilación del día\n1. HAMILTON BEACH Microondas Digital 23 Litros Inox HB-P90D23EL-LXA: $44.990 (-55%) en Sodimac · 📉 mínimo de 48 días\n2. CLINIQUE Fragancia Clinique Happy Perfume Spray 100 ml: $39.990 (-63%) en Falabella\n3. MIKROTIK mANTBox 52 15s with RouterOS L4 license: $132.990 (-40%) en Tecnomas.cl · 📉 mínimo de 67 días\n4. Ventilador para PC APNX FP2-120 PWM ARGB, Color Negro: $15.670 (-50%) en SP Digital\n5. HAMILTON BEACH Batidora De mano 290 W Multicolor BP-62650-CL: $13.990 (-53%) en Sodimac · 📉 mínimo de 48 días\n\n⏰ Precios vistos hoy (28/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #top5 #descuentoschile #ofertix #ahorrar"
   }
  },
  "config": {
@@ -3934,7 +4012,7 @@
    "hasta": "2026-10-28T22:37:52.045Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-29T00:47:29.658Z"
+  "ultimaPub": "2026-10-29T00:49:25.528Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-28",
