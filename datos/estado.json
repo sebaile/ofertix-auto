@@ -13,7 +13,7 @@
   "1087242": "2026-10-26T13:47:21.814Z",
   "1087642": "2026-10-27T17:17:48.075Z",
   "1110717": "2026-10-28T11:47:54.768Z",
-  "1131276": "2026-10-27T18:03:14.149Z",
+  "1131276": "2026-10-29T00:34:41.774Z",
   "1137440": "2026-10-28T00:18:29.402Z",
   "1530831": "2026-10-27T00:33:08.235Z",
   "1531094": "2026-10-28T13:18:13.038Z",
@@ -36,7 +36,7 @@
   "1841233": "2026-10-28T00:04:09.267Z",
   "1841315": "2026-10-28T00:18:29.402Z",
   "1841316": "2026-10-28T00:47:54.231Z",
-  "1848566": "2026-10-28T00:04:09.267Z",
+  "1848566": "2026-10-29T00:34:41.774Z",
   "1896728": "2026-10-28T02:19:22.191Z",
   "2000806": "2026-10-28T22:49:33.602Z",
   "2007710": "2026-10-26T21:03:07.160Z",
@@ -47,9 +47,9 @@
   "2048348": "2026-10-28T01:32:39.485Z",
   "2066558": "2026-10-28T12:32:14.418Z",
   "2084002": "2026-10-28T00:18:29.402Z",
-  "2084101": "2026-10-28T00:04:09.267Z",
-  "2085077": "2026-10-27T19:10:46.044Z",
-  "2086478": "2026-10-28T00:04:09.267Z",
+  "2084101": "2026-10-29T00:34:41.774Z",
+  "2085077": "2026-10-29T00:34:41.774Z",
+  "2086478": "2026-10-29T00:34:41.774Z",
   "2086682": "2026-10-27T21:32:06.127Z",
   "2103253": "2026-10-28T01:32:39.485Z",
   "2103254": "2026-10-28T02:17:48.438Z",
@@ -63,7 +63,7 @@
  "nombres": {
   "calvin klein calvin klein ck one eau de toilette unisex 50 ml": "2026-10-28T00:47:54.231Z",
   "primus mouse inalambrico gladius boba fett": "2026-10-27T17:17:48.075Z",
-  "teclado hyperx alloy core rgb 4p4f5ai hx kb5me2 la": "2026-10-27T18:03:14.149Z",
+  "teclado hyperx alloy core rgb 4p4f5ai hx kb5me2 la": "2026-10-29T00:34:41.774Z",
   "dolce gabbana perfume hombre edp dolce gabbana": "2026-10-26T12:17:30.883Z",
   "ferragamo perfume hombre red men edp 50 ml ferragamo": "2026-10-28T11:47:54.768Z",
   "nespresso cafetera essenza mini negra espumador": "2026-10-27T00:33:08.235Z",
@@ -82,7 +82,7 @@
   "hamilton beach batidora de pedestal 3 7 l 290 kw negro 64650 cl": "2026-10-28T00:47:54.231Z",
   "hamilton beach freidora de aire 2 5 litros fe 35051 cl": "2026-10-28T00:47:54.231Z",
   "volker campana convencional 60 cm inox": "2026-10-27T18:03:14.149Z",
-  "thomas chimenea electrica 2000w conveccion th fp100 madera": "2026-10-28T00:04:09.267Z",
+  "thomas chimenea electrica 2000w conveccion th fp100 madera": "2026-10-29T00:34:41.774Z",
   "prada perfume de prada infusion de figue eau de parfum 100ml unisex": "2026-10-28T12:17:22.968Z",
   "nex aire acondicionado 9000btu acp09288 fcwifi": "2026-10-28T02:19:22.191Z",
   "samsung encimera a gas 5 quemadores gris": "2026-10-28T01:32:39.485Z",
@@ -93,9 +93,9 @@
   "kate spade kate spade cherie je taime edp 100ml": "2026-10-28T22:49:33.602Z",
   "toyotomi horno electrico empotrado 56 litros he9silver": "2026-10-28T22:49:33.602Z",
   "tcl aire acondicionado portatil frio tcl 9000 btu": "2026-10-29T00:04:41.987Z",
-  "clinique fragancia clinique happy for men 100ml": "2026-10-28T00:04:09.267Z",
-  "celular zte nubia music pop art 128gb 4gb azul rojo liberado": "2026-10-27T19:10:46.044Z",
-  "caja abierta danada reloj smartwatch lhotse tw58 black n black": "2026-10-28T00:04:09.267Z",
+  "clinique fragancia clinique happy for men 100ml": "2026-10-29T00:34:41.774Z",
+  "celular zte nubia music pop art 128gb 4gb azul rojo liberado": "2026-10-29T00:34:41.774Z",
+  "caja abierta danada reloj smartwatch lhotse tw58 black n black": "2026-10-29T00:34:41.774Z",
   "clinique fragancia clinique happy perfume spray 100 ml": "2026-10-28T00:18:29.402Z",
   "ventilador para pc apnx fp2 120 pwm argb color negro": "2026-10-27T21:32:06.127Z",
   "recco enfriador de aire 50 w blanco bl 202dlr h": "2026-10-28T12:32:14.418Z",
@@ -3815,6 +3815,84 @@
      "visto": "20:54"
     }
    ]
+  },
+  "2026-10-28-r-carrusel-1793234081775": {
+   "tipo": "carrusel",
+   "fecha": "2026-10-28",
+   "estado": "publicado",
+   "bloque": "recopilaciones",
+   "formato": "top5",
+   "hora": "21:34",
+   "id": "18140819191722331",
+   "enlace": "https://www.instagram.com/p/DfDuyP1EepN/",
+   "ofertas": [
+    {
+     "id": "1848566",
+     "nombre": "THOMAS Chimenea Eléctrica 2000W Convección TH-FP100 Madera",
+     "tienda": "Sodimac",
+     "ahora": 152990,
+     "antes": 379990,
+     "pct": 59,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 85,
+     "visto": "20:54"
+    },
+    {
+     "id": "2085077",
+     "nombre": "Celular ZTE nubia Music Pop Art 128GB/4GB Azul/Rojo Liberado",
+     "tienda": "PC Factory",
+     "ahora": 92790,
+     "antes": 180290,
+     "pct": 48,
+     "rubro": "tecnologia",
+     "esMinimo": true,
+     "dias": 15,
+     "visto": "20:54"
+    },
+    {
+     "id": "2084101",
+     "nombre": "CLINIQUE Fragancia Clinique Happy for Men 100ml",
+     "tienda": "Falabella",
+     "ahora": 34990,
+     "antes": 98900,
+     "pct": 64,
+     "rubro": "perfumes",
+     "esMinimo": false,
+     "dias": 58,
+     "visto": "20:54"
+    },
+    {
+     "id": "1131276",
+     "nombre": "Teclado HyperX Alloy Core RGB (4P4F5AI / HX-KB5ME2-LA)",
+     "tienda": "Valrod",
+     "ahora": 29990,
+     "antes": 49990,
+     "pct": 40,
+     "rubro": "gamer",
+     "esMinimo": true,
+     "dias": 56,
+     "visto": "20:54"
+    },
+    {
+     "id": "2086478",
+     "nombre": "CAJA ABIERTA/DAÑADA Reloj Smartwatch Lhotse TW58 Black'n Black",
+     "tienda": "SP Digital",
+     "ahora": 88820,
+     "antes": 156740,
+     "pct": 43,
+     "rubro": "otros",
+     "esMinimo": false,
+     "dias": 6,
+     "visto": "20:54"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1793234033998-c4-1.jpg",
+    "tmp-medios/1793234033998-c4-2.jpg",
+    "tmp-medios/1793234033998-c4-3.jpg"
+   ],
+   "texto": "🏆 Recopilación del día\n1. THOMAS Chimenea Eléctrica 2000W Convección TH-FP100 Madera: $152.990 (-59%) en Sodimac · 📉 mínimo de 85 días\n2. Celular ZTE nubia Music Pop Art 128GB/4GB Azul/Rojo Liberado: $92.790 (-48%) en PC Factory · 📉 mínimo de 15 días\n3. CLINIQUE Fragancia Clinique Happy for Men 100ml: $34.990 (-64%) en Falabella\n4. Teclado HyperX Alloy Core RGB (4P4F5AI / HX-KB5ME2-LA): $29.990 (-40%) en Valrod · 📉 mínimo de 56 días\n5. CAJA ABIERTA/DAÑADA Reloj Smartwatch Lhotse TW58 Black'n Black: $88.820 (-43%) en SP Digital\n\n⏰ Precios vistos hoy (28/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #top5 #descuentoschile #ofertix #ahorrar"
   }
  },
  "config": {
@@ -3834,7 +3912,7 @@
    "hasta": "2026-10-28T22:37:52.045Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-29T00:32:36.835Z"
+  "ultimaPub": "2026-10-29T00:34:41.775Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-28",
