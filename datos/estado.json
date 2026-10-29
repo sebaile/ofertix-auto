@@ -7,7 +7,7 @@
   "825801": "2026-10-29T12:16:56.294Z",
   "825870": "2026-10-26T13:47:21.814Z",
   "829028": "2026-10-28T00:47:54.231Z",
-  "830761": "2026-10-28T12:17:22.968Z",
+  "830761": "2026-10-29T13:47:12.862Z",
   "1063781": "2026-10-29T01:03:10.709Z",
   "1087242": "2026-10-29T02:17:12.349Z",
   "1087642": "2026-10-29T01:03:10.709Z",
@@ -20,7 +20,7 @@
   "1592754": "2026-10-29T12:16:56.294Z",
   "1595843": "2026-10-28T02:19:22.192Z",
   "1673324": "2026-10-27T01:47:23.737Z",
-  "1673333": "2026-10-28T02:19:22.192Z",
+  "1673333": "2026-10-29T13:47:12.862Z",
   "1673340": "2026-10-29T13:16:55.900Z",
   "1695609": "2026-10-29T00:49:25.527Z",
   "1701548": "2026-10-29T13:02:17.664Z",
@@ -28,7 +28,7 @@
   "1780881": "2026-10-29T00:04:41.987Z",
   "1784905": "2026-10-29T00:04:41.987Z",
   "1785097": "2026-10-26T19:32:06.242Z",
-  "1827803": "2026-10-28T11:47:54.768Z",
+  "1827803": "2026-10-29T13:47:12.862Z",
   "1840943": "2026-10-29T02:03:10.418Z",
   "1841225": "2026-10-29T02:03:10.418Z",
   "1841233": "2026-10-29T00:49:25.527Z",
@@ -70,19 +70,19 @@
   "nespresso cafetera essenza mini negra espumador": "2026-10-27T00:33:08.235Z",
   "fdv hervidor de vidrio crystal 1 7 lts kegs5813 gs fdv": "2026-10-28T13:18:13.038Z",
   "carolina herrera perfume hombre bad boy edt 50ml carolina herrera": "2026-10-29T13:16:55.900Z",
-  "nina ricci perfume mujer nina ricci nina edt 50ml nina ricci": "2026-10-28T02:19:22.192Z",
+  "nina ricci perfume mujer nina ricci nina edt 50ml nina ricci": "2026-10-29T13:47:12.862Z",
   "mikrotik mantbox 52 15s with routeros l4 license": "2026-10-29T00:49:25.527Z",
   "samsung audifonos in ear sm r400nzaalta bluetooth v5 2 gray": "2026-10-29T01:34:07.125Z",
   "thierry mugler perfume mujer mugler angel edp 100 ml thierry mugler": "2026-10-28T00:47:54.231Z",
   "parlante portatil aiwa aw a521 90w bluetooth negro": "2026-10-29T00:04:41.987Z",
-  "licuadora easyways licuadora crush n roll 1 5 l": "2026-10-28T11:47:54.768Z",
+  "licuadora easyways licuadora crush n roll 1 5 l": "2026-10-29T13:47:12.862Z",
   "hamilton beach microondas digital 23 litros inox hb p90d23el lxa": "2026-10-29T00:49:25.527Z",
   "hamilton beach batidora de mano 290 w multicolor bp 62650 cl": "2026-10-29T00:49:25.527Z",
   "hamilton beach batidora de pedestal 3 7 l 290 kw negro 64650 cl": "2026-10-29T01:34:07.125Z",
   "hamilton beach freidora de aire 2 5 litros fe 35051 cl": "2026-10-29T02:03:10.418Z",
   "volker campana convencional 60 cm inox": "2026-10-29T02:03:10.418Z",
   "thomas chimenea electrica 2000w conveccion th fp100 madera": "2026-10-29T00:34:41.774Z",
-  "prada perfume de prada infusion de figue eau de parfum 100ml unisex": "2026-10-28T12:17:22.968Z",
+  "prada perfume de prada infusion de figue eau de parfum 100ml unisex": "2026-10-29T13:47:12.862Z",
   "nex aire acondicionado 9000btu acp09288 fcwifi": "2026-10-29T13:02:17.664Z",
   "samsung encimera a gas 5 quemadores gris": "2026-10-29T02:17:12.349Z",
   "xiaomi 17 ultra photography kit pro negro": "2026-10-28T22:49:33.602Z",
@@ -5035,6 +5035,57 @@
      "visto": "10:14"
     }
    ]
+  },
+  "2026-10-29-r-reel-1793281632862": {
+   "tipo": "reel",
+   "fecha": "2026-10-29",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "hora": "10:47",
+   "id": "18218526103358465",
+   "enlace": "https://www.instagram.com/reel/DfFJdHnnNgC/",
+   "ofertas": [
+    {
+     "id": "1673333",
+     "nombre": "NINA RICCI Perfume Mujer Nina Ricci Nina EDT 50ml Nina Ricci",
+     "tienda": "Falabella",
+     "ahora": 49990,
+     "antes": 83990,
+     "pct": 40,
+     "rubro": "perfumes",
+     "esMinimo": true,
+     "dias": 23,
+     "visto": "10:14"
+    },
+    {
+     "id": "1827803",
+     "nombre": "Licuadora Easyways Licuadora Crush n' roll 1,5 L",
+     "tienda": "ABC",
+     "ahora": 34990,
+     "antes": 66990,
+     "pct": 47,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 85,
+     "visto": "10:14"
+    },
+    {
+     "id": "830761",
+     "nombre": "PRADA Perfume de Prada Infusion de Figue Eau de Parfum 100ml Unisex",
+     "tienda": "Falabella",
+     "ahora": 109790,
+     "antes": 182990,
+     "pct": 40,
+     "rubro": "perfumes",
+     "esMinimo": false,
+     "dias": 24,
+     "visto": "10:14"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1793281547384-r3.mp4"
+   ],
+   "texto": "🔥 3 ofertas recién llegadas\n1. NINA RICCI Perfume Mujer Nina Ricci Nina EDT 50ml Nina Ricci: $49.990 (-40%, referencia $83.990) en Falabella · 📉 mínimo de 23 días\n2. Licuadora Easyways Licuadora Crush n' roll 1,5 L: $34.990 (-47%, referencia $66.990) en ABC\n3. PRADA Perfume de Prada Infusion de Figue Eau de Parfum 100ml Unisex: $109.790 (-40%, referencia $182.990) en Falabella\n\n⏰ Precios vistos hoy (29/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
   }
  },
  "config": {
@@ -5054,7 +5105,7 @@
    "hasta": "2026-10-28T22:37:52.045Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-29T13:31:29.298Z"
+  "ultimaPub": "2026-10-29T13:47:12.862Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-28",
