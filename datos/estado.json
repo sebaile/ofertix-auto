@@ -10,7 +10,7 @@
   "1063781": "2026-10-29T01:03:10.709Z",
   "1087242": "2026-10-29T02:17:12.349Z",
   "1087642": "2026-10-29T01:03:10.709Z",
-  "1110717": "2026-10-28T11:47:54.768Z",
+  "1110717": "2026-10-30T00:02:31.981Z",
   "1131276": "2026-10-29T00:34:41.774Z",
   "1137440": "2026-10-29T01:34:07.125Z",
   "1530831": "2026-10-27T00:33:08.235Z",
@@ -34,10 +34,10 @@
   "1841316": "2026-10-29T01:34:07.125Z",
   "1848566": "2026-10-29T00:34:41.774Z",
   "1896728": "2026-10-29T13:02:17.664Z",
-  "2000806": "2026-10-28T22:49:33.602Z",
+  "2000806": "2026-10-30T00:02:31.981Z",
   "2047193": "2026-10-29T00:04:41.987Z",
   "2047234": "2026-10-29T12:32:04.883Z",
-  "2047249": "2026-10-28T22:49:33.602Z",
+  "2047249": "2026-10-30T00:02:31.981Z",
   "2048291": "2026-10-29T14:03:33.337Z",
   "2048348": "2026-10-29T02:03:10.418Z",
   "2066558": "2026-10-28T12:32:14.418Z",
@@ -63,7 +63,7 @@
   "calvin klein calvin klein ck one eau de toilette unisex 50 ml": "2026-10-29T01:03:10.709Z",
   "primus mouse inalambrico gladius boba fett": "2026-10-29T01:03:10.709Z",
   "teclado hyperx alloy core rgb 4p4f5ai hx kb5me2 la": "2026-10-29T00:34:41.774Z",
-  "ferragamo perfume hombre red men edp 50 ml ferragamo": "2026-10-28T11:47:54.768Z",
+  "ferragamo perfume hombre red men edp 50 ml ferragamo": "2026-10-30T00:02:31.981Z",
   "nespresso cafetera essenza mini negra espumador": "2026-10-27T00:33:08.235Z",
   "fdv hervidor de vidrio crystal 1 7 lts kegs5813 gs fdv": "2026-10-28T13:18:13.038Z",
   "carolina herrera perfume hombre bad boy edt 50ml carolina herrera": "2026-10-29T13:16:55.900Z",
@@ -85,8 +85,8 @@
   "xiaomi 17 ultra photography kit pro negro": "2026-10-28T22:49:33.602Z",
   "nex ventilador suelo industrial 42 negro": "2026-10-29T12:16:56.294Z",
   "thomas termoventilador electrico 2000 w th fh31 blanco": "2026-10-29T13:02:17.664Z",
-  "kate spade kate spade cherie je taime edp 100ml": "2026-10-28T22:49:33.602Z",
-  "toyotomi horno electrico empotrado 56 litros he9silver": "2026-10-28T22:49:33.602Z",
+  "kate spade kate spade cherie je taime edp 100ml": "2026-10-30T00:02:31.981Z",
+  "toyotomi horno electrico empotrado 56 litros he9silver": "2026-10-30T00:02:31.981Z",
   "tcl aire acondicionado portatil frio tcl 9000 btu": "2026-10-29T00:04:41.987Z",
   "clinique fragancia clinique happy for men 100ml": "2026-10-29T00:34:41.774Z",
   "celular zte nubia music pop art 128gb 4gb azul rojo liberado": "2026-10-29T00:34:41.774Z",
@@ -3445,6 +3445,57 @@
      "visto": "19:16"
     }
    ]
+  },
+  "2026-10-29-r-reel-1793318551981": {
+   "tipo": "reel",
+   "fecha": "2026-10-29",
+   "estado": "publicado",
+   "bloque": "recopilaciones",
+   "hora": "21:02",
+   "id": "18000264345043463",
+   "enlace": "https://www.instagram.com/reel/DfGP3XrDPTs/",
+   "ofertas": [
+    {
+     "id": "2047249",
+     "nombre": "KATE SPADE Kate Spade Cherie Je Taime Edp 100Ml",
+     "tienda": "Falabella",
+     "ahora": 49990,
+     "antes": 99990,
+     "pct": 50,
+     "rubro": "perfumes",
+     "esMinimo": true,
+     "dias": 24,
+     "visto": "20:28"
+    },
+    {
+     "id": "2000806",
+     "nombre": "TOYOTOMI Horno Eléctrico Empotrado 56 Litros HE9SILVER",
+     "tienda": "Sodimac",
+     "ahora": 249990,
+     "antes": 449990,
+     "pct": 44,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 49,
+     "visto": "20:28"
+    },
+    {
+     "id": "1110717",
+     "nombre": "FERRAGAMO Perfume Hombre Red Men Edp 50 Ml Ferragamo",
+     "tienda": "Falabella",
+     "ahora": 48590,
+     "antes": 80990,
+     "pct": 40,
+     "rubro": "perfumes",
+     "esMinimo": true,
+     "dias": 58,
+     "visto": "20:28"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1793318471619-r4.mp4"
+   ],
+   "texto": "🔥 3 ofertas las mejores del día\n1. KATE SPADE Kate Spade Cherie Je Taime Edp 100Ml: $49.990 (-50%, referencia $99.990) en Falabella · 📉 mínimo de 24 días\n2. TOYOTOMI Horno Eléctrico Empotrado 56 Litros HE9SILVER: $249.990 (-44%, referencia $449.990) en Sodimac · 📉 mínimo de 49 días\n3. FERRAGAMO Perfume Hombre Red Men Edp 50 Ml Ferragamo: $48.590 (-40%, referencia $80.990) en Falabella · 📉 mínimo de 58 días\n\n⏰ Precios vistos hoy (29/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
   }
  },
  "config": {
@@ -3464,7 +3515,7 @@
    "hasta": "2026-10-29T23:17:16.772Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-29T23:31:26.976Z"
+  "ultimaPub": "2026-10-30T00:02:31.981Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-28",
