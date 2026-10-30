@@ -4830,6 +4830,28 @@
     "tmp-medios/1793390601693-c6-3.jpg"
    ],
    "texto": "🏆 Los más populares\n1. THOMAS Termoventilador Eléctrico 2000 W TH-FH31 Blanco: $21.990 (-45%) en Sodimac\n2. CARTIER Perfume Mujer La Panthere Elixir EDP 100 Ml Cartier: $99.990 (-40%) en Falabella\n3. Licuadora Easyways Licuadora Crush n' roll 1,5 L: $34.990 (-47%) en ABC\n4. CAROLINA HERRERA Perfume Hombre Bad Boy Edt 50Ml Carolina Herrera: $56.990 (-40%) en Falabella · 📉 mínimo de 22 días\n\n⏰ Precios vistos hoy (30/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #top5 #descuentoschile #ofertix #ahorrar"
+  },
+  "2026-10-30-r-historia-1793391357960": {
+   "tipo": "historia",
+   "fecha": "2026-10-30",
+   "estado": "publicado",
+   "bloque": "populares",
+   "hora": "17:15",
+   "id": "17879987238634929",
+   "ofertas": [
+    {
+     "id": "2047247",
+     "nombre": "MONCLER Perfume Moncler Pour Femme EDP 60ML",
+     "tienda": "Falabella",
+     "ahora": 59990,
+     "antes": 99990,
+     "pct": 40,
+     "rubro": "perfumes",
+     "esMinimo": true,
+     "dias": 88,
+     "visto": "16:46"
+    }
+   ]
   }
  },
  "config": {
@@ -4849,7 +4871,7 @@
    "hasta": "2026-10-30T03:02:54.985Z",
    "veces": 1
   },
-  "ultimaPub": "2026-10-30T20:04:05.590Z"
+  "ultimaPub": "2026-10-30T20:15:57.961Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-29",
@@ -4875,6 +4897,7 @@
   "2047193": "2026-10-29T14:03:53.398Z",
   "2047194": "2026-10-30T16:16:11.939Z",
   "2047234": "2026-10-30T19:47:25.468Z",
+  "2047247": "2026-10-30T20:15:57.960Z",
   "2047249": "2026-10-30T16:01:16.515Z",
   "2048348": "2026-10-30T17:46:18.451Z",
   "2084002": "2026-10-30T16:46:07.568Z",
