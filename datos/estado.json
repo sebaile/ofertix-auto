@@ -14,6 +14,8 @@
   "1110717": "2026-10-30T00:02:31.981Z",
   "1131276": "2026-10-30T11:47:44.662Z",
   "1137440": "2026-10-30T15:02:27.832Z",
+  "1530827": "2026-10-30T18:02:35.078Z",
+  "1530831": "2026-10-30T18:02:35.079Z",
   "1531094": "2026-10-28T13:18:13.038Z",
   "1576473": "2026-10-28T22:49:33.602Z",
   "1592754": "2026-10-29T12:16:56.294Z",
@@ -36,7 +38,7 @@
   "2000806": "2026-10-30T00:02:31.981Z",
   "2047193": "2026-10-29T00:04:41.987Z",
   "2047194": "2026-10-30T14:33:44.293Z",
-  "2047234": "2026-10-29T12:32:04.883Z",
+  "2047234": "2026-10-30T18:02:35.079Z",
   "2047249": "2026-10-30T00:02:31.981Z",
   "2048291": "2026-10-29T14:03:33.337Z",
   "2048348": "2026-10-30T17:33:27.799Z",
@@ -45,11 +47,11 @@
   "2084101": "2026-10-30T14:33:44.294Z",
   "2085077": "2026-10-30T11:32:20.589Z",
   "2086478": "2026-10-30T11:47:44.662Z",
-  "2086682": "2026-10-29T00:49:25.527Z",
+  "2086682": "2026-10-30T18:02:35.079Z",
   "2103253": "2026-10-29T02:17:12.349Z",
   "2103254": "2026-10-29T13:02:17.664Z",
   "2103256": "2026-10-30T15:32:54.539Z",
-  "2132513": "2026-10-29T02:03:10.418Z",
+  "2132513": "2026-10-30T18:02:35.079Z",
   "2330908": "2026-10-28T11:02:24.840Z",
   "2330918": "2026-10-28T11:32:32.870Z",
   "2330924": "2026-10-30T14:33:44.294Z",
@@ -92,12 +94,12 @@
   "celular zte nubia music pop art 128gb 4gb azul rojo liberado": "2026-10-30T11:32:20.589Z",
   "caja abierta danada reloj smartwatch lhotse tw58 black n black": "2026-10-30T11:47:44.662Z",
   "clinique fragancia clinique happy perfume spray 100 ml": "2026-10-30T15:32:54.539Z",
-  "ventilador para pc apnx fp2 120 pwm argb color negro": "2026-10-29T00:49:25.527Z",
+  "ventilador para pc apnx fp2 120 pwm argb color negro": "2026-10-30T18:02:35.079Z",
   "recco enfriador de aire 50 w blanco bl 202dlr h": "2026-10-28T12:32:14.418Z",
   "cartier perfume mujer la panthere elixir edp 100 ml cartier": "2026-10-29T14:03:33.337Z",
   "wurden convector conveccion qnq 101f blanco": "2026-10-30T15:32:54.539Z",
-  "moncler perfume moncler pour homme edp 60ml": "2026-10-29T12:32:04.884Z",
-  "jimmy choo perfume hombre j choo man extreme 30ml": "2026-10-29T02:03:10.418Z",
+  "moncler perfume moncler pour homme edp 60ml": "2026-10-30T18:02:35.079Z",
+  "jimmy choo perfume hombre j choo man extreme 30ml": "2026-10-30T18:02:35.079Z",
   "recco estufa electrica blanco 1200 w radiacion nsb 99y blanco": "2026-10-29T02:17:12.349Z",
   "recco mini calefactor 600 w oleoelectrica blanco": "2026-10-29T13:02:17.664Z",
   "moncler perfume mujer moncler pour femme edp 100 ml": "2026-10-30T17:33:27.799Z",
@@ -118,7 +120,9 @@
   "gama cepillo modelador rotatorio gama 2600 ion": "2026-10-30T17:33:27.799Z",
   "5jj0614l21 adaptador usb wireless benq 5jj0614l21 para proyectores": "2026-10-30T11:02:11.169Z",
   "sonos audifono bluetooth over ear ace sonos blanco": "2026-10-30T11:47:44.662Z",
-  "tcl aire acondicionado portatil frio calor tcl 12000 btu": "2026-10-30T14:33:44.293Z"
+  "tcl aire acondicionado portatil frio calor tcl 12000 btu": "2026-10-30T14:33:44.293Z",
+  "freidora de aire oster ckstaf401mdf 4 litros": "2026-10-30T18:02:35.079Z",
+  "nespresso cafetera essenza mini negra espumador": "2026-10-30T18:02:35.079Z"
  },
  "items": {
   "2026-10-27-r-carrusel-1793121468075": {
@@ -4501,6 +4505,84 @@
      "visto": "13:34"
     }
    ]
+  },
+  "2026-10-30-r-carrusel-1793383355079": {
+   "tipo": "carrusel",
+   "fecha": "2026-10-30",
+   "estado": "publicado",
+   "bloque": "populares",
+   "formato": "top5",
+   "hora": "15:02",
+   "id": "18014014718982337",
+   "enlace": "https://www.instagram.com/p/DfILhHyGq0Q/",
+   "ofertas": [
+    {
+     "id": "1530827",
+     "nombre": "Freidora de Aire Oster CKSTAF401MDF / 4 Litros",
+     "tienda": "Hites",
+     "ahora": 39990,
+     "antes": 67990,
+     "pct": 41,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 87,
+     "visto": "14:43"
+    },
+    {
+     "id": "2132513",
+     "nombre": "JIMMY CHOO Perfume Hombre J Choo Man Extreme 30Ml",
+     "tienda": "Falabella",
+     "ahora": 32990,
+     "antes": 59990,
+     "pct": 45,
+     "rubro": "perfumes",
+     "esMinimo": true,
+     "dias": 76,
+     "visto": "14:43"
+    },
+    {
+     "id": "2086682",
+     "nombre": "Ventilador para PC APNX FP2-120 PWM ARGB, Color Negro",
+     "tienda": "SP Digital",
+     "ahora": 15670,
+     "antes": 31340,
+     "pct": 50,
+     "rubro": "gamer",
+     "esMinimo": false,
+     "dias": 8,
+     "visto": "14:43"
+    },
+    {
+     "id": "2047234",
+     "nombre": "MONCLER Perfume Moncler Pour Homme EDP 60ML",
+     "tienda": "Falabella",
+     "ahora": 59990,
+     "antes": 99990,
+     "pct": 40,
+     "rubro": "perfumes",
+     "esMinimo": true,
+     "dias": 87,
+     "visto": "14:43"
+    },
+    {
+     "id": "1530831",
+     "nombre": "Nespresso Cafetera Essenza Mini Negra + Espumador",
+     "tienda": "Lider",
+     "ahora": 99990,
+     "antes": 179990,
+     "pct": 44,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 85,
+     "visto": "14:43"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1793383325239-c5-1.jpg",
+    "tmp-medios/1793383325239-c5-2.jpg",
+    "tmp-medios/1793383325239-c5-3.jpg"
+   ],
+   "texto": "🏆 Los más populares\n1. Freidora de Aire Oster CKSTAF401MDF / 4 Litros: $39.990 (-41%) en Hites · 📉 mínimo de 87 días\n2. JIMMY CHOO Perfume Hombre J Choo Man Extreme 30Ml: $32.990 (-45%) en Falabella · 📉 mínimo de 76 días\n3. Ventilador para PC APNX FP2-120 PWM ARGB, Color Negro: $15.670 (-50%) en SP Digital\n4. MONCLER Perfume Moncler Pour Homme EDP 60ML: $59.990 (-40%) en Falabella · 📉 mínimo de 87 días\n5. Nespresso Cafetera Essenza Mini Negra + Espumador: $99.990 (-44%) en Lider\n\n⏰ Precios vistos hoy (30/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #top5 #descuentoschile #ofertix #ahorrar"
   }
  },
  "config": {
@@ -4520,7 +4602,7 @@
    "hasta": "2026-10-30T03:02:54.985Z",
    "veces": 1
   },
-  "ultimaPub": "2026-10-30T17:46:18.452Z"
+  "ultimaPub": "2026-10-30T18:02:35.079Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-29",
