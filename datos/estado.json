@@ -3,7 +3,7 @@
  "usadas": {
   "181585": "2026-10-28T11:47:54.768Z",
   "824715": "2026-10-29T02:17:12.349Z",
-  "825797": "2026-10-29T11:33:37.387Z",
+  "825797": "2026-10-30T17:33:27.799Z",
   "825801": "2026-10-30T15:32:54.539Z",
   "827375": "2026-10-30T11:47:44.662Z",
   "829028": "2026-10-28T00:47:54.231Z",
@@ -26,7 +26,7 @@
   "1780881": "2026-10-29T00:04:41.987Z",
   "1784905": "2026-10-30T11:32:20.589Z",
   "1827803": "2026-10-29T13:47:12.862Z",
-  "1840943": "2026-10-29T02:03:10.418Z",
+  "1840943": "2026-10-30T17:33:27.799Z",
   "1841225": "2026-10-30T13:17:06.740Z",
   "1841233": "2026-10-30T12:17:48.845Z",
   "1841315": "2026-10-29T00:49:25.527Z",
@@ -39,7 +39,7 @@
   "2047234": "2026-10-29T12:32:04.883Z",
   "2047249": "2026-10-30T00:02:31.981Z",
   "2048291": "2026-10-29T14:03:33.337Z",
-  "2048348": "2026-10-29T02:03:10.418Z",
+  "2048348": "2026-10-30T17:33:27.799Z",
   "2066558": "2026-10-28T12:32:14.418Z",
   "2084002": "2026-10-30T15:32:54.538Z",
   "2084101": "2026-10-30T14:33:44.294Z",
@@ -76,7 +76,7 @@
   "hamilton beach microondas digital 23 litros inox hb p90d23el lxa": "2026-10-30T12:17:48.845Z",
   "hamilton beach batidora de mano 290 w multicolor bp 62650 cl": "2026-10-29T00:49:25.527Z",
   "hamilton beach batidora de pedestal 3 7 l 290 kw negro 64650 cl": "2026-10-29T01:34:07.125Z",
-  "hamilton beach freidora de aire 2 5 litros fe 35051 cl": "2026-10-29T02:03:10.418Z",
+  "hamilton beach freidora de aire 2 5 litros fe 35051 cl": "2026-10-30T17:33:27.799Z",
   "volker campana convencional 60 cm inox": "2026-10-30T13:17:06.740Z",
   "thomas chimenea electrica 2000w conveccion th fp100 madera": "2026-10-30T11:47:44.662Z",
   "prada perfume de prada infusion de figue eau de parfum 100ml unisex": "2026-10-29T13:47:12.862Z",
@@ -100,7 +100,7 @@
   "jimmy choo perfume hombre j choo man extreme 30ml": "2026-10-29T02:03:10.418Z",
   "recco estufa electrica blanco 1200 w radiacion nsb 99y blanco": "2026-10-29T02:17:12.349Z",
   "recco mini calefactor 600 w oleoelectrica blanco": "2026-10-29T13:02:17.664Z",
-  "moncler perfume mujer moncler pour femme edp 100 ml": "2026-10-29T02:03:10.418Z",
+  "moncler perfume mujer moncler pour femme edp 100 ml": "2026-10-30T17:33:27.799Z",
   "antonio banderas perfume edt hombre the icon edt 200 ml banderas": "2026-10-29T02:17:12.349Z",
   "nex ventilador suelo industrial 36 negro": "2026-10-28T02:19:22.192Z",
   "jbl jbl audifonos tune 680nc beige": "2026-10-27T18:03:14.149Z",
@@ -115,7 +115,7 @@
   "audifonos jbl tune 500": "2026-10-30T11:32:20.589Z",
   "electronic arts juego ea sports fc 26 latam ns2 electronic arts": "2026-10-30T14:33:44.294Z",
   "tom ford soleil neige edp unisex 100ml 3 4floz tom ford": "2026-10-30T12:17:48.845Z",
-  "gama cepillo modelador rotatorio gama 2600 ion": "2026-10-29T11:33:37.387Z",
+  "gama cepillo modelador rotatorio gama 2600 ion": "2026-10-30T17:33:27.799Z",
   "5jj0614l21 adaptador usb wireless benq 5jj0614l21 para proyectores": "2026-10-30T11:02:11.169Z",
   "sonos audifono bluetooth over ear ace sonos blanco": "2026-10-30T11:47:44.662Z",
   "tcl aire acondicionado portatil frio calor tcl 12000 btu": "2026-10-30T14:33:44.293Z"
@@ -4428,6 +4428,57 @@
      "visto": "13:34"
     }
    ]
+  },
+  "2026-10-30-r-reel-1793381607799": {
+   "tipo": "reel",
+   "fecha": "2026-10-30",
+   "estado": "publicado",
+   "bloque": "comparativas",
+   "hora": "14:33",
+   "id": "17892291816455211",
+   "enlace": "https://www.instagram.com/reel/DfIIIIqAn_f/",
+   "ofertas": [
+    {
+     "id": "1840943",
+     "nombre": "HAMILTON BEACH Freidora de Aire 2.5 Litros FE-35051-CL",
+     "tienda": "Sodimac",
+     "ahora": 39990,
+     "antes": 89990,
+     "pct": 55,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 49,
+     "visto": "13:34"
+    },
+    {
+     "id": "2048348",
+     "nombre": "MONCLER Perfume Mujer Moncler Pour Femme Edp 100 Ml",
+     "tienda": "Falabella",
+     "ahora": 89990,
+     "antes": 149990,
+     "pct": 40,
+     "rubro": "perfumes",
+     "esMinimo": true,
+     "dias": 88,
+     "visto": "13:34"
+    },
+    {
+     "id": "825797",
+     "nombre": "GAMA Cepillo Modelador Rotatorio GAMA 2600 ION",
+     "tienda": "Falabella",
+     "ahora": 34990,
+     "antes": 59990,
+     "pct": 41,
+     "rubro": "belleza",
+     "esMinimo": true,
+     "dias": 86,
+     "visto": "13:34"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1793381471390-r4.mp4"
+   ],
+   "texto": "🔥 3 ofertas en comparativa: mismo tipo de producto\n1. HAMILTON BEACH Freidora de Aire 2.5 Litros FE-35051-CL: $39.990 (-55%, referencia $89.990) en Sodimac\n2. MONCLER Perfume Mujer Moncler Pour Femme Edp 100 Ml: $89.990 (-40%, referencia $149.990) en Falabella · 📉 mínimo de 88 días\n3. GAMA Cepillo Modelador Rotatorio GAMA 2600 ION: $34.990 (-41%, referencia $59.990) en Falabella · 📉 mínimo de 86 días\n\n⏰ Precios vistos hoy (30/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
   }
  },
  "config": {
@@ -4447,7 +4498,7 @@
    "hasta": "2026-10-30T03:02:54.985Z",
    "veces": 1
   },
-  "ultimaPub": "2026-10-30T17:16:04.049Z"
+  "ultimaPub": "2026-10-30T17:33:27.800Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-29",
