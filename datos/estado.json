@@ -3812,6 +3812,28 @@
     "tmp-medios/1793360824582-c1-3.jpg"
    ],
    "texto": "🏆 Ofertas nuevas de hoy\n1. VIKTOR & ROLF Perfume Mujer Flowerbomb Edp 100Ml Viktor & Rolf: $119.990 (-40%) en Falabella · 📉 mínimo de 88 días\n2. THOMAS Chimenea Eléctrica 2000W Convección TH-FP100 Madera: $152.990 (-59%) en Sodimac · 📉 mínimo de 86 días\n3. SONOS Audífono Bluetooth Over Ear Ace Sonos - Blanco: $249.990 (-40%) en Falabella · 📉 mínimo de 81 días\n4. Teclado HyperX Alloy Core RGB (4P4F5AI / HX-KB5ME2-LA): $29.990 (-40%) en Valrod · 📉 mínimo de 58 días\n5. CAJA ABIERTA/DAÑADA Reloj Smartwatch Lhotse TW58 Black'n Black: $88.820 (-43%) en SP Digital\n\n⏰ Precios vistos hoy (30/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #top5 #descuentoschile #ofertix #ahorrar"
+  },
+  "2026-10-30-r-historia-1793361689391": {
+   "tipo": "historia",
+   "fecha": "2026-10-30",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "hora": "09:01",
+   "id": "18089849066699901",
+   "ofertas": [
+    {
+     "id": "2368169",
+     "nombre": "VIKTOR & ROLF Perfume Mujer Flowerbomb Edp 100Ml Viktor & Rolf",
+     "tienda": "Falabella",
+     "ahora": 119990,
+     "antes": 199990,
+     "pct": 40,
+     "rubro": "perfumes",
+     "esMinimo": true,
+     "dias": 88,
+     "visto": "08:29"
+    }
+   ]
   }
  },
  "config": {
@@ -3831,7 +3853,7 @@
    "hasta": "2026-10-30T03:02:54.985Z",
    "veces": 1
   },
-  "ultimaPub": "2026-10-30T11:47:44.663Z"
+  "ultimaPub": "2026-10-30T12:01:29.392Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-29",
@@ -3860,7 +3882,7 @@
   "2330918": "2026-10-28T12:46:39.092Z",
   "2330924": "2026-10-29T13:02:40.071Z",
   "2332098": "2026-10-29T11:47:12.961Z",
-  "2368169": "2026-10-29T11:16:09.852Z",
+  "2368169": "2026-10-30T12:01:29.391Z",
   "2376071": "2026-10-29T11:02:51.628Z",
   "2382802": "2026-10-29T13:31:29.297Z",
   "2421850": "2026-10-30T11:16:09.796Z"
