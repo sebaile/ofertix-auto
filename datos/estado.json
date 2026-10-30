@@ -4,7 +4,7 @@
   "181585": "2026-10-28T11:47:54.768Z",
   "824715": "2026-10-29T02:17:12.349Z",
   "825797": "2026-10-29T11:33:37.387Z",
-  "825801": "2026-10-29T12:16:56.294Z",
+  "825801": "2026-10-30T15:32:54.539Z",
   "827375": "2026-10-30T11:47:44.662Z",
   "829028": "2026-10-28T00:47:54.231Z",
   "830761": "2026-10-29T13:47:12.862Z",
@@ -41,14 +41,14 @@
   "2048291": "2026-10-29T14:03:33.337Z",
   "2048348": "2026-10-29T02:03:10.418Z",
   "2066558": "2026-10-28T12:32:14.418Z",
-  "2084002": "2026-10-29T00:49:25.527Z",
+  "2084002": "2026-10-30T15:32:54.538Z",
   "2084101": "2026-10-30T14:33:44.294Z",
   "2085077": "2026-10-30T11:32:20.589Z",
   "2086478": "2026-10-30T11:47:44.662Z",
   "2086682": "2026-10-29T00:49:25.527Z",
   "2103253": "2026-10-29T02:17:12.349Z",
   "2103254": "2026-10-29T13:02:17.664Z",
-  "2103256": "2026-10-29T01:03:10.709Z",
+  "2103256": "2026-10-30T15:32:54.539Z",
   "2132513": "2026-10-29T02:03:10.418Z",
   "2330908": "2026-10-28T11:02:24.840Z",
   "2330918": "2026-10-28T11:32:32.870Z",
@@ -91,11 +91,11 @@
   "clinique fragancia clinique happy for men 100ml": "2026-10-30T14:33:44.294Z",
   "celular zte nubia music pop art 128gb 4gb azul rojo liberado": "2026-10-30T11:32:20.589Z",
   "caja abierta danada reloj smartwatch lhotse tw58 black n black": "2026-10-30T11:47:44.662Z",
-  "clinique fragancia clinique happy perfume spray 100 ml": "2026-10-29T00:49:25.527Z",
+  "clinique fragancia clinique happy perfume spray 100 ml": "2026-10-30T15:32:54.539Z",
   "ventilador para pc apnx fp2 120 pwm argb color negro": "2026-10-29T00:49:25.527Z",
   "recco enfriador de aire 50 w blanco bl 202dlr h": "2026-10-28T12:32:14.418Z",
   "cartier perfume mujer la panthere elixir edp 100 ml cartier": "2026-10-29T14:03:33.337Z",
-  "wurden convector conveccion qnq 101f blanco": "2026-10-29T01:03:10.709Z",
+  "wurden convector conveccion qnq 101f blanco": "2026-10-30T15:32:54.539Z",
   "moncler perfume moncler pour homme edp 60ml": "2026-10-29T12:32:04.884Z",
   "jimmy choo perfume hombre j choo man extreme 30ml": "2026-10-29T02:03:10.418Z",
   "recco estufa electrica blanco 1200 w radiacion nsb 99y blanco": "2026-10-29T02:17:12.349Z",
@@ -110,7 +110,7 @@
   "electrolux lavadora carga superior 16 kg emtl16 electrolux": "2026-10-29T11:46:52.847Z",
   "jo malone london cologne fig lotus and flower 30 ml jo malone london": "2026-10-29T12:16:56.294Z",
   "cafetera espresso electrolux capsula ecm70": "2026-10-28T11:47:54.768Z",
-  "siegen alisador sg 4704 siegen airflow fast style": "2026-10-29T12:16:56.294Z",
+  "siegen alisador sg 4704 siegen airflow fast style": "2026-10-30T15:32:54.539Z",
   "viktor rolf perfume mujer flowerbomb edp 100ml viktor rolf": "2026-10-30T11:47:44.662Z",
   "audifonos jbl tune 500": "2026-10-30T11:32:20.589Z",
   "electronic arts juego ea sports fc 26 latam ns2 electronic arts": "2026-10-30T14:33:44.294Z",
@@ -4194,6 +4194,57 @@
      "visto": "11:39"
     }
    ]
+  },
+  "2026-10-30-r-reel-1793374374539": {
+   "tipo": "reel",
+   "fecha": "2026-10-30",
+   "estado": "publicado",
+   "bloque": "comparativas",
+   "hora": "12:32",
+   "id": "18340610077273557",
+   "enlace": "https://www.instagram.com/reel/DfH6V7-Eanq/",
+   "ofertas": [
+    {
+     "id": "2084002",
+     "nombre": "CLINIQUE Fragancia Clinique Happy Perfume Spray 100 ml",
+     "tienda": "Falabella",
+     "ahora": 39990,
+     "antes": 109900,
+     "pct": 63,
+     "rubro": "perfumes",
+     "esMinimo": false,
+     "dias": 59,
+     "visto": "11:39"
+    },
+    {
+     "id": "2103256",
+     "nombre": "WURDEN Convector Convección QNQ-101F Blanco",
+     "tienda": "Sodimac",
+     "ahora": 44990,
+     "antes": 89990,
+     "pct": 50,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 85,
+     "visto": "11:39"
+    },
+    {
+     "id": "825801",
+     "nombre": "SIEGEN Alisador SG-4704 Siegen Airflow + Fast Style",
+     "tienda": "Falabella",
+     "ahora": 45990,
+     "antes": 79990,
+     "pct": 42,
+     "rubro": "belleza",
+     "esMinimo": true,
+     "dias": 64,
+     "visto": "11:39"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1793374282213-r3.mp4"
+   ],
+   "texto": "🔥 3 ofertas en comparativa: mismo tipo de producto\n1. CLINIQUE Fragancia Clinique Happy Perfume Spray 100 ml: $39.990 (-63%, referencia $109.900) en Falabella\n2. WURDEN Convector Convección QNQ-101F Blanco: $44.990 (-50%, referencia $89.990) en Sodimac · 📉 mínimo de 85 días\n3. SIEGEN Alisador SG-4704 Siegen Airflow + Fast Style: $45.990 (-42%, referencia $79.990) en Falabella · 📉 mínimo de 64 días\n\n⏰ Precios vistos hoy (30/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
   }
  },
  "config": {
@@ -4213,7 +4264,7 @@
    "hasta": "2026-10-30T03:02:54.985Z",
    "veces": 1
   },
-  "ultimaPub": "2026-10-30T15:16:03.685Z"
+  "ultimaPub": "2026-10-30T15:32:54.539Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-29",
