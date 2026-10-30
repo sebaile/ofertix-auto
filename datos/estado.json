@@ -20,7 +20,7 @@
   "1595843": "2026-10-28T02:19:22.192Z",
   "1673333": "2026-10-29T13:47:12.862Z",
   "1673340": "2026-10-29T13:16:55.900Z",
-  "1695609": "2026-10-29T00:49:25.527Z",
+  "1695609": "2026-10-30T12:17:48.845Z",
   "1701548": "2026-10-29T13:02:17.664Z",
   "1753017": "2026-10-27T18:03:14.149Z",
   "1780881": "2026-10-29T00:04:41.987Z",
@@ -28,7 +28,7 @@
   "1827803": "2026-10-29T13:47:12.862Z",
   "1840943": "2026-10-29T02:03:10.418Z",
   "1841225": "2026-10-29T02:03:10.418Z",
-  "1841233": "2026-10-29T00:49:25.527Z",
+  "1841233": "2026-10-30T12:17:48.845Z",
   "1841315": "2026-10-29T00:49:25.527Z",
   "1841316": "2026-10-29T01:34:07.125Z",
   "1848566": "2026-10-30T11:47:44.662Z",
@@ -56,7 +56,7 @@
   "2332098": "2026-10-29T11:46:52.847Z",
   "2368169": "2026-10-30T11:47:44.662Z",
   "2376071": "2026-10-30T11:32:20.589Z",
-  "2382802": "2026-10-29T11:33:37.386Z",
+  "2382802": "2026-10-30T12:17:48.845Z",
   "2421850": "2026-10-30T11:02:11.169Z"
  },
  "nombres": {
@@ -67,12 +67,12 @@
   "fdv hervidor de vidrio crystal 1 7 lts kegs5813 gs fdv": "2026-10-28T13:18:13.038Z",
   "carolina herrera perfume hombre bad boy edt 50ml carolina herrera": "2026-10-29T13:16:55.900Z",
   "nina ricci perfume mujer nina ricci nina edt 50ml nina ricci": "2026-10-29T13:47:12.862Z",
-  "mikrotik mantbox 52 15s with routeros l4 license": "2026-10-29T00:49:25.527Z",
+  "mikrotik mantbox 52 15s with routeros l4 license": "2026-10-30T12:17:48.845Z",
   "samsung audifonos in ear sm r400nzaalta bluetooth v5 2 gray": "2026-10-29T01:34:07.125Z",
   "thierry mugler perfume mujer mugler angel edp 100 ml thierry mugler": "2026-10-28T00:47:54.231Z",
   "parlante portatil aiwa aw a521 90w bluetooth negro": "2026-10-30T11:32:20.589Z",
   "licuadora easyways licuadora crush n roll 1 5 l": "2026-10-29T13:47:12.862Z",
-  "hamilton beach microondas digital 23 litros inox hb p90d23el lxa": "2026-10-29T00:49:25.527Z",
+  "hamilton beach microondas digital 23 litros inox hb p90d23el lxa": "2026-10-30T12:17:48.845Z",
   "hamilton beach batidora de mano 290 w multicolor bp 62650 cl": "2026-10-29T00:49:25.527Z",
   "hamilton beach batidora de pedestal 3 7 l 290 kw negro 64650 cl": "2026-10-29T01:34:07.125Z",
   "hamilton beach freidora de aire 2 5 litros fe 35051 cl": "2026-10-29T02:03:10.418Z",
@@ -113,7 +113,7 @@
   "viktor rolf perfume mujer flowerbomb edp 100ml viktor rolf": "2026-10-30T11:47:44.662Z",
   "audifonos jbl tune 500": "2026-10-30T11:32:20.589Z",
   "electronic arts juego ea sports fc 26 latam ns2 electronic arts": "2026-10-29T11:33:37.386Z",
-  "tom ford soleil neige edp unisex 100ml 3 4floz tom ford": "2026-10-29T11:33:37.386Z",
+  "tom ford soleil neige edp unisex 100ml 3 4floz tom ford": "2026-10-30T12:17:48.845Z",
   "gama cepillo modelador rotatorio gama 2600 ion": "2026-10-29T11:33:37.387Z",
   "5jj0614l21 adaptador usb wireless benq 5jj0614l21 para proyectores": "2026-10-30T11:02:11.169Z",
   "sonos audifono bluetooth over ear ace sonos blanco": "2026-10-30T11:47:44.662Z"
@@ -3834,6 +3834,57 @@
      "visto": "08:29"
     }
    ]
+  },
+  "2026-10-30-r-reel-1793362668846": {
+   "tipo": "reel",
+   "fecha": "2026-10-30",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "hora": "09:17",
+   "id": "18157236778521848",
+   "enlace": "https://www.instagram.com/reel/DfHkBDEDpS0/",
+   "ofertas": [
+    {
+     "id": "2382802",
+     "nombre": "TOM FORD Soleil Neige Edp Unisex 100Ml/3.4Floz Tom Ford",
+     "tienda": "Falabella",
+     "ahora": 240000,
+     "antes": 467990,
+     "pct": 48,
+     "rubro": "perfumes",
+     "esMinimo": false,
+     "dias": 7,
+     "visto": "08:29"
+    },
+    {
+     "id": "1841233",
+     "nombre": "HAMILTON BEACH Microondas Digital 23 Litros Inox HB-P90D23EL-LXA",
+     "tienda": "Sodimac",
+     "ahora": 44990,
+     "antes": 99990,
+     "pct": 55,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 49,
+     "visto": "08:29"
+    },
+    {
+     "id": "1695609",
+     "nombre": "MIKROTIK mANTBox 52 15s with RouterOS L4 license",
+     "tienda": "Tecnomas.cl",
+     "ahora": 132990,
+     "antes": 223990,
+     "pct": 40,
+     "rubro": "tecnologia",
+     "esMinimo": true,
+     "dias": 69,
+     "visto": "08:29"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1793362585048-r1.mp4"
+   ],
+   "texto": "🔥 3 ofertas nuevas de hoy\n1. TOM FORD Soleil Neige Edp Unisex 100Ml/3.4Floz Tom Ford: $240.000 (-48%, referencia $467.990) en Falabella\n2. HAMILTON BEACH Microondas Digital 23 Litros Inox HB-P90D23EL-LXA: $44.990 (-55%, referencia $99.990) en Sodimac · 📉 mínimo de 49 días\n3. MIKROTIK mANTBox 52 15s with RouterOS L4 license: $132.990 (-40%, referencia $223.990) en Tecnomas.cl · 📉 mínimo de 69 días\n\n⏰ Precios vistos hoy (30/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
   }
  },
  "config": {
@@ -3853,7 +3904,7 @@
    "hasta": "2026-10-30T03:02:54.985Z",
    "veces": 1
   },
-  "ultimaPub": "2026-10-30T12:01:29.392Z"
+  "ultimaPub": "2026-10-30T12:17:48.846Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-29",
