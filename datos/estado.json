@@ -35,13 +35,14 @@
   "1896728": "2026-10-29T13:02:17.664Z",
   "2000806": "2026-10-30T00:02:31.981Z",
   "2047193": "2026-10-29T00:04:41.987Z",
+  "2047194": "2026-10-30T14:33:44.293Z",
   "2047234": "2026-10-29T12:32:04.883Z",
   "2047249": "2026-10-30T00:02:31.981Z",
   "2048291": "2026-10-29T14:03:33.337Z",
   "2048348": "2026-10-29T02:03:10.418Z",
   "2066558": "2026-10-28T12:32:14.418Z",
   "2084002": "2026-10-29T00:49:25.527Z",
-  "2084101": "2026-10-29T00:34:41.774Z",
+  "2084101": "2026-10-30T14:33:44.294Z",
   "2085077": "2026-10-30T11:32:20.589Z",
   "2086478": "2026-10-30T11:47:44.662Z",
   "2086682": "2026-10-29T00:49:25.527Z",
@@ -51,7 +52,7 @@
   "2132513": "2026-10-29T02:03:10.418Z",
   "2330908": "2026-10-28T11:02:24.840Z",
   "2330918": "2026-10-28T11:32:32.870Z",
-  "2330924": "2026-10-29T11:33:37.386Z",
+  "2330924": "2026-10-30T14:33:44.294Z",
   "2330968": "2026-10-29T12:16:56.294Z",
   "2332098": "2026-10-29T11:46:52.847Z",
   "2368169": "2026-10-30T11:47:44.662Z",
@@ -87,7 +88,7 @@
   "kate spade kate spade cherie je taime edp 100ml": "2026-10-30T00:02:31.981Z",
   "toyotomi horno electrico empotrado 56 litros he9silver": "2026-10-30T00:02:31.981Z",
   "tcl aire acondicionado portatil frio tcl 9000 btu": "2026-10-29T00:04:41.987Z",
-  "clinique fragancia clinique happy for men 100ml": "2026-10-29T00:34:41.774Z",
+  "clinique fragancia clinique happy for men 100ml": "2026-10-30T14:33:44.294Z",
   "celular zte nubia music pop art 128gb 4gb azul rojo liberado": "2026-10-30T11:32:20.589Z",
   "caja abierta danada reloj smartwatch lhotse tw58 black n black": "2026-10-30T11:47:44.662Z",
   "clinique fragancia clinique happy perfume spray 100 ml": "2026-10-29T00:49:25.527Z",
@@ -112,11 +113,12 @@
   "siegen alisador sg 4704 siegen airflow fast style": "2026-10-29T12:16:56.294Z",
   "viktor rolf perfume mujer flowerbomb edp 100ml viktor rolf": "2026-10-30T11:47:44.662Z",
   "audifonos jbl tune 500": "2026-10-30T11:32:20.589Z",
-  "electronic arts juego ea sports fc 26 latam ns2 electronic arts": "2026-10-29T11:33:37.386Z",
+  "electronic arts juego ea sports fc 26 latam ns2 electronic arts": "2026-10-30T14:33:44.294Z",
   "tom ford soleil neige edp unisex 100ml 3 4floz tom ford": "2026-10-30T12:17:48.845Z",
   "gama cepillo modelador rotatorio gama 2600 ion": "2026-10-29T11:33:37.387Z",
   "5jj0614l21 adaptador usb wireless benq 5jj0614l21 para proyectores": "2026-10-30T11:02:11.169Z",
-  "sonos audifono bluetooth over ear ace sonos blanco": "2026-10-30T11:47:44.662Z"
+  "sonos audifono bluetooth over ear ace sonos blanco": "2026-10-30T11:47:44.662Z",
+  "tcl aire acondicionado portatil frio calor tcl 12000 btu": "2026-10-30T14:33:44.293Z"
  },
  "items": {
   "2026-10-27-r-carrusel-1793121468075": {
@@ -4068,6 +4070,57 @@
      "visto": "10:31"
     }
    ]
+  },
+  "2026-10-30-r-reel-1793370824294": {
+   "tipo": "reel",
+   "fecha": "2026-10-30",
+   "estado": "publicado",
+   "bloque": "comparativas",
+   "hora": "11:33",
+   "id": "17986704893900755",
+   "enlace": "https://www.instagram.com/reel/DfHzlffEia9/",
+   "ofertas": [
+    {
+     "id": "2047194",
+     "nombre": "TCL Aire Acondicionado Portátil Frio-Calor TCL 12000 BTU",
+     "tienda": "Falabella",
+     "ahora": 199990,
+     "antes": 499990,
+     "pct": 60,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 9,
+     "visto": "10:31"
+    },
+    {
+     "id": "2084101",
+     "nombre": "CLINIQUE Fragancia Clinique Happy for Men 100ml",
+     "tienda": "Falabella",
+     "ahora": 34990,
+     "antes": 98900,
+     "pct": 64,
+     "rubro": "perfumes",
+     "esMinimo": false,
+     "dias": 59,
+     "visto": "10:31"
+    },
+    {
+     "id": "2330924",
+     "nombre": "ELECTRONIC ARTS Juego Ea Sports Fc 26 Latam Ns2 Electronic Arts",
+     "tienda": "Falabella",
+     "ahora": 19990,
+     "antes": 47990,
+     "pct": 58,
+     "rubro": "gamer",
+     "esMinimo": false,
+     "dias": 77,
+     "visto": "10:31"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1793370692219-r2.mp4"
+   ],
+   "texto": "🔥 3 ofertas en comparativa: mismo tipo de producto\n1. TCL Aire Acondicionado Portátil Frio-Calor TCL 12000 BTU: $199.990 (-60%, referencia $499.990) en Falabella\n2. CLINIQUE Fragancia Clinique Happy for Men 100ml: $34.990 (-64%, referencia $98.900) en Falabella\n3. ELECTRONIC ARTS Juego Ea Sports Fc 26 Latam Ns2 Electronic Arts: $19.990 (-58%, referencia $47.990) en Falabella\n\n⏰ Precios vistos hoy (30/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
   }
  },
  "config": {
@@ -4087,7 +4140,7 @@
    "hasta": "2026-10-30T03:02:54.985Z",
    "veces": 1
   },
-  "ultimaPub": "2026-10-30T14:16:01.944Z"
+  "ultimaPub": "2026-10-30T14:33:44.294Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-29",
