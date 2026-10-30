@@ -23,7 +23,7 @@
   "1701548": "2026-10-29T13:02:17.664Z",
   "1753017": "2026-10-27T18:03:14.149Z",
   "1780881": "2026-10-29T00:04:41.987Z",
-  "1784905": "2026-10-29T00:04:41.987Z",
+  "1784905": "2026-10-30T11:32:20.589Z",
   "1827803": "2026-10-29T13:47:12.862Z",
   "1840943": "2026-10-29T02:03:10.418Z",
   "1841225": "2026-10-29T02:03:10.418Z",
@@ -41,7 +41,7 @@
   "2066558": "2026-10-28T12:32:14.418Z",
   "2084002": "2026-10-29T00:49:25.527Z",
   "2084101": "2026-10-29T00:34:41.774Z",
-  "2085077": "2026-10-29T00:34:41.774Z",
+  "2085077": "2026-10-30T11:32:20.589Z",
   "2086478": "2026-10-29T00:34:41.774Z",
   "2086682": "2026-10-29T00:49:25.527Z",
   "2103253": "2026-10-29T02:17:12.349Z",
@@ -54,7 +54,7 @@
   "2330968": "2026-10-29T12:16:56.294Z",
   "2332098": "2026-10-29T11:46:52.847Z",
   "2368169": "2026-10-29T01:34:07.125Z",
-  "2376071": "2026-10-29T11:02:31.717Z",
+  "2376071": "2026-10-30T11:32:20.589Z",
   "2382802": "2026-10-29T11:33:37.386Z",
   "2421850": "2026-10-30T11:02:11.169Z"
  },
@@ -69,7 +69,7 @@
   "mikrotik mantbox 52 15s with routeros l4 license": "2026-10-29T00:49:25.527Z",
   "samsung audifonos in ear sm r400nzaalta bluetooth v5 2 gray": "2026-10-29T01:34:07.125Z",
   "thierry mugler perfume mujer mugler angel edp 100 ml thierry mugler": "2026-10-28T00:47:54.231Z",
-  "parlante portatil aiwa aw a521 90w bluetooth negro": "2026-10-29T00:04:41.987Z",
+  "parlante portatil aiwa aw a521 90w bluetooth negro": "2026-10-30T11:32:20.589Z",
   "licuadora easyways licuadora crush n roll 1 5 l": "2026-10-29T13:47:12.862Z",
   "hamilton beach microondas digital 23 litros inox hb p90d23el lxa": "2026-10-29T00:49:25.527Z",
   "hamilton beach batidora de mano 290 w multicolor bp 62650 cl": "2026-10-29T00:49:25.527Z",
@@ -87,7 +87,7 @@
   "toyotomi horno electrico empotrado 56 litros he9silver": "2026-10-30T00:02:31.981Z",
   "tcl aire acondicionado portatil frio tcl 9000 btu": "2026-10-29T00:04:41.987Z",
   "clinique fragancia clinique happy for men 100ml": "2026-10-29T00:34:41.774Z",
-  "celular zte nubia music pop art 128gb 4gb azul rojo liberado": "2026-10-29T00:34:41.774Z",
+  "celular zte nubia music pop art 128gb 4gb azul rojo liberado": "2026-10-30T11:32:20.589Z",
   "caja abierta danada reloj smartwatch lhotse tw58 black n black": "2026-10-29T00:34:41.774Z",
   "clinique fragancia clinique happy perfume spray 100 ml": "2026-10-29T00:49:25.527Z",
   "ventilador para pc apnx fp2 120 pwm argb color negro": "2026-10-29T00:49:25.527Z",
@@ -110,7 +110,7 @@
   "cafetera espresso electrolux capsula ecm70": "2026-10-28T11:47:54.768Z",
   "siegen alisador sg 4704 siegen airflow fast style": "2026-10-29T12:16:56.294Z",
   "viktor rolf perfume mujer flowerbomb edp 100ml viktor rolf": "2026-10-29T01:34:07.125Z",
-  "audifonos jbl tune 500": "2026-10-29T11:02:31.717Z",
+  "audifonos jbl tune 500": "2026-10-30T11:32:20.589Z",
   "electronic arts juego ea sports fc 26 latam ns2 electronic arts": "2026-10-29T11:33:37.386Z",
   "tom ford soleil neige edp unisex 100ml 3 4floz tom ford": "2026-10-29T11:33:37.386Z",
   "gama cepillo modelador rotatorio gama 2600 ion": "2026-10-29T11:33:37.387Z",
@@ -3681,6 +3681,57 @@
      "visto": "07:36"
     }
    ]
+  },
+  "2026-10-30-r-reel-1793359940589": {
+   "tipo": "reel",
+   "fecha": "2026-10-30",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "hora": "08:32",
+   "id": "17966069574236316",
+   "enlace": "https://www.instagram.com/reel/DfHez9_FErZ/",
+   "ofertas": [
+    {
+     "id": "1784905",
+     "nombre": "Parlante Portátil Aiwa AW-A521 90W Bluetooth Negro",
+     "tienda": "ABC",
+     "ahora": 69990,
+     "antes": 149990,
+     "pct": 53,
+     "rubro": "tecnologia",
+     "esMinimo": true,
+     "dias": 29,
+     "visto": "07:36"
+    },
+    {
+     "id": "2376071",
+     "nombre": "Audífonos JBL Tune 500",
+     "tienda": "Hites",
+     "ahora": 14990,
+     "antes": 29990,
+     "pct": 50,
+     "rubro": "tecnologia",
+     "esMinimo": false,
+     "dias": 86,
+     "visto": "07:36"
+    },
+    {
+     "id": "2085077",
+     "nombre": "Celular ZTE nubia Music Pop Art 128GB/4GB Azul/Rojo Liberado",
+     "tienda": "PC Factory",
+     "ahora": 92790,
+     "antes": 180290,
+     "pct": 48,
+     "rubro": "tecnologia",
+     "esMinimo": true,
+     "dias": 16,
+     "visto": "07:36"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1793359853980-r0.mp4"
+   ],
+   "texto": "🔥 3 ofertas de tecnología\n1. Parlante Portátil Aiwa AW-A521 90W Bluetooth Negro: $69.990 (-53%, referencia $149.990) en ABC · 📉 mínimo de 29 días\n2. Audífonos JBL Tune 500: $14.990 (-50%, referencia $29.990) en Hites\n3. Celular ZTE nubia Music Pop Art 128GB/4GB Azul/Rojo Liberado: $92.790 (-48%, referencia $180.290) en PC Factory · 📉 mínimo de 16 días\n\n⏰ Precios vistos hoy (30/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #tecnologia #descuentoschile #ofertix #ofertasdeldia #ahorrar"
   }
  },
  "config": {
@@ -3700,7 +3751,7 @@
    "hasta": "2026-10-30T03:02:54.985Z",
    "veces": 1
   },
-  "ultimaPub": "2026-10-30T11:16:09.796Z"
+  "ultimaPub": "2026-10-30T11:32:20.589Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-29",
