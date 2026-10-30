@@ -20,6 +20,7 @@
   "1576473": "2026-10-28T22:49:33.602Z",
   "1592754": "2026-10-29T12:16:56.294Z",
   "1595843": "2026-10-28T02:19:22.192Z",
+  "1673324": "2026-10-30T21:32:34.662Z",
   "1673333": "2026-10-30T20:32:16.094Z",
   "1673340": "2026-10-30T20:04:05.590Z",
   "1695609": "2026-10-30T12:17:48.845Z",
@@ -33,7 +34,7 @@
   "1841315": "2026-10-29T00:49:25.527Z",
   "1841316": "2026-10-29T01:34:07.125Z",
   "1848566": "2026-10-30T11:47:44.662Z",
-  "1896728": "2026-10-29T13:02:17.664Z",
+  "1896728": "2026-10-30T21:32:34.662Z",
   "2000806": "2026-10-30T00:02:31.981Z",
   "2047193": "2026-10-29T00:04:41.987Z",
   "2047194": "2026-10-30T14:33:44.293Z",
@@ -41,7 +42,7 @@
   "2047249": "2026-10-30T00:02:31.981Z",
   "2048291": "2026-10-30T20:04:05.590Z",
   "2048348": "2026-10-30T17:33:27.799Z",
-  "2066558": "2026-10-28T12:32:14.418Z",
+  "2066558": "2026-10-30T21:32:34.662Z",
   "2084002": "2026-10-30T15:32:54.538Z",
   "2084101": "2026-10-30T14:33:44.294Z",
   "2085077": "2026-10-30T11:32:20.589Z",
@@ -82,7 +83,7 @@
   "volker campana convencional 60 cm inox": "2026-10-30T13:17:06.740Z",
   "thomas chimenea electrica 2000w conveccion th fp100 madera": "2026-10-30T11:47:44.662Z",
   "prada perfume de prada infusion de figue eau de parfum 100ml unisex": "2026-10-30T18:32:41.743Z",
-  "nex aire acondicionado 9000btu acp09288 fcwifi": "2026-10-29T13:02:17.664Z",
+  "nex aire acondicionado 9000btu acp09288 fcwifi": "2026-10-30T21:32:34.662Z",
   "samsung encimera a gas 5 quemadores gris": "2026-10-30T18:32:41.743Z",
   "xiaomi 17 ultra photography kit pro negro": "2026-10-28T22:49:33.602Z",
   "nex ventilador suelo industrial 42 negro": "2026-10-29T12:16:56.294Z",
@@ -95,7 +96,7 @@
   "caja abierta danada reloj smartwatch lhotse tw58 black n black": "2026-10-30T11:47:44.662Z",
   "clinique fragancia clinique happy perfume spray 100 ml": "2026-10-30T15:32:54.539Z",
   "ventilador para pc apnx fp2 120 pwm argb color negro": "2026-10-30T18:02:35.079Z",
-  "recco enfriador de aire 50 w blanco bl 202dlr h": "2026-10-28T12:32:14.418Z",
+  "recco enfriador de aire 50 w blanco bl 202dlr h": "2026-10-30T21:32:34.662Z",
   "cartier perfume mujer la panthere elixir edp 100 ml cartier": "2026-10-30T20:04:05.590Z",
   "wurden convector conveccion qnq 101f blanco": "2026-10-30T15:32:54.539Z",
   "moncler perfume moncler pour homme edp 60ml": "2026-10-30T18:02:35.079Z",
@@ -122,7 +123,8 @@
   "tcl aire acondicionado portatil frio calor tcl 12000 btu": "2026-10-30T14:33:44.293Z",
   "freidora de aire oster ckstaf401mdf 4 litros": "2026-10-30T18:02:35.079Z",
   "nespresso cafetera essenza mini negra espumador": "2026-10-30T18:02:35.079Z",
-  "kitchen it cafetera espresso cool shot 5 en 1 kitchen it": "2026-10-30T21:02:37.042Z"
+  "kitchen it cafetera espresso cool shot 5 en 1 kitchen it": "2026-10-30T21:02:37.042Z",
+  "rabanne perfume hombre black xs edt 100ml rabanne": "2026-10-30T21:32:34.662Z"
  },
  "items": {
   "2026-10-27-r-carrusel-1793121468075": {
@@ -5037,6 +5039,57 @@
      "visto": "17:39"
     }
    ]
+  },
+  "2026-10-30-r-reel-1793395954662": {
+   "tipo": "reel",
+   "fecha": "2026-10-30",
+   "estado": "publicado",
+   "bloque": "populares",
+   "hora": "18:32",
+   "id": "18029395154859968",
+   "enlace": "https://www.instagram.com/reel/DfIjgZujEEc/",
+   "ofertas": [
+    {
+     "id": "1896728",
+     "nombre": "Nex Aire acondicionado 9000BTU ACP09288-FCWIFI",
+     "tienda": "Easy",
+     "ahora": 149990,
+     "antes": 299990,
+     "pct": 50,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 31,
+     "visto": "17:39"
+    },
+    {
+     "id": "1673324",
+     "nombre": "RABANNE Perfume Hombre Black Xs Edt 100Ml Rabanne",
+     "tienda": "Falabella",
+     "ahora": 71990,
+     "antes": 119990,
+     "pct": 40,
+     "rubro": "perfumes",
+     "esMinimo": false,
+     "dias": 63,
+     "visto": "17:39"
+    },
+    {
+     "id": "2066558",
+     "nombre": "RECCO Enfriador de aire 50 W Blanco BL-202DLR-H",
+     "tienda": "Sodimac",
+     "ahora": 33990,
+     "antes": 59990,
+     "pct": 43,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 49,
+     "visto": "17:39"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1793395870575-r7.mp4"
+   ],
+   "texto": "🔥 3 ofertas de las más populares\n1. Nex Aire acondicionado 9000BTU ACP09288-FCWIFI: $149.990 (-50%, referencia $299.990) en Easy\n2. RABANNE Perfume Hombre Black Xs Edt 100Ml Rabanne: $71.990 (-40%, referencia $119.990) en Falabella\n3. RECCO Enfriador de aire 50 W Blanco BL-202DLR-H: $33.990 (-43%, referencia $59.990) en Sodimac\n\n⏰ Precios vistos hoy (30/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
   }
  },
  "config": {
@@ -5056,7 +5109,7 @@
    "hasta": "2026-10-30T03:02:54.985Z",
    "veces": 1
   },
-  "ultimaPub": "2026-10-30T21:16:04.866Z"
+  "ultimaPub": "2026-10-30T21:32:34.662Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-29",
