@@ -27,7 +27,7 @@
   "1784905": "2026-10-30T11:32:20.589Z",
   "1827803": "2026-10-29T13:47:12.862Z",
   "1840943": "2026-10-29T02:03:10.418Z",
-  "1841225": "2026-10-29T02:03:10.418Z",
+  "1841225": "2026-10-30T13:17:06.740Z",
   "1841233": "2026-10-30T12:17:48.845Z",
   "1841315": "2026-10-29T00:49:25.527Z",
   "1841316": "2026-10-29T01:34:07.125Z",
@@ -76,7 +76,7 @@
   "hamilton beach batidora de mano 290 w multicolor bp 62650 cl": "2026-10-29T00:49:25.527Z",
   "hamilton beach batidora de pedestal 3 7 l 290 kw negro 64650 cl": "2026-10-29T01:34:07.125Z",
   "hamilton beach freidora de aire 2 5 litros fe 35051 cl": "2026-10-29T02:03:10.418Z",
-  "volker campana convencional 60 cm inox": "2026-10-29T02:03:10.418Z",
+  "volker campana convencional 60 cm inox": "2026-10-30T13:17:06.740Z",
   "thomas chimenea electrica 2000w conveccion th fp100 madera": "2026-10-30T11:47:44.662Z",
   "prada perfume de prada infusion de figue eau de parfum 100ml unisex": "2026-10-29T13:47:12.862Z",
   "nex aire acondicionado 9000btu acp09288 fcwifi": "2026-10-29T13:02:17.664Z",
@@ -3951,6 +3951,35 @@
      "visto": "09:36"
     }
    ]
+  },
+  "2026-10-30-r-carrusel-1793366226740": {
+   "tipo": "carrusel",
+   "fecha": "2026-10-30",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "formato": "oferta",
+   "hora": "10:17",
+   "id": "18121263887098316",
+   "enlace": "https://www.instagram.com/p/DfHq1f0G1h8/",
+   "ofertas": [
+    {
+     "id": "1841225",
+     "nombre": "VOLKER Campana Convencional 60 cm Inox",
+     "tienda": "Sodimac",
+     "ahora": 59990,
+     "antes": 109990,
+     "pct": 45,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 87,
+     "visto": "09:36"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1793366194077-c2-1.jpg",
+    "tmp-medios/1793366194077-c2-2.jpg"
+   ],
+   "texto": "🔥 OFERTA NUEVA\nVOLKER Campana Convencional 60 cm Inox\nAhora: $59.990 (-45%)\nReferencia: $109.990\n🏪 Sodimac\n\n✅ Precio visto hoy a las 09:36 en nuestro sistema.\n📉 Es el precio más bajo de los últimos 87 días.\n⏰ Puede cambiar o agotarse sin aviso.\n📲 Enlace directo en Telegram: t.me/ofertixcl\n\n#ofertaschile #hogar #descuentoschile #ofertix #ofertasdeldia"
   }
  },
  "config": {
@@ -3970,7 +3999,7 @@
    "hasta": "2026-10-30T03:02:54.985Z",
    "veces": 1
   },
-  "ultimaPub": "2026-10-30T13:01:13.951Z"
+  "ultimaPub": "2026-10-30T13:17:06.740Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-29",
