@@ -4903,6 +4903,28 @@
     "tmp-medios/1793392249446-r6.mp4"
    ],
    "texto": "🔥 3 ofertas de las más populares\n1. FDV Hervidor de Vidrio Crystal 1.7 Lts KEGS5813-GS FDV: $19.990 (-42%, referencia $34.990) en Lider\n2. NINA RICCI Perfume Mujer Nina Ricci Nina EDT 50ml Nina Ricci: $49.990 (-40%, referencia $83.990) en Falabella · 📉 mínimo de 25 días\n3. RECCO Estufa eléctrica Blanco 1200 W Radiación NSB-99Y Blanco: $12.490 (-58%, referencia $29.990) en Sodimac\n\n⏰ Precios vistos hoy (30/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
+  },
+  "2026-10-30-r-historia-1793393162762": {
+   "tipo": "historia",
+   "fecha": "2026-10-30",
+   "estado": "publicado",
+   "bloque": "populares",
+   "hora": "17:46",
+   "id": "18135078574676661",
+   "ofertas": [
+    {
+     "id": "1530831",
+     "nombre": "Nespresso Cafetera Essenza Mini Negra + Espumador",
+     "tienda": "Lider",
+     "ahora": 99990,
+     "antes": 179990,
+     "pct": 44,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 85,
+     "visto": "16:46"
+    }
+   ]
   }
  },
  "config": {
@@ -4922,7 +4944,7 @@
    "hasta": "2026-10-30T03:02:54.985Z",
    "veces": 1
   },
-  "ultimaPub": "2026-10-30T20:32:16.095Z"
+  "ultimaPub": "2026-10-30T20:46:02.762Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-29",
@@ -4935,6 +4957,7 @@
   "1087642": "2026-10-30T15:16:03.684Z",
   "1137440": "2026-10-30T14:45:57.727Z",
   "1530827": "2026-10-30T18:46:06.752Z",
+  "1530831": "2026-10-30T20:46:02.762Z",
   "1576473": "2026-10-28T23:31:42.299Z",
   "1695609": "2026-10-30T14:16:01.944Z",
   "1784905": "2026-10-30T12:31:40.133Z",
