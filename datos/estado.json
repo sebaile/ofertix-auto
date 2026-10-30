@@ -5090,6 +5090,28 @@
     "tmp-medios/1793395870575-r7.mp4"
    ],
    "texto": "🔥 3 ofertas de las más populares\n1. Nex Aire acondicionado 9000BTU ACP09288-FCWIFI: $149.990 (-50%, referencia $299.990) en Easy\n2. RABANNE Perfume Hombre Black Xs Edt 100Ml Rabanne: $71.990 (-40%, referencia $119.990) en Falabella\n3. RECCO Enfriador de aire 50 W Blanco BL-202DLR-H: $33.990 (-43%, referencia $59.990) en Sodimac\n\n⏰ Precios vistos hoy (30/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
+  },
+  "2026-10-30-r-historia-1793396771816": {
+   "tipo": "historia",
+   "fecha": "2026-10-30",
+   "estado": "publicado",
+   "bloque": "populares",
+   "hora": "18:46",
+   "id": "18013898894987851",
+   "ofertas": [
+    {
+     "id": "2208457",
+     "nombre": "Freidora de Aire Oster CKSTAF75WDSSDF / 7.5 Litros",
+     "tienda": "Hites",
+     "ahora": 79990,
+     "antes": 134990,
+     "pct": 40,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 87,
+     "visto": "17:39"
+    }
+   ]
   }
  },
  "config": {
@@ -5109,7 +5131,7 @@
    "hasta": "2026-10-30T03:02:54.985Z",
    "veces": 1
   },
-  "ultimaPub": "2026-10-30T21:32:34.662Z"
+  "ultimaPub": "2026-10-30T21:46:11.816Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-29",
@@ -5144,6 +5166,7 @@
   "2085077": "2026-10-30T13:46:11.843Z",
   "2103256": "2026-10-30T17:01:22.752Z",
   "2132513": "2026-10-30T19:01:04.808Z",
+  "2208457": "2026-10-30T21:46:11.816Z",
   "2330924": "2026-10-30T20:59:35.830Z",
   "2332098": "2026-10-30T21:16:04.866Z",
   "2368169": "2026-10-30T12:01:29.391Z",
