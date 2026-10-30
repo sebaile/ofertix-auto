@@ -4654,6 +4654,28 @@
     "tmp-medios/1793385070291-r5.mp4"
    ],
    "texto": "🔥 3 ofertas de las más populares\n1. ELECTROLUX Lavadora Carga Superior 16 Kg EMTL16 Electrolux: $249.990 (-40%, referencia $419.990) en Falabella\n2. PRADA Perfume de Prada Infusion de Figue Eau de Parfum 100ml Unisex: $109.790 (-40%, referencia $182.990) en Falabella\n3. SAMSUNG Encimera a Gas 5 Quemadores Gris: $199.990 (-44%, referencia $359.990) en Falabella Marketplace · 📉 mínimo de 80 días\n\n⏰ Precios vistos hoy (30/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
+  },
+  "2026-10-30-r-historia-1793385966752": {
+   "tipo": "historia",
+   "fecha": "2026-10-30",
+   "estado": "publicado",
+   "bloque": "populares",
+   "hora": "15:46",
+   "id": "18109688059946773",
+   "ofertas": [
+    {
+     "id": "1530827",
+     "nombre": "Freidora de Aire Oster CKSTAF401MDF / 4 Litros",
+     "tienda": "Hites",
+     "ahora": 39990,
+     "antes": 67990,
+     "pct": 41,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 87,
+     "visto": "14:43"
+    }
+   ]
   }
  },
  "config": {
@@ -4673,7 +4695,7 @@
    "hasta": "2026-10-30T03:02:54.985Z",
    "veces": 1
   },
-  "ultimaPub": "2026-10-30T18:32:41.743Z"
+  "ultimaPub": "2026-10-30T18:46:06.752Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-29",
@@ -4683,6 +4705,7 @@
   "1063781": "2026-10-29T01:46:06.574Z",
   "1087642": "2026-10-30T15:16:03.684Z",
   "1137440": "2026-10-30T14:45:57.727Z",
+  "1530827": "2026-10-30T18:46:06.752Z",
   "1576473": "2026-10-28T23:31:42.299Z",
   "1695609": "2026-10-30T14:16:01.944Z",
   "1784905": "2026-10-30T12:31:40.133Z",
