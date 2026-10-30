@@ -3659,6 +3659,28 @@
     "tmp-medios/1793358098318-c0-2.jpg"
    ],
    "texto": "🔥 OFERTA NUEVA\n5JJ0614L21 - Adaptador USB wireless Benq 5JJ0614L21 para proyectores\nAhora: $19.990 (-75%)\nReferencia: $79.990\n🏪 Bookcomputer\n\n✅ Precio visto hoy a las 07:36 en nuestro sistema.\n⏰ Puede cambiar o agotarse sin aviso.\n📲 Enlace directo en Telegram: t.me/ofertixcl\n\n#ofertaschile #tecnologia #descuentoschile #ofertix #ofertasdeldia"
+  },
+  "2026-10-30-r-historia-1793358969796": {
+   "tipo": "historia",
+   "fecha": "2026-10-30",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "hora": "08:16",
+   "id": "18129956564486201",
+   "ofertas": [
+    {
+     "id": "2421850",
+     "nombre": "5JJ0614L21 - Adaptador USB wireless Benq 5JJ0614L21 para proyectores",
+     "tienda": "Bookcomputer",
+     "ahora": 19990,
+     "antes": 79990,
+     "pct": 75,
+     "rubro": "tecnologia",
+     "esMinimo": false,
+     "dias": 0,
+     "visto": "07:36"
+    }
+   ]
   }
  },
  "config": {
@@ -3678,7 +3700,7 @@
    "hasta": "2026-10-30T03:02:54.985Z",
    "veces": 1
   },
-  "ultimaPub": "2026-10-30T11:02:11.169Z"
+  "ultimaPub": "2026-10-30T11:16:09.796Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-29",
@@ -3710,6 +3732,7 @@
   "2332098": "2026-10-29T11:47:12.961Z",
   "2368169": "2026-10-29T11:16:09.852Z",
   "2376071": "2026-10-29T11:02:51.628Z",
-  "2382802": "2026-10-29T13:31:29.297Z"
+  "2382802": "2026-10-29T13:31:29.297Z",
+  "2421850": "2026-10-30T11:16:09.796Z"
  }
 }
