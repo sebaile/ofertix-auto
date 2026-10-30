@@ -4720,6 +4720,28 @@
      "visto": "15:36"
     }
    ]
+  },
+  "2026-10-30-r-historia-1793388686169": {
+   "tipo": "historia",
+   "fecha": "2026-10-30",
+   "estado": "publicado",
+   "bloque": "populares",
+   "hora": "16:31",
+   "id": "18178944331453237",
+   "ofertas": [
+    {
+     "id": "825797",
+     "nombre": "GAMA Cepillo Modelador Rotatorio GAMA 2600 ION",
+     "tienda": "Falabella",
+     "ahora": 34990,
+     "antes": 59990,
+     "pct": 41,
+     "rubro": "belleza",
+     "esMinimo": true,
+     "dias": 86,
+     "visto": "15:36"
+    }
+   ]
   }
  },
  "config": {
@@ -4739,12 +4761,13 @@
    "hasta": "2026-10-30T03:02:54.985Z",
    "veces": 1
   },
-  "ultimaPub": "2026-10-30T19:16:02.260Z"
+  "ultimaPub": "2026-10-30T19:31:26.169Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-29",
  "usadasH": {
   "181585": "2026-10-29T02:31:18.220Z",
+  "825797": "2026-10-30T19:31:26.169Z",
   "825801": "2026-10-30T19:16:02.259Z",
   "827375": "2026-10-30T14:02:36.060Z",
   "1063781": "2026-10-29T01:46:06.574Z",
