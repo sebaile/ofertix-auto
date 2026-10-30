@@ -2,12 +2,12 @@
  "offset": 44460906,
  "usadas": {
   "181585": "2026-10-28T11:47:54.768Z",
-  "824715": "2026-10-29T02:17:12.349Z",
+  "824715": "2026-10-30T18:32:41.743Z",
   "825797": "2026-10-30T17:33:27.799Z",
   "825801": "2026-10-30T15:32:54.539Z",
   "827375": "2026-10-30T11:47:44.662Z",
   "829028": "2026-10-28T00:47:54.231Z",
-  "830761": "2026-10-29T13:47:12.862Z",
+  "830761": "2026-10-30T18:32:41.743Z",
   "1063781": "2026-10-29T01:03:10.709Z",
   "1087242": "2026-10-29T02:17:12.349Z",
   "1087642": "2026-10-30T16:31:55.780Z",
@@ -55,7 +55,7 @@
   "2330918": "2026-10-28T11:32:32.870Z",
   "2330924": "2026-10-30T14:33:44.294Z",
   "2330968": "2026-10-29T12:16:56.294Z",
-  "2332098": "2026-10-29T11:46:52.847Z",
+  "2332098": "2026-10-30T18:32:41.743Z",
   "2368169": "2026-10-30T11:47:44.662Z",
   "2376071": "2026-10-30T11:32:20.589Z",
   "2382802": "2026-10-30T12:17:48.845Z",
@@ -80,9 +80,9 @@
   "hamilton beach freidora de aire 2 5 litros fe 35051 cl": "2026-10-30T17:33:27.799Z",
   "volker campana convencional 60 cm inox": "2026-10-30T13:17:06.740Z",
   "thomas chimenea electrica 2000w conveccion th fp100 madera": "2026-10-30T11:47:44.662Z",
-  "prada perfume de prada infusion de figue eau de parfum 100ml unisex": "2026-10-29T13:47:12.862Z",
+  "prada perfume de prada infusion de figue eau de parfum 100ml unisex": "2026-10-30T18:32:41.743Z",
   "nex aire acondicionado 9000btu acp09288 fcwifi": "2026-10-29T13:02:17.664Z",
-  "samsung encimera a gas 5 quemadores gris": "2026-10-29T02:17:12.349Z",
+  "samsung encimera a gas 5 quemadores gris": "2026-10-30T18:32:41.743Z",
   "xiaomi 17 ultra photography kit pro negro": "2026-10-28T22:49:33.602Z",
   "nex ventilador suelo industrial 42 negro": "2026-10-29T12:16:56.294Z",
   "thomas termoventilador electrico 2000 w th fh31 blanco": "2026-10-29T13:02:17.664Z",
@@ -107,7 +107,7 @@
   "marc jacobs marc jacobs perfect intense eau de parfum para mujer 50 ml": "2026-10-29T00:04:41.987Z",
   "midea refrigerador top mount no frost 266 litros mdrt385mte50in midea": "2026-10-28T11:02:24.840Z",
   "electronic arts juego ea sports fc 26 latam ps5 electronic arts": "2026-10-28T11:32:32.870Z",
-  "electrolux lavadora carga superior 16 kg emtl16 electrolux": "2026-10-29T11:46:52.847Z",
+  "electrolux lavadora carga superior 16 kg emtl16 electrolux": "2026-10-30T18:32:41.743Z",
   "jo malone london cologne fig lotus and flower 30 ml jo malone london": "2026-10-29T12:16:56.294Z",
   "cafetera espresso electrolux capsula ecm70": "2026-10-28T11:47:54.768Z",
   "siegen alisador sg 4704 siegen airflow fast style": "2026-10-30T15:32:54.539Z",
@@ -4603,6 +4603,57 @@
      "visto": "14:43"
     }
    ]
+  },
+  "2026-10-30-r-reel-1793385161743": {
+   "tipo": "reel",
+   "fecha": "2026-10-30",
+   "estado": "publicado",
+   "bloque": "populares",
+   "hora": "15:32",
+   "id": "18107766574973471",
+   "enlace": "https://www.instagram.com/reel/DfIO6ehFGqc/",
+   "ofertas": [
+    {
+     "id": "2332098",
+     "nombre": "ELECTROLUX Lavadora Carga Superior 16 Kg EMTL16 Electrolux",
+     "tienda": "Falabella",
+     "ahora": 249990,
+     "antes": 419990,
+     "pct": 40,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 45,
+     "visto": "14:43"
+    },
+    {
+     "id": "830761",
+     "nombre": "PRADA Perfume de Prada Infusion de Figue Eau de Parfum 100ml Unisex",
+     "tienda": "Falabella",
+     "ahora": 109790,
+     "antes": 182990,
+     "pct": 40,
+     "rubro": "perfumes",
+     "esMinimo": false,
+     "dias": 25,
+     "visto": "14:43"
+    },
+    {
+     "id": "824715",
+     "nombre": "SAMSUNG Encimera a Gas 5 Quemadores Gris",
+     "tienda": "Falabella Marketplace",
+     "ahora": 199990,
+     "antes": 359990,
+     "pct": 44,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 80,
+     "visto": "14:43"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1793385070291-r5.mp4"
+   ],
+   "texto": "🔥 3 ofertas de las más populares\n1. ELECTROLUX Lavadora Carga Superior 16 Kg EMTL16 Electrolux: $249.990 (-40%, referencia $419.990) en Falabella\n2. PRADA Perfume de Prada Infusion de Figue Eau de Parfum 100ml Unisex: $109.790 (-40%, referencia $182.990) en Falabella\n3. SAMSUNG Encimera a Gas 5 Quemadores Gris: $199.990 (-44%, referencia $359.990) en Falabella Marketplace · 📉 mínimo de 80 días\n\n⏰ Precios vistos hoy (30/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
   }
  },
  "config": {
@@ -4622,7 +4673,7 @@
    "hasta": "2026-10-30T03:02:54.985Z",
    "veces": 1
   },
-  "ultimaPub": "2026-10-30T18:16:04.225Z"
+  "ultimaPub": "2026-10-30T18:32:41.743Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-29",
