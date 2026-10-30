@@ -8,8 +8,8 @@
   "827375": "2026-10-30T11:47:44.662Z",
   "829028": "2026-10-28T00:47:54.231Z",
   "830761": "2026-10-30T18:32:41.743Z",
-  "1063781": "2026-10-29T01:03:10.709Z",
-  "1087242": "2026-10-29T02:17:12.349Z",
+  "1063781": "2026-10-30T21:02:37.042Z",
+  "1087242": "2026-10-30T21:02:37.042Z",
   "1087642": "2026-10-30T16:31:55.780Z",
   "1110717": "2026-10-30T00:02:31.981Z",
   "1131276": "2026-10-30T11:47:44.662Z",
@@ -48,7 +48,7 @@
   "2086478": "2026-10-30T11:47:44.662Z",
   "2086682": "2026-10-30T18:02:35.079Z",
   "2103253": "2026-10-30T20:32:16.094Z",
-  "2103254": "2026-10-29T13:02:17.664Z",
+  "2103254": "2026-10-30T21:02:37.042Z",
   "2103256": "2026-10-30T15:32:54.539Z",
   "2132513": "2026-10-30T18:02:35.079Z",
   "2330908": "2026-10-28T11:02:24.840Z",
@@ -59,10 +59,11 @@
   "2368169": "2026-10-30T11:47:44.662Z",
   "2376071": "2026-10-30T11:32:20.589Z",
   "2382802": "2026-10-30T12:17:48.845Z",
-  "2421850": "2026-10-30T11:02:11.169Z"
+  "2421850": "2026-10-30T11:02:11.169Z",
+  "2448957": "2026-10-30T21:02:37.042Z"
  },
  "nombres": {
-  "calvin klein calvin klein ck one eau de toilette unisex 50 ml": "2026-10-29T01:03:10.709Z",
+  "calvin klein calvin klein ck one eau de toilette unisex 50 ml": "2026-10-30T21:02:37.042Z",
   "primus mouse inalambrico gladius boba fett": "2026-10-30T16:31:55.780Z",
   "teclado hyperx alloy core rgb 4p4f5ai hx kb5me2 la": "2026-10-30T11:47:44.662Z",
   "ferragamo perfume hombre red men edp 50 ml ferragamo": "2026-10-30T00:02:31.981Z",
@@ -100,9 +101,9 @@
   "moncler perfume moncler pour homme edp 60ml": "2026-10-30T18:02:35.079Z",
   "jimmy choo perfume hombre j choo man extreme 30ml": "2026-10-30T18:02:35.079Z",
   "recco estufa electrica blanco 1200 w radiacion nsb 99y blanco": "2026-10-30T20:32:16.094Z",
-  "recco mini calefactor 600 w oleoelectrica blanco": "2026-10-29T13:02:17.664Z",
+  "recco mini calefactor 600 w oleoelectrica blanco": "2026-10-30T21:02:37.042Z",
   "moncler perfume mujer moncler pour femme edp 100 ml": "2026-10-30T17:33:27.799Z",
-  "antonio banderas perfume edt hombre the icon edt 200 ml banderas": "2026-10-29T02:17:12.349Z",
+  "antonio banderas perfume edt hombre the icon edt 200 ml banderas": "2026-10-30T21:02:37.042Z",
   "nex ventilador suelo industrial 36 negro": "2026-10-28T02:19:22.192Z",
   "marc jacobs marc jacobs perfect intense eau de parfum para mujer 50 ml": "2026-10-29T00:04:41.987Z",
   "midea refrigerador top mount no frost 266 litros mdrt385mte50in midea": "2026-10-28T11:02:24.840Z",
@@ -120,7 +121,8 @@
   "sonos audifono bluetooth over ear ace sonos blanco": "2026-10-30T11:47:44.662Z",
   "tcl aire acondicionado portatil frio calor tcl 12000 btu": "2026-10-30T14:33:44.293Z",
   "freidora de aire oster ckstaf401mdf 4 litros": "2026-10-30T18:02:35.079Z",
-  "nespresso cafetera essenza mini negra espumador": "2026-10-30T18:02:35.079Z"
+  "nespresso cafetera essenza mini negra espumador": "2026-10-30T18:02:35.079Z",
+  "kitchen it cafetera espresso cool shot 5 en 1 kitchen it": "2026-10-30T21:02:37.042Z"
  },
  "items": {
   "2026-10-27-r-carrusel-1793121468075": {
@@ -4947,6 +4949,72 @@
      "visto": "17:39"
     }
    ]
+  },
+  "2026-10-30-r-carrusel-1793394157043": {
+   "tipo": "carrusel",
+   "fecha": "2026-10-30",
+   "estado": "publicado",
+   "bloque": "populares",
+   "formato": "top5",
+   "hora": "18:02",
+   "id": "17933700114417161",
+   "enlace": "https://www.instagram.com/p/DfIgG9AmBaq/",
+   "ofertas": [
+    {
+     "id": "2448957",
+     "nombre": "KITCHEN IT Cafetera Espresso Cool Shot 5 en 1 Kitchen-it",
+     "tienda": "Sodimac",
+     "ahora": 119990,
+     "antes": 209590,
+     "pct": 42,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 84,
+     "visto": "17:39"
+    },
+    {
+     "id": "1063781",
+     "nombre": "CALVIN KLEIN Calvin Klein CK One Eau De Toilette Unisex 50 Ml",
+     "tienda": "Falabella",
+     "ahora": 24990,
+     "antes": 52990,
+     "pct": 52,
+     "rubro": "perfumes",
+     "esMinimo": false,
+     "dias": 24,
+     "visto": "17:39"
+    },
+    {
+     "id": "2103254",
+     "nombre": "RECCO Mini Calefactor 600 W Oleoeléctrica Blanco",
+     "tienda": "Sodimac",
+     "ahora": 15990,
+     "antes": 37990,
+     "pct": 57,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 75,
+     "visto": "17:39"
+    },
+    {
+     "id": "1087242",
+     "nombre": "ANTONIO BANDERAS Perfume EDT Hombre The Icon EDT 200 Ml Banderas",
+     "tienda": "Falabella",
+     "ahora": 22990,
+     "antes": 38990,
+     "pct": 41,
+     "rubro": "perfumes",
+     "esMinimo": false,
+     "dias": 85,
+     "visto": "17:39"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1793394116698-c7-1.jpg",
+    "tmp-medios/1793394116698-c7-2.jpg",
+    "tmp-medios/1793394116698-c7-3.jpg"
+   ],
+   "texto": "🏆 Los más populares\n1. KITCHEN IT Cafetera Espresso Cool Shot 5 en 1 Kitchen-it: $119.990 (-42%) en Sodimac\n2. CALVIN KLEIN Calvin Klein CK One Eau De Toilette Unisex 50 Ml: $24.990 (-52%) en Falabella\n3. RECCO Mini Calefactor 600 W Oleoeléctrica Blanco: $15.990 (-57%) en Sodimac\n4. ANTONIO BANDERAS Perfume EDT Hombre The Icon EDT 200 Ml Banderas: $22.990 (-41%) en Falabella\n\n⏰ Precios vistos hoy (30/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #top5 #descuentoschile #ofertix #ahorrar"
   }
  },
  "config": {
@@ -4966,7 +5034,7 @@
    "hasta": "2026-10-30T03:02:54.985Z",
    "veces": 1
   },
-  "ultimaPub": "2026-10-30T20:59:35.830Z"
+  "ultimaPub": "2026-10-30T21:02:37.043Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-29",
