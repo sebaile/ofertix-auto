@@ -35,7 +35,7 @@
   "2000806": "2026-10-31T11:32:27.834Z",
   "2047193": "2026-10-29T00:04:41.987Z",
   "2047194": "2026-10-30T14:33:44.293Z",
-  "2047234": "2026-10-30T18:02:35.079Z",
+  "2047234": "2026-10-31T19:32:42.391Z",
   "2047249": "2026-10-31T11:32:27.834Z",
   "2048291": "2026-10-30T20:04:05.590Z",
   "2048348": "2026-10-31T19:02:30.717Z",
@@ -44,14 +44,14 @@
   "2084101": "2026-10-31T15:32:32.790Z",
   "2085077": "2026-10-31T15:03:12.717Z",
   "2086478": "2026-10-31T19:02:30.717Z",
-  "2086682": "2026-10-30T18:02:35.079Z",
+  "2086682": "2026-10-31T19:32:42.391Z",
   "2103253": "2026-10-30T20:32:16.094Z",
   "2103254": "2026-10-30T21:02:37.042Z",
   "2103256": "2026-10-30T15:32:54.539Z",
   "2132513": "2026-10-31T19:02:30.717Z",
   "2330924": "2026-10-31T15:32:32.790Z",
   "2330968": "2026-10-29T12:16:56.294Z",
-  "2332098": "2026-10-30T18:32:41.743Z",
+  "2332098": "2026-10-31T19:32:42.391Z",
   "2368169": "2026-10-31T18:32:34.113Z",
   "2376071": "2026-10-31T17:01:54.001Z",
   "2382802": "2026-10-30T12:17:48.845Z",
@@ -90,18 +90,18 @@
   "celular zte nubia music pop art 128gb 4gb azul rojo liberado": "2026-10-31T15:03:12.717Z",
   "caja abierta danada reloj smartwatch lhotse tw58 black n black": "2026-10-31T19:02:30.717Z",
   "clinique fragancia clinique happy perfume spray 100 ml": "2026-10-31T16:32:31.556Z",
-  "ventilador para pc apnx fp2 120 pwm argb color negro": "2026-10-30T18:02:35.079Z",
+  "ventilador para pc apnx fp2 120 pwm argb color negro": "2026-10-31T19:32:42.391Z",
   "recco enfriador de aire 50 w blanco bl 202dlr h": "2026-10-30T21:32:34.662Z",
   "cartier perfume mujer la panthere elixir edp 100 ml cartier": "2026-10-30T20:04:05.590Z",
   "wurden convector conveccion qnq 101f blanco": "2026-10-30T15:32:54.539Z",
-  "moncler perfume moncler pour homme edp 60ml": "2026-10-30T18:02:35.079Z",
+  "moncler perfume moncler pour homme edp 60ml": "2026-10-31T19:32:42.391Z",
   "jimmy choo perfume hombre j choo man extreme 30ml": "2026-10-31T19:02:30.717Z",
   "recco estufa electrica blanco 1200 w radiacion nsb 99y blanco": "2026-10-30T20:32:16.094Z",
   "recco mini calefactor 600 w oleoelectrica blanco": "2026-10-30T21:02:37.042Z",
   "moncler perfume mujer moncler pour femme edp 100 ml": "2026-10-31T19:02:30.717Z",
   "antonio banderas perfume edt hombre the icon edt 200 ml banderas": "2026-10-30T21:02:37.042Z",
   "marc jacobs marc jacobs perfect intense eau de parfum para mujer 50 ml": "2026-10-29T00:04:41.987Z",
-  "electrolux lavadora carga superior 16 kg emtl16 electrolux": "2026-10-30T18:32:41.743Z",
+  "electrolux lavadora carga superior 16 kg emtl16 electrolux": "2026-10-31T19:32:42.391Z",
   "jo malone london cologne fig lotus and flower 30 ml jo malone london": "2026-10-29T12:16:56.294Z",
   "siegen alisador sg 4704 siegen airflow fast style": "2026-10-31T16:32:31.556Z",
   "viktor rolf perfume mujer flowerbomb edp 100ml viktor rolf": "2026-10-31T18:32:34.114Z",
@@ -4893,6 +4893,57 @@
      "visto": "16:01"
     }
    ]
+  },
+  "2026-10-31-r-reel-1793475162391": {
+   "tipo": "reel",
+   "fecha": "2026-10-31",
+   "estado": "publicado",
+   "bloque": "populares",
+   "hora": "16:32",
+   "id": "18647778262040232",
+   "enlace": "https://www.instagram.com/reel/DfK6k8zjGWf/",
+   "ofertas": [
+    {
+     "id": "2047234",
+     "nombre": "MONCLER Perfume Moncler Pour Homme EDP 60ML",
+     "tienda": "Falabella",
+     "ahora": 59990,
+     "antes": 99990,
+     "pct": 40,
+     "rubro": "perfumes",
+     "esMinimo": true,
+     "dias": 88,
+     "visto": "16:01"
+    },
+    {
+     "id": "2332098",
+     "nombre": "ELECTROLUX Lavadora Carga Superior 16 Kg EMTL16 Electrolux",
+     "tienda": "Falabella",
+     "ahora": 249990,
+     "antes": 419990,
+     "pct": 40,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 47,
+     "visto": "16:01"
+    },
+    {
+     "id": "2086682",
+     "nombre": "Ventilador para PC APNX FP2-120 PWM ARGB, Color Negro",
+     "tienda": "SP Digital",
+     "ahora": 15670,
+     "antes": 31340,
+     "pct": 50,
+     "rubro": "gamer",
+     "esMinimo": false,
+     "dias": 9,
+     "visto": "16:01"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1793475062126-r4.mp4"
+   ],
+   "texto": "🔥 3 ofertas de las más populares\n1. MONCLER Perfume Moncler Pour Homme EDP 60ML: $59.990 (-40%, referencia $99.990) en Falabella · 📉 mínimo de 88 días\n2. ELECTROLUX Lavadora Carga Superior 16 Kg EMTL16 Electrolux: $249.990 (-40%, referencia $419.990) en Falabella\n3. Ventilador para PC APNX FP2-120 PWM ARGB, Color Negro: $15.670 (-50%, referencia $31.340) en SP Digital\n\n⏰ Precios vistos hoy (31/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
   }
  },
  "config": {
@@ -4912,7 +4963,7 @@
    "hasta": "2026-10-31T14:46:50.092Z",
    "veces": 1
   },
-  "ultimaPub": "2026-10-31T19:16:06.866Z"
+  "ultimaPub": "2026-10-31T19:32:42.391Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-30",
