@@ -59,7 +59,8 @@
   "2376071": "2026-10-30T11:32:20.589Z",
   "2382802": "2026-10-30T12:17:48.845Z",
   "2421850": "2026-10-30T11:02:11.169Z",
-  "2448957": "2026-10-30T21:02:37.042Z"
+  "2448957": "2026-10-30T21:02:37.042Z",
+  "2465575": "2026-10-31T11:02:16.482Z"
  },
  "nombres": {
   "calvin klein calvin klein ck one eau de toilette unisex 50 ml": "2026-10-30T21:02:37.042Z",
@@ -120,7 +121,8 @@
   "freidora de aire oster ckstaf401mdf 4 litros": "2026-10-30T18:02:35.079Z",
   "nespresso cafetera essenza mini negra espumador": "2026-10-30T18:02:35.079Z",
   "kitchen it cafetera espresso cool shot 5 en 1 kitchen it": "2026-10-30T21:02:37.042Z",
-  "rabanne perfume hombre black xs edt 100ml rabanne": "2026-10-30T21:32:34.662Z"
+  "rabanne perfume hombre black xs edt 100ml rabanne": "2026-10-30T21:32:34.662Z",
+  "smartwatch samsung galaxy watch 5 pro 45 mm semi nuevo": "2026-10-31T11:02:16.482Z"
  },
  "items": {
   "2026-10-28-r-carrusel-1793185344840": {
@@ -4144,6 +4146,35 @@
      "visto": "18:48"
     }
    ]
+  },
+  "2026-10-31-r-carrusel-1793444536483": {
+   "tipo": "carrusel",
+   "fecha": "2026-10-31",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "formato": "oferta",
+   "hora": "08:02",
+   "id": "17967003866984479",
+   "enlace": "https://www.instagram.com/p/DfKAM0NFfOC/",
+   "ofertas": [
+    {
+     "id": "2465575",
+     "nombre": "Smartwatch Samsung Galaxy Watch 5 Pro | 45 mm | (Semi Nuevo)",
+     "tienda": "TecTec",
+     "ahora": 103990,
+     "antes": 197590,
+     "pct": 47,
+     "rubro": "otros",
+     "esMinimo": false,
+     "dias": 0,
+     "visto": "06:56"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1793444504709-c0-1.jpg",
+    "tmp-medios/1793444504709-c0-2.jpg"
+   ],
+   "texto": "🔥 OFERTA NUEVA\nSmartwatch Samsung Galaxy Watch 5 Pro | 45 mm | (Semi Nuevo)\nAhora: $103.990 (-47%)\nReferencia: $197.590\n🏪 TecTec\n\n✅ Precio visto hoy a las 06:56 en nuestro sistema.\n⏰ Puede cambiar o agotarse sin aviso.\n📲 Enlace directo en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia"
   }
  },
  "config": {
@@ -4163,7 +4194,7 @@
    "hasta": "2026-10-31T04:31:29.274Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-30T22:16:15.433Z"
+  "ultimaPub": "2026-10-31T11:02:16.483Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-30",
