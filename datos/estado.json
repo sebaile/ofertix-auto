@@ -30,7 +30,7 @@
   "1841233": "2026-10-30T12:17:48.845Z",
   "1841315": "2026-10-29T00:49:25.527Z",
   "1841316": "2026-10-29T01:34:07.125Z",
-  "1848566": "2026-10-30T11:47:44.662Z",
+  "1848566": "2026-10-31T15:32:32.790Z",
   "1896728": "2026-10-30T21:32:34.662Z",
   "2000806": "2026-10-31T11:32:27.834Z",
   "2047193": "2026-10-29T00:04:41.987Z",
@@ -41,7 +41,7 @@
   "2048348": "2026-10-30T17:33:27.799Z",
   "2066558": "2026-10-30T21:32:34.662Z",
   "2084002": "2026-10-30T15:32:54.538Z",
-  "2084101": "2026-10-30T14:33:44.294Z",
+  "2084101": "2026-10-31T15:32:32.790Z",
   "2085077": "2026-10-31T15:03:12.717Z",
   "2086478": "2026-10-30T11:47:44.662Z",
   "2086682": "2026-10-30T18:02:35.079Z",
@@ -49,7 +49,7 @@
   "2103254": "2026-10-30T21:02:37.042Z",
   "2103256": "2026-10-30T15:32:54.539Z",
   "2132513": "2026-10-30T18:02:35.079Z",
-  "2330924": "2026-10-30T14:33:44.294Z",
+  "2330924": "2026-10-31T15:32:32.790Z",
   "2330968": "2026-10-29T12:16:56.294Z",
   "2332098": "2026-10-30T18:32:41.743Z",
   "2368169": "2026-10-30T11:47:44.662Z",
@@ -76,7 +76,7 @@
   "hamilton beach batidora de pedestal 3 7 l 290 kw negro 64650 cl": "2026-10-29T01:34:07.125Z",
   "hamilton beach freidora de aire 2 5 litros fe 35051 cl": "2026-10-30T17:33:27.799Z",
   "volker campana convencional 60 cm inox": "2026-10-30T13:17:06.740Z",
-  "thomas chimenea electrica 2000w conveccion th fp100 madera": "2026-10-30T11:47:44.662Z",
+  "thomas chimenea electrica 2000w conveccion th fp100 madera": "2026-10-31T15:32:32.790Z",
   "prada perfume de prada infusion de figue eau de parfum 100ml unisex": "2026-10-30T18:32:41.743Z",
   "nex aire acondicionado 9000btu acp09288 fcwifi": "2026-10-30T21:32:34.662Z",
   "samsung encimera a gas 5 quemadores gris": "2026-10-30T18:32:41.743Z",
@@ -86,7 +86,7 @@
   "kate spade kate spade cherie je taime edp 100ml": "2026-10-31T11:32:27.834Z",
   "toyotomi horno electrico empotrado 56 litros he9silver": "2026-10-31T11:32:27.834Z",
   "tcl aire acondicionado portatil frio tcl 9000 btu": "2026-10-29T00:04:41.987Z",
-  "clinique fragancia clinique happy for men 100ml": "2026-10-30T14:33:44.294Z",
+  "clinique fragancia clinique happy for men 100ml": "2026-10-31T15:32:32.790Z",
   "celular zte nubia music pop art 128gb 4gb azul rojo liberado": "2026-10-31T15:03:12.717Z",
   "caja abierta danada reloj smartwatch lhotse tw58 black n black": "2026-10-30T11:47:44.662Z",
   "clinique fragancia clinique happy perfume spray 100 ml": "2026-10-30T15:32:54.539Z",
@@ -106,7 +106,7 @@
   "siegen alisador sg 4704 siegen airflow fast style": "2026-10-30T15:32:54.539Z",
   "viktor rolf perfume mujer flowerbomb edp 100ml viktor rolf": "2026-10-30T11:47:44.662Z",
   "audifonos jbl tune 500": "2026-10-30T11:32:20.589Z",
-  "electronic arts juego ea sports fc 26 latam ns2 electronic arts": "2026-10-30T14:33:44.294Z",
+  "electronic arts juego ea sports fc 26 latam ns2 electronic arts": "2026-10-31T15:32:32.790Z",
   "tom ford soleil neige edp unisex 100ml 3 4floz tom ford": "2026-10-30T12:17:48.845Z",
   "gama cepillo modelador rotatorio gama 2600 ion": "2026-10-30T17:33:27.799Z",
   "5jj0614l21 adaptador usb wireless benq 5jj0614l21 para proyectores": "2026-10-31T11:32:27.834Z",
@@ -4362,6 +4362,57 @@
      "visto": "11:57"
     }
    ]
+  },
+  "2026-10-31-r-reel-1793460752790": {
+   "tipo": "reel",
+   "fecha": "2026-10-31",
+   "estado": "publicado",
+   "bloque": "comparativas",
+   "hora": "12:32",
+   "id": "18454936249134282",
+   "enlace": "https://www.instagram.com/reel/DfKfFc3iKqm/",
+   "ofertas": [
+    {
+     "id": "1848566",
+     "nombre": "THOMAS Chimenea Eléctrica 2000W Convección TH-FP100 Madera",
+     "tienda": "Sodimac",
+     "ahora": 152990,
+     "antes": 379990,
+     "pct": 59,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 87,
+     "visto": "11:57"
+    },
+    {
+     "id": "2084101",
+     "nombre": "CLINIQUE Fragancia Clinique Happy for Men 100ml",
+     "tienda": "Falabella",
+     "ahora": 34990,
+     "antes": 98900,
+     "pct": 64,
+     "rubro": "perfumes",
+     "esMinimo": false,
+     "dias": 60,
+     "visto": "11:57"
+    },
+    {
+     "id": "2330924",
+     "nombre": "ELECTRONIC ARTS Juego Ea Sports Fc 26 Latam Ns2 Electronic Arts",
+     "tienda": "Falabella",
+     "ahora": 19990,
+     "antes": 47990,
+     "pct": 58,
+     "rubro": "gamer",
+     "esMinimo": false,
+     "dias": 78,
+     "visto": "11:57"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1793460661975-r1.mp4"
+   ],
+   "texto": "🔥 3 ofertas en comparativa: mismo tipo de producto\n1. THOMAS Chimenea Eléctrica 2000W Convección TH-FP100 Madera: $152.990 (-59%, referencia $379.990) en Sodimac · 📉 mínimo de 87 días\n2. CLINIQUE Fragancia Clinique Happy for Men 100ml: $34.990 (-64%, referencia $98.900) en Falabella\n3. ELECTRONIC ARTS Juego Ea Sports Fc 26 Latam Ns2 Electronic Arts: $19.990 (-58%, referencia $47.990) en Falabella\n\n⏰ Precios vistos hoy (31/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
   }
  },
  "config": {
@@ -4381,7 +4432,7 @@
    "hasta": "2026-10-31T14:46:50.092Z",
    "veces": 1
   },
-  "ultimaPub": "2026-10-31T15:16:01.048Z"
+  "ultimaPub": "2026-10-31T15:32:32.790Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-30",
