@@ -18,8 +18,8 @@
   "1576473": "2026-10-28T22:49:33.602Z",
   "1592754": "2026-10-29T12:16:56.294Z",
   "1673324": "2026-10-30T21:32:34.662Z",
-  "1673333": "2026-10-30T20:32:16.094Z",
-  "1673340": "2026-10-30T20:04:05.590Z",
+  "1673333": "2026-10-31T22:03:06.029Z",
+  "1673340": "2026-10-31T22:03:06.029Z",
   "1695609": "2026-10-31T15:03:12.717Z",
   "1701548": "2026-10-31T21:32:15.641Z",
   "1780881": "2026-10-29T00:04:41.987Z",
@@ -45,9 +45,9 @@
   "2085077": "2026-10-31T15:03:12.717Z",
   "2086478": "2026-10-31T19:02:30.717Z",
   "2086682": "2026-10-31T19:32:42.391Z",
-  "2103253": "2026-10-30T20:32:16.094Z",
+  "2103253": "2026-10-31T22:03:06.029Z",
   "2103254": "2026-10-30T21:02:37.042Z",
-  "2103256": "2026-10-30T15:32:54.539Z",
+  "2103256": "2026-10-31T22:03:06.029Z",
   "2132513": "2026-10-31T19:02:30.717Z",
   "2330924": "2026-10-31T15:32:32.790Z",
   "2330968": "2026-10-29T12:16:56.294Z",
@@ -65,8 +65,8 @@
   "teclado hyperx alloy core rgb 4p4f5ai hx kb5me2 la": "2026-10-31T19:02:30.717Z",
   "ferragamo perfume hombre red men edp 50 ml ferragamo": "2026-10-31T20:02:38.596Z",
   "fdv hervidor de vidrio crystal 1 7 lts kegs5813 gs fdv": "2026-10-30T20:32:16.094Z",
-  "carolina herrera perfume hombre bad boy edt 50ml carolina herrera": "2026-10-30T20:04:05.590Z",
-  "nina ricci perfume mujer nina ricci nina edt 50ml nina ricci": "2026-10-30T20:32:16.094Z",
+  "carolina herrera perfume hombre bad boy edt 50ml carolina herrera": "2026-10-31T22:03:06.029Z",
+  "nina ricci perfume mujer nina ricci nina edt 50ml nina ricci": "2026-10-31T22:03:06.029Z",
   "mikrotik mantbox 52 15s with routeros l4 license": "2026-10-31T15:03:12.717Z",
   "samsung audifonos in ear sm r400nzaalta bluetooth v5 2 gray": "2026-10-31T16:02:19.833Z",
   "parlante portatil aiwa aw a521 90w bluetooth negro": "2026-10-31T15:03:12.717Z",
@@ -93,10 +93,10 @@
   "ventilador para pc apnx fp2 120 pwm argb color negro": "2026-10-31T19:32:42.391Z",
   "recco enfriador de aire 50 w blanco bl 202dlr h": "2026-10-30T21:32:34.662Z",
   "cartier perfume mujer la panthere elixir edp 100 ml cartier": "2026-10-30T20:04:05.590Z",
-  "wurden convector conveccion qnq 101f blanco": "2026-10-30T15:32:54.539Z",
+  "wurden convector conveccion qnq 101f blanco": "2026-10-31T22:03:06.029Z",
   "moncler perfume moncler pour homme edp 60ml": "2026-10-31T19:32:42.391Z",
   "jimmy choo perfume hombre j choo man extreme 30ml": "2026-10-31T19:02:30.717Z",
-  "recco estufa electrica blanco 1200 w radiacion nsb 99y blanco": "2026-10-30T20:32:16.094Z",
+  "recco estufa electrica blanco 1200 w radiacion nsb 99y blanco": "2026-10-31T22:03:06.029Z",
   "recco mini calefactor 600 w oleoelectrica blanco": "2026-10-30T21:02:37.042Z",
   "moncler perfume mujer moncler pour femme edp 100 ml": "2026-10-31T19:02:30.717Z",
   "antonio banderas perfume edt hombre the icon edt 200 ml banderas": "2026-10-30T21:02:37.042Z",
@@ -5237,6 +5237,72 @@
      "visto": "18:04"
     }
    ]
+  },
+  "2026-10-31-r-carrusel-1793484186029": {
+   "tipo": "carrusel",
+   "fecha": "2026-10-31",
+   "estado": "publicado",
+   "bloque": "recopilaciones",
+   "formato": "top5",
+   "hora": "19:03",
+   "id": "18059399606797378",
+   "enlace": "https://www.instagram.com/p/DfLL09BFnOt/",
+   "ofertas": [
+    {
+     "id": "2103256",
+     "nombre": "WURDEN Convector Convección QNQ-101F Blanco",
+     "tienda": "Sodimac",
+     "ahora": 44990,
+     "antes": 89990,
+     "pct": 50,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 86,
+     "visto": "18:04"
+    },
+    {
+     "id": "1673340",
+     "nombre": "CAROLINA HERRERA Perfume Hombre Bad Boy Edt 50Ml Carolina Herrera",
+     "tienda": "Falabella",
+     "ahora": 56990,
+     "antes": 94990,
+     "pct": 40,
+     "rubro": "perfumes",
+     "esMinimo": true,
+     "dias": 23,
+     "visto": "18:04"
+    },
+    {
+     "id": "2103253",
+     "nombre": "RECCO Estufa eléctrica Blanco 1200 W Radiación NSB-99Y Blanco",
+     "tienda": "Sodimac",
+     "ahora": 12490,
+     "antes": 29990,
+     "pct": 58,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 66,
+     "visto": "18:04"
+    },
+    {
+     "id": "1673333",
+     "nombre": "NINA RICCI Perfume Mujer Nina Ricci Nina EDT 50ml Nina Ricci",
+     "tienda": "Falabella",
+     "ahora": 49990,
+     "antes": 83990,
+     "pct": 40,
+     "rubro": "perfumes",
+     "esMinimo": true,
+     "dias": 26,
+     "visto": "18:04"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1793484151608-c6-1.jpg",
+    "tmp-medios/1793484151608-c6-2.jpg",
+    "tmp-medios/1793484151608-c6-3.jpg"
+   ],
+   "texto": "🏆 Recopilación del día\n1. WURDEN Convector Convección QNQ-101F Blanco: $44.990 (-50%) en Sodimac · 📉 mínimo de 86 días\n2. CAROLINA HERRERA Perfume Hombre Bad Boy Edt 50Ml Carolina Herrera: $56.990 (-40%) en Falabella · 📉 mínimo de 23 días\n3. RECCO Estufa eléctrica Blanco 1200 W Radiación NSB-99Y Blanco: $12.490 (-58%) en Sodimac\n4. NINA RICCI Perfume Mujer Nina Ricci Nina EDT 50ml Nina Ricci: $49.990 (-40%) en Falabella · 📉 mínimo de 26 días\n\n⏰ Precios vistos hoy (31/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #top5 #descuentoschile #ofertix #ahorrar"
   }
  },
  "config": {
@@ -5256,7 +5322,7 @@
    "hasta": "2026-10-31T14:46:50.092Z",
    "veces": 1
   },
-  "ultimaPub": "2026-10-31T21:46:10.135Z"
+  "ultimaPub": "2026-10-31T22:03:06.030Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-30",
