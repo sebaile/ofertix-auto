@@ -33,11 +33,11 @@
   "1841316": "2026-10-29T01:34:07.125Z",
   "1848566": "2026-10-30T11:47:44.662Z",
   "1896728": "2026-10-30T21:32:34.662Z",
-  "2000806": "2026-10-30T00:02:31.981Z",
+  "2000806": "2026-10-31T11:32:27.834Z",
   "2047193": "2026-10-29T00:04:41.987Z",
   "2047194": "2026-10-30T14:33:44.293Z",
   "2047234": "2026-10-30T18:02:35.079Z",
-  "2047249": "2026-10-30T00:02:31.981Z",
+  "2047249": "2026-10-31T11:32:27.834Z",
   "2048291": "2026-10-30T20:04:05.590Z",
   "2048348": "2026-10-30T17:33:27.799Z",
   "2066558": "2026-10-30T21:32:34.662Z",
@@ -57,7 +57,7 @@
   "2368169": "2026-10-30T11:47:44.662Z",
   "2376071": "2026-10-30T11:32:20.589Z",
   "2382802": "2026-10-30T12:17:48.845Z",
-  "2421850": "2026-10-30T11:02:11.169Z",
+  "2421850": "2026-10-31T11:32:27.834Z",
   "2448957": "2026-10-30T21:02:37.042Z",
   "2465575": "2026-10-31T11:02:16.482Z"
  },
@@ -85,8 +85,8 @@
   "xiaomi 17 ultra photography kit pro negro": "2026-10-28T22:49:33.602Z",
   "nex ventilador suelo industrial 42 negro": "2026-10-29T12:16:56.294Z",
   "thomas termoventilador electrico 2000 w th fh31 blanco": "2026-10-30T20:04:05.590Z",
-  "kate spade kate spade cherie je taime edp 100ml": "2026-10-30T00:02:31.981Z",
-  "toyotomi horno electrico empotrado 56 litros he9silver": "2026-10-30T00:02:31.981Z",
+  "kate spade kate spade cherie je taime edp 100ml": "2026-10-31T11:32:27.834Z",
+  "toyotomi horno electrico empotrado 56 litros he9silver": "2026-10-31T11:32:27.834Z",
   "tcl aire acondicionado portatil frio tcl 9000 btu": "2026-10-29T00:04:41.987Z",
   "clinique fragancia clinique happy for men 100ml": "2026-10-30T14:33:44.294Z",
   "celular zte nubia music pop art 128gb 4gb azul rojo liberado": "2026-10-30T11:32:20.589Z",
@@ -113,7 +113,7 @@
   "electronic arts juego ea sports fc 26 latam ns2 electronic arts": "2026-10-30T14:33:44.294Z",
   "tom ford soleil neige edp unisex 100ml 3 4floz tom ford": "2026-10-30T12:17:48.845Z",
   "gama cepillo modelador rotatorio gama 2600 ion": "2026-10-30T17:33:27.799Z",
-  "5jj0614l21 adaptador usb wireless benq 5jj0614l21 para proyectores": "2026-10-30T11:02:11.169Z",
+  "5jj0614l21 adaptador usb wireless benq 5jj0614l21 para proyectores": "2026-10-31T11:32:27.834Z",
   "sonos audifono bluetooth over ear ace sonos blanco": "2026-10-30T11:47:44.662Z",
   "tcl aire acondicionado portatil frio calor tcl 12000 btu": "2026-10-30T14:33:44.293Z",
   "freidora de aire oster ckstaf401mdf 4 litros": "2026-10-30T18:02:35.079Z",
@@ -4217,6 +4217,57 @@
      "visto": "07:59"
     }
    ]
+  },
+  "2026-10-31-r-reel-1793446347835": {
+   "tipo": "reel",
+   "fecha": "2026-10-31",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "hora": "08:32",
+   "id": "18118293689468388",
+   "enlace": "https://www.instagram.com/reel/DfKDn3yEhyG/",
+   "ofertas": [
+    {
+     "id": "2421850",
+     "nombre": "5JJ0614L21 - Adaptador USB wireless Benq 5JJ0614L21 para proyectores",
+     "tienda": "Bookcomputer",
+     "ahora": 19990,
+     "antes": 79990,
+     "pct": 75,
+     "rubro": "tecnologia",
+     "esMinimo": false,
+     "dias": 1,
+     "visto": "07:59"
+    },
+    {
+     "id": "2047249",
+     "nombre": "KATE SPADE Kate Spade Cherie Je Taime Edp 100Ml",
+     "tienda": "Falabella",
+     "ahora": 49990,
+     "antes": 99990,
+     "pct": 50,
+     "rubro": "perfumes",
+     "esMinimo": true,
+     "dias": 26,
+     "visto": "07:59"
+    },
+    {
+     "id": "2000806",
+     "nombre": "TOYOTOMI Horno Eléctrico Empotrado 56 Litros HE9SILVER",
+     "tienda": "Sodimac",
+     "ahora": 249990,
+     "antes": 449990,
+     "pct": 44,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 50,
+     "visto": "07:59"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1793446270613-r0.mp4"
+   ],
+   "texto": "🔥 3 ofertas de tecnología\n1. 5JJ0614L21 - Adaptador USB wireless Benq 5JJ0614L21 para proyectores: $19.990 (-75%, referencia $79.990) en Bookcomputer\n2. KATE SPADE Kate Spade Cherie Je Taime Edp 100Ml: $49.990 (-50%, referencia $99.990) en Falabella · 📉 mínimo de 26 días\n3. TOYOTOMI Horno Eléctrico Empotrado 56 Litros HE9SILVER: $249.990 (-44%, referencia $449.990) en Sodimac · 📉 mínimo de 50 días\n\n⏰ Precios vistos hoy (31/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
   }
  },
  "config": {
@@ -4236,7 +4287,7 @@
    "hasta": "2026-10-31T04:31:29.274Z",
    "veces": 2
   },
-  "ultimaPub": "2026-10-31T11:16:19.270Z"
+  "ultimaPub": "2026-10-31T11:32:27.835Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-30",
