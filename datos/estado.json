@@ -20,10 +20,10 @@
   "1673324": "2026-10-30T21:32:34.662Z",
   "1673333": "2026-10-30T20:32:16.094Z",
   "1673340": "2026-10-30T20:04:05.590Z",
-  "1695609": "2026-10-30T12:17:48.845Z",
+  "1695609": "2026-10-31T15:03:12.717Z",
   "1701548": "2026-10-30T20:04:05.589Z",
   "1780881": "2026-10-29T00:04:41.987Z",
-  "1784905": "2026-10-30T11:32:20.589Z",
+  "1784905": "2026-10-31T15:03:12.717Z",
   "1827803": "2026-10-30T20:04:05.590Z",
   "1840943": "2026-10-30T17:33:27.799Z",
   "1841225": "2026-10-30T13:17:06.740Z",
@@ -42,7 +42,7 @@
   "2066558": "2026-10-30T21:32:34.662Z",
   "2084002": "2026-10-30T15:32:54.538Z",
   "2084101": "2026-10-30T14:33:44.294Z",
-  "2085077": "2026-10-30T11:32:20.589Z",
+  "2085077": "2026-10-31T15:03:12.717Z",
   "2086478": "2026-10-30T11:47:44.662Z",
   "2086682": "2026-10-30T18:02:35.079Z",
   "2103253": "2026-10-30T20:32:16.094Z",
@@ -67,9 +67,9 @@
   "fdv hervidor de vidrio crystal 1 7 lts kegs5813 gs fdv": "2026-10-30T20:32:16.094Z",
   "carolina herrera perfume hombre bad boy edt 50ml carolina herrera": "2026-10-30T20:04:05.590Z",
   "nina ricci perfume mujer nina ricci nina edt 50ml nina ricci": "2026-10-30T20:32:16.094Z",
-  "mikrotik mantbox 52 15s with routeros l4 license": "2026-10-30T12:17:48.845Z",
+  "mikrotik mantbox 52 15s with routeros l4 license": "2026-10-31T15:03:12.717Z",
   "samsung audifonos in ear sm r400nzaalta bluetooth v5 2 gray": "2026-10-30T15:02:27.832Z",
-  "parlante portatil aiwa aw a521 90w bluetooth negro": "2026-10-30T11:32:20.589Z",
+  "parlante portatil aiwa aw a521 90w bluetooth negro": "2026-10-31T15:03:12.717Z",
   "licuadora easyways licuadora crush n roll 1 5 l": "2026-10-30T20:04:05.590Z",
   "hamilton beach microondas digital 23 litros inox hb p90d23el lxa": "2026-10-30T12:17:48.845Z",
   "hamilton beach batidora de mano 290 w multicolor bp 62650 cl": "2026-10-29T00:49:25.527Z",
@@ -87,7 +87,7 @@
   "toyotomi horno electrico empotrado 56 litros he9silver": "2026-10-31T11:32:27.834Z",
   "tcl aire acondicionado portatil frio tcl 9000 btu": "2026-10-29T00:04:41.987Z",
   "clinique fragancia clinique happy for men 100ml": "2026-10-30T14:33:44.294Z",
-  "celular zte nubia music pop art 128gb 4gb azul rojo liberado": "2026-10-30T11:32:20.589Z",
+  "celular zte nubia music pop art 128gb 4gb azul rojo liberado": "2026-10-31T15:03:12.717Z",
   "caja abierta danada reloj smartwatch lhotse tw58 black n black": "2026-10-30T11:47:44.662Z",
   "clinique fragancia clinique happy perfume spray 100 ml": "2026-10-30T15:32:54.539Z",
   "ventilador para pc apnx fp2 120 pwm argb color negro": "2026-10-30T18:02:35.079Z",
@@ -4286,6 +4286,60 @@
      "visto": "07:59"
     }
    ]
+  },
+  "2026-10-31-r-carrusel-1793458992717": {
+   "tipo": "carrusel",
+   "fecha": "2026-10-31",
+   "estado": "publicado",
+   "bloque": "comparativas",
+   "formato": "comp",
+   "hora": "12:03",
+   "id": "18117278912005807",
+   "enlace": "https://www.instagram.com/p/DfKbyJOldia/",
+   "ofertas": [
+    {
+     "id": "1784905",
+     "nombre": "Parlante Portátil Aiwa AW-A521 90W Bluetooth Negro",
+     "tienda": "ABC",
+     "ahora": 69990,
+     "antes": 149990,
+     "pct": 53,
+     "rubro": "tecnologia",
+     "esMinimo": true,
+     "dias": 31,
+     "visto": "11:05"
+    },
+    {
+     "id": "2085077",
+     "nombre": "Celular ZTE nubia Music Pop Art 128GB/4GB Azul/Rojo Liberado",
+     "tienda": "PC Factory",
+     "ahora": 92790,
+     "antes": 180290,
+     "pct": 48,
+     "rubro": "tecnologia",
+     "esMinimo": true,
+     "dias": 17,
+     "visto": "11:05"
+    },
+    {
+     "id": "1695609",
+     "nombre": "MIKROTIK mANTBox 52 15s with RouterOS L4 license",
+     "tienda": "Tecnomas.cl",
+     "ahora": 132990,
+     "antes": 223990,
+     "pct": 40,
+     "rubro": "tecnologia",
+     "esMinimo": true,
+     "dias": 70,
+     "visto": "11:05"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1793458956469-c1-1.jpg",
+    "tmp-medios/1793458956469-c1-2.jpg",
+    "tmp-medios/1793458956469-c1-3.jpg"
+   ],
+   "texto": "🏆 Comparativa: 3 opciones en tecnología\n1. Parlante Portátil Aiwa AW-A521 90W Bluetooth Negro: $69.990 (-53%) en ABC · 📉 mínimo de 31 días\n2. Celular ZTE nubia Music Pop Art 128GB/4GB Azul/Rojo Liberado: $92.790 (-48%) en PC Factory · 📉 mínimo de 17 días\n3. MIKROTIK mANTBox 52 15s with RouterOS L4 license: $132.990 (-40%) en Tecnomas.cl · 📉 mínimo de 70 días\n\n⏰ Precios vistos hoy (31/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #tecnologia #top5 #descuentoschile #ofertix #ahorrar"
   }
  },
  "config": {
@@ -4305,7 +4359,7 @@
    "hasta": "2026-10-31T14:46:50.092Z",
    "veces": 1
   },
-  "ultimaPub": "2026-10-31T11:32:49.303Z"
+  "ultimaPub": "2026-10-31T15:03:12.717Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-30",
