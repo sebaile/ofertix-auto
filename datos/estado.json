@@ -4559,6 +4559,28 @@
     "tmp-medios/1793464259520-r2.mp4"
    ],
    "texto": "🔥 3 ofertas en comparativa: mismo tipo de producto\n1. HAMILTON BEACH Microondas Digital 23 Litros Inox HB-P90D23EL-LXA: $44.990 (-55%, referencia $99.990) en Sodimac · 📉 mínimo de 50 días\n2. CLINIQUE Fragancia Clinique Happy Perfume Spray 100 ml: $39.990 (-63%, referencia $109.900) en Falabella\n3. SIEGEN Alisador SG-4704 Siegen Airflow + Fast Style: $45.990 (-42%, referencia $79.990) en Falabella · 📉 mínimo de 65 días\n\n⏰ Precios vistos hoy (31/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
+  },
+  "2026-10-31-r-historia-1793465163044": {
+   "tipo": "historia",
+   "fecha": "2026-10-31",
+   "estado": "publicado",
+   "bloque": "comparativas",
+   "hora": "13:46",
+   "id": "18119112851598950",
+   "ofertas": [
+    {
+     "id": "1841233",
+     "nombre": "HAMILTON BEACH Microondas Digital 23 Litros Inox HB-P90D23EL-LXA",
+     "tienda": "Sodimac",
+     "ahora": 44990,
+     "antes": 99990,
+     "pct": 55,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 50,
+     "visto": "13:06"
+    }
+   ]
   }
  },
  "config": {
@@ -4578,7 +4600,7 @@
    "hasta": "2026-10-31T14:46:50.092Z",
    "veces": 1
   },
-  "ultimaPub": "2026-10-31T16:32:31.557Z"
+  "ultimaPub": "2026-10-31T16:46:03.045Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-30",
@@ -4595,7 +4617,7 @@
   "1784905": "2026-10-31T11:32:49.302Z",
   "1840943": "2026-10-30T17:16:04.048Z",
   "1841225": "2026-10-30T22:01:32.381Z",
-  "1841233": "2026-10-30T15:46:06.648Z",
+  "1841233": "2026-10-31T16:46:03.044Z",
   "1848566": "2026-10-31T11:16:19.269Z",
   "2000806": "2026-10-30T18:16:04.224Z",
   "2047194": "2026-10-30T16:16:11.939Z",
