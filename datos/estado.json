@@ -2,7 +2,7 @@
  "offset": 44460906,
  "usadas": {
   "824715": "2026-10-30T18:32:41.743Z",
-  "825797": "2026-10-30T17:33:27.799Z",
+  "825797": "2026-10-31T18:32:34.114Z",
   "825801": "2026-10-31T16:32:31.556Z",
   "827375": "2026-10-30T11:47:44.662Z",
   "830761": "2026-10-30T18:32:41.743Z",
@@ -12,7 +12,7 @@
   "1110717": "2026-10-30T00:02:31.981Z",
   "1131276": "2026-10-30T11:47:44.662Z",
   "1137440": "2026-10-31T16:02:19.833Z",
-  "1530827": "2026-10-30T18:02:35.078Z",
+  "1530827": "2026-10-31T18:32:34.114Z",
   "1530831": "2026-10-30T18:02:35.079Z",
   "1531094": "2026-10-30T20:32:16.094Z",
   "1576473": "2026-10-28T22:49:33.602Z",
@@ -52,7 +52,7 @@
   "2330924": "2026-10-31T15:32:32.790Z",
   "2330968": "2026-10-29T12:16:56.294Z",
   "2332098": "2026-10-30T18:32:41.743Z",
-  "2368169": "2026-10-30T11:47:44.662Z",
+  "2368169": "2026-10-31T18:32:34.113Z",
   "2376071": "2026-10-31T17:01:54.001Z",
   "2382802": "2026-10-30T12:17:48.845Z",
   "2421850": "2026-10-31T11:32:27.834Z",
@@ -104,15 +104,15 @@
   "electrolux lavadora carga superior 16 kg emtl16 electrolux": "2026-10-30T18:32:41.743Z",
   "jo malone london cologne fig lotus and flower 30 ml jo malone london": "2026-10-29T12:16:56.294Z",
   "siegen alisador sg 4704 siegen airflow fast style": "2026-10-31T16:32:31.556Z",
-  "viktor rolf perfume mujer flowerbomb edp 100ml viktor rolf": "2026-10-30T11:47:44.662Z",
+  "viktor rolf perfume mujer flowerbomb edp 100ml viktor rolf": "2026-10-31T18:32:34.114Z",
   "audifonos jbl tune 500": "2026-10-31T17:01:54.001Z",
   "electronic arts juego ea sports fc 26 latam ns2 electronic arts": "2026-10-31T15:32:32.790Z",
   "tom ford soleil neige edp unisex 100ml 3 4floz tom ford": "2026-10-30T12:17:48.845Z",
-  "gama cepillo modelador rotatorio gama 2600 ion": "2026-10-30T17:33:27.799Z",
+  "gama cepillo modelador rotatorio gama 2600 ion": "2026-10-31T18:32:34.114Z",
   "5jj0614l21 adaptador usb wireless benq 5jj0614l21 para proyectores": "2026-10-31T11:32:27.834Z",
   "sonos audifono bluetooth over ear ace sonos blanco": "2026-10-30T11:47:44.662Z",
   "tcl aire acondicionado portatil frio calor tcl 12000 btu": "2026-10-30T14:33:44.293Z",
-  "freidora de aire oster ckstaf401mdf 4 litros": "2026-10-30T18:02:35.079Z",
+  "freidora de aire oster ckstaf401mdf 4 litros": "2026-10-31T18:32:34.114Z",
   "nespresso cafetera essenza mini negra espumador": "2026-10-30T18:02:35.079Z",
   "kitchen it cafetera espresso cool shot 5 en 1 kitchen it": "2026-10-30T21:02:37.042Z",
   "rabanne perfume hombre black xs edt 100ml rabanne": "2026-10-30T21:32:34.662Z",
@@ -4720,6 +4720,57 @@
      "visto": "13:59"
     }
    ]
+  },
+  "2026-10-31-r-reel-1793471554114": {
+   "tipo": "reel",
+   "fecha": "2026-10-31",
+   "estado": "publicado",
+   "bloque": "populares",
+   "hora": "15:32",
+   "id": "18112428203222578",
+   "enlace": "https://www.instagram.com/reel/DfKzsWPD0pS/",
+   "ofertas": [
+    {
+     "id": "2368169",
+     "nombre": "VIKTOR & ROLF Perfume Mujer Flowerbomb Edp 100Ml Viktor & Rolf",
+     "tienda": "Falabella",
+     "ahora": 119990,
+     "antes": 199990,
+     "pct": 40,
+     "rubro": "perfumes",
+     "esMinimo": true,
+     "dias": 89,
+     "visto": "15:09"
+    },
+    {
+     "id": "1530827",
+     "nombre": "Freidora de Aire Oster CKSTAF401MDF / 4 Litros",
+     "tienda": "Hites",
+     "ahora": 39990,
+     "antes": 67990,
+     "pct": 41,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 88,
+     "visto": "15:09"
+    },
+    {
+     "id": "825797",
+     "nombre": "GAMA Cepillo Modelador Rotatorio GAMA 2600 ION",
+     "tienda": "Falabella",
+     "ahora": 34990,
+     "antes": 59990,
+     "pct": 41,
+     "rubro": "belleza",
+     "esMinimo": true,
+     "dias": 87,
+     "visto": "15:09"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1793471450652-r3.mp4"
+   ],
+   "texto": "🔥 3 ofertas de las más populares\n1. VIKTOR & ROLF Perfume Mujer Flowerbomb Edp 100Ml Viktor & Rolf: $119.990 (-40%, referencia $199.990) en Falabella · 📉 mínimo de 89 días\n2. Freidora de Aire Oster CKSTAF401MDF / 4 Litros: $39.990 (-41%, referencia $67.990) en Hites · 📉 mínimo de 88 días\n3. GAMA Cepillo Modelador Rotatorio GAMA 2600 ION: $34.990 (-41%, referencia $59.990) en Falabella · 📉 mínimo de 87 días\n\n⏰ Precios vistos hoy (31/10) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
   }
  },
  "config": {
@@ -4739,7 +4790,7 @@
    "hasta": "2026-10-31T14:46:50.092Z",
    "veces": 1
   },
-  "ultimaPub": "2026-10-31T18:16:17.094Z"
+  "ultimaPub": "2026-10-31T18:32:34.114Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-30",
