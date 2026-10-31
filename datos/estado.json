@@ -5440,6 +5440,28 @@
      "visto": "19:16"
     }
    ]
+  },
+  "2026-10-31-r-historia-1793488586513": {
+   "tipo": "historia",
+   "fecha": "2026-10-31",
+   "estado": "publicado",
+   "bloque": "recopilaciones",
+   "hora": "20:16",
+   "id": "18106568105641819",
+   "ofertas": [
+    {
+     "id": "2421850",
+     "nombre": "5JJ0614L21 - Adaptador USB wireless Benq 5JJ0614L21 para proyectores",
+     "tienda": "Bookcomputer",
+     "ahora": 19990,
+     "antes": 79990,
+     "pct": 75,
+     "rubro": "tecnologia",
+     "esMinimo": false,
+     "dias": 1,
+     "visto": "19:16"
+    }
+   ]
   }
  },
  "config": {
@@ -5459,7 +5481,7 @@
    "hasta": "2026-10-31T14:46:50.092Z",
    "veces": 1
   },
-  "ultimaPub": "2026-10-31T23:01:26.545Z"
+  "ultimaPub": "2026-10-31T23:16:26.514Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-30",
@@ -5497,6 +5519,6 @@
   "2368169": "2026-10-31T18:16:17.093Z",
   "2376071": "2026-10-31T16:16:05.587Z",
   "2382802": "2026-10-30T13:31:09.226Z",
-  "2421850": "2026-10-31T11:02:36.663Z"
+  "2421850": "2026-10-31T23:16:26.513Z"
  }
 }
