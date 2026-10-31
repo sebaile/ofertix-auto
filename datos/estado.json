@@ -53,7 +53,7 @@
   "2330968": "2026-10-29T12:16:56.294Z",
   "2332098": "2026-10-30T18:32:41.743Z",
   "2368169": "2026-10-30T11:47:44.662Z",
-  "2376071": "2026-10-30T11:32:20.589Z",
+  "2376071": "2026-10-31T17:01:54.001Z",
   "2382802": "2026-10-30T12:17:48.845Z",
   "2421850": "2026-10-31T11:32:27.834Z",
   "2448957": "2026-10-30T21:02:37.042Z",
@@ -105,7 +105,7 @@
   "jo malone london cologne fig lotus and flower 30 ml jo malone london": "2026-10-29T12:16:56.294Z",
   "siegen alisador sg 4704 siegen airflow fast style": "2026-10-31T16:32:31.556Z",
   "viktor rolf perfume mujer flowerbomb edp 100ml viktor rolf": "2026-10-30T11:47:44.662Z",
-  "audifonos jbl tune 500": "2026-10-30T11:32:20.589Z",
+  "audifonos jbl tune 500": "2026-10-31T17:01:54.001Z",
   "electronic arts juego ea sports fc 26 latam ns2 electronic arts": "2026-10-31T15:32:32.790Z",
   "tom ford soleil neige edp unisex 100ml 3 4floz tom ford": "2026-10-30T12:17:48.845Z",
   "gama cepillo modelador rotatorio gama 2600 ion": "2026-10-30T17:33:27.799Z",
@@ -4581,6 +4581,35 @@
      "visto": "13:06"
     }
    ]
+  },
+  "2026-10-31-r-carrusel-1793466114001": {
+   "tipo": "carrusel",
+   "fecha": "2026-10-31",
+   "estado": "publicado",
+   "bloque": "comparativas",
+   "formato": "oferta",
+   "hora": "14:01",
+   "id": "18468764971187227",
+   "enlace": "https://www.instagram.com/p/DfKpWqaCQ7s/",
+   "ofertas": [
+    {
+     "id": "2376071",
+     "nombre": "Audífonos JBL Tune 500",
+     "tienda": "Hites",
+     "ahora": 14990,
+     "antes": 29990,
+     "pct": 50,
+     "rubro": "tecnologia",
+     "esMinimo": false,
+     "dias": 87,
+     "visto": "13:06"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1793466081329-c3-1.jpg",
+    "tmp-medios/1793466081329-c3-2.jpg"
+   ],
+   "texto": "🔥 OFERTA DEL DÍA\nAudífonos JBL Tune 500\nAhora: $14.990 (-50%)\nReferencia: $29.990\n🏪 Hites\n\n✅ Precio visto hoy a las 13:06 en nuestro sistema.\n⏰ Puede cambiar o agotarse sin aviso.\n📲 Enlace directo en Telegram: t.me/ofertixcl\n\n#ofertaschile #tecnologia #descuentoschile #ofertix #ofertasdeldia"
   }
  },
  "config": {
@@ -4600,7 +4629,7 @@
    "hasta": "2026-10-31T14:46:50.092Z",
    "veces": 1
   },
-  "ultimaPub": "2026-10-31T16:46:03.045Z"
+  "ultimaPub": "2026-10-31T17:01:54.001Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-30",
