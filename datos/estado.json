@@ -4250,6 +4250,28 @@
      "visto": "21:18"
     }
    ]
+  },
+  "2026-10-31-r-historia-1793493309202": {
+   "tipo": "historia",
+   "fecha": "2026-10-31",
+   "estado": "publicado",
+   "bloque": "recopilaciones",
+   "hora": "21:35",
+   "id": "18137855107641089",
+   "ofertas": [
+    {
+     "id": "1673340",
+     "nombre": "CAROLINA HERRERA Perfume Hombre Bad Boy Edt 50Ml Carolina Herrera",
+     "tienda": "Falabella",
+     "ahora": 56990,
+     "antes": 94990,
+     "pct": 40,
+     "rubro": "perfumes",
+     "esMinimo": true,
+     "dias": 24,
+     "visto": "21:18"
+    }
+   ]
   }
  },
  "config": {
@@ -4269,7 +4291,7 @@
    "hasta": "2026-10-31T14:46:50.092Z",
    "veces": 1
   },
-  "ultimaPub": "2026-11-01T00:34:51.939Z"
+  "ultimaPub": "2026-11-01T00:35:09.202Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-31",
@@ -4284,6 +4306,7 @@
   "1137440": "2026-10-31T15:46:07.786Z",
   "1530827": "2026-10-31T19:16:06.865Z",
   "1530831": "2026-10-31T21:01:04.894Z",
+  "1673340": "2026-11-01T00:35:09.202Z",
   "1695609": "2026-10-31T15:35:59.318Z",
   "1784905": "2026-11-01T00:01:23.308Z",
   "1840943": "2026-10-30T17:16:04.048Z",
