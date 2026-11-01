@@ -4079,6 +4079,28 @@
      "visto": "20:07"
     }
    ]
+  },
+  "2026-10-31-r-historia-1793492270341": {
+   "tipo": "historia",
+   "fecha": "2026-10-31",
+   "estado": "publicado",
+   "bloque": "recopilaciones",
+   "hora": "21:17",
+   "id": "17914091325296137",
+   "ofertas": [
+    {
+     "id": "2382802",
+     "nombre": "TOM FORD Soleil Neige Edp Unisex 100Ml/3.4Floz Tom Ford",
+     "tienda": "Falabella",
+     "ahora": 240000,
+     "antes": 467990,
+     "pct": 48,
+     "rubro": "perfumes",
+     "esMinimo": false,
+     "dias": 9,
+     "visto": "20:07"
+    }
+   ]
   }
  },
  "config": {
@@ -4098,7 +4120,7 @@
    "hasta": "2026-10-31T14:46:50.092Z",
    "veces": 1
   },
-  "ultimaPub": "2026-11-01T00:17:28.639Z"
+  "ultimaPub": "2026-11-01T00:17:50.341Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-30",
@@ -4137,7 +4159,7 @@
   "2332098": "2026-10-30T21:16:04.866Z",
   "2368169": "2026-10-31T18:16:17.093Z",
   "2376071": "2026-10-31T16:16:05.587Z",
-  "2382802": "2026-10-30T13:31:09.226Z",
+  "2382802": "2026-11-01T00:17:50.341Z",
   "2421850": "2026-10-31T23:16:26.513Z"
  }
 }
