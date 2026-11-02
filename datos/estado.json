@@ -44,6 +44,7 @@
   "2103256": "2026-11-01T23:33:05.988Z",
   "2132513": "2026-10-31T19:02:30.717Z",
   "2330924": "2026-11-01T19:32:06.460Z",
+  "2330968": "2026-11-02T11:47:23.471Z",
   "2332098": "2026-11-02T01:33:40.802Z",
   "2368169": "2026-10-31T18:32:34.113Z",
   "2376071": "2026-11-01T19:32:06.460Z",
@@ -102,7 +103,8 @@
   "nespresso cafetera essenza mini negra espumador": "2026-11-02T00:48:51.428Z",
   "kitchen it cafetera espresso cool shot 5 en 1 kitchen it": "2026-11-02T01:17:24.360Z",
   "rabanne perfume hombre black xs edt 100ml rabanne": "2026-11-02T01:33:40.802Z",
-  "smartwatch samsung galaxy watch 5 pro 45 mm semi nuevo": "2026-11-01T18:03:17.381Z"
+  "smartwatch samsung galaxy watch 5 pro 45 mm semi nuevo": "2026-11-01T18:03:17.381Z",
+  "jo malone london cologne fig lotus and flower 30 ml jo malone london": "2026-11-02T11:47:23.471Z"
  },
  "items": {
   "2026-10-30-r-carrusel-1793358131169": {
@@ -4639,6 +4641,35 @@
      "visto": "07:53"
     }
    ]
+  },
+  "2026-11-02-r-carrusel-1793620043471": {
+   "tipo": "carrusel",
+   "fecha": "2026-11-02",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "formato": "oferta",
+   "hora": "08:47",
+   "id": "18056704064606161",
+   "enlace": "https://www.instagram.com/p/DfPO83Nkars/",
+   "ofertas": [
+    {
+     "id": "2330968",
+     "nombre": "JO MALONE LONDON Cologne Fig Lotus and Flower 30 ml Jo Malone London",
+     "tienda": "Falabella",
+     "ahora": 46790,
+     "antes": 78000,
+     "pct": 40,
+     "rubro": "perfumes",
+     "esMinimo": false,
+     "dias": 5,
+     "visto": "07:53"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1793620008184-c1-1.jpg",
+    "tmp-medios/1793620008184-c1-2.jpg"
+   ],
+   "texto": "🔥 OFERTA DEL DÍA\nJO MALONE LONDON Cologne Fig Lotus and Flower 30 ml Jo Malone London\nAhora: $46.790 (-40%)\nReferencia: $78.000\n🏪 Falabella\n\n✅ Precio visto hoy a las 07:53 en nuestro sistema.\n⏰ Puede cambiar o agotarse sin aviso.\n📲 Enlace directo en Telegram: t.me/ofertixcl\n\n#ofertaschile #perfumes #descuentoschile #ofertix #ofertasdeldia"
   }
  },
  "config": {
@@ -4658,7 +4689,7 @@
    "hasta": "2026-11-01T17:02:12.738Z",
    "veces": 2
   },
-  "ultimaPub": "2026-11-02T11:31:38.128Z"
+  "ultimaPub": "2026-11-02T11:47:23.471Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-11-01",
