@@ -21,7 +21,7 @@
   "1695609": "2026-11-01T17:17:34.948Z",
   "1701548": "2026-10-31T21:32:15.641Z",
   "1784905": "2026-11-01T17:17:34.948Z",
-  "1827803": "2026-10-31T23:33:59.640Z",
+  "1827803": "2026-11-02T11:02:25.715Z",
   "1840943": "2026-10-30T17:33:27.799Z",
   "1841225": "2026-10-31T20:02:38.596Z",
   "1841233": "2026-11-01T19:32:06.459Z",
@@ -63,7 +63,7 @@
   "mikrotik mantbox 52 15s with routeros l4 license": "2026-11-01T17:17:34.948Z",
   "samsung audifonos in ear sm r400nzaalta bluetooth v5 2 gray": "2026-11-01T18:03:17.381Z",
   "parlante portatil aiwa aw a521 90w bluetooth negro": "2026-11-01T17:17:34.948Z",
-  "licuadora easyways licuadora crush n roll 1 5 l": "2026-10-31T23:33:59.640Z",
+  "licuadora easyways licuadora crush n roll 1 5 l": "2026-11-02T11:02:25.715Z",
   "hamilton beach microondas digital 23 litros inox hb p90d23el lxa": "2026-11-01T19:32:06.460Z",
   "hamilton beach freidora de aire 2 5 litros fe 35051 cl": "2026-10-30T17:33:27.799Z",
   "volker campana convencional 60 cm inox": "2026-10-31T20:02:38.596Z",
@@ -4544,6 +4544,35 @@
      "visto": "22:35"
     }
    ]
+  },
+  "2026-11-02-r-carrusel-1793617345715": {
+   "tipo": "carrusel",
+   "fecha": "2026-11-02",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "formato": "oferta",
+   "hora": "08:02",
+   "id": "18351261508283566",
+   "enlace": "https://www.instagram.com/p/DfPJzuhm3ut/",
+   "ofertas": [
+    {
+     "id": "1827803",
+     "nombre": "Licuadora Easyways Licuadora Crush n' roll 1,5 L",
+     "tienda": "ABC",
+     "ahora": 34990,
+     "antes": 59990,
+     "pct": 41,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 88,
+     "visto": "06:44"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1793617318307-c0-1.jpg",
+    "tmp-medios/1793617318307-c0-2.jpg"
+   ],
+   "texto": "🔥 OFERTA NUEVA\nLicuadora Easyways Licuadora Crush n' roll 1,5 L\nAhora: $34.990 (-41%)\nReferencia: $59.990\n🏪 ABC\n\n✅ Precio visto hoy a las 06:44 en nuestro sistema.\n⏰ Puede cambiar o agotarse sin aviso.\n📲 Enlace directo en Telegram: t.me/ofertixcl\n\n#ofertaschile #hogar #descuentoschile #ofertix #ofertasdeldia"
   }
  },
  "config": {
@@ -4563,7 +4592,7 @@
    "hasta": "2026-11-01T17:02:12.738Z",
    "veces": 2
   },
-  "ultimaPub": "2026-11-02T02:31:48.541Z"
+  "ultimaPub": "2026-11-02T11:02:25.715Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-11-01",
