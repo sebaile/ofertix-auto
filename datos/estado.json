@@ -17,7 +17,7 @@
   "1531094": "2026-10-30T20:32:16.094Z",
   "1673324": "2026-10-31T23:33:59.640Z",
   "1673333": "2026-10-31T22:03:06.029Z",
-  "1673340": "2026-10-31T22:03:06.029Z",
+  "1673340": "2026-11-02T00:02:52.293Z",
   "1695609": "2026-11-01T17:17:34.948Z",
   "1701548": "2026-10-31T21:32:15.641Z",
   "1784905": "2026-11-01T17:17:34.948Z",
@@ -38,9 +38,9 @@
   "2084101": "2026-11-01T18:03:17.381Z",
   "2085077": "2026-10-31T15:03:12.717Z",
   "2086478": "2026-11-01T23:33:05.988Z",
-  "2086682": "2026-10-31T19:32:42.391Z",
+  "2086682": "2026-11-02T00:02:52.293Z",
   "2103253": "2026-11-01T23:33:05.988Z",
-  "2103254": "2026-10-31T22:47:12.933Z",
+  "2103254": "2026-11-02T00:02:52.293Z",
   "2103256": "2026-11-01T23:33:05.988Z",
   "2132513": "2026-10-31T19:02:30.717Z",
   "2330924": "2026-11-01T19:32:06.460Z",
@@ -58,7 +58,7 @@
   "teclado hyperx alloy core rgb 4p4f5ai hx kb5me2 la": "2026-11-01T23:33:05.988Z",
   "ferragamo perfume hombre red men edp 50 ml ferragamo": "2026-10-31T20:02:38.596Z",
   "fdv hervidor de vidrio crystal 1 7 lts kegs5813 gs fdv": "2026-10-30T20:32:16.094Z",
-  "carolina herrera perfume hombre bad boy edt 50ml carolina herrera": "2026-10-31T22:03:06.029Z",
+  "carolina herrera perfume hombre bad boy edt 50ml carolina herrera": "2026-11-02T00:02:52.293Z",
   "nina ricci perfume mujer nina ricci nina edt 50ml nina ricci": "2026-10-31T22:03:06.029Z",
   "mikrotik mantbox 52 15s with routeros l4 license": "2026-11-01T17:17:34.948Z",
   "samsung audifonos in ear sm r400nzaalta bluetooth v5 2 gray": "2026-11-01T18:03:17.381Z",
@@ -78,14 +78,14 @@
   "celular zte nubia music pop art 128gb 4gb azul rojo liberado": "2026-10-31T15:03:12.717Z",
   "caja abierta danada reloj smartwatch lhotse tw58 black n black": "2026-11-01T23:33:05.988Z",
   "clinique fragancia clinique happy perfume spray 100 ml": "2026-11-01T18:47:46.542Z",
-  "ventilador para pc apnx fp2 120 pwm argb color negro": "2026-10-31T19:32:42.391Z",
+  "ventilador para pc apnx fp2 120 pwm argb color negro": "2026-11-02T00:02:52.293Z",
   "recco enfriador de aire 50 w blanco bl 202dlr h": "2026-10-31T23:33:59.640Z",
   "cartier perfume mujer la panthere elixir edp 100 ml cartier": "2026-10-31T22:47:12.933Z",
   "wurden convector conveccion qnq 101f blanco": "2026-11-01T23:33:05.988Z",
   "moncler perfume moncler pour homme edp 60ml": "2026-10-31T19:32:42.391Z",
   "jimmy choo perfume hombre j choo man extreme 30ml": "2026-10-31T19:02:30.717Z",
   "recco estufa electrica blanco 1200 w radiacion nsb 99y blanco": "2026-11-01T23:33:05.988Z",
-  "recco mini calefactor 600 w oleoelectrica blanco": "2026-10-31T22:47:12.933Z",
+  "recco mini calefactor 600 w oleoelectrica blanco": "2026-11-02T00:02:52.293Z",
   "moncler perfume mujer moncler pour femme edp 100 ml": "2026-10-31T19:02:30.717Z",
   "antonio banderas perfume edt hombre the icon edt 200 ml banderas": "2026-10-31T23:33:59.640Z",
   "electrolux lavadora carga superior 16 kg emtl16 electrolux": "2026-10-31T19:32:42.391Z",
@@ -3871,6 +3871,57 @@
      "visto": "20:34"
     }
    ]
+  },
+  "2026-11-01-r-reel-1793577772294": {
+   "tipo": "reel",
+   "fecha": "2026-11-01",
+   "estado": "publicado",
+   "bloque": "recopilaciones",
+   "hora": "21:02",
+   "id": "18179755864443682",
+   "enlace": "https://www.instagram.com/reel/DfN-TWgkcMj/",
+   "ofertas": [
+    {
+     "id": "2103254",
+     "nombre": "RECCO Mini Calefactor 600 W Oleoeléctrica Blanco",
+     "tienda": "Sodimac",
+     "ahora": 15990,
+     "antes": 37990,
+     "pct": 57,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 77,
+     "visto": "20:34"
+    },
+    {
+     "id": "1673340",
+     "nombre": "CAROLINA HERRERA Perfume Hombre Bad Boy Edt 50Ml Carolina Herrera",
+     "tienda": "Falabella",
+     "ahora": 56990,
+     "antes": 94990,
+     "pct": 40,
+     "rubro": "perfumes",
+     "esMinimo": true,
+     "dias": 25,
+     "visto": "20:34"
+    },
+    {
+     "id": "2086682",
+     "nombre": "Ventilador para PC APNX FP2-120 PWM ARGB, Color Negro",
+     "tienda": "SP Digital",
+     "ahora": 15670,
+     "antes": 31340,
+     "pct": 50,
+     "rubro": "gamer",
+     "esMinimo": false,
+     "dias": 10,
+     "visto": "20:34"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1793577701096-r2.mp4"
+   ],
+   "texto": "🔥 3 ofertas las mejores del día\n1. RECCO Mini Calefactor 600 W Oleoeléctrica Blanco: $15.990 (-57%, referencia $37.990) en Sodimac\n2. CAROLINA HERRERA Perfume Hombre Bad Boy Edt 50Ml Carolina Herrera: $56.990 (-40%, referencia $94.990) en Falabella · 📉 mínimo de 25 días\n3. Ventilador para PC APNX FP2-120 PWM ARGB, Color Negro: $15.670 (-50%, referencia $31.340) en SP Digital\n\n⏰ Precios vistos hoy (1/11) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
   }
  },
  "config": {
@@ -3890,7 +3941,7 @@
    "hasta": "2026-11-01T17:02:12.738Z",
    "veces": 2
   },
-  "ultimaPub": "2026-11-02T00:01:32.880Z"
+  "ultimaPub": "2026-11-02T00:02:52.294Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-10-31",
