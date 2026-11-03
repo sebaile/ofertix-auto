@@ -41,6 +41,7 @@
   "2132513": "2026-10-31T19:02:30.717Z",
   "2330924": "2026-11-03T00:02:30.026Z",
   "2330968": "2026-11-02T11:47:23.471Z",
+  "2331065": "2026-11-03T15:02:11.470Z",
   "2332098": "2026-11-03T02:32:20.339Z",
   "2357536": "2026-11-03T13:03:28.280Z",
   "2368169": "2026-10-31T18:32:34.113Z",
@@ -118,7 +119,8 @@
   "shakira perfume shakira rojo elixir edp mujer 80 ml": "2026-11-03T13:03:28.280Z",
   "oster licuadora xpert series 1100w blend n go blst3b cpg": "2026-11-03T13:03:28.280Z",
   "clinique perfume clinique happy mujer edp 100 ml": "2026-11-03T13:03:28.280Z",
-  "shakira perfume shakira fucsia elixir edp mujer 80 ml": "2026-11-03T13:04:37.049Z"
+  "shakira perfume shakira fucsia elixir edp mujer 80 ml": "2026-11-03T13:04:37.049Z",
+  "rabanne perfume mujer olympea blossom edp 80ml rabanne": "2026-11-03T15:02:11.470Z"
  },
  "items": {
   "2026-10-31-r-carrusel-1793444536483": {
@@ -4906,6 +4908,35 @@
      "visto": "09:18"
     }
    ]
+  },
+  "2026-11-03-r-carrusel-1793718131470": {
+   "tipo": "carrusel",
+   "fecha": "2026-11-03",
+   "estado": "publicado",
+   "bloque": "comparativas",
+   "formato": "oferta",
+   "hora": "12:02",
+   "id": "18109030804957180",
+   "enlace": "https://www.instagram.com/p/DfSKCj9EXaU/",
+   "ofertas": [
+    {
+     "id": "2331065",
+     "nombre": "RABANNE Perfume Mujer Olympéa Blossom EDP 80ml Rabanne",
+     "tienda": "Falabella",
+     "ahora": 59990,
+     "antes": 119990,
+     "pct": 50,
+     "rubro": "perfumes",
+     "esMinimo": true,
+     "dias": 28,
+     "visto": "11:22"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1793718098229-c3-1.jpg",
+    "tmp-medios/1793718098229-c3-2.jpg"
+   ],
+   "texto": "🔥 OFERTA DEL DÍA\nRABANNE Perfume Mujer Olympéa Blossom EDP 80ml Rabanne\nAhora: $59.990 (-50%)\nReferencia: $119.990\n🏪 Falabella\n\n✅ Precio visto hoy a las 11:22 en nuestro sistema.\n📉 Es el precio más bajo de los últimos 28 días.\n⏰ Puede cambiar o agotarse sin aviso.\n📲 Enlace directo en Telegram: t.me/ofertixcl\n\n#ofertaschile #perfumes #descuentoschile #ofertix #ofertasdeldia"
   }
  },
  "config": {
@@ -4925,7 +4956,7 @@
    "hasta": "2026-11-02T23:02:58.138Z",
    "veces": 2
   },
-  "ultimaPub": "2026-11-03T14:46:26.328Z"
+  "ultimaPub": "2026-11-03T15:02:11.470Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-11-02",
