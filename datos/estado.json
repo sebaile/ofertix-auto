@@ -41,7 +41,7 @@
   "2132513": "2026-10-31T19:02:30.717Z",
   "2330924": "2026-11-03T00:02:30.026Z",
   "2330968": "2026-11-02T11:47:23.471Z",
-  "2332098": "2026-11-02T01:33:40.802Z",
+  "2332098": "2026-11-03T02:32:20.339Z",
   "2368169": "2026-10-31T18:32:34.113Z",
   "2376071": "2026-11-03T00:19:50.608Z",
   "2382802": "2026-11-03T00:04:25.055Z",
@@ -86,7 +86,7 @@
   "recco mini calefactor 600 w oleoelectrica blanco": "2026-11-03T00:19:50.608Z",
   "moncler perfume mujer moncler pour femme edp 100 ml": "2026-10-31T19:02:30.717Z",
   "antonio banderas perfume edt hombre the icon edt 200 ml banderas": "2026-11-03T01:47:49.109Z",
-  "electrolux lavadora carga superior 16 kg emtl16 electrolux": "2026-11-02T01:33:40.802Z",
+  "electrolux lavadora carga superior 16 kg emtl16 electrolux": "2026-11-03T02:32:20.339Z",
   "siegen alisador sg 4704 siegen airflow fast style": "2026-11-01T18:03:17.381Z",
   "viktor rolf perfume mujer flowerbomb edp 100ml viktor rolf": "2026-10-31T18:32:34.114Z",
   "audifonos jbl tune 500": "2026-11-03T00:19:50.608Z",
@@ -4175,6 +4175,35 @@
      "visto": "21:57"
     }
    ]
+  },
+  "2026-11-02-r-carrusel-1793673140340": {
+   "tipo": "carrusel",
+   "fecha": "2026-11-02",
+   "estado": "publicado",
+   "bloque": "recopilaciones",
+   "formato": "oferta",
+   "hora": "23:32",
+   "id": "17932811037167814",
+   "enlace": "https://www.instagram.com/p/DfQ0PQvgLba/",
+   "ofertas": [
+    {
+     "id": "2332098",
+     "nombre": "ELECTROLUX Lavadora Carga Superior 16 Kg EMTL16 Electrolux",
+     "tienda": "Falabella",
+     "ahora": 249990,
+     "antes": 419990,
+     "pct": 40,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 49,
+     "visto": "21:57"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1793673113393-c6-1.jpg",
+    "tmp-medios/1793673113393-c6-2.jpg"
+   ],
+   "texto": "🔥 OFERTA DEL DÍA\nELECTROLUX Lavadora Carga Superior 16 Kg EMTL16 Electrolux\nAhora: $249.990 (-40%)\nReferencia: $419.990\n🏪 Falabella\n\n✅ Precio visto hoy a las 21:57 en nuestro sistema.\n⏰ Puede cambiar o agotarse sin aviso.\n📲 Enlace directo en Telegram: t.me/ofertixcl\n\n#ofertaschile #hogar #descuentoschile #ofertix #ofertasdeldia"
   }
  },
  "config": {
@@ -4194,7 +4223,7 @@
    "hasta": "2026-11-02T23:02:58.138Z",
    "veces": 2
   },
-  "ultimaPub": "2026-11-03T02:31:15.653Z"
+  "ultimaPub": "2026-11-03T02:32:20.340Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-11-02",
