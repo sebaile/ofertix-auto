@@ -9,7 +9,7 @@
   "1110717": "2026-10-31T20:02:38.596Z",
   "1131276": "2026-11-03T00:04:25.055Z",
   "1137440": "2026-11-03T00:17:50.862Z",
-  "1530827": "2026-11-01T18:47:46.542Z",
+  "1530827": "2026-11-03T00:32:18.633Z",
   "1530831": "2026-11-02T00:48:51.428Z",
   "1531094": "2026-11-02T01:34:59.772Z",
   "1673324": "2026-11-02T01:33:40.802Z",
@@ -32,7 +32,7 @@
   "2084002": "2026-11-03T00:02:30.026Z",
   "2084101": "2026-11-02T23:17:40.357Z",
   "2085077": "2026-10-31T15:03:12.717Z",
-  "2086478": "2026-11-01T23:33:05.988Z",
+  "2086478": "2026-11-03T00:32:18.633Z",
   "2086682": "2026-11-03T00:19:50.608Z",
   "2103253": "2026-11-03T00:17:50.862Z",
   "2103254": "2026-11-03T00:19:50.608Z",
@@ -47,7 +47,8 @@
   "2421850": "2026-11-01T17:17:34.948Z",
   "2448957": "2026-11-02T01:17:24.359Z",
   "2465575": "2026-11-03T00:19:50.608Z",
-  "2572439": "2026-11-03T00:19:50.608Z"
+  "2572439": "2026-11-03T00:19:50.608Z",
+  "2572543": "2026-11-03T00:32:18.633Z"
  },
  "nombres": {
   "teclado hyperx alloy core rgb 4p4f5ai hx kb5me2 la": "2026-11-03T00:04:25.055Z",
@@ -70,7 +71,7 @@
   "toyotomi horno electrico empotrado 56 litros he9silver": "2026-11-03T00:04:25.055Z",
   "clinique fragancia clinique happy for men 100ml": "2026-11-02T23:17:40.357Z",
   "celular zte nubia music pop art 128gb 4gb azul rojo liberado": "2026-10-31T15:03:12.717Z",
-  "caja abierta danada reloj smartwatch lhotse tw58 black n black": "2026-11-01T23:33:05.988Z",
+  "caja abierta danada reloj smartwatch lhotse tw58 black n black": "2026-11-03T00:32:18.633Z",
   "clinique fragancia clinique happy perfume spray 100 ml": "2026-11-03T00:02:30.026Z",
   "ventilador para pc apnx fp2 120 pwm argb color negro": "2026-11-03T00:19:50.608Z",
   "recco enfriador de aire 50 w blanco bl 202dlr h": "2026-11-02T01:33:40.802Z",
@@ -90,13 +91,14 @@
   "tom ford soleil neige edp unisex 100ml 3 4floz tom ford": "2026-11-03T00:04:25.055Z",
   "gama cepillo modelador rotatorio gama 2600 ion": "2026-11-03T00:04:25.055Z",
   "5jj0614l21 adaptador usb wireless benq 5jj0614l21 para proyectores": "2026-11-01T17:17:34.948Z",
-  "freidora de aire oster ckstaf401mdf 4 litros": "2026-11-01T18:47:46.542Z",
+  "freidora de aire oster ckstaf401mdf 4 litros": "2026-11-03T00:32:18.633Z",
   "nespresso cafetera essenza mini negra espumador": "2026-11-02T00:48:51.428Z",
   "kitchen it cafetera espresso cool shot 5 en 1 kitchen it": "2026-11-02T01:17:24.360Z",
   "rabanne perfume hombre black xs edt 100ml rabanne": "2026-11-02T01:33:40.802Z",
   "smartwatch samsung galaxy watch 5 pro 45 mm semi nuevo": "2026-11-03T00:19:50.608Z",
   "jo malone london cologne fig lotus and flower 30 ml jo malone london": "2026-11-02T11:47:23.471Z",
-  "kitchen it horno pizza 1 litros black edition": "2026-11-03T00:19:50.608Z"
+  "kitchen it horno pizza 1 litros black edition": "2026-11-03T00:19:50.608Z",
+  "kitchen it hervidor 2 5 litros negro big edition 2 5l": "2026-11-03T00:32:18.633Z"
  },
  "items": {
   "2026-10-31-r-carrusel-1793444536483": {
@@ -3583,6 +3585,57 @@
     "tmp-medios/1793665145991-c3-3.jpg"
    ],
    "texto": "🏆 Recopilación del día\n1. RECCO Mini Calefactor 600 W Oleoeléctrica Blanco: $15.990 (-57%) en Sodimac\n2. Audífonos JBL Tune 500: $14.990 (-50%) en Hites\n3. Ventilador para PC APNX FP2-120 PWM ARGB, Color Negro: $15.670 (-50%) en SP Digital\n4. Smartwatch Samsung Galaxy Watch 5 Pro | 45 mm | (Semi Nuevo): $103.990 (-47%) en TecTec\n5. KITCHEN IT Horno Pizza 1 Litros Black Edition: $67.990 (-49%) en Sodimac\n\n⏰ Precios vistos hoy (2/11) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #top5 #descuentoschile #ofertix #ahorrar"
+  },
+  "2026-11-02-r-reel-1793665938633": {
+   "tipo": "reel",
+   "fecha": "2026-11-02",
+   "estado": "publicado",
+   "bloque": "recopilaciones",
+   "hora": "21:32",
+   "id": "18120479509771386",
+   "enlace": "https://www.instagram.com/reel/DfQmdd4jwCg/",
+   "ofertas": [
+    {
+     "id": "1530827",
+     "nombre": "Freidora de Aire Oster CKSTAF401MDF / 4 Litros",
+     "tienda": "Hites",
+     "ahora": 39990,
+     "antes": 67990,
+     "pct": 41,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 79,
+     "visto": "19:54"
+    },
+    {
+     "id": "2086478",
+     "nombre": "CAJA ABIERTA/DAÑADA Reloj Smartwatch Lhotse TW58 Black'n Black",
+     "tienda": "SP Digital",
+     "ahora": 88820,
+     "antes": 156740,
+     "pct": 43,
+     "rubro": "otros",
+     "esMinimo": false,
+     "dias": 11,
+     "visto": "19:54"
+    },
+    {
+     "id": "2572543",
+     "nombre": "KITCHEN IT Hervidor 2.5 Litros Negro Big Edition 2,5L",
+     "tienda": "Sodimac",
+     "ahora": 19990,
+     "antes": 39990,
+     "pct": 50,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 89,
+     "visto": "19:54"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1793665850702-r3.mp4"
+   ],
+   "texto": "🔥 3 ofertas las mejores del día\n1. Freidora de Aire Oster CKSTAF401MDF / 4 Litros: $39.990 (-41%, referencia $67.990) en Hites · 📉 mínimo de 79 días\n2. CAJA ABIERTA/DAÑADA Reloj Smartwatch Lhotse TW58 Black'n Black: $88.820 (-43%, referencia $156.740) en SP Digital\n3. KITCHEN IT Hervidor 2.5 Litros Negro Big Edition 2,5L: $19.990 (-50%, referencia $39.990) en Sodimac\n\n⏰ Precios vistos hoy (2/11) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
   }
  },
  "config": {
@@ -3602,7 +3655,7 @@
    "hasta": "2026-11-02T23:02:58.138Z",
    "veces": 2
   },
-  "ultimaPub": "2026-11-03T00:19:50.609Z"
+  "ultimaPub": "2026-11-03T00:32:18.634Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-11-01",
