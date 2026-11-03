@@ -29,16 +29,16 @@
   "2048291": "2026-10-31T22:47:12.933Z",
   "2048348": "2026-10-31T19:02:30.717Z",
   "2066558": "2026-11-02T01:33:40.802Z",
-  "2084002": "2026-11-01T18:47:46.542Z",
+  "2084002": "2026-11-03T00:02:30.026Z",
   "2084101": "2026-11-02T23:17:40.357Z",
   "2085077": "2026-10-31T15:03:12.717Z",
   "2086478": "2026-11-01T23:33:05.988Z",
   "2086682": "2026-11-02T00:02:52.293Z",
   "2103253": "2026-11-01T23:33:05.988Z",
   "2103254": "2026-11-02T00:02:52.293Z",
-  "2103256": "2026-11-01T23:33:05.988Z",
+  "2103256": "2026-11-03T00:02:30.026Z",
   "2132513": "2026-10-31T19:02:30.717Z",
-  "2330924": "2026-11-01T19:32:06.460Z",
+  "2330924": "2026-11-03T00:02:30.026Z",
   "2330968": "2026-11-02T11:47:23.471Z",
   "2332098": "2026-11-02T01:33:40.802Z",
   "2368169": "2026-10-31T18:32:34.113Z",
@@ -70,11 +70,11 @@
   "clinique fragancia clinique happy for men 100ml": "2026-11-02T23:17:40.357Z",
   "celular zte nubia music pop art 128gb 4gb azul rojo liberado": "2026-10-31T15:03:12.717Z",
   "caja abierta danada reloj smartwatch lhotse tw58 black n black": "2026-11-01T23:33:05.988Z",
-  "clinique fragancia clinique happy perfume spray 100 ml": "2026-11-01T18:47:46.542Z",
+  "clinique fragancia clinique happy perfume spray 100 ml": "2026-11-03T00:02:30.026Z",
   "ventilador para pc apnx fp2 120 pwm argb color negro": "2026-11-02T00:02:52.293Z",
   "recco enfriador de aire 50 w blanco bl 202dlr h": "2026-11-02T01:33:40.802Z",
   "cartier perfume mujer la panthere elixir edp 100 ml cartier": "2026-10-31T22:47:12.933Z",
-  "wurden convector conveccion qnq 101f blanco": "2026-11-01T23:33:05.988Z",
+  "wurden convector conveccion qnq 101f blanco": "2026-11-03T00:02:30.026Z",
   "moncler perfume moncler pour homme edp 60ml": "2026-10-31T19:32:42.391Z",
   "jimmy choo perfume hombre j choo man extreme 30ml": "2026-10-31T19:02:30.717Z",
   "recco estufa electrica blanco 1200 w radiacion nsb 99y blanco": "2026-11-01T23:33:05.988Z",
@@ -85,7 +85,7 @@
   "siegen alisador sg 4704 siegen airflow fast style": "2026-11-01T18:03:17.381Z",
   "viktor rolf perfume mujer flowerbomb edp 100ml viktor rolf": "2026-10-31T18:32:34.114Z",
   "audifonos jbl tune 500": "2026-11-01T19:32:06.460Z",
-  "electronic arts juego ea sports fc 26 latam ns2 electronic arts": "2026-11-01T19:32:06.460Z",
+  "electronic arts juego ea sports fc 26 latam ns2 electronic arts": "2026-11-03T00:02:30.026Z",
   "tom ford soleil neige edp unisex 100ml 3 4floz tom ford": "2026-11-01T23:33:05.988Z",
   "gama cepillo modelador rotatorio gama 2600 ion": "2026-11-01T18:47:46.542Z",
   "5jj0614l21 adaptador usb wireless benq 5jj0614l21 para proyectores": "2026-11-01T17:17:34.948Z",
@@ -4975,6 +4975,57 @@
     "tmp-medios/1793661373571-r0.mp4"
    ],
    "texto": "🔥 3 ofertas las mejores del día\n1. HAMILTON BEACH Microondas Digital 23 Litros Inox HB-P90D23EL-LXA: $44.990 (-55%, referencia $99.990) en Sodimac · 📉 mínimo de 53 días\n2. Parlante Portátil Aiwa AW-A521 90W Bluetooth Negro: $69.990 (-53%, referencia $149.990) en ABC · 📉 mínimo de 33 días\n3. CLINIQUE Fragancia Clinique Happy for Men 100ml: $34.990 (-64%, referencia $98.900) en Falabella\n\n⏰ Precios vistos hoy (2/11) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
+  },
+  "2026-11-02-r-reel-1793664150026": {
+   "tipo": "reel",
+   "fecha": "2026-11-02",
+   "estado": "publicado",
+   "bloque": "recopilaciones",
+   "hora": "21:02",
+   "id": "18138586825638767",
+   "enlace": "https://www.instagram.com/reel/DfQjC9LCtcX/",
+   "ofertas": [
+    {
+     "id": "2084002",
+     "nombre": "CLINIQUE Fragancia Clinique Happy Perfume Spray 100 ml",
+     "tienda": "Falabella",
+     "ahora": 39990,
+     "antes": 109900,
+     "pct": 63,
+     "rubro": "perfumes",
+     "esMinimo": false,
+     "dias": 62,
+     "visto": "19:54"
+    },
+    {
+     "id": "2103256",
+     "nombre": "WURDEN Convector Convección QNQ-101F Blanco",
+     "tienda": "Sodimac",
+     "ahora": 44990,
+     "antes": 89990,
+     "pct": 50,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 88,
+     "visto": "19:54"
+    },
+    {
+     "id": "2330924",
+     "nombre": "ELECTRONIC ARTS Juego Ea Sports Fc 26 Latam Ns2 Electronic Arts",
+     "tienda": "Falabella",
+     "ahora": 19990,
+     "antes": 47990,
+     "pct": 58,
+     "rubro": "gamer",
+     "esMinimo": false,
+     "dias": 80,
+     "visto": "19:54"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1793664065553-r1.mp4"
+   ],
+   "texto": "🔥 3 ofertas las mejores del día\n1. CLINIQUE Fragancia Clinique Happy Perfume Spray 100 ml: $39.990 (-63%, referencia $109.900) en Falabella\n2. WURDEN Convector Convección QNQ-101F Blanco: $44.990 (-50%, referencia $89.990) en Sodimac · 📉 mínimo de 88 días\n3. ELECTRONIC ARTS Juego Ea Sports Fc 26 Latam Ns2 Electronic Arts: $19.990 (-58%, referencia $47.990) en Falabella\n\n⏰ Precios vistos hoy (2/11) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
   }
  },
  "config": {
@@ -4994,7 +5045,7 @@
    "hasta": "2026-11-02T23:02:58.138Z",
    "veces": 2
   },
-  "ultimaPub": "2026-11-02T23:17:40.358Z"
+  "ultimaPub": "2026-11-03T00:02:30.026Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-11-01",
