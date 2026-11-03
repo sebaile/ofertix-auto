@@ -4422,6 +4422,28 @@
     "tmp-medios/1793706493763-c1-3.jpg"
    ],
    "texto": "🏆 Ofertas nuevas de hoy\n1. RABANNE La Collection Rose 1969 EDP 125 ML: $134.990 (-50%) en Falabella\n2. RECCO Enfriador de aire 50 W Blanco BL-202DLR-H: $33.990 (-43%) en Sodimac\n3. RABANNE La Collection After Club EDP 125 ML: $134.990 (-50%) en Falabella\n4. FDV Hervidor de Vidrio Crystal 1.7 Lts KEGS5813-GS FDV: $19.990 (-42%) en Lider\n\n⏰ Precios vistos hoy (3/11) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #top5 #descuentoschile #ofertix #ahorrar"
+  },
+  "2026-11-03-r-historia-1793706555611": {
+   "tipo": "historia",
+   "fecha": "2026-11-03",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "hora": "08:49",
+   "id": "17910340512326903",
+   "ofertas": [
+    {
+     "id": "2572439",
+     "nombre": "KITCHEN IT Horno Pizza 1 Litros Black Edition",
+     "tienda": "Sodimac",
+     "ahora": 67990,
+     "antes": 133390,
+     "pct": 49,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 89,
+     "visto": "08:13"
+    }
+   ]
   }
  },
  "config": {
@@ -4441,7 +4463,7 @@
    "hasta": "2026-11-02T23:02:58.138Z",
    "veces": 2
   },
-  "ultimaPub": "2026-11-03T11:48:53.394Z"
+  "ultimaPub": "2026-11-03T11:49:15.611Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-11-02",
@@ -4472,6 +4494,7 @@
   "2382802": "2026-11-02T01:16:13.086Z",
   "2421850": "2026-11-03T11:02:59.882Z",
   "2465575": "2026-11-02T02:31:29.565Z",
+  "2572439": "2026-11-03T11:49:15.610Z",
   "2581544": "2026-11-03T01:01:30.240Z",
   "2589159": "2026-11-03T11:15:59.799Z"
  }
