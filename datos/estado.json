@@ -5,6 +5,7 @@
   "825797": "2026-11-03T00:04:25.055Z",
   "825801": "2026-11-01T18:03:17.381Z",
   "830761": "2026-10-31T21:32:15.641Z",
+  "831338": "2026-11-03T13:03:28.280Z",
   "1087242": "2026-11-03T01:47:49.109Z",
   "1110717": "2026-10-31T20:02:38.596Z",
   "1131276": "2026-11-03T00:04:25.055Z",
@@ -41,12 +42,14 @@
   "2330924": "2026-11-03T00:02:30.026Z",
   "2330968": "2026-11-02T11:47:23.471Z",
   "2332098": "2026-11-03T02:32:20.339Z",
+  "2357536": "2026-11-03T13:03:28.280Z",
   "2368169": "2026-10-31T18:32:34.113Z",
   "2376071": "2026-11-03T00:19:50.608Z",
   "2382802": "2026-11-03T00:04:25.055Z",
   "2421850": "2026-11-03T11:02:43.426Z",
   "2448957": "2026-11-03T01:47:49.109Z",
   "2465575": "2026-11-03T00:19:50.608Z",
+  "2530593": "2026-11-03T13:03:28.280Z",
   "2572439": "2026-11-03T00:19:50.608Z",
   "2572543": "2026-11-03T00:32:18.633Z",
   "2581544": "2026-11-03T00:48:07.468Z",
@@ -110,7 +113,10 @@
   "michael kors perfume hombre absolu homme edp 30ml michael kors": "2026-11-03T11:33:09.533Z",
   "burberry burberry goddess parfum para mujer 50 ml": "2026-11-03T11:33:09.533Z",
   "rabanne la collection rose 1969 edp 125 ml": "2026-11-03T11:48:53.394Z",
-  "rabanne la collection after club edp 125 ml": "2026-11-03T11:48:53.394Z"
+  "rabanne la collection after club edp 125 ml": "2026-11-03T11:48:53.394Z",
+  "shakira perfume shakira rojo elixir edp mujer 80 ml": "2026-11-03T13:03:28.280Z",
+  "oster licuadora xpert series 1100w blend n go blst3b cpg": "2026-11-03T13:03:28.280Z",
+  "clinique perfume clinique happy mujer edp 100 ml": "2026-11-03T13:03:28.280Z"
  },
  "items": {
   "2026-10-31-r-carrusel-1793444536483": {
@@ -4576,6 +4582,57 @@
      "visto": "08:13"
     }
    ]
+  },
+  "2026-11-03-r-reel-1793711008280": {
+   "tipo": "reel",
+   "fecha": "2026-11-03",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "hora": "10:03",
+   "id": "18354557764266126",
+   "enlace": "https://www.instagram.com/reel/DfR8bByCXe1/",
+   "ofertas": [
+    {
+     "id": "2530593",
+     "nombre": "Shakira Perfume Shakira Rojo Elixir EDP Mujer 80 ml",
+     "tienda": "Paris",
+     "ahora": 17490,
+     "antes": 34990,
+     "pct": 50,
+     "rubro": "perfumes",
+     "esMinimo": true,
+     "dias": 88,
+     "visto": "09:18"
+    },
+    {
+     "id": "2357536",
+     "nombre": "Oster Licuadora Xpert Series 1100W + Blend N Go BLST3B-CPG",
+     "tienda": "Paris",
+     "ahora": 69990,
+     "antes": 129990,
+     "pct": 46,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 5,
+     "visto": "09:18"
+    },
+    {
+     "id": "831338",
+     "nombre": "Clinique Perfume Clinique Happy Mujer EDP 100 ml",
+     "tienda": "Paris",
+     "ahora": 44900,
+     "antes": 98910,
+     "pct": 54,
+     "rubro": "perfumes",
+     "esMinimo": true,
+     "dias": 89,
+     "visto": "09:18"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1793710913361-r1.mp4"
+   ],
+   "texto": "🔥 3 ofertas nuevas de hoy\n1. Shakira Perfume Shakira Rojo Elixir EDP Mujer 80 ml: $17.490 (-50%, referencia $34.990) en Paris · 📉 mínimo de 88 días\n2. Oster Licuadora Xpert Series 1100W + Blend N Go BLST3B-CPG: $69.990 (-46%, referencia $129.990) en Paris\n3. Clinique Perfume Clinique Happy Mujer EDP 100 ml: $44.900 (-54%, referencia $98.910) en Paris · 📉 mínimo de 89 días\n\n⏰ Precios vistos hoy (3/11) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
   }
  },
  "config": {
@@ -4595,7 +4652,7 @@
    "hasta": "2026-11-02T23:02:58.138Z",
    "veces": 2
   },
-  "ultimaPub": "2026-11-03T12:46:12.350Z"
+  "ultimaPub": "2026-11-03T13:03:28.280Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-11-02",
