@@ -5,15 +5,15 @@
   "825797": "2026-11-03T00:04:25.055Z",
   "825801": "2026-11-01T18:03:17.381Z",
   "830761": "2026-10-31T21:32:15.641Z",
-  "1087242": "2026-11-02T00:48:51.428Z",
+  "1087242": "2026-11-03T01:47:49.109Z",
   "1110717": "2026-10-31T20:02:38.596Z",
   "1131276": "2026-11-03T00:04:25.055Z",
   "1137440": "2026-11-03T00:17:50.862Z",
   "1530827": "2026-11-03T00:32:18.633Z",
-  "1530831": "2026-11-02T00:48:51.428Z",
+  "1530831": "2026-11-03T01:47:49.109Z",
   "1531094": "2026-11-02T01:34:59.772Z",
   "1574456": "2026-11-03T01:32:23.103Z",
-  "1673324": "2026-11-02T01:33:40.802Z",
+  "1673324": "2026-11-03T01:47:49.109Z",
   "1673333": "2026-11-03T01:32:23.103Z",
   "1673340": "2026-11-03T00:17:50.862Z",
   "1695609": "2026-11-03T00:04:25.055Z",
@@ -46,7 +46,7 @@
   "2376071": "2026-11-03T00:19:50.608Z",
   "2382802": "2026-11-03T00:04:25.055Z",
   "2421850": "2026-11-01T17:17:34.948Z",
-  "2448957": "2026-11-02T01:17:24.359Z",
+  "2448957": "2026-11-03T01:47:49.109Z",
   "2465575": "2026-11-03T00:19:50.608Z",
   "2572439": "2026-11-03T00:19:50.608Z",
   "2572543": "2026-11-03T00:32:18.633Z",
@@ -85,7 +85,7 @@
   "recco estufa electrica blanco 1200 w radiacion nsb 99y blanco": "2026-11-03T00:17:50.862Z",
   "recco mini calefactor 600 w oleoelectrica blanco": "2026-11-03T00:19:50.608Z",
   "moncler perfume mujer moncler pour femme edp 100 ml": "2026-10-31T19:02:30.717Z",
-  "antonio banderas perfume edt hombre the icon edt 200 ml banderas": "2026-11-02T00:48:51.428Z",
+  "antonio banderas perfume edt hombre the icon edt 200 ml banderas": "2026-11-03T01:47:49.109Z",
   "electrolux lavadora carga superior 16 kg emtl16 electrolux": "2026-11-02T01:33:40.802Z",
   "siegen alisador sg 4704 siegen airflow fast style": "2026-11-01T18:03:17.381Z",
   "viktor rolf perfume mujer flowerbomb edp 100ml viktor rolf": "2026-10-31T18:32:34.114Z",
@@ -95,9 +95,9 @@
   "gama cepillo modelador rotatorio gama 2600 ion": "2026-11-03T00:04:25.055Z",
   "5jj0614l21 adaptador usb wireless benq 5jj0614l21 para proyectores": "2026-11-01T17:17:34.948Z",
   "freidora de aire oster ckstaf401mdf 4 litros": "2026-11-03T00:32:18.633Z",
-  "nespresso cafetera essenza mini negra espumador": "2026-11-02T00:48:51.428Z",
-  "kitchen it cafetera espresso cool shot 5 en 1 kitchen it": "2026-11-02T01:17:24.360Z",
-  "rabanne perfume hombre black xs edt 100ml rabanne": "2026-11-02T01:33:40.802Z",
+  "nespresso cafetera essenza mini negra espumador": "2026-11-03T01:47:49.109Z",
+  "kitchen it cafetera espresso cool shot 5 en 1 kitchen it": "2026-11-03T01:47:49.109Z",
+  "rabanne perfume hombre black xs edt 100ml rabanne": "2026-11-03T01:47:49.109Z",
   "smartwatch samsung galaxy watch 5 pro 45 mm semi nuevo": "2026-11-03T00:19:50.608Z",
   "jo malone london cologne fig lotus and flower 30 ml jo malone london": "2026-11-02T11:47:23.471Z",
   "kitchen it horno pizza 1 litros black edition": "2026-11-03T00:19:50.608Z",
@@ -3999,6 +3999,72 @@
      "visto": "21:57"
     }
    ]
+  },
+  "2026-11-02-r-carrusel-1793670469109": {
+   "tipo": "carrusel",
+   "fecha": "2026-11-02",
+   "estado": "publicado",
+   "bloque": "recopilaciones",
+   "formato": "top5",
+   "hora": "22:47",
+   "id": "17893971471447207",
+   "enlace": "https://www.instagram.com/p/DfQvJA8EQew/",
+   "ofertas": [
+    {
+     "id": "1530831",
+     "nombre": "Nespresso Cafetera Essenza Mini Negra + Espumador",
+     "tienda": "Lider",
+     "ahora": 99990,
+     "antes": 179990,
+     "pct": 44,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 88,
+     "visto": "21:57"
+    },
+    {
+     "id": "1087242",
+     "nombre": "ANTONIO BANDERAS Perfume EDT Hombre The Icon EDT 200 Ml Banderas",
+     "tienda": "Falabella",
+     "ahora": 22990,
+     "antes": 38990,
+     "pct": 41,
+     "rubro": "perfumes",
+     "esMinimo": false,
+     "dias": 88,
+     "visto": "21:57"
+    },
+    {
+     "id": "2448957",
+     "nombre": "KITCHEN IT Cafetera Espresso Cool Shot 5 en 1 Kitchen-it",
+     "tienda": "Sodimac",
+     "ahora": 119990,
+     "antes": 209590,
+     "pct": 42,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 87,
+     "visto": "21:57"
+    },
+    {
+     "id": "1673324",
+     "nombre": "RABANNE Perfume Hombre Black Xs Edt 100Ml Rabanne",
+     "tienda": "Falabella",
+     "ahora": 71990,
+     "antes": 119990,
+     "pct": 40,
+     "rubro": "perfumes",
+     "esMinimo": false,
+     "dias": 66,
+     "visto": "21:57"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1793670430647-c5-1.jpg",
+    "tmp-medios/1793670430647-c5-2.jpg",
+    "tmp-medios/1793670430647-c5-3.jpg"
+   ],
+   "texto": "🏆 Recopilación del día\n1. Nespresso Cafetera Essenza Mini Negra + Espumador: $99.990 (-44%) en Lider\n2. ANTONIO BANDERAS Perfume EDT Hombre The Icon EDT 200 Ml Banderas: $22.990 (-41%) en Falabella\n3. KITCHEN IT Cafetera Espresso Cool Shot 5 en 1 Kitchen-it: $119.990 (-42%) en Sodimac\n4. RABANNE Perfume Hombre Black Xs Edt 100Ml Rabanne: $71.990 (-40%) en Falabella\n\n⏰ Precios vistos hoy (2/11) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #top5 #descuentoschile #ofertix #ahorrar"
   }
  },
  "config": {
@@ -4018,7 +4084,7 @@
    "hasta": "2026-11-02T23:02:58.138Z",
    "veces": 2
   },
-  "ultimaPub": "2026-11-03T01:45:58.331Z"
+  "ultimaPub": "2026-11-03T01:47:49.109Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-11-02",
