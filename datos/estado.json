@@ -48,7 +48,8 @@
   "2448957": "2026-11-02T01:17:24.359Z",
   "2465575": "2026-11-03T00:19:50.608Z",
   "2572439": "2026-11-03T00:19:50.608Z",
-  "2572543": "2026-11-03T00:32:18.633Z"
+  "2572543": "2026-11-03T00:32:18.633Z",
+  "2581544": "2026-11-03T00:48:07.468Z"
  },
  "nombres": {
   "teclado hyperx alloy core rgb 4p4f5ai hx kb5me2 la": "2026-11-03T00:04:25.055Z",
@@ -98,7 +99,8 @@
   "smartwatch samsung galaxy watch 5 pro 45 mm semi nuevo": "2026-11-03T00:19:50.608Z",
   "jo malone london cologne fig lotus and flower 30 ml jo malone london": "2026-11-02T11:47:23.471Z",
   "kitchen it horno pizza 1 litros black edition": "2026-11-03T00:19:50.608Z",
-  "kitchen it hervidor 2 5 litros negro big edition 2 5l": "2026-11-03T00:32:18.633Z"
+  "kitchen it hervidor 2 5 litros negro big edition 2 5l": "2026-11-03T00:32:18.633Z",
+  "samsung monitor gamer samsung odyssey g3 24": "2026-11-03T00:48:07.469Z"
  },
  "items": {
   "2026-10-31-r-carrusel-1793444536483": {
@@ -3759,6 +3761,35 @@
      "visto": "19:54"
     }
    ]
+  },
+  "2026-11-02-r-carrusel-1793666887469": {
+   "tipo": "carrusel",
+   "fecha": "2026-11-02",
+   "estado": "publicado",
+   "bloque": "recopilaciones",
+   "formato": "oferta",
+   "hora": "21:48",
+   "id": "17867746134675340",
+   "enlace": "https://www.instagram.com/p/DfQoTeRFHZB/",
+   "ofertas": [
+    {
+     "id": "2581544",
+     "nombre": "SAMSUNG Monitor Gamer Samsung Odyssey G3 24\"",
+     "tienda": "Falabella Marketplace",
+     "ahora": 99990,
+     "antes": 199990,
+     "pct": 50,
+     "rubro": "gamer",
+     "esMinimo": true,
+     "dias": 62,
+     "visto": "21:04"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1793666867676-c4-1.jpg",
+    "tmp-medios/1793666867676-c4-2.jpg"
+   ],
+   "texto": "🔥 OFERTA DEL DÍA\nSAMSUNG Monitor Gamer Samsung Odyssey G3 24\"\nAhora: $99.990 (-50%)\nReferencia: $199.990\n🏪 Falabella Marketplace\n\n✅ Precio visto hoy a las 21:04 en nuestro sistema.\n📉 Es el precio más bajo de los últimos 62 días.\n⏰ Puede cambiar o agotarse sin aviso.\n📲 Enlace directo en Telegram: t.me/ofertixcl\n\n#ofertaschile #gamer #descuentoschile #ofertix #ofertasdeldia"
   }
  },
  "config": {
@@ -3778,7 +3809,7 @@
    "hasta": "2026-11-02T23:02:58.138Z",
    "veces": 2
   },
-  "ultimaPub": "2026-11-03T00:32:38.817Z"
+  "ultimaPub": "2026-11-03T00:48:07.469Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-11-02",
