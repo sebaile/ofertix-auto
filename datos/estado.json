@@ -11,7 +11,7 @@
   "1137440": "2026-11-03T00:17:50.862Z",
   "1530827": "2026-11-03T00:32:18.633Z",
   "1530831": "2026-11-03T01:47:49.109Z",
-  "1531094": "2026-11-02T01:34:59.772Z",
+  "1531094": "2026-11-03T11:48:53.394Z",
   "1574456": "2026-11-03T01:32:23.103Z",
   "1673324": "2026-11-03T01:47:49.109Z",
   "1673333": "2026-11-03T01:32:23.103Z",
@@ -28,7 +28,7 @@
   "2047234": "2026-10-31T19:32:42.391Z",
   "2048291": "2026-10-31T22:47:12.933Z",
   "2048348": "2026-10-31T19:02:30.717Z",
-  "2066558": "2026-11-02T01:33:40.802Z",
+  "2066558": "2026-11-03T11:48:53.394Z",
   "2084002": "2026-11-03T00:02:30.026Z",
   "2084101": "2026-11-02T23:17:40.357Z",
   "2085077": "2026-10-31T15:03:12.717Z",
@@ -51,13 +51,15 @@
   "2572543": "2026-11-03T00:32:18.633Z",
   "2581544": "2026-11-03T00:48:07.468Z",
   "2581769": "2026-11-03T01:32:23.103Z",
+  "2588245": "2026-11-03T11:48:53.394Z",
   "2589159": "2026-11-03T11:33:09.533Z",
+  "2589932": "2026-11-03T11:48:53.394Z",
   "2590176": "2026-11-03T11:33:09.533Z"
  },
  "nombres": {
   "teclado hyperx alloy core rgb 4p4f5ai hx kb5me2 la": "2026-11-03T00:04:25.055Z",
   "ferragamo perfume hombre red men edp 50 ml ferragamo": "2026-10-31T20:02:38.596Z",
-  "fdv hervidor de vidrio crystal 1 7 lts kegs5813 gs fdv": "2026-11-02T01:34:59.772Z",
+  "fdv hervidor de vidrio crystal 1 7 lts kegs5813 gs fdv": "2026-11-03T11:48:53.394Z",
   "carolina herrera perfume hombre bad boy edt 50ml carolina herrera": "2026-11-03T00:17:50.862Z",
   "nina ricci perfume mujer nina ricci nina edt 50ml nina ricci": "2026-11-03T01:32:23.103Z",
   "mikrotik mantbox 52 15s with routeros l4 license": "2026-11-03T00:04:25.055Z",
@@ -77,7 +79,7 @@
   "caja abierta danada reloj smartwatch lhotse tw58 black n black": "2026-11-03T00:32:18.633Z",
   "clinique fragancia clinique happy perfume spray 100 ml": "2026-11-03T00:02:30.026Z",
   "ventilador para pc apnx fp2 120 pwm argb color negro": "2026-11-03T00:19:50.608Z",
-  "recco enfriador de aire 50 w blanco bl 202dlr h": "2026-11-02T01:33:40.802Z",
+  "recco enfriador de aire 50 w blanco bl 202dlr h": "2026-11-03T11:48:53.394Z",
   "cartier perfume mujer la panthere elixir edp 100 ml cartier": "2026-10-31T22:47:12.933Z",
   "wurden convector conveccion qnq 101f blanco": "2026-11-03T00:02:30.026Z",
   "moncler perfume moncler pour homme edp 60ml": "2026-10-31T19:32:42.391Z",
@@ -106,7 +108,9 @@
   "ursus trotter horno electrica 38 litros ut backofen pro38i": "2026-11-03T01:32:23.103Z",
   "smartwatch honor choice watch 2 epic negro": "2026-11-03T01:32:23.103Z",
   "michael kors perfume hombre absolu homme edp 30ml michael kors": "2026-11-03T11:33:09.533Z",
-  "burberry burberry goddess parfum para mujer 50 ml": "2026-11-03T11:33:09.533Z"
+  "burberry burberry goddess parfum para mujer 50 ml": "2026-11-03T11:33:09.533Z",
+  "rabanne la collection rose 1969 edp 125 ml": "2026-11-03T11:48:53.394Z",
+  "rabanne la collection after club edp 125 ml": "2026-11-03T11:48:53.394Z"
  },
  "items": {
   "2026-10-31-r-carrusel-1793444536483": {
@@ -4352,6 +4356,72 @@
      "visto": "07:08"
     }
    ]
+  },
+  "2026-11-03-r-carrusel-1793706533394": {
+   "tipo": "carrusel",
+   "fecha": "2026-11-03",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "formato": "top5",
+   "hora": "08:48",
+   "id": "18129926366312585",
+   "enlace": "https://www.instagram.com/p/DfRz6sKFqPP/",
+   "ofertas": [
+    {
+     "id": "2588245",
+     "nombre": "RABANNE La Collection Rose 1969 EDP 125 ML",
+     "tienda": "Falabella",
+     "ahora": 134990,
+     "antes": 269990,
+     "pct": 50,
+     "rubro": "perfumes",
+     "esMinimo": false,
+     "dias": 0,
+     "visto": "08:13"
+    },
+    {
+     "id": "2066558",
+     "nombre": "RECCO Enfriador de aire 50 W Blanco BL-202DLR-H",
+     "tienda": "Sodimac",
+     "ahora": 33990,
+     "antes": 59990,
+     "pct": 43,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 53,
+     "visto": "08:13"
+    },
+    {
+     "id": "2589932",
+     "nombre": "RABANNE La Collection After Club EDP 125 ML",
+     "tienda": "Falabella",
+     "ahora": 134990,
+     "antes": 269990,
+     "pct": 50,
+     "rubro": "perfumes",
+     "esMinimo": false,
+     "dias": 0,
+     "visto": "08:13"
+    },
+    {
+     "id": "1531094",
+     "nombre": "FDV Hervidor de Vidrio Crystal 1.7 Lts KEGS5813-GS FDV",
+     "tienda": "Lider",
+     "ahora": 19990,
+     "antes": 34990,
+     "pct": 42,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 29,
+     "visto": "08:13"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1793706493763-c1-1.jpg",
+    "tmp-medios/1793706493763-c1-2.jpg",
+    "tmp-medios/1793706493763-c1-3.jpg"
+   ],
+   "texto": "🏆 Ofertas nuevas de hoy\n1. RABANNE La Collection Rose 1969 EDP 125 ML: $134.990 (-50%) en Falabella\n2. RECCO Enfriador de aire 50 W Blanco BL-202DLR-H: $33.990 (-43%) en Sodimac\n3. RABANNE La Collection After Club EDP 125 ML: $134.990 (-50%) en Falabella\n4. FDV Hervidor de Vidrio Crystal 1.7 Lts KEGS5813-GS FDV: $19.990 (-42%) en Lider\n\n⏰ Precios vistos hoy (3/11) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #top5 #descuentoschile #ofertix #ahorrar"
   }
  },
  "config": {
@@ -4371,7 +4441,7 @@
    "hasta": "2026-11-02T23:02:58.138Z",
    "veces": 2
   },
-  "ultimaPub": "2026-11-03T11:33:31.469Z"
+  "ultimaPub": "2026-11-03T11:48:53.394Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-11-02",
