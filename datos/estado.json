@@ -3658,6 +3658,28 @@
     "tmp-medios/1793753219990-c5-3.jpg"
    ],
    "texto": "🏆 Recopilación del día\n1. RECCO Mini Calefactor 600 W Oleoeléctrica Blanco: $15.990 (-57%) en Sodimac\n2. RABANNE La Collection Metal Mesh EDP 125 ML: $134.990 (-50%) en Falabella\n3. Audífonos JBL Tune 500: $14.990 (-50%) en Hites\n4. Smartwatch Samsung Galaxy Watch 5 Pro | 45 mm | (Semi Nuevo): $103.990 (-47%) en TecTec\n5. KITCHEN IT Horno Pizza 1 Litros Black Edition: $67.990 (-49%) en Sodimac\n\n⏰ Precios vistos hoy (3/11) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #top5 #descuentoschile #ofertix #ahorrar"
+  },
+  "2026-11-03-r-historia-1793753283855": {
+   "tipo": "historia",
+   "fecha": "2026-11-03",
+   "estado": "publicado",
+   "bloque": "recopilaciones",
+   "hora": "21:48",
+   "id": "18096750623682957",
+   "ofertas": [
+    {
+     "id": "2609605",
+     "nombre": "RALPH LAUREN Refill Perfume Hombre Polo Red EDT 150ml Ralph Lauren",
+     "tienda": "Falabella",
+     "ahora": 73490,
+     "antes": 146990,
+     "pct": 50,
+     "rubro": "perfumes",
+     "esMinimo": true,
+     "dias": 29,
+     "visto": "20:28"
+    }
+   ]
   }
  },
  "config": {
@@ -3677,7 +3699,7 @@
    "hasta": "2026-11-04T00:10:53.456Z",
    "veces": 2
   },
-  "ultimaPub": "2026-11-04T00:47:45.073Z"
+  "ultimaPub": "2026-11-04T00:48:03.855Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-11-03",
@@ -3715,6 +3737,7 @@
   "2588245": "2026-11-03T12:16:02.841Z",
   "2589159": "2026-11-03T11:15:59.799Z",
   "2589932": "2026-11-03T12:31:09.734Z",
-  "2590176": "2026-11-03T12:01:32.911Z"
+  "2590176": "2026-11-03T12:01:32.911Z",
+  "2609605": "2026-11-04T00:48:03.855Z"
  }
 }
