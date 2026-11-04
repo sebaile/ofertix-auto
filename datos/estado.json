@@ -23,7 +23,7 @@
   "1841233": "2026-11-04T00:17:07.236Z",
   "1896728": "2026-11-02T00:48:51.428Z",
   "2000806": "2026-11-04T00:33:08.336Z",
-  "2066558": "2026-11-03T11:48:53.394Z",
+  "2066558": "2026-11-04T13:03:20.579Z",
   "2084002": "2026-11-04T00:33:08.336Z",
   "2084101": "2026-11-04T00:18:41.516Z",
   "2086478": "2026-11-04T01:17:52.973Z",
@@ -36,12 +36,12 @@
   "2330968": "2026-11-02T11:47:23.471Z",
   "2331057": "2026-11-04T00:35:04.385Z",
   "2331065": "2026-11-03T15:02:11.470Z",
-  "2332098": "2026-11-03T02:32:20.339Z",
+  "2332098": "2026-11-04T13:03:20.579Z",
   "2357536": "2026-11-03T13:03:28.280Z",
   "2376071": "2026-11-04T00:47:45.073Z",
   "2382802": "2026-11-04T01:17:52.973Z",
   "2421850": "2026-11-04T11:47:56.503Z",
-  "2448957": "2026-11-03T01:47:49.109Z",
+  "2448957": "2026-11-04T13:03:20.579Z",
   "2465575": "2026-11-04T00:47:45.073Z",
   "2530593": "2026-11-03T13:03:28.280Z",
   "2530594": "2026-11-03T13:04:37.049Z",
@@ -81,12 +81,12 @@
   "caja abierta danada reloj smartwatch lhotse tw58 black n black": "2026-11-04T01:17:52.973Z",
   "clinique fragancia clinique happy perfume spray 100 ml": "2026-11-04T00:33:08.336Z",
   "ventilador para pc apnx fp2 120 pwm argb color negro": "2026-11-04T00:33:08.336Z",
-  "recco enfriador de aire 50 w blanco bl 202dlr h": "2026-11-03T11:48:53.394Z",
+  "recco enfriador de aire 50 w blanco bl 202dlr h": "2026-11-04T13:03:20.579Z",
   "wurden convector conveccion qnq 101f blanco": "2026-11-04T00:18:41.516Z",
   "recco estufa electrica blanco 1200 w radiacion nsb 99y blanco": "2026-11-04T00:35:04.385Z",
   "recco mini calefactor 600 w oleoelectrica blanco": "2026-11-04T00:47:45.073Z",
   "antonio banderas perfume edt hombre the icon edt 200 ml banderas": "2026-11-03T01:47:49.109Z",
-  "electrolux lavadora carga superior 16 kg emtl16 electrolux": "2026-11-03T02:32:20.339Z",
+  "electrolux lavadora carga superior 16 kg emtl16 electrolux": "2026-11-04T13:03:20.579Z",
   "siegen alisador sg 4704 siegen airflow fast style": "2026-11-04T11:34:12.751Z",
   "audifonos jbl tune 500": "2026-11-04T00:47:45.073Z",
   "electronic arts juego ea sports fc 26 latam ns2 electronic arts": "2026-11-04T00:18:41.516Z",
@@ -95,7 +95,7 @@
   "5jj0614l21 adaptador usb wireless benq 5jj0614l21 para proyectores": "2026-11-04T11:47:56.503Z",
   "freidora de aire oster ckstaf401mdf 4 litros": "2026-11-03T00:32:18.633Z",
   "nespresso cafetera essenza mini negra espumador": "2026-11-04T02:17:02.730Z",
-  "kitchen it cafetera espresso cool shot 5 en 1 kitchen it": "2026-11-03T01:47:49.109Z",
+  "kitchen it cafetera espresso cool shot 5 en 1 kitchen it": "2026-11-04T13:03:20.579Z",
   "rabanne perfume hombre black xs edt 100ml rabanne": "2026-11-03T01:47:49.109Z",
   "smartwatch samsung galaxy watch 5 pro 45 mm semi nuevo": "2026-11-04T00:47:45.073Z",
   "jo malone london cologne fig lotus and flower 30 ml jo malone london": "2026-11-02T11:47:23.471Z",
@@ -4476,6 +4476,57 @@
      "visto": "08:29"
     }
    ]
+  },
+  "2026-11-04-r-reel-1793797400580": {
+   "tipo": "reel",
+   "fecha": "2026-11-04",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "hora": "10:03",
+   "id": "18107788145256294",
+   "enlace": "https://www.instagram.com/reel/DfUhMxClIG3/",
+   "ofertas": [
+    {
+     "id": "2448957",
+     "nombre": "KITCHEN IT Cafetera Espresso Cool Shot 5 en 1 Kitchen-it",
+     "tienda": "Sodimac",
+     "ahora": 119990,
+     "antes": 209590,
+     "pct": 42,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 88,
+     "visto": "09:41"
+    },
+    {
+     "id": "2332098",
+     "nombre": "ELECTROLUX Lavadora Carga Superior 16 Kg EMTL16 Electrolux",
+     "tienda": "Falabella",
+     "ahora": 249990,
+     "antes": 419990,
+     "pct": 40,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 50,
+     "visto": "09:41"
+    },
+    {
+     "id": "2066558",
+     "nombre": "RECCO Enfriador de aire 50 W Blanco BL-202DLR-H",
+     "tienda": "Sodimac",
+     "ahora": 33990,
+     "antes": 59990,
+     "pct": 43,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 54,
+     "visto": "09:41"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1793797328037-r2.mp4"
+   ],
+   "texto": "🔥 3 ofertas de hogar\n1. KITCHEN IT Cafetera Espresso Cool Shot 5 en 1 Kitchen-it: $119.990 (-42%, referencia $209.590) en Sodimac\n2. ELECTROLUX Lavadora Carga Superior 16 Kg EMTL16 Electrolux: $249.990 (-40%, referencia $419.990) en Falabella\n3. RECCO Enfriador de aire 50 W Blanco BL-202DLR-H: $33.990 (-43%, referencia $59.990) en Sodimac\n\n⏰ Precios vistos hoy (4/11) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #hogar #descuentoschile #ofertix #ofertasdeldia #ahorrar"
   }
  },
  "config": {
@@ -4495,7 +4546,7 @@
    "hasta": "2026-11-04T00:10:53.456Z",
    "veces": 2
   },
-  "ultimaPub": "2026-11-04T12:46:36.639Z"
+  "ultimaPub": "2026-11-04T13:03:20.580Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-11-03",
