@@ -4152,6 +4152,28 @@
     "tmp-medios/1793791970704-r0.mp4"
    ],
    "texto": "🔥 3 ofertas de tecnología\n1. KITCHEN IT Horno Eléctrico 60 Litros Silver Series: $64.990 (-47%, referencia $124.490) en Sodimac · 📉 mínimo de 84 días\n2. EL GANSO Perfume Hombre Part Time Hero Edt 125Ml El Ganso: $41.990 (-40%, referencia $69.990) en Falabella · 📉 mínimo de 71 días\n3. SIEGEN Alisador SG-4704 Siegen Airflow + Fast Style: $45.990 (-42%, referencia $79.990) en Falabella · 📉 mínimo de 69 días\n\n⏰ Precios vistos hoy (4/11) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
+  },
+  "2026-11-04-r-historia-1793792759708": {
+   "tipo": "historia",
+   "fecha": "2026-11-04",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "hora": "08:45",
+   "id": "18494339533129659",
+   "ofertas": [
+    {
+     "id": "2604828",
+     "nombre": "HUAWEI Router Wifi Mesh X3 Pro Huawei",
+     "tienda": "Falabella",
+     "ahora": 167990,
+     "antes": 299990,
+     "pct": 44,
+     "rubro": "tecnologia",
+     "esMinimo": false,
+     "dias": 64,
+     "visto": "08:29"
+    }
+   ]
   }
  },
  "config": {
@@ -4171,7 +4193,7 @@
    "hasta": "2026-11-04T00:10:53.456Z",
    "veces": 2
   },
-  "ultimaPub": "2026-11-04T11:34:12.751Z"
+  "ultimaPub": "2026-11-04T11:45:59.708Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-11-03",
@@ -4207,6 +4229,7 @@
   "2589932": "2026-11-03T12:31:09.734Z",
   "2590176": "2026-11-03T12:01:32.911Z",
   "2603475": "2026-11-04T02:32:18.959Z",
+  "2604828": "2026-11-04T11:45:59.708Z",
   "2609605": "2026-11-04T00:48:03.855Z"
  }
 }
