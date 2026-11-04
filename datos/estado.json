@@ -22,13 +22,13 @@
   "2000806": "2026-11-03T00:04:25.055Z",
   "2066558": "2026-11-03T11:48:53.394Z",
   "2084002": "2026-11-03T00:02:30.026Z",
-  "2084101": "2026-11-02T23:17:40.357Z",
+  "2084101": "2026-11-04T00:18:41.516Z",
   "2086478": "2026-11-03T00:32:18.633Z",
   "2086682": "2026-11-03T00:19:50.608Z",
   "2103253": "2026-11-03T00:17:50.862Z",
   "2103254": "2026-11-03T00:19:50.608Z",
-  "2103256": "2026-11-03T00:02:30.026Z",
-  "2330924": "2026-11-03T00:02:30.026Z",
+  "2103256": "2026-11-04T00:18:41.516Z",
+  "2330924": "2026-11-04T00:18:41.516Z",
   "2330968": "2026-11-02T11:47:23.471Z",
   "2331065": "2026-11-03T15:02:11.470Z",
   "2332098": "2026-11-03T02:32:20.339Z",
@@ -62,19 +62,19 @@
   "hamilton beach microondas digital 23 litros inox hb p90d23el lxa": "2026-11-04T00:17:07.236Z",
   "nex aire acondicionado 9000btu acp09288 fcwifi": "2026-11-02T00:48:51.428Z",
   "toyotomi horno electrico empotrado 56 litros he9silver": "2026-11-03T00:04:25.055Z",
-  "clinique fragancia clinique happy for men 100ml": "2026-11-02T23:17:40.357Z",
+  "clinique fragancia clinique happy for men 100ml": "2026-11-04T00:18:41.516Z",
   "caja abierta danada reloj smartwatch lhotse tw58 black n black": "2026-11-03T00:32:18.633Z",
   "clinique fragancia clinique happy perfume spray 100 ml": "2026-11-03T00:02:30.026Z",
   "ventilador para pc apnx fp2 120 pwm argb color negro": "2026-11-03T00:19:50.608Z",
   "recco enfriador de aire 50 w blanco bl 202dlr h": "2026-11-03T11:48:53.394Z",
-  "wurden convector conveccion qnq 101f blanco": "2026-11-03T00:02:30.026Z",
+  "wurden convector conveccion qnq 101f blanco": "2026-11-04T00:18:41.516Z",
   "recco estufa electrica blanco 1200 w radiacion nsb 99y blanco": "2026-11-03T00:17:50.862Z",
   "recco mini calefactor 600 w oleoelectrica blanco": "2026-11-03T00:19:50.608Z",
   "antonio banderas perfume edt hombre the icon edt 200 ml banderas": "2026-11-03T01:47:49.109Z",
   "electrolux lavadora carga superior 16 kg emtl16 electrolux": "2026-11-03T02:32:20.339Z",
   "siegen alisador sg 4704 siegen airflow fast style": "2026-11-01T18:03:17.381Z",
   "audifonos jbl tune 500": "2026-11-03T00:19:50.608Z",
-  "electronic arts juego ea sports fc 26 latam ns2 electronic arts": "2026-11-03T00:02:30.026Z",
+  "electronic arts juego ea sports fc 26 latam ns2 electronic arts": "2026-11-04T00:18:41.516Z",
   "tom ford soleil neige edp unisex 100ml 3 4floz tom ford": "2026-11-03T00:04:25.055Z",
   "gama cepillo modelador rotatorio gama 2600 ion": "2026-11-03T00:04:25.055Z",
   "5jj0614l21 adaptador usb wireless benq 5jj0614l21 para proyectores": "2026-11-03T11:02:43.426Z",
@@ -3295,6 +3295,57 @@
     "tmp-medios/1793751347066-r2.mp4"
    ],
    "texto": "🔥 3 ofertas las mejores del día\n1. HAMILTON BEACH Microondas Digital 23 Litros Inox HB-P90D23EL-LXA: $44.990 (-55%, referencia $99.990) en Sodimac · 📉 mínimo de 54 días\n2. Parlante Portátil Aiwa AW-A521 90W Bluetooth Negro: $69.990 (-53%, referencia $149.990) en ABC · 📉 mínimo de 34 días\n3. RALPH LAUREN Refill Perfume Hombre Polo Red EDT 150ml Ralph Lauren: $73.490 (-50%, referencia $146.990) en Falabella · 📉 mínimo de 29 días\n\n⏰ Precios vistos hoy (3/11) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
+  },
+  "2026-11-03-r-reel-1793751521517": {
+   "tipo": "reel",
+   "fecha": "2026-11-03",
+   "estado": "publicado",
+   "bloque": "recopilaciones",
+   "hora": "21:18",
+   "id": "17914521462500282",
+   "enlace": "https://www.instagram.com/reel/DfTJsXWjryX/",
+   "ofertas": [
+    {
+     "id": "2084101",
+     "nombre": "CLINIQUE Fragancia Clinique Happy for Men 100ml",
+     "tienda": "Falabella",
+     "ahora": 34990,
+     "antes": 98900,
+     "pct": 64,
+     "rubro": "perfumes",
+     "esMinimo": false,
+     "dias": 64,
+     "visto": "20:28"
+    },
+    {
+     "id": "2103256",
+     "nombre": "WURDEN Convector Convección QNQ-101F Blanco",
+     "tienda": "Sodimac",
+     "ahora": 44990,
+     "antes": 89990,
+     "pct": 50,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 89,
+     "visto": "20:28"
+    },
+    {
+     "id": "2330924",
+     "nombre": "ELECTRONIC ARTS Juego Ea Sports Fc 26 Latam Ns2 Electronic Arts",
+     "tienda": "Falabella",
+     "ahora": 19990,
+     "antes": 47990,
+     "pct": 58,
+     "rubro": "gamer",
+     "esMinimo": false,
+     "dias": 81,
+     "visto": "20:28"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1793751436247-r3.mp4"
+   ],
+   "texto": "🔥 3 ofertas las mejores del día\n1. CLINIQUE Fragancia Clinique Happy for Men 100ml: $34.990 (-64%, referencia $98.900) en Falabella\n2. WURDEN Convector Convección QNQ-101F Blanco: $44.990 (-50%, referencia $89.990) en Sodimac · 📉 mínimo de 89 días\n3. ELECTRONIC ARTS Juego Ea Sports Fc 26 Latam Ns2 Electronic Arts: $19.990 (-58%, referencia $47.990) en Falabella\n\n⏰ Precios vistos hoy (3/11) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
   }
  },
  "config": {
@@ -3314,7 +3365,7 @@
    "hasta": "2026-11-04T00:10:53.456Z",
    "veces": 2
   },
-  "ultimaPub": "2026-11-04T00:17:07.237Z"
+  "ultimaPub": "2026-11-04T00:18:41.517Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-11-02",
