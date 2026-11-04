@@ -2,7 +2,7 @@
  "offset": 44460906,
  "usadas": {
   "825797": "2026-11-04T00:33:08.336Z",
-  "825801": "2026-11-01T18:03:17.381Z",
+  "825801": "2026-11-04T11:34:12.751Z",
   "831338": "2026-11-03T13:03:28.280Z",
   "1087242": "2026-11-03T01:47:49.109Z",
   "1131276": "2026-11-03T00:04:25.055Z",
@@ -44,6 +44,7 @@
   "2530593": "2026-11-03T13:03:28.280Z",
   "2530594": "2026-11-03T13:04:37.049Z",
   "2572439": "2026-11-04T00:47:45.073Z",
+  "2572440": "2026-11-04T11:34:12.751Z",
   "2572543": "2026-11-04T01:32:29.441Z",
   "2581544": "2026-11-04T01:17:52.973Z",
   "2581769": "2026-11-04T02:17:02.730Z",
@@ -52,6 +53,7 @@
   "2589159": "2026-11-03T11:33:09.533Z",
   "2589932": "2026-11-03T11:48:53.394Z",
   "2590176": "2026-11-03T11:33:09.533Z",
+  "2603955": "2026-11-04T11:34:12.751Z",
   "2604828": "2026-11-04T01:17:52.973Z",
   "2604884": "2026-11-04T00:47:45.073Z",
   "2605022": "2026-11-04T01:32:29.441Z",
@@ -79,7 +81,7 @@
   "recco mini calefactor 600 w oleoelectrica blanco": "2026-11-04T00:47:45.073Z",
   "antonio banderas perfume edt hombre the icon edt 200 ml banderas": "2026-11-03T01:47:49.109Z",
   "electrolux lavadora carga superior 16 kg emtl16 electrolux": "2026-11-03T02:32:20.339Z",
-  "siegen alisador sg 4704 siegen airflow fast style": "2026-11-01T18:03:17.381Z",
+  "siegen alisador sg 4704 siegen airflow fast style": "2026-11-04T11:34:12.751Z",
   "audifonos jbl tune 500": "2026-11-04T00:47:45.073Z",
   "electronic arts juego ea sports fc 26 latam ns2 electronic arts": "2026-11-04T00:18:41.516Z",
   "tom ford soleil neige edp unisex 100ml 3 4floz tom ford": "2026-11-04T01:17:52.973Z",
@@ -112,7 +114,9 @@
   "huawei router wifi mesh x3 pro huawei": "2026-11-04T01:17:52.973Z",
   "jbl jbl parlante bluetooth clip 5 morado": "2026-11-04T01:32:29.441Z",
   "rabanne la collection midnight sex edp 125 ml": "2026-11-04T02:17:02.730Z",
-  "sony audifonos de estudio mdr 7506 de sony": "2026-11-04T11:32:39.240Z"
+  "sony audifonos de estudio mdr 7506 de sony": "2026-11-04T11:32:39.240Z",
+  "kitchen it horno electrico 60 litros silver series": "2026-11-04T11:34:12.751Z",
+  "el ganso perfume hombre part time hero edt 125ml el ganso": "2026-11-04T11:34:12.751Z"
  },
  "items": {
   "2026-11-01-r-carrusel-1793553454948": {
@@ -4097,6 +4101,57 @@
     "tmp-medios/1793791930142-c0-2.jpg"
    ],
    "texto": "🔥 OFERTA NUEVA\nSony Audífonos de Estudio MDR-7506 de Sony\nAhora: $89.990 (-43%)\nReferencia: $159.990\n🏪 Lider Marketplace\n\n✅ Precio visto hoy a las 07:38 en nuestro sistema.\n📉 Es el precio más bajo de los últimos 76 días.\n⏰ Puede cambiar o agotarse sin aviso.\n📲 Enlace directo en Telegram: t.me/ofertixcl\n\n#ofertaschile #tecnologia #descuentoschile #ofertix #ofertasdeldia"
+  },
+  "2026-11-04-r-reel-1793792052751": {
+   "tipo": "reel",
+   "fecha": "2026-11-04",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "hora": "08:34",
+   "id": "17906840658350536",
+   "enlace": "https://www.instagram.com/reel/DfUW_2AgCmF/",
+   "ofertas": [
+    {
+     "id": "2572440",
+     "nombre": "KITCHEN IT Horno Eléctrico 60 Litros Silver Series",
+     "tienda": "Sodimac",
+     "ahora": 64990,
+     "antes": 124490,
+     "pct": 47,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 84,
+     "visto": "07:38"
+    },
+    {
+     "id": "2603955",
+     "nombre": "EL GANSO Perfume Hombre Part Time Hero Edt 125Ml El Ganso",
+     "tienda": "Falabella",
+     "ahora": 41990,
+     "antes": 69990,
+     "pct": 40,
+     "rubro": "perfumes",
+     "esMinimo": true,
+     "dias": 71,
+     "visto": "07:38"
+    },
+    {
+     "id": "825801",
+     "nombre": "SIEGEN Alisador SG-4704 Siegen Airflow + Fast Style",
+     "tienda": "Falabella",
+     "ahora": 45990,
+     "antes": 79990,
+     "pct": 42,
+     "rubro": "belleza",
+     "esMinimo": true,
+     "dias": 69,
+     "visto": "07:38"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1793791970704-r0.mp4"
+   ],
+   "texto": "🔥 3 ofertas de tecnología\n1. KITCHEN IT Horno Eléctrico 60 Litros Silver Series: $64.990 (-47%, referencia $124.490) en Sodimac · 📉 mínimo de 84 días\n2. EL GANSO Perfume Hombre Part Time Hero Edt 125Ml El Ganso: $41.990 (-40%, referencia $69.990) en Falabella · 📉 mínimo de 71 días\n3. SIEGEN Alisador SG-4704 Siegen Airflow + Fast Style: $45.990 (-42%, referencia $79.990) en Falabella · 📉 mínimo de 69 días\n\n⏰ Precios vistos hoy (4/11) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
   }
  },
  "config": {
@@ -4116,7 +4171,7 @@
    "hasta": "2026-11-04T00:10:53.456Z",
    "veces": 2
   },
-  "ultimaPub": "2026-11-04T11:32:39.241Z"
+  "ultimaPub": "2026-11-04T11:34:12.751Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-11-03",
