@@ -13,7 +13,7 @@
   "1530831": "2026-11-04T02:17:02.730Z",
   "1531094": "2026-11-04T14:32:45.392Z",
   "1574456": "2026-11-03T01:32:23.103Z",
-  "1673324": "2026-11-03T01:47:49.109Z",
+  "1673324": "2026-11-04T15:02:15.087Z",
   "1673333": "2026-11-04T14:17:19.749Z",
   "1673340": "2026-11-04T01:32:29.441Z",
   "1695609": "2026-11-04T00:33:08.336Z",
@@ -98,7 +98,7 @@
   "freidora de aire oster ckstaf401mdf 4 litros": "2026-11-03T00:32:18.633Z",
   "nespresso cafetera essenza mini negra espumador": "2026-11-04T02:17:02.730Z",
   "kitchen it cafetera espresso cool shot 5 en 1 kitchen it": "2026-11-04T13:03:20.579Z",
-  "rabanne perfume hombre black xs edt 100ml rabanne": "2026-11-03T01:47:49.109Z",
+  "rabanne perfume hombre black xs edt 100ml rabanne": "2026-11-04T15:02:15.087Z",
   "smartwatch samsung galaxy watch 5 pro 45 mm semi nuevo": "2026-11-04T00:47:45.073Z",
   "jo malone london cologne fig lotus and flower 30 ml jo malone london": "2026-11-02T11:47:23.471Z",
   "kitchen it horno pizza 1 litros black edition": "2026-11-04T00:47:45.073Z",
@@ -4882,6 +4882,35 @@
      "visto": "10:41"
     }
    ]
+  },
+  "2026-11-04-r-carrusel-1793804535087": {
+   "tipo": "carrusel",
+   "fecha": "2026-11-04",
+   "estado": "publicado",
+   "bloque": "comparativas",
+   "formato": "oferta",
+   "hora": "12:02",
+   "id": "17971942221186737",
+   "enlace": "https://www.instagram.com/p/DfUu2h3lZ6O/",
+   "ofertas": [
+    {
+     "id": "1673324",
+     "nombre": "RABANNE Perfume Hombre Black Xs Edt 100Ml Rabanne",
+     "tienda": "Falabella",
+     "ahora": 71990,
+     "antes": 119990,
+     "pct": 40,
+     "rubro": "perfumes",
+     "esMinimo": false,
+     "dias": 67,
+     "visto": "11:33"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1793804508715-c5-1.jpg",
+    "tmp-medios/1793804508715-c5-2.jpg"
+   ],
+   "texto": "🔥 OFERTA DEL DÍA\nRABANNE Perfume Hombre Black Xs Edt 100Ml Rabanne\nAhora: $71.990 (-40%)\nReferencia: $119.990\n🏪 Falabella\n\n✅ Precio visto hoy a las 11:33 en nuestro sistema.\n⏰ Puede cambiar o agotarse sin aviso.\n📲 Enlace directo en Telegram: t.me/ofertixcl\n\n#ofertaschile #perfumes #descuentoschile #ofertix #ofertasdeldia"
   }
  },
  "config": {
@@ -4901,7 +4930,7 @@
    "hasta": "2026-11-04T00:10:53.456Z",
    "veces": 2
   },
-  "ultimaPub": "2026-11-04T14:46:35.860Z"
+  "ultimaPub": "2026-11-04T15:02:15.087Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-11-03",
