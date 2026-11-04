@@ -9,7 +9,7 @@
   "1137440": "2026-11-04T00:35:04.385Z",
   "1530826": "2026-11-04T01:17:52.973Z",
   "1530827": "2026-11-03T00:32:18.633Z",
-  "1530831": "2026-11-03T01:47:49.109Z",
+  "1530831": "2026-11-04T02:17:02.730Z",
   "1531094": "2026-11-03T11:48:53.394Z",
   "1574456": "2026-11-03T01:32:23.103Z",
   "1673324": "2026-11-03T01:47:49.109Z",
@@ -45,7 +45,8 @@
   "2572439": "2026-11-04T00:47:45.073Z",
   "2572543": "2026-11-04T01:32:29.441Z",
   "2581544": "2026-11-04T01:17:52.973Z",
-  "2581769": "2026-11-03T01:32:23.103Z",
+  "2581769": "2026-11-04T02:17:02.730Z",
+  "2588240": "2026-11-04T02:17:02.730Z",
   "2588245": "2026-11-03T11:48:53.394Z",
   "2589159": "2026-11-03T11:33:09.533Z",
   "2589932": "2026-11-03T11:48:53.394Z",
@@ -84,7 +85,7 @@
   "gama cepillo modelador rotatorio gama 2600 ion": "2026-11-04T00:33:08.336Z",
   "5jj0614l21 adaptador usb wireless benq 5jj0614l21 para proyectores": "2026-11-03T11:02:43.426Z",
   "freidora de aire oster ckstaf401mdf 4 litros": "2026-11-03T00:32:18.633Z",
-  "nespresso cafetera essenza mini negra espumador": "2026-11-03T01:47:49.109Z",
+  "nespresso cafetera essenza mini negra espumador": "2026-11-04T02:17:02.730Z",
   "kitchen it cafetera espresso cool shot 5 en 1 kitchen it": "2026-11-03T01:47:49.109Z",
   "rabanne perfume hombre black xs edt 100ml rabanne": "2026-11-03T01:47:49.109Z",
   "smartwatch samsung galaxy watch 5 pro 45 mm semi nuevo": "2026-11-04T00:47:45.073Z",
@@ -93,7 +94,7 @@
   "kitchen it hervidor 2 5 litros negro big edition 2 5l": "2026-11-04T01:32:29.441Z",
   "samsung monitor gamer samsung odyssey g3 24": "2026-11-04T01:17:52.973Z",
   "ursus trotter horno electrica 38 litros ut backofen pro38i": "2026-11-03T01:32:23.103Z",
-  "smartwatch honor choice watch 2 epic negro": "2026-11-03T01:32:23.103Z",
+  "smartwatch honor choice watch 2 epic negro": "2026-11-04T02:17:02.730Z",
   "michael kors perfume hombre absolu homme edp 30ml michael kors": "2026-11-03T11:33:09.533Z",
   "burberry burberry goddess parfum para mujer 50 ml": "2026-11-03T11:33:09.533Z",
   "rabanne la collection rose 1969 edp 125 ml": "2026-11-03T11:48:53.394Z",
@@ -108,7 +109,8 @@
   "rabanne la collection metal mesh edp 125 ml": "2026-11-04T00:47:45.073Z",
   "freidora de aire oster ckstaf40wddf 4 litros": "2026-11-04T01:17:52.973Z",
   "huawei router wifi mesh x3 pro huawei": "2026-11-04T01:17:52.973Z",
-  "jbl jbl parlante bluetooth clip 5 morado": "2026-11-04T01:32:29.441Z"
+  "jbl jbl parlante bluetooth clip 5 morado": "2026-11-04T01:32:29.441Z",
+  "rabanne la collection midnight sex edp 125 ml": "2026-11-04T02:17:02.730Z"
  },
  "items": {
   "2026-11-01-r-carrusel-1793553454948": {
@@ -3947,6 +3949,57 @@
      "visto": "22:25"
     }
    ]
+  },
+  "2026-11-03-r-reel-1793758622730": {
+   "tipo": "reel",
+   "fecha": "2026-11-03",
+   "estado": "publicado",
+   "bloque": "recopilaciones",
+   "hora": "23:17",
+   "id": "17990180534874901",
+   "enlace": "https://www.instagram.com/reel/DfTXPJSIPav/",
+   "ofertas": [
+    {
+     "id": "2588240",
+     "nombre": "RABANNE La Collection Midnight Sex EDP 125 ML",
+     "tienda": "Falabella",
+     "ahora": 134990,
+     "antes": 269990,
+     "pct": 50,
+     "rubro": "perfumes",
+     "esMinimo": false,
+     "dias": 0,
+     "visto": "22:25"
+    },
+    {
+     "id": "1530831",
+     "nombre": "Nespresso Cafetera Essenza Mini Negra + Espumador",
+     "tienda": "Lider",
+     "ahora": 99990,
+     "antes": 179990,
+     "pct": 44,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 89,
+     "visto": "22:25"
+    },
+    {
+     "id": "2581769",
+     "nombre": "Smartwatch Honor Choice Watch 2 Epic Negro",
+     "tienda": "PC Factory",
+     "ahora": 103090,
+     "antes": 179990,
+     "pct": 42,
+     "rubro": "otros",
+     "esMinimo": false,
+     "dias": 7,
+     "visto": "22:25"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1793758545401-r6.mp4"
+   ],
+   "texto": "🔥 3 ofertas las mejores del día\n1. RABANNE La Collection Midnight Sex EDP 125 ML: $134.990 (-50%, referencia $269.990) en Falabella\n2. Nespresso Cafetera Essenza Mini Negra + Espumador: $99.990 (-44%, referencia $179.990) en Lider\n3. Smartwatch Honor Choice Watch 2 Epic Negro: $103.090 (-42%, referencia $179.990) en PC Factory\n\n⏰ Precios vistos hoy (3/11) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
   }
  },
  "config": {
@@ -3966,7 +4019,7 @@
    "hasta": "2026-11-04T00:10:53.456Z",
    "veces": 2
   },
-  "ultimaPub": "2026-11-04T02:01:32.023Z"
+  "ultimaPub": "2026-11-04T02:17:02.730Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-11-03",
