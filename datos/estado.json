@@ -4379,6 +4379,28 @@
     "tmp-medios/1793794572578-r1.mp4"
    ],
    "texto": "🔥 3 ofertas nuevas de hoy\n1. RABANNE La Collection After Club EDP 125 ML: $134.990 (-50%, referencia $269.990) en Falabella\n2. Samsung Encimera A Gas 5 Quemadores Na75D3030As/Zs Samsung: $199.990 (-44%, referencia $359.990) en Lider Marketplace\n3. OSCAR DE LA RENTA Perfume Mujer Bella Bouquet EDP 100Ml Oscar La Renta: $65.990 (-40%, referencia $109.990) en Falabella\n\n⏰ Precios vistos hoy (4/11) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
+  },
+  "2026-11-04-r-historia-1793795475572": {
+   "tipo": "historia",
+   "fecha": "2026-11-04",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "hora": "09:31",
+   "id": "18636096580022614",
+   "ofertas": [
+    {
+     "id": "2194438",
+     "nombre": "Sony Audífonos de Estudio MDR-7506 de Sony",
+     "tienda": "Lider Marketplace",
+     "ahora": 89990,
+     "antes": 159990,
+     "pct": 43,
+     "rubro": "tecnologia",
+     "esMinimo": true,
+     "dias": 76,
+     "visto": "08:29"
+    }
+   ]
   }
  },
  "config": {
@@ -4398,7 +4420,7 @@
    "hasta": "2026-11-04T00:10:53.456Z",
    "veces": 2
   },
-  "ultimaPub": "2026-11-04T12:17:35.223Z"
+  "ultimaPub": "2026-11-04T12:31:15.573Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-11-03",
@@ -4419,6 +4441,7 @@
   "2103253": "2026-11-03T02:01:43.768Z",
   "2103254": "2026-11-03T02:16:08.988Z",
   "2103256": "2026-11-04T02:01:32.022Z",
+  "2194438": "2026-11-04T12:31:15.572Z",
   "2330924": "2026-11-03T14:46:26.328Z",
   "2331065": "2026-11-04T01:02:53.448Z",
   "2376071": "2026-11-03T12:01:12.594Z",
