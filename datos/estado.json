@@ -26,7 +26,7 @@
   "2066558": "2026-11-04T13:03:20.579Z",
   "2084002": "2026-11-05T02:32:52.947Z",
   "2084101": "2026-11-05T02:02:21.217Z",
-  "2086478": "2026-11-04T01:17:52.973Z",
+  "2086478": "2026-11-05T15:18:18.068Z",
   "2086682": "2026-11-05T02:32:52.947Z",
   "2103253": "2026-11-05T02:02:21.217Z",
   "2103254": "2026-11-05T02:32:52.947Z",
@@ -48,7 +48,7 @@
   "2530594": "2026-11-03T13:04:37.049Z",
   "2572439": "2026-11-05T14:33:27.815Z",
   "2572440": "2026-11-05T11:48:17.225Z",
-  "2572543": "2026-11-04T01:32:29.441Z",
+  "2572543": "2026-11-05T15:18:18.068Z",
   "2572578": "2026-11-05T13:48:14.797Z",
   "2581544": "2026-11-04T01:17:52.973Z",
   "2581769": "2026-11-04T02:17:02.730Z",
@@ -56,7 +56,7 @@
   "2588245": "2026-11-05T15:03:51.580Z",
   "2588284": "2026-11-04T12:17:35.222Z",
   "2589159": "2026-11-03T11:33:09.533Z",
-  "2589932": "2026-11-04T12:17:35.222Z",
+  "2589932": "2026-11-05T15:18:18.068Z",
   "2590176": "2026-11-03T11:33:09.533Z",
   "2591845": "2026-11-05T15:03:51.580Z",
   "2603038": "2026-11-04T12:32:28.362Z",
@@ -90,7 +90,7 @@
   "hamilton beach microondas digital 23 litros inox hb p90d23el lxa": "2026-11-04T00:17:07.236Z",
   "toyotomi horno electrico empotrado 56 litros he9silver": "2026-11-05T01:47:58.861Z",
   "clinique fragancia clinique happy for men 100ml": "2026-11-05T02:02:21.217Z",
-  "caja abierta danada reloj smartwatch lhotse tw58 black n black": "2026-11-04T01:17:52.973Z",
+  "caja abierta danada reloj smartwatch lhotse tw58 black n black": "2026-11-05T15:18:18.068Z",
   "clinique fragancia clinique happy perfume spray 100 ml": "2026-11-05T02:32:52.947Z",
   "ventilador para pc apnx fp2 120 pwm argb color negro": "2026-11-05T02:32:52.947Z",
   "recco enfriador de aire 50 w blanco bl 202dlr h": "2026-11-04T13:03:20.579Z",
@@ -111,14 +111,14 @@
   "rabanne perfume hombre black xs edt 100ml rabanne": "2026-11-04T15:02:15.087Z",
   "smartwatch samsung galaxy watch 5 pro 45 mm semi nuevo": "2026-11-05T15:03:51.580Z",
   "kitchen it horno pizza 1 litros black edition": "2026-11-05T14:33:27.815Z",
-  "kitchen it hervidor 2 5 litros negro big edition 2 5l": "2026-11-04T01:32:29.441Z",
+  "kitchen it hervidor 2 5 litros negro big edition 2 5l": "2026-11-05T15:18:18.068Z",
   "samsung monitor gamer samsung odyssey g3 24": "2026-11-04T01:17:52.973Z",
   "ursus trotter horno electrica 38 litros ut backofen pro38i": "2026-11-03T01:32:23.103Z",
   "smartwatch honor choice watch 2 epic negro": "2026-11-04T02:17:02.730Z",
   "michael kors perfume hombre absolu homme edp 30ml michael kors": "2026-11-03T11:33:09.533Z",
   "burberry burberry goddess parfum para mujer 50 ml": "2026-11-03T11:33:09.533Z",
   "rabanne la collection rose 1969 edp 125 ml": "2026-11-05T15:03:51.580Z",
-  "rabanne la collection after club edp 125 ml": "2026-11-04T12:17:35.222Z",
+  "rabanne la collection after club edp 125 ml": "2026-11-05T15:18:18.068Z",
   "shakira perfume shakira rojo elixir edp mujer 80 ml": "2026-11-03T13:03:28.280Z",
   "oster licuadora xpert series 1100w blend n go blst3b cpg": "2026-11-03T13:03:28.280Z",
   "clinique perfume clinique happy mujer edp 100 ml": "2026-11-03T13:03:28.280Z",
@@ -5237,6 +5237,57 @@
      "visto": "11:04"
     }
    ]
+  },
+  "2026-11-05-r-reel-1793891898068": {
+   "tipo": "reel",
+   "fecha": "2026-11-05",
+   "estado": "publicado",
+   "bloque": "comparativas",
+   "hora": "12:18",
+   "id": "18033286364911602",
+   "enlace": "https://www.instagram.com/reel/DfXVb9OkULi/",
+   "ofertas": [
+    {
+     "id": "2589932",
+     "nombre": "RABANNE La Collection After Club EDP 125 ML",
+     "tienda": "Falabella",
+     "ahora": 134990,
+     "antes": 269990,
+     "pct": 50,
+     "rubro": "perfumes",
+     "esMinimo": false,
+     "dias": 2,
+     "visto": "11:04"
+    },
+    {
+     "id": "2572543",
+     "nombre": "KITCHEN IT Hervidor 2.5 Litros Negro Big Edition 2,5L",
+     "tienda": "Sodimac",
+     "ahora": 19990,
+     "antes": 39990,
+     "pct": 50,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 87,
+     "visto": "11:04"
+    },
+    {
+     "id": "2086478",
+     "nombre": "CAJA ABIERTA/DAÑADA Reloj Smartwatch Lhotse TW58 Black'n Black",
+     "tienda": "SP Digital",
+     "ahora": 88820,
+     "antes": 156740,
+     "pct": 43,
+     "rubro": "otros",
+     "esMinimo": false,
+     "dias": 14,
+     "visto": "11:04"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1793891813284-r4.mp4"
+   ],
+   "texto": "🔥 3 ofertas en comparativa: mismo tipo de producto\n1. RABANNE La Collection After Club EDP 125 ML: $134.990 (-50%, referencia $269.990) en Falabella\n2. KITCHEN IT Hervidor 2.5 Litros Negro Big Edition 2,5L: $19.990 (-50%, referencia $39.990) en Sodimac\n3. CAJA ABIERTA/DAÑADA Reloj Smartwatch Lhotse TW58 Black'n Black: $88.820 (-43%, referencia $156.740) en SP Digital\n\n⏰ Precios vistos hoy (5/11) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
   }
  },
  "config": {
@@ -5256,7 +5307,7 @@
    "hasta": "2026-11-05T01:39:23.634Z",
    "veces": 2
   },
-  "ultimaPub": "2026-11-05T15:16:41.729Z"
+  "ultimaPub": "2026-11-05T15:18:18.068Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-11-04",
