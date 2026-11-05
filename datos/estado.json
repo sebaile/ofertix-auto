@@ -4512,6 +4512,28 @@
     "tmp-medios/1793879253344-c1-3.jpg"
    ],
    "texto": "🏆 Ofertas nuevas de hoy\n1. RALPH LAUREN Perfume Hombre Polo Red Racing EDT 125ml Ralph Lauren: $40.490 (-70%) en Falabella · 📉 mínimo de 89 días\n2. Cojín para Brazos Dragster Ergopad Memory Cloud Rosso: $12.829 (-58%) en Dust2\n3. KITCHEN IT Horno Eléctrico 60 Litros Silver Series: $64.990 (-47%) en Sodimac · 📉 mínimo de 85 días\n4. JBL JBL Parlante Bluetooth Clip 5 Morado: $42.990 (-46%) en Falabella\n5. Alisador Siegen SG-B4704: $45.990 (-42%) en Hites\n\n⏰ Precios vistos hoy (5/11) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #top5 #descuentoschile #ofertix #ahorrar"
+  },
+  "2026-11-05-r-historia-1793879319736": {
+   "tipo": "historia",
+   "fecha": "2026-11-05",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "hora": "08:48",
+   "id": "18098894363451671",
+   "ofertas": [
+    {
+     "id": "2661732",
+     "nombre": "Mouse Inalámbrico Fantech WG9RD KANATA 12.000 DPI Black",
+     "tienda": "Dust2",
+     "ahora": 21389,
+     "antes": 37440,
+     "pct": 42,
+     "rubro": "tecnologia",
+     "esMinimo": true,
+     "dias": 34,
+     "visto": "08:01"
+    }
+   ]
   }
  },
  "config": {
@@ -4531,7 +4553,7 @@
    "hasta": "2026-11-05T01:39:23.634Z",
    "veces": 2
   },
-  "ultimaPub": "2026-11-05T11:48:17.226Z"
+  "ultimaPub": "2026-11-05T11:48:39.737Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-11-04",
@@ -4569,6 +4591,7 @@
   "2605022": "2026-11-04T12:02:02.950Z",
   "2609605": "2026-11-04T13:32:25.771Z",
   "2646027": "2026-11-05T01:49:19.742Z",
+  "2661732": "2026-11-05T11:48:39.736Z",
   "2661748": "2026-11-05T11:02:30.932Z",
   "2669037": "2026-11-05T11:16:19.358Z"
  }
