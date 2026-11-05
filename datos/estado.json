@@ -8,6 +8,7 @@
   "1087242": "2026-11-03T01:47:49.109Z",
   "1131276": "2026-11-03T00:04:25.055Z",
   "1137440": "2026-11-04T00:35:04.385Z",
+  "1151594": "2026-11-05T13:48:14.797Z",
   "1530826": "2026-11-04T01:17:52.973Z",
   "1530827": "2026-11-03T00:32:18.633Z",
   "1530831": "2026-11-04T02:17:02.730Z",
@@ -19,7 +20,7 @@
   "1695609": "2026-11-05T02:32:52.947Z",
   "1765725": "2026-11-04T12:17:35.222Z",
   "1784905": "2026-11-05T01:47:58.861Z",
-  "1827803": "2026-11-04T11:47:56.503Z",
+  "1827803": "2026-11-05T13:48:14.797Z",
   "1841233": "2026-11-04T00:17:07.236Z",
   "2000806": "2026-11-05T01:47:58.861Z",
   "2066558": "2026-11-04T13:03:20.579Z",
@@ -48,6 +49,7 @@
   "2572439": "2026-11-04T00:47:45.073Z",
   "2572440": "2026-11-05T11:48:17.225Z",
   "2572543": "2026-11-04T01:32:29.441Z",
+  "2572578": "2026-11-05T13:48:14.797Z",
   "2581544": "2026-11-04T01:17:52.973Z",
   "2581769": "2026-11-04T02:17:02.730Z",
   "2588240": "2026-11-04T02:17:02.730Z",
@@ -83,7 +85,7 @@
   "mikrotik mantbox 52 15s with routeros l4 license": "2026-11-05T02:32:52.947Z",
   "samsung audifonos in ear sm r400nzaalta bluetooth v5 2 gray": "2026-11-04T00:35:04.385Z",
   "parlante portatil aiwa aw a521 90w bluetooth negro": "2026-11-05T01:47:58.861Z",
-  "licuadora easyways licuadora crush n roll 1 5 l": "2026-11-04T11:47:56.503Z",
+  "licuadora easyways licuadora crush n roll 1 5 l": "2026-11-05T13:48:14.797Z",
   "hamilton beach microondas digital 23 litros inox hb p90d23el lxa": "2026-11-04T00:17:07.236Z",
   "toyotomi horno electrico empotrado 56 litros he9silver": "2026-11-05T01:47:58.861Z",
   "clinique fragancia clinique happy for men 100ml": "2026-11-05T02:02:21.217Z",
@@ -148,7 +150,9 @@
   "cojin para brazos dragster ergopad memory cloud rosso": "2026-11-05T11:48:17.225Z",
   "alisador siegen sg b4704": "2026-11-05T11:48:17.225Z",
   "teclado gamer logitech g512 x 75 dual swap negro": "2026-11-05T12:33:42.593Z",
-  "fdv freidora de aire airflow 3 5 lts fdv negro": "2026-11-05T12:33:42.593Z"
+  "fdv freidora de aire airflow 3 5 lts fdv negro": "2026-11-05T12:33:42.593Z",
+  "cafetera portatil denokin para auto y camping 3 en 1": "2026-11-05T13:48:14.797Z",
+  "kitchen it plancha panini 2 panes 1000 w master edition": "2026-11-05T13:48:14.797Z"
  },
  "items": {
   "2026-11-02-r-carrusel-1793617345715": {
@@ -4792,6 +4796,57 @@
      "visto": "10:03"
     }
    ]
+  },
+  "2026-11-05-r-reel-1793886494798": {
+   "tipo": "reel",
+   "fecha": "2026-11-05",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "hora": "10:48",
+   "id": "18118676216595856",
+   "enlace": "https://www.instagram.com/reel/DfXLIPxDPic/",
+   "ofertas": [
+    {
+     "id": "1827803",
+     "nombre": "Licuadora Easyways Licuadora Crush n' roll 1,5 L",
+     "tienda": "ABC",
+     "ahora": 29990,
+     "antes": 59990,
+     "pct": 50,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 77,
+     "visto": "10:03"
+    },
+    {
+     "id": "1151594",
+     "nombre": "Cafetera Portátil DENOKIN para Auto y Camping 3 en 1",
+     "tienda": "Dust2",
+     "ahora": 32089,
+     "antes": 58840,
+     "pct": 45,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 85,
+     "visto": "10:03"
+    },
+    {
+     "id": "2572578",
+     "nombre": "KITCHEN IT Plancha Panini 2 Panes 1000 W Master Edition",
+     "tienda": "Sodimac",
+     "ahora": 19990,
+     "antes": 36490,
+     "pct": 45,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 85,
+     "visto": "10:03"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1793886386707-r2.mp4"
+   ],
+   "texto": "🔥 3 ofertas de hogar\n1. Licuadora Easyways Licuadora Crush n' roll 1,5 L: $29.990 (-50%, referencia $59.990) en ABC · 📉 mínimo de 77 días\n2. Cafetera Portátil DENOKIN para Auto y Camping 3 en 1: $32.089 (-45%, referencia $58.840) en Dust2 · 📉 mínimo de 85 días\n3. KITCHEN IT Plancha Panini 2 Panes 1000 W Master Edition: $19.990 (-45%, referencia $36.490) en Sodimac · 📉 mínimo de 85 días\n\n⏰ Precios vistos hoy (5/11) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #hogar #descuentoschile #ofertix #ofertasdeldia #ahorrar"
   }
  },
  "config": {
@@ -4811,7 +4866,7 @@
    "hasta": "2026-11-05T01:39:23.634Z",
    "veces": 2
   },
-  "ultimaPub": "2026-11-05T13:31:43.340Z"
+  "ultimaPub": "2026-11-05T13:48:14.798Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-11-04",
