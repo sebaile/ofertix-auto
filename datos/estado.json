@@ -2,7 +2,7 @@
  "offset": 44460906,
  "usadas": {
   "825797": "2026-11-05T02:32:52.947Z",
-  "825801": "2026-11-04T11:34:12.751Z",
+  "825801": "2026-11-05T14:33:27.815Z",
   "831338": "2026-11-03T13:03:28.280Z",
   "1064880": "2026-11-04T11:47:56.503Z",
   "1087242": "2026-11-03T01:47:49.109Z",
@@ -46,7 +46,7 @@
   "2465575": "2026-11-04T00:47:45.073Z",
   "2530593": "2026-11-03T13:03:28.280Z",
   "2530594": "2026-11-03T13:04:37.049Z",
-  "2572439": "2026-11-04T00:47:45.073Z",
+  "2572439": "2026-11-05T14:33:27.815Z",
   "2572440": "2026-11-05T11:48:17.225Z",
   "2572543": "2026-11-04T01:32:29.441Z",
   "2572578": "2026-11-05T13:48:14.797Z",
@@ -62,7 +62,7 @@
   "2603955": "2026-11-05T12:33:42.592Z",
   "2604828": "2026-11-04T01:17:52.973Z",
   "2604839": "2026-11-04T11:47:56.503Z",
-  "2604884": "2026-11-04T00:47:45.073Z",
+  "2604884": "2026-11-05T14:33:27.815Z",
   "2605022": "2026-11-05T11:48:17.225Z",
   "2609605": "2026-11-05T12:32:11.197Z",
   "2620241": "2026-11-04T11:47:56.503Z",
@@ -98,7 +98,7 @@
   "recco mini calefactor 600 w oleoelectrica blanco": "2026-11-05T02:32:52.947Z",
   "antonio banderas perfume edt hombre the icon edt 200 ml banderas": "2026-11-03T01:47:49.109Z",
   "electrolux lavadora carga superior 16 kg emtl16 electrolux": "2026-11-04T13:03:20.579Z",
-  "siegen alisador sg 4704 siegen airflow fast style": "2026-11-04T11:34:12.751Z",
+  "siegen alisador sg 4704 siegen airflow fast style": "2026-11-05T14:33:27.815Z",
   "audifonos jbl tune 500": "2026-11-04T00:47:45.073Z",
   "electronic arts juego ea sports fc 26 latam ns2 electronic arts": "2026-11-05T02:02:21.218Z",
   "tom ford soleil neige edp unisex 100ml 3 4floz tom ford": "2026-11-04T01:17:52.973Z",
@@ -109,7 +109,7 @@
   "kitchen it cafetera espresso cool shot 5 en 1 kitchen it": "2026-11-04T13:03:20.579Z",
   "rabanne perfume hombre black xs edt 100ml rabanne": "2026-11-04T15:02:15.087Z",
   "smartwatch samsung galaxy watch 5 pro 45 mm semi nuevo": "2026-11-04T00:47:45.073Z",
-  "kitchen it horno pizza 1 litros black edition": "2026-11-04T00:47:45.073Z",
+  "kitchen it horno pizza 1 litros black edition": "2026-11-05T14:33:27.815Z",
   "kitchen it hervidor 2 5 litros negro big edition 2 5l": "2026-11-04T01:32:29.441Z",
   "samsung monitor gamer samsung odyssey g3 24": "2026-11-04T01:17:52.973Z",
   "ursus trotter horno electrica 38 litros ut backofen pro38i": "2026-11-03T01:32:23.103Z",
@@ -125,7 +125,7 @@
   "rabanne perfume mujer olympea blossom edp 80ml rabanne": "2026-11-03T15:02:11.470Z",
   "ralph lauren refill perfume hombre polo red edt 150ml ralph lauren": "2026-11-05T12:32:11.197Z",
   "rabanne perfume mujer pure xs for her edp 30ml rabanne": "2026-11-04T00:35:04.385Z",
-  "rabanne la collection metal mesh edp 125 ml": "2026-11-04T00:47:45.073Z",
+  "rabanne la collection metal mesh edp 125 ml": "2026-11-05T14:33:27.815Z",
   "freidora de aire oster ckstaf40wddf 4 litros": "2026-11-04T01:17:52.973Z",
   "huawei router wifi mesh x3 pro huawei": "2026-11-04T01:17:52.973Z",
   "jbl jbl parlante bluetooth clip 5 morado": "2026-11-05T11:48:17.225Z",
@@ -4989,6 +4989,57 @@
      "visto": "10:03"
     }
    ]
+  },
+  "2026-11-05-r-reel-1793889207816": {
+   "tipo": "reel",
+   "fecha": "2026-11-05",
+   "estado": "publicado",
+   "bloque": "comparativas",
+   "hora": "11:33",
+   "id": "18146053207578667",
+   "enlace": "https://www.instagram.com/reel/DfXQTXlE8vb/",
+   "ofertas": [
+    {
+     "id": "825801",
+     "nombre": "SIEGEN Alisador SG-4704 Siegen Airflow + Fast Style",
+     "tienda": "Falabella",
+     "ahora": 45990,
+     "antes": 79990,
+     "pct": 42,
+     "rubro": "belleza",
+     "esMinimo": true,
+     "dias": 70,
+     "visto": "11:04"
+    },
+    {
+     "id": "2604884",
+     "nombre": "RABANNE La Collection Metal Mesh EDP 125 ML",
+     "tienda": "Falabella",
+     "ahora": 134990,
+     "antes": 269990,
+     "pct": 50,
+     "rubro": "perfumes",
+     "esMinimo": false,
+     "dias": 1,
+     "visto": "11:04"
+    },
+    {
+     "id": "2572439",
+     "nombre": "KITCHEN IT Horno Pizza 1 Litros Black Edition",
+     "tienda": "Sodimac",
+     "ahora": 67990,
+     "antes": 133390,
+     "pct": 49,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 89,
+     "visto": "11:04"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1793889066663-r3.mp4"
+   ],
+   "texto": "🔥 3 ofertas en comparativa: mismo tipo de producto\n1. SIEGEN Alisador SG-4704 Siegen Airflow + Fast Style: $45.990 (-42%, referencia $79.990) en Falabella · 📉 mínimo de 70 días\n2. RABANNE La Collection Metal Mesh EDP 125 ML: $134.990 (-50%, referencia $269.990) en Falabella\n3. KITCHEN IT Horno Pizza 1 Litros Black Edition: $67.990 (-49%, referencia $133.390) en Sodimac\n\n⏰ Precios vistos hoy (5/11) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
   }
  },
  "config": {
@@ -5008,7 +5059,7 @@
    "hasta": "2026-11-05T01:39:23.634Z",
    "veces": 2
   },
-  "ultimaPub": "2026-11-05T14:16:40.043Z"
+  "ultimaPub": "2026-11-05T14:33:27.816Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-11-04",
