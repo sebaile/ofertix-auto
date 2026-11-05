@@ -18,10 +18,10 @@
   "1673340": "2026-11-04T01:32:29.441Z",
   "1695609": "2026-11-04T00:33:08.336Z",
   "1765725": "2026-11-04T12:17:35.222Z",
-  "1784905": "2026-11-04T00:17:07.236Z",
+  "1784905": "2026-11-05T01:47:58.861Z",
   "1827803": "2026-11-04T11:47:56.503Z",
   "1841233": "2026-11-04T00:17:07.236Z",
-  "2000806": "2026-11-04T00:33:08.336Z",
+  "2000806": "2026-11-05T01:47:58.861Z",
   "2066558": "2026-11-04T13:03:20.579Z",
   "2084002": "2026-11-04T00:33:08.336Z",
   "2084101": "2026-11-04T00:18:41.516Z",
@@ -64,7 +64,8 @@
   "2604884": "2026-11-04T00:47:45.073Z",
   "2605022": "2026-11-04T01:32:29.441Z",
   "2609605": "2026-11-04T00:17:07.236Z",
-  "2620241": "2026-11-04T11:47:56.503Z"
+  "2620241": "2026-11-04T11:47:56.503Z",
+  "2646027": "2026-11-05T01:47:58.861Z"
  },
  "nombres": {
   "teclado hyperx alloy core rgb 4p4f5ai hx kb5me2 la": "2026-11-03T00:04:25.055Z",
@@ -73,10 +74,10 @@
   "nina ricci perfume mujer nina ricci nina edt 50ml nina ricci": "2026-11-04T14:17:19.750Z",
   "mikrotik mantbox 52 15s with routeros l4 license": "2026-11-04T00:33:08.336Z",
   "samsung audifonos in ear sm r400nzaalta bluetooth v5 2 gray": "2026-11-04T00:35:04.385Z",
-  "parlante portatil aiwa aw a521 90w bluetooth negro": "2026-11-04T00:17:07.236Z",
+  "parlante portatil aiwa aw a521 90w bluetooth negro": "2026-11-05T01:47:58.861Z",
   "licuadora easyways licuadora crush n roll 1 5 l": "2026-11-04T11:47:56.503Z",
   "hamilton beach microondas digital 23 litros inox hb p90d23el lxa": "2026-11-04T00:17:07.236Z",
-  "toyotomi horno electrico empotrado 56 litros he9silver": "2026-11-04T00:33:08.336Z",
+  "toyotomi horno electrico empotrado 56 litros he9silver": "2026-11-05T01:47:58.861Z",
   "clinique fragancia clinique happy for men 100ml": "2026-11-04T00:18:41.516Z",
   "caja abierta danada reloj smartwatch lhotse tw58 black n black": "2026-11-04T01:17:52.973Z",
   "clinique fragancia clinique happy perfume spray 100 ml": "2026-11-04T00:33:08.336Z",
@@ -130,7 +131,8 @@
   "oscar de la renta perfume mujer bella bouquet edp 100ml oscar la renta": "2026-11-04T12:17:35.222Z",
   "tommy hilfiger perfume impact tommy hilfiger": "2026-11-04T12:32:28.362Z",
   "valentino perfume born in roma donna yellow dream 30ml valentino": "2026-11-04T14:32:45.392Z",
-  "viktor rolf perfume mujer flowerbomb edp 100ml viktor rolf": "2026-11-04T14:32:45.392Z"
+  "viktor rolf perfume mujer flowerbomb edp 100ml viktor rolf": "2026-11-04T14:32:45.392Z",
+  "versace perfume mujer eros pour femme edt 100 ml": "2026-11-05T01:47:58.861Z"
  },
  "items": {
   "2026-11-02-r-carrusel-1793617345715": {
@@ -3960,6 +3962,57 @@
      "visto": "11:33"
     }
    ]
+  },
+  "2026-11-04-r-reel-1793843278861": {
+   "tipo": "reel",
+   "fecha": "2026-11-04",
+   "estado": "publicado",
+   "bloque": "recopilaciones",
+   "hora": "22:47",
+   "id": "18114155687174941",
+   "enlace": "https://www.instagram.com/reel/DfV4swXDZ5c/",
+   "ofertas": [
+    {
+     "id": "1784905",
+     "nombre": "Parlante Portátil Aiwa AW-A521 90W Bluetooth Negro",
+     "tienda": "ABC",
+     "ahora": 69990,
+     "antes": 149990,
+     "pct": 53,
+     "rubro": "tecnologia",
+     "esMinimo": true,
+     "dias": 35,
+     "visto": "21:50"
+    },
+    {
+     "id": "2646027",
+     "nombre": "VERSACE Perfume Mujer Eros Pour Femme EDT 100 ml",
+     "tienda": "Falabella",
+     "ahora": 57990,
+     "antes": 115990,
+     "pct": 50,
+     "rubro": "perfumes",
+     "esMinimo": true,
+     "dias": 41,
+     "visto": "21:50"
+    },
+    {
+     "id": "2000806",
+     "nombre": "TOYOTOMI Horno Eléctrico Empotrado 56 Litros HE9SILVER",
+     "tienda": "Sodimac",
+     "ahora": 249990,
+     "antes": 449990,
+     "pct": 44,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 55,
+     "visto": "21:50"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1793843138816-r4.mp4"
+   ],
+   "texto": "🔥 3 ofertas las mejores del día\n1. Parlante Portátil Aiwa AW-A521 90W Bluetooth Negro: $69.990 (-53%, referencia $149.990) en ABC · 📉 mínimo de 35 días\n2. VERSACE Perfume Mujer Eros Pour Femme EDT 100 ml: $57.990 (-50%, referencia $115.990) en Falabella · 📉 mínimo de 41 días\n3. TOYOTOMI Horno Eléctrico Empotrado 56 Litros HE9SILVER: $249.990 (-44%, referencia $449.990) en Sodimac · 📉 mínimo de 55 días\n\n⏰ Precios vistos hoy (4/11) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
   }
  },
  "config": {
@@ -3979,7 +4032,7 @@
    "hasta": "2026-11-05T01:39:23.634Z",
    "veces": 2
   },
-  "ultimaPub": "2026-11-04T15:31:56.825Z"
+  "ultimaPub": "2026-11-05T01:47:58.861Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-11-04",
