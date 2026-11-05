@@ -4349,6 +4349,28 @@
      "visto": "06:50"
     }
    ]
+  },
+  "2026-11-05-r-historia-1793877379358": {
+   "tipo": "historia",
+   "fecha": "2026-11-05",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "hora": "08:16",
+   "id": "18127368662301937",
+   "ofertas": [
+    {
+     "id": "2669037",
+     "nombre": "RALPH LAUREN Perfume Hombre Polo Red Racing EDT 125ml Ralph Lauren",
+     "tienda": "Falabella",
+     "ahora": 40490,
+     "antes": 134990,
+     "pct": 70,
+     "rubro": "perfumes",
+     "esMinimo": true,
+     "dias": 89,
+     "visto": "08:01"
+    }
+   ]
   }
  },
  "config": {
@@ -4368,7 +4390,7 @@
    "hasta": "2026-11-05T01:39:23.634Z",
    "veces": 2
   },
-  "ultimaPub": "2026-11-05T11:02:30.932Z"
+  "ultimaPub": "2026-11-05T11:16:19.359Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-11-04",
@@ -4407,6 +4429,7 @@
   "2605022": "2026-11-04T12:02:02.950Z",
   "2609605": "2026-11-04T13:32:25.771Z",
   "2646027": "2026-11-05T01:49:19.742Z",
-  "2661748": "2026-11-05T11:02:30.932Z"
+  "2661748": "2026-11-05T11:02:30.932Z",
+  "2669037": "2026-11-05T11:16:19.358Z"
  }
 }
