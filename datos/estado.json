@@ -47,7 +47,7 @@
   "2530593": "2026-11-03T13:03:28.280Z",
   "2530594": "2026-11-03T13:04:37.049Z",
   "2572439": "2026-11-04T00:47:45.073Z",
-  "2572440": "2026-11-04T11:34:12.751Z",
+  "2572440": "2026-11-05T11:48:17.225Z",
   "2572543": "2026-11-04T01:32:29.441Z",
   "2581544": "2026-11-04T01:17:52.973Z",
   "2581769": "2026-11-04T02:17:02.730Z",
@@ -62,14 +62,17 @@
   "2604828": "2026-11-04T01:17:52.973Z",
   "2604839": "2026-11-04T11:47:56.503Z",
   "2604884": "2026-11-04T00:47:45.073Z",
-  "2605022": "2026-11-04T01:32:29.441Z",
+  "2605022": "2026-11-05T11:48:17.225Z",
   "2609605": "2026-11-04T00:17:07.236Z",
   "2620241": "2026-11-04T11:47:56.503Z",
   "2646027": "2026-11-05T01:47:58.861Z",
   "2661731": "2026-11-05T11:33:02.809Z",
   "2661732": "2026-11-05T11:33:02.809Z",
   "2661748": "2026-11-05T11:02:09.155Z",
-  "2662134": "2026-11-05T11:33:02.809Z"
+  "2661791": "2026-11-05T11:48:17.225Z",
+  "2662134": "2026-11-05T11:33:02.809Z",
+  "2662350": "2026-11-05T11:48:17.225Z",
+  "2669037": "2026-11-05T11:48:17.225Z"
  },
  "nombres": {
   "teclado hyperx alloy core rgb 4p4f5ai hx kb5me2 la": "2026-11-03T00:04:25.055Z",
@@ -123,10 +126,10 @@
   "rabanne la collection metal mesh edp 125 ml": "2026-11-04T00:47:45.073Z",
   "freidora de aire oster ckstaf40wddf 4 litros": "2026-11-04T01:17:52.973Z",
   "huawei router wifi mesh x3 pro huawei": "2026-11-04T01:17:52.973Z",
-  "jbl jbl parlante bluetooth clip 5 morado": "2026-11-04T01:32:29.441Z",
+  "jbl jbl parlante bluetooth clip 5 morado": "2026-11-05T11:48:17.225Z",
   "rabanne la collection midnight sex edp 125 ml": "2026-11-04T02:17:02.730Z",
   "sony audifonos de estudio mdr 7506 de sony": "2026-11-04T11:32:39.240Z",
-  "kitchen it horno electrico 60 litros silver series": "2026-11-04T11:34:12.751Z",
+  "kitchen it horno electrico 60 litros silver series": "2026-11-05T11:48:17.225Z",
   "el ganso perfume hombre part time hero edt 125ml el ganso": "2026-11-04T11:34:12.751Z",
   "valentino perfume hombre born in roma uomo rendez vous ivory edt 100ml": "2026-11-04T11:47:56.503Z",
   "dkny set perfume mujer 24 7 edp 100ml 15ml 100ml dkny": "2026-11-04T11:47:56.503Z",
@@ -140,7 +143,10 @@
   "teclado inalambrico ergonomico ergo k860 negro": "2026-11-05T11:02:09.155Z",
   "mouse inalambrico fantech wg9rd kanata 12 000 dpi black": "2026-11-05T11:33:02.809Z",
   "mouse inalambrico fantech wg7v2rd crypto ii 12 000 dpi black": "2026-11-05T11:33:02.809Z",
-  "sony audifono xb910n azules": "2026-11-05T11:33:02.809Z"
+  "sony audifono xb910n azules": "2026-11-05T11:33:02.809Z",
+  "ralph lauren perfume hombre polo red racing edt 125ml ralph lauren": "2026-11-05T11:48:17.225Z",
+  "cojin para brazos dragster ergopad memory cloud rosso": "2026-11-05T11:48:17.225Z",
+  "alisador siegen sg b4704": "2026-11-05T11:48:17.225Z"
  },
  "items": {
   "2026-11-02-r-carrusel-1793617345715": {
@@ -4428,6 +4434,84 @@
     "tmp-medios/1793878301266-r0.mp4"
    ],
    "texto": "🔥 3 ofertas de tecnología\n1. Mouse Inalámbrico Fantech WG9RD KANATA 12.000 DPI Black: $21.389 (-42%, referencia $37.440) en Dust2 · 📉 mínimo de 34 días\n2. Mouse Inalámbrico Fantech WG7V2RD CRYPTO II 12.000 DPI Black: $21.389 (-42%, referencia $37.440) en Dust2 · 📉 mínimo de 34 días\n3. Sony Audifono XB910N Azules: $159.990 (-42%, referencia $279.990) en Lider Marketplace\n\n⏰ Precios vistos hoy (5/11) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #tecnologia #descuentoschile #ofertix #ofertasdeldia #ahorrar"
+  },
+  "2026-11-05-r-carrusel-1793879297226": {
+   "tipo": "carrusel",
+   "fecha": "2026-11-05",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "formato": "top5",
+   "hora": "08:48",
+   "id": "17929530357543325",
+   "enlace": "https://www.instagram.com/p/DfW9cERFZsq/",
+   "ofertas": [
+    {
+     "id": "2669037",
+     "nombre": "RALPH LAUREN Perfume Hombre Polo Red Racing EDT 125ml Ralph Lauren",
+     "tienda": "Falabella",
+     "ahora": 40490,
+     "antes": 134990,
+     "pct": 70,
+     "rubro": "perfumes",
+     "esMinimo": true,
+     "dias": 89,
+     "visto": "08:01"
+    },
+    {
+     "id": "2661791",
+     "nombre": "Cojín para Brazos Dragster Ergopad Memory Cloud Rosso",
+     "tienda": "Dust2",
+     "ahora": 12829,
+     "antes": 31020,
+     "pct": 58,
+     "rubro": "gamer",
+     "esMinimo": false,
+     "dias": 76,
+     "visto": "08:01"
+    },
+    {
+     "id": "2572440",
+     "nombre": "KITCHEN IT Horno Eléctrico 60 Litros Silver Series",
+     "tienda": "Sodimac",
+     "ahora": 64990,
+     "antes": 124490,
+     "pct": 47,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 85,
+     "visto": "08:01"
+    },
+    {
+     "id": "2605022",
+     "nombre": "JBL JBL Parlante Bluetooth Clip 5 Morado",
+     "tienda": "Falabella",
+     "ahora": 42990,
+     "antes": 79990,
+     "pct": 46,
+     "rubro": "tecnologia",
+     "esMinimo": false,
+     "dias": 7,
+     "visto": "08:01"
+    },
+    {
+     "id": "2662350",
+     "nombre": "Alisador Siegen SG-B4704",
+     "tienda": "Hites",
+     "ahora": 45990,
+     "antes": 79990,
+     "pct": 42,
+     "rubro": "belleza",
+     "esMinimo": false,
+     "dias": 31,
+     "visto": "08:01"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1793879253344-c1-1.jpg",
+    "tmp-medios/1793879253344-c1-2.jpg",
+    "tmp-medios/1793879253344-c1-3.jpg"
+   ],
+   "texto": "🏆 Ofertas nuevas de hoy\n1. RALPH LAUREN Perfume Hombre Polo Red Racing EDT 125ml Ralph Lauren: $40.490 (-70%) en Falabella · 📉 mínimo de 89 días\n2. Cojín para Brazos Dragster Ergopad Memory Cloud Rosso: $12.829 (-58%) en Dust2\n3. KITCHEN IT Horno Eléctrico 60 Litros Silver Series: $64.990 (-47%) en Sodimac · 📉 mínimo de 85 días\n4. JBL JBL Parlante Bluetooth Clip 5 Morado: $42.990 (-46%) en Falabella\n5. Alisador Siegen SG-B4704: $45.990 (-42%) en Hites\n\n⏰ Precios vistos hoy (5/11) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #top5 #descuentoschile #ofertix #ahorrar"
   }
  },
  "config": {
@@ -4447,7 +4531,7 @@
    "hasta": "2026-11-05T01:39:23.634Z",
    "veces": 2
   },
-  "ultimaPub": "2026-11-05T11:33:02.809Z"
+  "ultimaPub": "2026-11-05T11:48:17.226Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-11-04",
