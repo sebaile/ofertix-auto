@@ -66,7 +66,10 @@
   "2609605": "2026-11-04T00:17:07.236Z",
   "2620241": "2026-11-04T11:47:56.503Z",
   "2646027": "2026-11-05T01:47:58.861Z",
-  "2661748": "2026-11-05T11:02:09.155Z"
+  "2661731": "2026-11-05T11:33:02.809Z",
+  "2661732": "2026-11-05T11:33:02.809Z",
+  "2661748": "2026-11-05T11:02:09.155Z",
+  "2662134": "2026-11-05T11:33:02.809Z"
  },
  "nombres": {
   "teclado hyperx alloy core rgb 4p4f5ai hx kb5me2 la": "2026-11-03T00:04:25.055Z",
@@ -134,7 +137,10 @@
   "valentino perfume born in roma donna yellow dream 30ml valentino": "2026-11-04T14:32:45.392Z",
   "viktor rolf perfume mujer flowerbomb edp 100ml viktor rolf": "2026-11-04T14:32:45.392Z",
   "versace perfume mujer eros pour femme edt 100 ml": "2026-11-05T01:47:58.861Z",
-  "teclado inalambrico ergonomico ergo k860 negro": "2026-11-05T11:02:09.155Z"
+  "teclado inalambrico ergonomico ergo k860 negro": "2026-11-05T11:02:09.155Z",
+  "mouse inalambrico fantech wg9rd kanata 12 000 dpi black": "2026-11-05T11:33:02.809Z",
+  "mouse inalambrico fantech wg7v2rd crypto ii 12 000 dpi black": "2026-11-05T11:33:02.809Z",
+  "sony audifono xb910n azules": "2026-11-05T11:33:02.809Z"
  },
  "items": {
   "2026-11-02-r-carrusel-1793617345715": {
@@ -4371,6 +4377,57 @@
      "visto": "08:01"
     }
    ]
+  },
+  "2026-11-05-r-reel-1793878382809": {
+   "tipo": "reel",
+   "fecha": "2026-11-05",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "hora": "08:33",
+   "id": "18145057777608202",
+   "enlace": "https://www.instagram.com/reel/DfW7qxunJnq/",
+   "ofertas": [
+    {
+     "id": "2661732",
+     "nombre": "Mouse Inalámbrico Fantech WG9RD KANATA 12.000 DPI Black",
+     "tienda": "Dust2",
+     "ahora": 21389,
+     "antes": 37440,
+     "pct": 42,
+     "rubro": "tecnologia",
+     "esMinimo": true,
+     "dias": 34,
+     "visto": "08:01"
+    },
+    {
+     "id": "2661731",
+     "nombre": "Mouse Inalámbrico Fantech WG7V2RD CRYPTO II 12.000 DPI Black",
+     "tienda": "Dust2",
+     "ahora": 21389,
+     "antes": 37440,
+     "pct": 42,
+     "rubro": "tecnologia",
+     "esMinimo": true,
+     "dias": 34,
+     "visto": "08:01"
+    },
+    {
+     "id": "2662134",
+     "nombre": "Sony Audifono XB910N Azules",
+     "tienda": "Lider Marketplace",
+     "ahora": 159990,
+     "antes": 279990,
+     "pct": 42,
+     "rubro": "tecnologia",
+     "esMinimo": false,
+     "dias": 89,
+     "visto": "08:01"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1793878301266-r0.mp4"
+   ],
+   "texto": "🔥 3 ofertas de tecnología\n1. Mouse Inalámbrico Fantech WG9RD KANATA 12.000 DPI Black: $21.389 (-42%, referencia $37.440) en Dust2 · 📉 mínimo de 34 días\n2. Mouse Inalámbrico Fantech WG7V2RD CRYPTO II 12.000 DPI Black: $21.389 (-42%, referencia $37.440) en Dust2 · 📉 mínimo de 34 días\n3. Sony Audifono XB910N Azules: $159.990 (-42%, referencia $279.990) en Lider Marketplace\n\n⏰ Precios vistos hoy (5/11) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #tecnologia #descuentoschile #ofertix #ofertasdeldia #ahorrar"
   }
  },
  "config": {
@@ -4390,7 +4447,7 @@
    "hasta": "2026-11-05T01:39:23.634Z",
    "veces": 2
   },
-  "ultimaPub": "2026-11-05T11:16:19.359Z"
+  "ultimaPub": "2026-11-05T11:33:02.809Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-11-04",
