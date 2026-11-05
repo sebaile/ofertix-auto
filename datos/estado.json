@@ -65,7 +65,8 @@
   "2605022": "2026-11-04T01:32:29.441Z",
   "2609605": "2026-11-04T00:17:07.236Z",
   "2620241": "2026-11-04T11:47:56.503Z",
-  "2646027": "2026-11-05T01:47:58.861Z"
+  "2646027": "2026-11-05T01:47:58.861Z",
+  "2661748": "2026-11-05T11:02:09.155Z"
  },
  "nombres": {
   "teclado hyperx alloy core rgb 4p4f5ai hx kb5me2 la": "2026-11-03T00:04:25.055Z",
@@ -132,7 +133,8 @@
   "tommy hilfiger perfume impact tommy hilfiger": "2026-11-04T12:32:28.362Z",
   "valentino perfume born in roma donna yellow dream 30ml valentino": "2026-11-04T14:32:45.392Z",
   "viktor rolf perfume mujer flowerbomb edp 100ml viktor rolf": "2026-11-04T14:32:45.392Z",
-  "versace perfume mujer eros pour femme edt 100 ml": "2026-11-05T01:47:58.861Z"
+  "versace perfume mujer eros pour femme edt 100 ml": "2026-11-05T01:47:58.861Z",
+  "teclado inalambrico ergonomico ergo k860 negro": "2026-11-05T11:02:09.155Z"
  },
  "items": {
   "2026-11-02-r-carrusel-1793617345715": {
@@ -4296,6 +4298,35 @@
     "tmp-medios/1793845935909-c6-3.jpg"
    ],
    "texto": "🏆 Recopilación del día\n1. CLINIQUE Fragancia Clinique Happy Perfume Spray 100 ml: $39.990 (-63%) en Falabella\n2. RECCO Mini Calefactor 600 W Oleoeléctrica Blanco: $15.990 (-57%) en Sodimac\n3. MIKROTIK mANTBox 52 15s with RouterOS L4 license: $132.990 (-40%) en Tecnomas.cl · 📉 mínimo de 74 días\n4. GAMA Cepillo Modelador Rotatorio GAMA 2600 ION: $34.990 (-41%) en Falabella · 📉 mínimo de 56 días\n5. Ventilador para PC APNX FP2-120 PWM ARGB, Color Negro: $15.670 (-50%) en SP Digital\n\n⏰ Precios vistos hoy (4/11) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #top5 #descuentoschile #ofertix #ahorrar"
+  },
+  "2026-11-05-r-carrusel-1793876529156": {
+   "tipo": "carrusel",
+   "fecha": "2026-11-05",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "formato": "oferta",
+   "hora": "08:02",
+   "id": "18127953448860473",
+   "enlace": "https://www.instagram.com/p/DfW4KQJkeHU/",
+   "ofertas": [
+    {
+     "id": "2661748",
+     "nombre": "Teclado Inalámbrico Ergonómico Ergo K860 - Negro",
+     "tienda": "PC Factory",
+     "ahora": 154590,
+     "antes": 357890,
+     "pct": 56,
+     "rubro": "tecnologia",
+     "esMinimo": true,
+     "dias": 82,
+     "visto": "06:50"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1793876493102-c0-1.jpg",
+    "tmp-medios/1793876493102-c0-2.jpg"
+   ],
+   "texto": "🔥 OFERTA NUEVA\nTeclado Inalámbrico Ergonómico Ergo K860 - Negro\nAhora: $154.590 (-56%)\nReferencia: $357.890\n🏪 PC Factory\n\n✅ Precio visto hoy a las 06:50 en nuestro sistema.\n📉 Es el precio más bajo de los últimos 82 días.\n⏰ Puede cambiar o agotarse sin aviso.\n📲 Enlace directo en Telegram: t.me/ofertixcl\n\n#ofertaschile #tecnologia #descuentoschile #ofertix #ofertasdeldia"
   }
  },
  "config": {
@@ -4315,7 +4346,7 @@
    "hasta": "2026-11-05T01:39:23.634Z",
    "veces": 2
   },
-  "ultimaPub": "2026-11-05T02:32:52.948Z"
+  "ultimaPub": "2026-11-05T11:02:09.156Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-11-04",
