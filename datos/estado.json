@@ -5687,6 +5687,28 @@
      "visto": "15:27"
     }
    ]
+  },
+  "2026-11-06-r-historia-1793992640334": {
+   "tipo": "historia",
+   "fecha": "2026-11-06",
+   "estado": "publicado",
+   "bloque": "populares",
+   "hora": "16:17",
+   "id": "18084738458385047",
+   "ofertas": [
+    {
+     "id": "825801",
+     "nombre": "SIEGEN Alisador SG-4704 Siegen Airflow + Fast Style",
+     "tienda": "Falabella",
+     "ahora": 45990,
+     "antes": 79990,
+     "pct": 42,
+     "rubro": "belleza",
+     "esMinimo": true,
+     "dias": 71,
+     "visto": "15:27"
+    }
+   ]
   }
  },
  "config": {
@@ -5706,12 +5728,13 @@
    "hasta": "2026-11-06T02:16:39.454Z",
    "veces": 2
   },
-  "ultimaPub": "2026-11-06T19:15:57.318Z"
+  "ultimaPub": "2026-11-06T19:17:20.335Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-11-05",
  "usadasH": {
   "122938": "2026-11-06T18:01:19.740Z",
+  "825801": "2026-11-06T19:17:20.334Z",
   "1110717": "2026-11-06T13:47:07.289Z",
   "1137440": "2026-11-06T17:03:46.404Z",
   "1144310": "2026-11-06T16:24:54.713Z",
