@@ -66,7 +66,7 @@
   "2655226": "2026-11-05T12:33:42.593Z",
   "2661731": "2026-11-05T11:33:02.809Z",
   "2661732": "2026-11-05T11:33:02.809Z",
-  "2661748": "2026-11-05T11:02:09.155Z",
+  "2661748": "2026-11-06T12:32:08.072Z",
   "2661788": "2026-11-05T12:33:42.593Z",
   "2661791": "2026-11-05T11:48:17.225Z",
   "2662134": "2026-11-05T11:33:02.809Z",
@@ -132,7 +132,7 @@
   "valentino perfume born in roma donna yellow dream 30ml valentino": "2026-11-04T14:32:45.392Z",
   "viktor rolf perfume mujer flowerbomb edp 100ml viktor rolf": "2026-11-04T14:32:45.392Z",
   "versace perfume mujer eros pour femme edt 100 ml": "2026-11-06T02:33:23.268Z",
-  "teclado inalambrico ergonomico ergo k860 negro": "2026-11-05T11:02:09.155Z",
+  "teclado inalambrico ergonomico ergo k860 negro": "2026-11-06T12:32:08.072Z",
   "mouse inalambrico fantech wg9rd kanata 12 000 dpi black": "2026-11-05T11:33:02.809Z",
   "mouse inalambrico fantech wg7v2rd crypto ii 12 000 dpi black": "2026-11-05T11:33:02.809Z",
   "sony audifono xb910n azules": "2026-11-05T11:33:02.809Z",
@@ -4433,6 +4433,35 @@
     "tmp-medios/1793932309799-r6.mp4"
    ],
    "texto": "🔥 3 ofertas las mejores del día\n1. VOLKER Campana Convencional 60 cm Inox: $49.990 (-54%, referencia $109.990) en Sodimac · 📉 mínimo de 76 días\n2. Parlante Portátil Aiwa AW-A521 90W Bluetooth Negro: $69.990 (-53%, referencia $149.990) en ABC · 📉 mínimo de 36 días\n3. VERSACE Perfume Mujer Eros Pour Femme EDT 100 ml: $57.990 (-50%, referencia $115.990) en Falabella · 📉 mínimo de 42 días\n\n⏰ Precios vistos hoy (5/11) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
+  },
+  "2026-11-06-r-carrusel-1793968328072": {
+   "tipo": "carrusel",
+   "fecha": "2026-11-06",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "formato": "oferta",
+   "hora": "09:32",
+   "id": "17964063099217417",
+   "enlace": "https://www.instagram.com/p/DfZnQKHEbnx/",
+   "ofertas": [
+    {
+     "id": "2661748",
+     "nombre": "Teclado Inalámbrico Ergonómico Ergo K860 - Negro",
+     "tienda": "PC Factory",
+     "ahora": 154590,
+     "antes": 357890,
+     "pct": 56,
+     "rubro": "tecnologia",
+     "esMinimo": true,
+     "dias": 83,
+     "visto": "09:15"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1793968295332-c0-1.jpg",
+    "tmp-medios/1793968295332-c0-2.jpg"
+   ],
+   "texto": "🔥 OFERTA NUEVA\nTeclado Inalámbrico Ergonómico Ergo K860 - Negro\nAhora: $154.590 (-56%)\nReferencia: $357.890\n🏪 PC Factory\n\n✅ Precio visto hoy a las 09:15 en nuestro sistema.\n📉 Es el precio más bajo de los últimos 83 días.\n⏰ Puede cambiar o agotarse sin aviso.\n📲 Enlace directo en Telegram: t.me/ofertixcl\n\n#ofertaschile #tecnologia #descuentoschile #ofertix #ofertasdeldia"
   }
  },
  "config": {
@@ -4452,7 +4481,7 @@
    "hasta": "2026-11-06T02:16:39.454Z",
    "veces": 2
   },
-  "ultimaPub": "2026-11-06T02:33:23.269Z"
+  "ultimaPub": "2026-11-06T12:32:08.072Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-11-05",
