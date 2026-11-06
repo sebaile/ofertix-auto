@@ -1,6 +1,7 @@
 {
  "offset": 44460906,
  "usadas": {
+  "122938": "2026-11-06T18:03:11.486Z",
   "825797": "2026-11-06T12:34:05.684Z",
   "825801": "2026-11-05T14:33:27.815Z",
   "1064880": "2026-11-05T15:33:07.966Z",
@@ -25,7 +26,7 @@
   "1841233": "2026-11-04T00:17:07.236Z",
   "2000806": "2026-11-06T13:18:05.770Z",
   "2066558": "2026-11-04T13:03:20.579Z",
-  "2084002": "2026-11-05T02:32:52.947Z",
+  "2084002": "2026-11-06T18:03:11.486Z",
   "2084101": "2026-11-06T14:47:35.253Z",
   "2086478": "2026-11-05T15:18:18.068Z",
   "2086682": "2026-11-05T02:32:52.947Z",
@@ -38,11 +39,11 @@
   "2331057": "2026-11-04T00:35:04.385Z",
   "2332098": "2026-11-05T16:03:24.971Z",
   "2368169": "2026-11-04T14:32:45.392Z",
-  "2376071": "2026-11-05T14:47:15.534Z",
+  "2376071": "2026-11-06T18:03:11.486Z",
   "2382802": "2026-11-04T01:17:52.973Z",
   "2421850": "2026-11-06T14:32:26.246Z",
   "2448957": "2026-11-05T15:33:07.966Z",
-  "2465575": "2026-11-05T15:03:51.580Z",
+  "2465575": "2026-11-06T18:03:11.486Z",
   "2572439": "2026-11-05T14:33:27.815Z",
   "2572440": "2026-11-05T11:48:17.225Z",
   "2572543": "2026-11-05T15:18:18.068Z",
@@ -54,7 +55,7 @@
   "2588284": "2026-11-04T12:17:35.222Z",
   "2588347": "2026-11-06T13:18:05.770Z",
   "2589932": "2026-11-05T15:18:18.068Z",
-  "2591845": "2026-11-05T15:03:51.580Z",
+  "2591845": "2026-11-06T18:03:11.486Z",
   "2603038": "2026-11-04T12:32:28.362Z",
   "2603955": "2026-11-05T12:33:42.592Z",
   "2604828": "2026-11-04T01:17:52.973Z",
@@ -96,7 +97,7 @@
   "recco mini calefactor 600 w oleoelectrica blanco": "2026-11-05T02:32:52.947Z",
   "electrolux lavadora carga superior 16 kg emtl16 electrolux": "2026-11-05T16:03:24.971Z",
   "siegen alisador sg 4704 siegen airflow fast style": "2026-11-05T14:33:27.815Z",
-  "audifonos jbl tune 500": "2026-11-05T14:47:15.534Z",
+  "audifonos jbl tune 500": "2026-11-06T18:03:11.486Z",
   "electronic arts juego ea sports fc 26 latam ns2 electronic arts": "2026-11-05T02:02:21.218Z",
   "tom ford soleil neige edp unisex 100ml 3 4floz tom ford": "2026-11-04T01:17:52.973Z",
   "gama cepillo modelador rotatorio gama 2600 ion": "2026-11-06T12:34:05.684Z",
@@ -104,7 +105,7 @@
   "nespresso cafetera essenza mini negra espumador": "2026-11-04T02:17:02.730Z",
   "kitchen it cafetera espresso cool shot 5 en 1 kitchen it": "2026-11-05T15:33:07.966Z",
   "rabanne perfume hombre black xs edt 100ml rabanne": "2026-11-04T15:02:15.087Z",
-  "smartwatch samsung galaxy watch 5 pro 45 mm semi nuevo": "2026-11-05T15:03:51.580Z",
+  "smartwatch samsung galaxy watch 5 pro 45 mm semi nuevo": "2026-11-06T18:03:11.486Z",
   "kitchen it horno pizza 1 litros black edition": "2026-11-05T14:33:27.815Z",
   "kitchen it hervidor 2 5 litros negro big edition 2 5l": "2026-11-05T15:18:18.068Z",
   "samsung monitor gamer samsung odyssey g3 24": "2026-11-04T01:17:52.973Z",
@@ -141,7 +142,7 @@
   "fdv freidora de aire airflow 3 5 lts fdv negro": "2026-11-05T12:33:42.593Z",
   "cafetera portatil denokin para auto y camping 3 en 1": "2026-11-05T13:48:14.797Z",
   "kitchen it plancha panini 2 panes 1000 w master edition": "2026-11-05T13:48:14.797Z",
-  "cepillo modelador gama new turbo plus 2300": "2026-11-05T15:03:51.580Z",
+  "cepillo modelador gama new turbo plus 2300": "2026-11-06T18:03:11.486Z",
   "volker campana convencional 60 cm inox": "2026-11-06T02:33:23.268Z",
   "cojin para brazos dragster ergopad memory cloud onyx": "2026-11-06T12:34:05.684Z",
   "volker campana retractil 60 cm inox": "2026-11-06T12:34:05.684Z",
@@ -151,7 +152,9 @@
   "volker campana convencional 60 cm negra": "2026-11-06T13:02:35.440Z",
   "ferragamo perfume hombre uomo urban feel edt 100 ml ferragamo": "2026-11-06T13:18:05.770Z",
   "albin trotter calefon 11 litros gas licuado tiro natural ionizado": "2026-11-06T13:18:05.770Z",
-  "electronic arts juego ea sports fc 26 nintendo switch electronic arts": "2026-11-06T14:47:35.253Z"
+  "electronic arts juego ea sports fc 26 nintendo switch electronic arts": "2026-11-06T14:47:35.253Z",
+  "calefactor convector electrico bosch hc4000 5 de 500w con termostato": "2026-11-06T18:03:11.486Z",
+  "clinique perfume happy mujer edp 100 ml clinique": "2026-11-06T18:03:11.486Z"
  },
  "items": {
   "2026-11-03-r-carrusel-1793703763426": {
@@ -5283,6 +5286,84 @@
      "visto": "14:23"
     }
    ]
+  },
+  "2026-11-06-r-carrusel-1793988191486": {
+   "tipo": "carrusel",
+   "fecha": "2026-11-06",
+   "estado": "publicado",
+   "bloque": "populares",
+   "formato": "top5",
+   "hora": "15:03",
+   "id": "17931948420424265",
+   "enlace": "https://www.instagram.com/p/DfaNJDsFPEk/",
+   "ofertas": [
+    {
+     "id": "122938",
+     "nombre": "Calefactor Convector Eléctrico Bosch HC4000-5 de 500W con Termostato",
+     "tienda": "Mercado Libre",
+     "ahora": 74990,
+     "antes": 128990,
+     "pct": 41,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 86,
+     "visto": "14:23"
+    },
+    {
+     "id": "2084002",
+     "nombre": "CLINIQUE Perfume Happy Mujer EDP 100 ml Clinique",
+     "tienda": "Falabella",
+     "ahora": 39990,
+     "antes": 109900,
+     "pct": 63,
+     "rubro": "perfumes",
+     "esMinimo": false,
+     "dias": 66,
+     "visto": "14:23"
+    },
+    {
+     "id": "2591845",
+     "nombre": "Cepillo Modelador Gama New Turbo Plus 2300",
+     "tienda": "Hites",
+     "ahora": 34990,
+     "antes": 59990,
+     "pct": 41,
+     "rubro": "belleza",
+     "esMinimo": false,
+     "dias": 32,
+     "visto": "14:23"
+    },
+    {
+     "id": "2465575",
+     "nombre": "Smartwatch Samsung Galaxy Watch 5 Pro | 45 mm | (Semi Nuevo)",
+     "tienda": "TecTec",
+     "ahora": 103990,
+     "antes": 197590,
+     "pct": 47,
+     "rubro": "otros",
+     "esMinimo": false,
+     "dias": 6,
+     "visto": "14:23"
+    },
+    {
+     "id": "2376071",
+     "nombre": "Audífonos JBL Tune 500",
+     "tienda": "Hites",
+     "ahora": 14990,
+     "antes": 29990,
+     "pct": 50,
+     "rubro": "tecnologia",
+     "esMinimo": false,
+     "dias": 72,
+     "visto": "14:23"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1793988153974-c5-1.jpg",
+    "tmp-medios/1793988153974-c5-2.jpg",
+    "tmp-medios/1793988153974-c5-3.jpg"
+   ],
+   "texto": "🏆 Los más populares\n1. Calefactor Convector Eléctrico Bosch HC4000-5 de 500W con Termostato: $74.990 (-41%) en Mercado Libre · 📉 mínimo de 86 días\n2. CLINIQUE Perfume Happy Mujer EDP 100 ml Clinique: $39.990 (-63%) en Falabella\n3. Cepillo Modelador Gama New Turbo Plus 2300: $34.990 (-41%) en Hites\n4. Smartwatch Samsung Galaxy Watch 5 Pro | 45 mm | (Semi Nuevo): $103.990 (-47%) en TecTec\n5. Audífonos JBL Tune 500: $14.990 (-50%) en Hites\n\n⏰ Precios vistos hoy (6/11) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #top5 #descuentoschile #ofertix #ahorrar"
   }
  },
  "config": {
@@ -5302,7 +5383,7 @@
    "hasta": "2026-11-06T02:16:39.454Z",
    "veces": 2
   },
-  "ultimaPub": "2026-11-06T18:01:19.741Z"
+  "ultimaPub": "2026-11-06T18:03:11.486Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-11-05",
