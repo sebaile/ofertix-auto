@@ -48,7 +48,7 @@
   "2465575": "2026-11-06T18:03:11.486Z",
   "2572439": "2026-11-06T18:48:05.487Z",
   "2572440": "2026-11-05T11:48:17.225Z",
-  "2572543": "2026-11-05T15:18:18.068Z",
+  "2572543": "2026-11-06T18:49:09.548Z",
   "2572578": "2026-11-05T13:48:14.797Z",
   "2581544": "2026-11-04T01:17:52.973Z",
   "2581769": "2026-11-04T02:17:02.730Z",
@@ -109,7 +109,7 @@
   "rabanne perfume hombre black xs edt 100ml rabanne": "2026-11-06T18:48:05.487Z",
   "smartwatch samsung galaxy watch 5 pro 45 mm semi nuevo": "2026-11-06T18:03:11.486Z",
   "kitchen it horno pizza 1 litros black edition": "2026-11-06T18:48:05.487Z",
-  "kitchen it hervidor 2 5 litros negro big edition 2 5l": "2026-11-05T15:18:18.068Z",
+  "kitchen it hervidor 2 5 litros negro big edition 2 5l": "2026-11-06T18:49:09.548Z",
   "samsung monitor gamer samsung odyssey g3 24": "2026-11-04T01:17:52.973Z",
   "smartwatch honor choice watch 2 epic negro": "2026-11-04T02:17:02.730Z",
   "rabanne la collection rose 1969 edp 125 ml": "2026-11-06T18:17:57.512Z",
@@ -5592,6 +5592,35 @@
     "tmp-medios/1793990832224-c6-3.jpg"
    ],
    "texto": "🏆 Los más populares\n1. KITCHEN IT Horno Pizza 1 Litros Black Edition: $67.990 (-49%) en Sodimac\n2. OSCAR DE LA RENTA Perfume Mujer Bella Bouquet EDP 100Ml Oscar La Renta: $65.990 (-40%) en Falabella\n3. Ventilador para PC APNX FP2-120 PWM ARGB, Color Negro: $15.670 (-50%) en SP Digital\n4. KITCHEN IT Cafetera Espresso Cool Shot 5 en 1 Kitchen-it: $119.990 (-42%) en Sodimac\n5. RABANNE Perfume Hombre Black Xs Edt 100Ml Rabanne: $71.990 (-40%) en Falabella\n\n⏰ Precios vistos hoy (6/11) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #top5 #descuentoschile #ofertix #ahorrar"
+  },
+  "2026-11-06-r-carrusel-1793990949548": {
+   "tipo": "carrusel",
+   "fecha": "2026-11-06",
+   "estado": "publicado",
+   "bloque": "populares",
+   "formato": "oferta",
+   "hora": "15:49",
+   "id": "17901870822410120",
+   "enlace": "https://www.instagram.com/p/DfaSaR8oFuU/",
+   "ofertas": [
+    {
+     "id": "2572543",
+     "nombre": "KITCHEN IT Hervidor 2.5 Litros Negro Big Edition 2,5L",
+     "tienda": "Sodimac",
+     "ahora": 19990,
+     "antes": 39990,
+     "pct": 50,
+     "rubro": "hogar",
+     "esMinimo": false,
+     "dias": 88,
+     "visto": "15:27"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1793990925883-c7-1.jpg",
+    "tmp-medios/1793990925883-c7-2.jpg"
+   ],
+   "texto": "🔥 OFERTA DEL DÍA\nKITCHEN IT Hervidor 2.5 Litros Negro Big Edition 2,5L\nAhora: $19.990 (-50%)\nReferencia: $39.990\n🏪 Sodimac\n\n✅ Precio visto hoy a las 15:27 en nuestro sistema.\n⏰ Puede cambiar o agotarse sin aviso.\n📲 Enlace directo en Telegram: t.me/ofertixcl\n\n#ofertaschile #hogar #descuentoschile #ofertix #ofertasdeldia"
   }
  },
  "config": {
@@ -5611,7 +5640,7 @@
    "hasta": "2026-11-06T02:16:39.454Z",
    "veces": 2
   },
-  "ultimaPub": "2026-11-06T18:48:05.488Z"
+  "ultimaPub": "2026-11-06T18:49:09.548Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-11-05",
