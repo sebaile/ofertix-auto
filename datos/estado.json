@@ -5841,6 +5841,28 @@
      "visto": "15:27"
     }
    ]
+  },
+  "2026-11-06-r-historia-1793996160274": {
+   "tipo": "historia",
+   "fecha": "2026-11-06",
+   "estado": "publicado",
+   "bloque": "populares",
+   "hora": "17:16",
+   "id": "18132159925797671",
+   "ofertas": [
+    {
+     "id": "2693583",
+     "nombre": "FIFINE Micrófono Flyday F3 Condensador Cardiode PC PS4 USB",
+     "tienda": "Falabella Marketplace",
+     "ahora": 19990,
+     "antes": 39990,
+     "pct": 50,
+     "rubro": "gamer",
+     "esMinimo": false,
+     "dias": 0,
+     "visto": "15:27"
+    }
+   ]
   }
  },
  "config": {
@@ -5860,7 +5882,7 @@
    "hasta": "2026-11-06T02:16:39.454Z",
    "veces": 2
   },
-  "ultimaPub": "2026-11-06T20:01:43.653Z"
+  "ultimaPub": "2026-11-06T20:16:00.275Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-11-05",
@@ -5904,6 +5926,7 @@
   "2661790": "2026-11-06T20:01:43.653Z",
   "2661791": "2026-11-06T20:01:22.823Z",
   "2662134": "2026-11-06T17:07:43.459Z",
-  "2669037": "2026-11-06T02:31:39.776Z"
+  "2669037": "2026-11-06T02:31:39.776Z",
+  "2693583": "2026-11-06T20:16:00.274Z"
  }
 }
