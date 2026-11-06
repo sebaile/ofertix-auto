@@ -61,7 +61,7 @@
   "2604828": "2026-11-04T01:17:52.973Z",
   "2604839": "2026-11-04T11:47:56.503Z",
   "2604884": "2026-11-05T14:33:27.815Z",
-  "2605022": "2026-11-05T11:48:17.225Z",
+  "2605022": "2026-11-06T14:48:47.864Z",
   "2609605": "2026-11-06T13:03:49.754Z",
   "2620241": "2026-11-05T15:33:07.965Z",
   "2646027": "2026-11-06T02:33:23.268Z",
@@ -118,7 +118,7 @@
   "rabanne la collection metal mesh edp 125 ml": "2026-11-05T14:33:27.815Z",
   "freidora de aire oster ckstaf40wddf 4 litros": "2026-11-04T01:17:52.973Z",
   "huawei router wifi mesh x3 pro huawei": "2026-11-04T01:17:52.973Z",
-  "jbl jbl parlante bluetooth clip 5 morado": "2026-11-05T11:48:17.225Z",
+  "jbl jbl parlante bluetooth clip 5 morado": "2026-11-06T14:48:47.864Z",
   "rabanne la collection midnight sex edp 125 ml": "2026-11-05T15:03:51.580Z",
   "sony audifonos de estudio mdr 7506 de sony": "2026-11-06T14:32:26.246Z",
   "kitchen it horno electrico 60 litros silver series": "2026-11-05T11:48:17.225Z",
@@ -5102,6 +5102,35 @@
     "tmp-medios/1793976365025-r3.mp4"
    ],
    "texto": "🔥 3 ofertas en comparativa: mismo tipo de producto\n1. CLINIQUE Fragancia Clinique Happy for Men 100ml: $34.990 (-64%, referencia $98.900) en Falabella\n2. Licuadora Easyways Licuadora Crush n' roll 1,5 L: $29.990 (-50%, referencia $59.990) en ABC · 📉 mínimo de 78 días\n3. ELECTRONIC ARTS Juego Ea Sports Fc 26 Nintendo Switch Electronic Arts: $19.990 (-58%, referencia $47.990) en Falabella\n\n⏰ Precios vistos hoy (6/11) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
+  },
+  "2026-11-06-r-carrusel-1793976527864": {
+   "tipo": "carrusel",
+   "fecha": "2026-11-06",
+   "estado": "publicado",
+   "bloque": "comparativas",
+   "formato": "oferta",
+   "hora": "11:48",
+   "id": "17985281540905614",
+   "enlace": "https://www.instagram.com/p/DfZ25Pslbko/",
+   "ofertas": [
+    {
+     "id": "2605022",
+     "nombre": "JBL JBL Parlante Bluetooth Clip 5 Morado",
+     "tienda": "Falabella",
+     "ahora": 42990,
+     "antes": 79990,
+     "pct": 46,
+     "rubro": "tecnologia",
+     "esMinimo": false,
+     "dias": 8,
+     "visto": "11:16"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1793976496709-c4-1.jpg",
+    "tmp-medios/1793976496709-c4-2.jpg"
+   ],
+   "texto": "🔥 OFERTA DEL DÍA\nJBL JBL Parlante Bluetooth Clip 5 Morado\nAhora: $42.990 (-46%)\nReferencia: $79.990\n🏪 Falabella\n\n✅ Precio visto hoy a las 11:16 en nuestro sistema.\n⏰ Puede cambiar o agotarse sin aviso.\n📲 Enlace directo en Telegram: t.me/ofertixcl\n\n#ofertaschile #tecnologia #descuentoschile #ofertix #ofertasdeldia"
   }
  },
  "config": {
@@ -5121,7 +5150,7 @@
    "hasta": "2026-11-06T02:16:39.454Z",
    "veces": 2
   },
-  "ultimaPub": "2026-11-06T14:47:35.253Z"
+  "ultimaPub": "2026-11-06T14:48:47.864Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-11-05",
