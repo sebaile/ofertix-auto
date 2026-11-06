@@ -4867,6 +4867,28 @@
      "visto": "10:25"
     }
    ]
+  },
+  "2026-11-06-r-historia-1793972827289": {
+   "tipo": "historia",
+   "fecha": "2026-11-06",
+   "estado": "publicado",
+   "bloque": "nuevas",
+   "hora": "10:47",
+   "id": "18130987600856655",
+   "ofertas": [
+    {
+     "id": "1110717",
+     "nombre": "FERRAGAMO Perfume Hombre Red Men Edp 50 ml Ferragamo",
+     "tienda": "Falabella",
+     "ahora": 24290,
+     "antes": 80990,
+     "pct": 70,
+     "rubro": "perfumes",
+     "esMinimo": true,
+     "dias": 66,
+     "visto": "10:25"
+    }
+   ]
   }
  },
  "config": {
@@ -4886,11 +4908,12 @@
    "hasta": "2026-11-06T02:16:39.454Z",
    "veces": 2
   },
-  "ultimaPub": "2026-11-06T13:46:45.703Z"
+  "ultimaPub": "2026-11-06T13:47:07.290Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-11-05",
  "usadasH": {
+  "1110717": "2026-11-06T13:47:07.289Z",
   "1137440": "2026-11-05T15:01:49.260Z",
   "1144310": "2026-11-05T14:33:49.047Z",
   "1147839": "2026-11-05T14:16:40.043Z",
