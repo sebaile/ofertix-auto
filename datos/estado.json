@@ -6,9 +6,10 @@
   "825801": "2026-11-06T18:17:57.512Z",
   "1064880": "2026-11-05T15:33:07.966Z",
   "1110717": "2026-11-06T13:02:35.440Z",
+  "1124006": "2026-11-06T18:32:40.736Z",
   "1137440": "2026-11-06T14:32:26.246Z",
   "1151507": "2026-11-06T12:47:33.764Z",
-  "1151594": "2026-11-05T13:48:14.797Z",
+  "1151594": "2026-11-06T18:32:40.736Z",
   "1530826": "2026-11-04T01:17:52.973Z",
   "1530831": "2026-11-04T02:17:02.730Z",
   "1531094": "2026-11-04T14:32:45.392Z",
@@ -29,7 +30,7 @@
   "2066558": "2026-11-04T13:03:20.579Z",
   "2084002": "2026-11-06T18:03:11.486Z",
   "2084101": "2026-11-06T14:47:35.253Z",
-  "2086478": "2026-11-05T15:18:18.068Z",
+  "2086478": "2026-11-06T18:32:40.736Z",
   "2086682": "2026-11-05T02:32:52.947Z",
   "2103253": "2026-11-05T02:02:21.217Z",
   "2103254": "2026-11-05T02:32:52.947Z",
@@ -89,7 +90,7 @@
   "hamilton beach microondas digital 23 litros inox hb p90d23el lxa": "2026-11-04T00:17:07.236Z",
   "toyotomi horno electrico empotrado 56 litros he9silver": "2026-11-06T13:18:05.770Z",
   "clinique fragancia clinique happy for men 100ml": "2026-11-06T14:47:35.253Z",
-  "caja abierta danada reloj smartwatch lhotse tw58 black n black": "2026-11-05T15:18:18.068Z",
+  "caja abierta danada reloj smartwatch lhotse tw58 black n black": "2026-11-06T18:32:40.736Z",
   "clinique fragancia clinique happy perfume spray 100 ml": "2026-11-05T02:32:52.947Z",
   "ventilador para pc apnx fp2 120 pwm argb color negro": "2026-11-05T02:32:52.947Z",
   "recco enfriador de aire 50 w blanco bl 202dlr h": "2026-11-04T13:03:20.579Z",
@@ -141,7 +142,7 @@
   "alisador siegen sg b4704": "2026-11-05T11:48:17.225Z",
   "teclado gamer logitech g512 x 75 dual swap negro": "2026-11-06T13:18:05.770Z",
   "fdv freidora de aire airflow 3 5 lts fdv negro": "2026-11-05T12:33:42.593Z",
-  "cafetera portatil denokin para auto y camping 3 en 1": "2026-11-05T13:48:14.797Z",
+  "cafetera portatil denokin para auto y camping 3 en 1": "2026-11-06T18:32:40.736Z",
   "kitchen it plancha panini 2 panes 1000 w master edition": "2026-11-05T13:48:14.797Z",
   "cepillo modelador gama new turbo plus 2300": "2026-11-06T18:03:11.486Z",
   "volker campana convencional 60 cm inox": "2026-11-06T02:33:23.268Z",
@@ -156,7 +157,8 @@
   "electronic arts juego ea sports fc 26 nintendo switch electronic arts": "2026-11-06T14:47:35.253Z",
   "calefactor convector electrico bosch hc4000 5 de 500w con termostato": "2026-11-06T18:03:11.486Z",
   "clinique perfume happy mujer edp 100 ml clinique": "2026-11-06T18:03:11.486Z",
-  "freidora de aire midea mf tn85dbk 8 5 l": "2026-11-06T18:17:57.512Z"
+  "freidora de aire midea mf tn85dbk 8 5 l": "2026-11-06T18:17:57.512Z",
+  "jimmy choo perfume mujer floral edt 90 ml jimmy choo": "2026-11-06T18:32:40.736Z"
  },
  "items": {
   "2026-11-03-r-carrusel-1793703763426": {
@@ -5461,6 +5463,57 @@
      "visto": "14:23"
     }
    ]
+  },
+  "2026-11-06-r-reel-1793989960737": {
+   "tipo": "reel",
+   "fecha": "2026-11-06",
+   "estado": "publicado",
+   "bloque": "populares",
+   "hora": "15:32",
+   "id": "18084150920532705",
+   "enlace": "https://www.instagram.com/reel/DfaQeOnAriD/",
+   "ofertas": [
+    {
+     "id": "1151594",
+     "nombre": "Cafetera Portátil DENOKIN para Auto y Camping 3 en 1",
+     "tienda": "Dust2",
+     "ahora": 32089,
+     "antes": 58840,
+     "pct": 45,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 86,
+     "visto": "14:23"
+    },
+    {
+     "id": "1124006",
+     "nombre": "JIMMY CHOO Perfume Mujer Floral EDT 90 Ml Jimmy Choo",
+     "tienda": "Falabella",
+     "ahora": 54990,
+     "antes": 111990,
+     "pct": 50,
+     "rubro": "perfumes",
+     "esMinimo": false,
+     "dias": 51,
+     "visto": "14:23"
+    },
+    {
+     "id": "2086478",
+     "nombre": "CAJA ABIERTA/DAÑADA Reloj Smartwatch Lhotse TW58 Black'n Black",
+     "tienda": "SP Digital",
+     "ahora": 88820,
+     "antes": 156740,
+     "pct": 43,
+     "rubro": "otros",
+     "esMinimo": false,
+     "dias": 15,
+     "visto": "14:23"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1793989872765-r5.mp4"
+   ],
+   "texto": "🔥 3 ofertas de las más populares\n1. Cafetera Portátil DENOKIN para Auto y Camping 3 en 1: $32.089 (-45%, referencia $58.840) en Dust2 · 📉 mínimo de 86 días\n2. JIMMY CHOO Perfume Mujer Floral EDT 90 Ml Jimmy Choo: $54.990 (-50%, referencia $111.990) en Falabella\n3. CAJA ABIERTA/DAÑADA Reloj Smartwatch Lhotse TW58 Black'n Black: $88.820 (-43%, referencia $156.740) en SP Digital\n\n⏰ Precios vistos hoy (6/11) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
   }
  },
  "config": {
@@ -5480,7 +5533,7 @@
    "hasta": "2026-11-06T02:16:39.454Z",
    "veces": 2
   },
-  "ultimaPub": "2026-11-06T18:31:02.610Z"
+  "ultimaPub": "2026-11-06T18:32:40.737Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-11-05",
