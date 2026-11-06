@@ -5,7 +5,7 @@
   "825801": "2026-11-05T14:33:27.815Z",
   "1064880": "2026-11-05T15:33:07.966Z",
   "1110717": "2026-11-06T13:02:35.440Z",
-  "1137440": "2026-11-05T14:03:52.452Z",
+  "1137440": "2026-11-06T14:32:26.246Z",
   "1151507": "2026-11-06T12:47:33.764Z",
   "1151594": "2026-11-05T13:48:14.797Z",
   "1530826": "2026-11-04T01:17:52.973Z",
@@ -32,7 +32,7 @@
   "2103253": "2026-11-05T02:02:21.217Z",
   "2103254": "2026-11-05T02:32:52.947Z",
   "2103256": "2026-11-05T15:03:51.580Z",
-  "2194438": "2026-11-05T14:03:52.452Z",
+  "2194438": "2026-11-06T14:32:26.246Z",
   "2288087": "2026-11-04T14:32:45.392Z",
   "2330924": "2026-11-05T02:02:21.218Z",
   "2331057": "2026-11-04T00:35:04.385Z",
@@ -41,7 +41,7 @@
   "2368169": "2026-11-04T14:32:45.392Z",
   "2376071": "2026-11-05T14:47:15.534Z",
   "2382802": "2026-11-04T01:17:52.973Z",
-  "2421850": "2026-11-05T14:03:52.452Z",
+  "2421850": "2026-11-06T14:32:26.246Z",
   "2448957": "2026-11-05T15:33:07.966Z",
   "2465575": "2026-11-05T15:03:51.580Z",
   "2572439": "2026-11-05T14:33:27.815Z",
@@ -82,7 +82,7 @@
   "carolina herrera perfume hombre bad boy edt 50ml carolina herrera": "2026-11-04T01:32:29.441Z",
   "nina ricci perfume mujer nina ricci nina edt 50ml nina ricci": "2026-11-04T14:17:19.750Z",
   "mikrotik mantbox 52 15s with routeros l4 license": "2026-11-06T13:18:05.770Z",
-  "samsung audifonos in ear sm r400nzaalta bluetooth v5 2 gray": "2026-11-05T14:03:52.452Z",
+  "samsung audifonos in ear sm r400nzaalta bluetooth v5 2 gray": "2026-11-06T14:32:26.246Z",
   "parlante portatil aiwa aw a521 90w bluetooth negro": "2026-11-06T02:33:23.268Z",
   "licuadora easyways licuadora crush n roll 1 5 l": "2026-11-05T13:48:14.797Z",
   "hamilton beach microondas digital 23 litros inox hb p90d23el lxa": "2026-11-04T00:17:07.236Z",
@@ -101,7 +101,7 @@
   "electronic arts juego ea sports fc 26 latam ns2 electronic arts": "2026-11-05T02:02:21.218Z",
   "tom ford soleil neige edp unisex 100ml 3 4floz tom ford": "2026-11-04T01:17:52.973Z",
   "gama cepillo modelador rotatorio gama 2600 ion": "2026-11-06T12:34:05.684Z",
-  "5jj0614l21 adaptador usb wireless benq 5jj0614l21 para proyectores": "2026-11-05T14:03:52.452Z",
+  "5jj0614l21 adaptador usb wireless benq 5jj0614l21 para proyectores": "2026-11-06T14:32:26.246Z",
   "nespresso cafetera essenza mini negra espumador": "2026-11-04T02:17:02.730Z",
   "kitchen it cafetera espresso cool shot 5 en 1 kitchen it": "2026-11-05T15:33:07.966Z",
   "rabanne perfume hombre black xs edt 100ml rabanne": "2026-11-04T15:02:15.087Z",
@@ -120,7 +120,7 @@
   "huawei router wifi mesh x3 pro huawei": "2026-11-04T01:17:52.973Z",
   "jbl jbl parlante bluetooth clip 5 morado": "2026-11-05T11:48:17.225Z",
   "rabanne la collection midnight sex edp 125 ml": "2026-11-05T15:03:51.580Z",
-  "sony audifonos de estudio mdr 7506 de sony": "2026-11-05T14:03:52.452Z",
+  "sony audifonos de estudio mdr 7506 de sony": "2026-11-06T14:32:26.246Z",
   "kitchen it horno electrico 60 litros silver series": "2026-11-05T11:48:17.225Z",
   "el ganso perfume hombre part time hero edt 125ml el ganso": "2026-11-05T12:33:42.593Z",
   "valentino perfume hombre born in roma uomo rendez vous ivory edt 100ml": "2026-11-04T11:47:56.503Z",
@@ -4977,6 +4977,57 @@
      "visto": "10:25"
     }
    ]
+  },
+  "2026-11-06-r-reel-1793975546247": {
+   "tipo": "reel",
+   "fecha": "2026-11-06",
+   "estado": "publicado",
+   "bloque": "comparativas",
+   "hora": "11:32",
+   "id": "18121795048949408",
+   "enlace": "https://www.instagram.com/reel/DfZ0-zVAi8_/",
+   "ofertas": [
+    {
+     "id": "2421850",
+     "nombre": "5JJ0614L21 - Adaptador USB wireless Benq 5JJ0614L21 para proyectores",
+     "tienda": "Bookcomputer",
+     "ahora": 19990,
+     "antes": 79990,
+     "pct": 75,
+     "rubro": "tecnologia",
+     "esMinimo": false,
+     "dias": 7,
+     "visto": "11:16"
+    },
+    {
+     "id": "2194438",
+     "nombre": "Sony Audífonos de Estudio MDR-7506 de Sony",
+     "tienda": "Lider Marketplace",
+     "ahora": 89990,
+     "antes": 159990,
+     "pct": 43,
+     "rubro": "tecnologia",
+     "esMinimo": true,
+     "dias": 78,
+     "visto": "11:16"
+    },
+    {
+     "id": "1137440",
+     "nombre": "Samsung Audífonos In Ear SM-R400NZAALTA Bluetooth v5.2 Gray",
+     "tienda": "Lider",
+     "ahora": 59990,
+     "antes": 99990,
+     "pct": 40,
+     "rubro": "tecnologia",
+     "esMinimo": true,
+     "dias": 30,
+     "visto": "11:16"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1793975454356-r2.mp4"
+   ],
+   "texto": "🔥 3 ofertas en comparativa: mismo tipo de producto\n1. 5JJ0614L21 - Adaptador USB wireless Benq 5JJ0614L21 para proyectores: $19.990 (-75%, referencia $79.990) en Bookcomputer\n2. Sony Audífonos de Estudio MDR-7506 de Sony: $89.990 (-43%, referencia $159.990) en Lider Marketplace · 📉 mínimo de 78 días\n3. Samsung Audífonos In Ear SM-R400NZAALTA Bluetooth v5.2 Gray: $59.990 (-40%, referencia $99.990) en Lider · 📉 mínimo de 30 días\n\n⏰ Precios vistos hoy (6/11) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #tecnologia #descuentoschile #ofertix #ofertasdeldia #ahorrar"
   }
  },
  "config": {
@@ -4996,7 +5047,7 @@
    "hasta": "2026-11-06T02:16:39.454Z",
    "veces": 2
   },
-  "ultimaPub": "2026-11-06T14:16:25.912Z"
+  "ultimaPub": "2026-11-06T14:32:26.247Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-11-05",
