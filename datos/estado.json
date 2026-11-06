@@ -3,7 +3,7 @@
  "usadas": {
   "122938": "2026-11-06T18:03:11.486Z",
   "825797": "2026-11-06T12:34:05.684Z",
-  "825801": "2026-11-05T14:33:27.815Z",
+  "825801": "2026-11-06T18:17:57.512Z",
   "1064880": "2026-11-05T15:33:07.966Z",
   "1110717": "2026-11-06T13:02:35.440Z",
   "1137440": "2026-11-06T14:32:26.246Z",
@@ -12,6 +12,7 @@
   "1530826": "2026-11-04T01:17:52.973Z",
   "1530831": "2026-11-04T02:17:02.730Z",
   "1531094": "2026-11-04T14:32:45.392Z",
+  "1608258": "2026-11-06T18:17:57.512Z",
   "1664421": "2026-11-06T13:18:05.770Z",
   "1673324": "2026-11-04T15:02:15.087Z",
   "1673333": "2026-11-04T14:17:19.749Z",
@@ -51,7 +52,7 @@
   "2581544": "2026-11-04T01:17:52.973Z",
   "2581769": "2026-11-04T02:17:02.730Z",
   "2588240": "2026-11-05T15:03:51.580Z",
-  "2588245": "2026-11-05T15:03:51.580Z",
+  "2588245": "2026-11-06T18:17:57.512Z",
   "2588284": "2026-11-04T12:17:35.222Z",
   "2588347": "2026-11-06T13:18:05.770Z",
   "2589932": "2026-11-05T15:18:18.068Z",
@@ -96,7 +97,7 @@
   "recco estufa electrica blanco 1200 w radiacion nsb 99y blanco": "2026-11-05T02:02:21.218Z",
   "recco mini calefactor 600 w oleoelectrica blanco": "2026-11-05T02:32:52.947Z",
   "electrolux lavadora carga superior 16 kg emtl16 electrolux": "2026-11-05T16:03:24.971Z",
-  "siegen alisador sg 4704 siegen airflow fast style": "2026-11-05T14:33:27.815Z",
+  "siegen alisador sg 4704 siegen airflow fast style": "2026-11-06T18:17:57.512Z",
   "audifonos jbl tune 500": "2026-11-06T18:03:11.486Z",
   "electronic arts juego ea sports fc 26 latam ns2 electronic arts": "2026-11-05T02:02:21.218Z",
   "tom ford soleil neige edp unisex 100ml 3 4floz tom ford": "2026-11-04T01:17:52.973Z",
@@ -110,7 +111,7 @@
   "kitchen it hervidor 2 5 litros negro big edition 2 5l": "2026-11-05T15:18:18.068Z",
   "samsung monitor gamer samsung odyssey g3 24": "2026-11-04T01:17:52.973Z",
   "smartwatch honor choice watch 2 epic negro": "2026-11-04T02:17:02.730Z",
-  "rabanne la collection rose 1969 edp 125 ml": "2026-11-05T15:03:51.580Z",
+  "rabanne la collection rose 1969 edp 125 ml": "2026-11-06T18:17:57.512Z",
   "rabanne la collection after club edp 125 ml": "2026-11-05T15:18:18.068Z",
   "ralph lauren refill perfume hombre polo red edt 150ml ralph lauren": "2026-11-06T13:03:49.754Z",
   "rabanne perfume mujer pure xs for her edp 30ml rabanne": "2026-11-04T00:35:04.385Z",
@@ -154,7 +155,8 @@
   "albin trotter calefon 11 litros gas licuado tiro natural ionizado": "2026-11-06T13:18:05.770Z",
   "electronic arts juego ea sports fc 26 nintendo switch electronic arts": "2026-11-06T14:47:35.253Z",
   "calefactor convector electrico bosch hc4000 5 de 500w con termostato": "2026-11-06T18:03:11.486Z",
-  "clinique perfume happy mujer edp 100 ml clinique": "2026-11-06T18:03:11.486Z"
+  "clinique perfume happy mujer edp 100 ml clinique": "2026-11-06T18:03:11.486Z",
+  "freidora de aire midea mf tn85dbk 8 5 l": "2026-11-06T18:17:57.512Z"
  },
  "items": {
   "2026-11-03-r-carrusel-1793703763426": {
@@ -5386,6 +5388,57 @@
      "visto": "14:23"
     }
    ]
+  },
+  "2026-11-06-r-reel-1793989077512": {
+   "tipo": "reel",
+   "fecha": "2026-11-06",
+   "estado": "publicado",
+   "bloque": "populares",
+   "hora": "15:17",
+   "id": "18118720490009245",
+   "enlace": "https://www.instagram.com/reel/DfaO0P9DMlm/",
+   "ofertas": [
+    {
+     "id": "1608258",
+     "nombre": "Freidora de Aire Midea MF-TN85DBK 8,5 L",
+     "tienda": "ABC",
+     "ahora": 44891,
+     "antes": 77990,
+     "pct": 42,
+     "rubro": "hogar",
+     "esMinimo": true,
+     "dias": 79,
+     "visto": "14:23"
+    },
+    {
+     "id": "2588245",
+     "nombre": "RABANNE La Collection Rose 1969 EDP 125 ML",
+     "tienda": "Falabella",
+     "ahora": 134990,
+     "antes": 269990,
+     "pct": 50,
+     "rubro": "perfumes",
+     "esMinimo": false,
+     "dias": 3,
+     "visto": "14:23"
+    },
+    {
+     "id": "825801",
+     "nombre": "SIEGEN Alisador SG-4704 Siegen Airflow + Fast Style",
+     "tienda": "Falabella",
+     "ahora": 45990,
+     "antes": 79990,
+     "pct": 42,
+     "rubro": "belleza",
+     "esMinimo": true,
+     "dias": 71,
+     "visto": "14:23"
+    }
+   ],
+   "archivos": [
+    "tmp-medios/1793988993657-r4.mp4"
+   ],
+   "texto": "🔥 3 ofertas de las más populares\n1. Freidora de Aire Midea MF-TN85DBK 8,5 L: $44.891 (-42%, referencia $77.990) en ABC · 📉 mínimo de 79 días\n2. RABANNE La Collection Rose 1969 EDP 125 ML: $134.990 (-50%, referencia $269.990) en Falabella\n3. SIEGEN Alisador SG-4704 Siegen Airflow + Fast Style: $45.990 (-42%, referencia $79.990) en Falabella · 📉 mínimo de 71 días\n\n⏰ Precios vistos hoy (6/11) en nuestro sistema. Pueden cambiar o agotarse sin aviso.\n📲 Enlaces directos en Telegram: t.me/ofertixcl\n\n#ofertaschile #descuentoschile #ofertix #ofertasdeldia #ahorrar"
   }
  },
  "config": {
@@ -5405,7 +5458,7 @@
    "hasta": "2026-11-06T02:16:39.454Z",
    "veces": 2
   },
-  "ultimaPub": "2026-11-06T18:16:16.678Z"
+  "ultimaPub": "2026-11-06T18:17:57.512Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-11-05",
