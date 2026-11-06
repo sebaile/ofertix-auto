@@ -4933,6 +4933,28 @@
      "visto": "10:25"
     }
    ]
+  },
+  "2026-11-06-r-historia-1793974565795": {
+   "tipo": "historia",
+   "fecha": "2026-11-06",
+   "estado": "publicado",
+   "bloque": "comparativas",
+   "hora": "11:16",
+   "id": "18133469462507438",
+   "ofertas": [
+    {
+     "id": "1151507",
+     "nombre": "Sleeve poliéster Ultralight para Macbook 13\" Native union negro",
+     "tienda": "BackOnline",
+     "ahora": 14990,
+     "antes": 29990,
+     "pct": 50,
+     "rubro": "tecnologia",
+     "esMinimo": true,
+     "dias": 32,
+     "visto": "10:25"
+    }
+   ]
   }
  },
  "config": {
@@ -4952,7 +4974,7 @@
    "hasta": "2026-11-06T02:16:39.454Z",
    "veces": 2
   },
-  "ultimaPub": "2026-11-06T14:01:45.686Z"
+  "ultimaPub": "2026-11-06T14:16:05.795Z"
  },
  "seguidores": 48,
  "informeFecha": "2026-11-05",
@@ -4961,6 +4983,7 @@
   "1137440": "2026-11-05T15:01:49.260Z",
   "1144310": "2026-11-05T14:33:49.047Z",
   "1147839": "2026-11-05T14:16:40.043Z",
+  "1151507": "2026-11-06T14:16:05.795Z",
   "1151594": "2026-11-05T13:48:34.219Z",
   "1695609": "2026-11-05T13:31:43.339Z",
   "1784905": "2026-11-06T14:01:23.223Z",
